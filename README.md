@@ -26,6 +26,16 @@ npm run dev
 
 Después, abre la dirección que muestre la terminal.
 
+## GitHub Pages
+
+Cada cambio que llega a `main` activa el workflow **Deploy to GitHub Pages**. La web se
+compila como contenido estático y se publica en:
+
+https://hermano-padawan.github.io/practica-catala/
+
+En la configuración del repositorio, **Settings → Pages → Build and deployment → Source**
+debe estar seleccionado **GitHub Actions**.
+
 ## Comandos
 
 ```bash
@@ -37,7 +47,7 @@ npm test         # validaciones del proyecto
 ## Tecnología
 
 - React y TypeScript
-- Vinext/Vite
+- Next.js con exportación estática
 - CSS propio, sin librería visual externa
 
 ## Próximos pasos
