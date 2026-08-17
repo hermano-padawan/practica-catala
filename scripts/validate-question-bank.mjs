@@ -1,7 +1,7 @@
 import { readFile } from "node:fs/promises";
 
-const path = new URL("../content/questions/c1.json", import.meta.url);
-const questions = JSON.parse(await readFile(path, "utf8"));
+const paths = ["c1.json", "c1-ortografia.json"].map((file) => new URL(`../content/questions/${file}`, import.meta.url));
+const questions = (await Promise.all(paths.map(async (path) => JSON.parse(await readFile(path, "utf8"))))).flat();
 const errors = [];
 const ids = new Set();
 
@@ -11,9 +11,11 @@ for (const [index, q] of questions.entries()) {
   ids.add(q.id);
   if (!['draft', 'reviewed', 'published', 'rejected'].includes(q.status)) errors.push(`${at}: estat no vàlid`);
   if (!q.prompt?.trim()) errors.push(`${at}: falta l'enunciat`);
+  if (q.level !== "C1") errors.push(`${at}: nivell inesperat`);
   if (!Array.isArray(q.options) || q.options.length < 2) errors.push(`${at}: calen almenys dues opcions`);
   if (!Number.isInteger(q.answer) || q.answer < 0 || q.answer >= (q.options?.length ?? 0)) errors.push(`${at}: resposta fora de rang`);
   if (new Set(q.options).size !== q.options.length) errors.push(`${at}: opcions duplicades`);
+  if (q.options?.some((option) => option !== option.trim())) errors.push(`${at}: espais sobrers en una opció`);
   if (!q.explanation?.trim()) errors.push(`${at}: falta l'explicació`);
   if (q.status === 'published') {
     if (!q.source?.url || !q.source?.locator) errors.push(`${at}: una pregunta publicada necessita font i localitzador`);
@@ -28,4 +30,3 @@ if (errors.length) {
 
 const published = questions.filter((q) => q.status === "published").length;
 console.log(`Banc vàlid: ${questions.length} registres; ${published} publicats.`);
-
