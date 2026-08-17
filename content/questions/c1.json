@@ -323,5 +323,205 @@
     "source": {"url": "https://www.cpnl.cat/gramatica/12/19-la-dieresi", "locator": "Substantius derivats de verbs, línies 164-170"},
     "reviewedAt": "2026-08-17",
     "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-026", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Completa: «Estudia a ___ universitat pública».",
+    "options": ["la", "l'", "una l'"], "answer": 0,
+    "explanation": "L'article femení no s'apostrofa davant d'una u inicial àtona: la universitat.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Article femení davant i/u àtones, línies 137-140"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-027", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Quina expressió està ben escrita?",
+    "options": ["l'història contemporània", "la història contemporània", "la'història contemporània"], "answer": 1,
+    "explanation": "Història comença per una i àtona i l'article femení no s'apostrofa.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Article femení davant i/u àtones, línies 137-140"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-028", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Completa: «Ja sabem ___ hora de sortida».",
+    "options": ["la", "l'", "el"], "answer": 1,
+    "explanation": "L'article femení s'apostrofa davant d'h muda quan la vocal inicial és tònica: l'hora.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Regla general de l'article femení, línies 137-139"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-029", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Completa: «És un llibre ___ història medieval».",
+    "options": ["de", "d'", "del"], "answer": 1,
+    "explanation": "La preposició de s'apostrofa davant d'una paraula començada per vocal o h: d'història.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Apostrofació de la preposició de, línies 142-143"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-030", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Quina forma és correcta davant del nom Imma?",
+    "options": ["la Imma", "l'Imma", "la'Imma"], "answer": 1,
+    "explanation": "Imma comença per una i tònica i l'article femení s'apostrofa.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Imma i Immaculada, línies 139-140"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-031", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Quina forma és correcta davant del nom Immaculada?",
+    "options": ["l'Immaculada", "la Immaculada", "l Immaculada"], "answer": 1,
+    "explanation": "Immaculada comença per una i àtona i l'article femení no s'apostrofa.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Imma i Immaculada, línies 139-140"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-032", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Completa: «Hem felicitat ___ Ignasi».",
+    "options": ["el", "l'", "la"], "answer": 1,
+    "explanation": "L'article masculí el s'apostrofa davant de vocal, encara que sigui una i àtona: l'Ignasi.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Article masculí i noms propis, línies 137-140"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-033", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Completa: «Hem felicitat ___ Ignàsia».",
+    "options": ["la", "l'", "el"], "answer": 0,
+    "explanation": "Ignàsia és un nom femení començat per una i àtona i l'article no s'apostrofa.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Ignasi i Ignàsia, línies 139-140"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-034", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Quin article personal està ben escrit?",
+    "options": ["na Anna", "n'Anna", "n Anna"], "answer": 1,
+    "explanation": "L'article personal na s'apostrofa davant d'un nom començat per vocal: n'Anna.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Articles personals, línies 143-144"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-035", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Quina expressió està ben escrita?",
+    "options": ["l'iaia", "la iaia", "la'iaia"], "answer": 1,
+    "explanation": "No s'apostrofa davant d'una i consonàntica que forma part d'un diftong: la iaia.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "I/u consonàntiques, línies 168-171"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-036", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Completa: «___ iode és un element químic».",
+    "options": ["L'", "El", "Lo"], "answer": 1,
+    "explanation": "Iode comença per una i consonàntica i l'article no s'apostrofa: el iode.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "I/u consonàntiques, línies 168-171"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-037", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Quina forma és correcta?",
+    "options": ["l'UEFA", "la UEFA", "la'UEFA"], "answer": 1,
+    "explanation": "UEFA es pronuncia amb una u consonàntica inicial i l'article femení no s'apostrofa.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "I/u consonàntiques, línies 168-171"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-038", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Completa: «Han comprat un pot ___ iogurt».",
+    "options": ["d'", "de", "del"], "answer": 1,
+    "explanation": "No s'apostrofa la preposició de davant de la i consonàntica de iogurt.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "I/u consonàntiques, línies 168-171"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-039", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Quina expressió està ben escrita?",
+    "options": ["l'hiat", "el hiat", "el'hiat"], "answer": 1,
+    "explanation": "Hiat comença amb un so consonàntic i no s'hi apostrofa l'article: el hiat.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "I/u consonàntiques, línies 168-171"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-040", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Quina forma indica correctament l'hora?",
+    "options": ["l'una de la matinada", "la una de la matinada", "la'una de la matinada"], "answer": 1,
+    "explanation": "Quan una designa l'hora, s'escriu la una de la matinada, sense apostrofar.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Casos especials sense apostrofació, línies 173-175"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-041", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Com s'escriu el nom de la lletra o amb article?",
+    "options": ["l'o", "la o", "la'o"], "answer": 1,
+    "explanation": "L'article femení no s'apostrofa davant del nom d'una lletra: la o.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Noms de lletres, línies 176-177"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-042", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Quina forma és correcta davant de la xifra 1?",
+    "options": ["el 1", "l'1", "la 1"], "answer": 1,
+    "explanation": "Davant dels nombres apostrofem com si fossin escrits amb lletres: l'1.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Apostrofació davant de nombres, línies 206-208"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-043", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Quina forma és correcta davant de la sigla FMI?",
+    "options": ["el FMI", "l'FMI", "la FMI"], "answer": 1,
+    "explanation": "Les sigles lletrejades s'apostrofen segons la pronunciació inicial: l'FMI.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Sigles lletrejades, línies 216-217"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-044", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Completa: «Demà anirem ___ banc».",
+    "options": ["a el", "al", "a l'"], "answer": 1,
+    "explanation": "La preposició a i l'article el es contrauen davant de consonant: al banc.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Contraccions a + el, línies 180-186"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-045", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Completa: «S'allotjaran ___ hotel del centre».",
+    "options": ["al", "a l'", "a el"], "answer": 1,
+    "explanation": "Davant d'una paraula singular començada per h muda no fem la contracció al, sinó l'apostrofació: a l'hotel.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Contraccions davant de vocal o h muda, línies 181-186 i 204"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-046", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Completa: «Acaba de sortir ___ despatx».",
+    "options": ["de el", "del", "de l'"], "answer": 1,
+    "explanation": "La preposició de i l'article el es contrauen davant de consonant: del despatx.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Contraccions de + el, línies 187-191"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-047", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Completa: «Aquesta és la jaqueta ___ avi».",
+    "options": ["del", "de l'", "de el"], "answer": 1,
+    "explanation": "Davant d'una vocal no fem la contracció del, sinó que apostrofem l'article: de l'avi.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Contraccions davant de vocal, línies 187-191 i 204"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-048", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Completa: «Passegem ___ carrer principal».",
+    "options": ["per el", "pel", "per l'"], "answer": 1,
+    "explanation": "La preposició per i l'article el es contrauen davant de consonant: pel carrer.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Contraccions per + el, línies 192-196"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-049", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Completa: «Entrarem ___ avinguda principal».",
+    "options": ["per l'", "pel", "per el"], "answer": 0,
+    "explanation": "Davant d'una vocal no es fa la contracció pel: s'escriu per l'avinguda.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Contraccions per + el davant de vocal, línies 192-196"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
+  },
+  {
+    "id": "c1-apo-050", "level": "C1", "topic": "apostrofacio", "status": "published",
+    "prompt": "Completa: «Aquesta carta és ___ director».",
+    "options": ["per el", "pel", "per al"], "answer": 2,
+    "explanation": "La preposició composta per a es contrau amb l'article el: per al director.",
+    "source": {"url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions", "locator": "Contraccions amb preposicions compostes, línies 210-214"},
+    "reviewedAt": "2026-08-17", "reviewedBy": "Codex; contrast CPNL"
   }
 ]
