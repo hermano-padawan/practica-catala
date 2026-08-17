@@ -2,8 +2,9 @@
 /* eslint-disable react/no-unescaped-entities */
 
 import { useMemo, useState } from "react";
+import questionBank from "../content/questions/c1.json";
 
-type Question = { id:number; topic:string; text:string; options:string[]; answer:number; why:string };
+type Question = { id:string|number; topic:string; text:string; options:string[]; answer:number; why:string };
 const topicMeta = [
   {slug:"accentuacio",icon:"À",title:"Accentuació",description:"Accents, dièresi i paraules conflictives"},
   {slug:"apostrofacio",icon:"L’",title:"Apostrofació",description:"Articles i preposicions davant de vocal"},
@@ -12,7 +13,7 @@ const topicMeta = [
   {slug:"connectors",icon:"+",title:"Connectors",description:"Relació i cohesió entre idees"},
   {slug:"lexic",icon:"ABC",title:"Lèxic",description:"Precisió, barbarismes i vocabulari"},
 ];
-const questions: Question[] = [
+const quarantinedQuestions: Question[] = [
   {id:1,topic:"accentuacio",text:"Quina paraula està ben escrita?",options:["exàmen","examen","examèn"],answer:1,why:"Examen és plana acabada en -en i no porta accent."},
   {id:2,topic:"accentuacio",text:"Completa: «No sé ___ vindrà demà.»",options:["si","sí","s'hi"],answer:0,why:"Si introdueix una interrogativa indirecta i no porta accent."},
   {id:3,topic:"accentuacio",text:"Quina opció és correcta?",options:["Això depén de tu.","Això depèn de tu.","Aixo depèn de tu."],answer:1,why:"En català central, depèn porta accent obert i això també s'accentua."},
@@ -38,16 +39,27 @@ const questions: Question[] = [
   {id:23,topic:"lexic",text:"Completa: «El tren ha arribat amb ___ d'una hora.»",options:["retràs","retard","demora"],answer:1,why:"Retard és la forma habitual i normativa en aquest context."},
   {id:24,topic:"lexic",text:"Quina frase expressa obligació correctament?",options:["Hi ha que estudiar.","S'ha d'estudiar.","És precís estudiar."],answer:1,why:"S'ha de és una perífrasi normativa d'obligació."},
 ];
+void quarantinedQuestions;
+const questions: Question[] = questionBank
+  .filter((question) => question.status === "published")
+  .map((question) => ({
+    id: question.id,
+    topic: question.topic === "dieresi" ? "accentuacio" : question.topic,
+    text: question.prompt,
+    options: question.options,
+    answer: question.answer,
+    why: question.explanation,
+  }));
 function sample(pool: Question[], count=10){ return [...pool].sort(()=>Math.random()-.5).slice(0,Math.min(count,pool.length)); }
 
 export default function Home(){
   const [activeTopic,setActiveTopic]=useState("tots");
   const [session,setSession]=useState<Question[]>(()=>sample(questions));
   const [index,setIndex]=useState(0),[selected,setSelected]=useState<number|null>(null);
-  const [answers,setAnswers]=useState<{id:number;correct:boolean}[]>([]),[finished,setFinished]=useState(false);
+  const [answers,setAnswers]=useState<{id:string|number;correct:boolean}[]>([]),[finished,setFinished]=useState(false);
   const current=session[index],score=answers.filter(a=>a.correct).length;
   const progress=useMemo(()=>((index+(selected!==null?1:0))/session.length)*100,[index,selected,session.length]);
-  function start(topic:string){const pool=topic==="tots"?questions:questions.filter(q=>q.topic===topic);setActiveTopic(topic);setSession(sample(pool));setIndex(0);setSelected(null);setAnswers([]);setFinished(false);setTimeout(()=>document.querySelector("#practica")?.scrollIntoView({behavior:"smooth"}),0)}
+  function start(topic:string){const pool=topic==="tots"?questions:questions.filter(q=>q.topic===topic);if(!pool.length)return;setActiveTopic(topic);setSession(sample(pool));setIndex(0);setSelected(null);setAnswers([]);setFinished(false);setTimeout(()=>document.querySelector("#practica")?.scrollIntoView({behavior:"smooth"}),0)}
   function choose(option:number){if(selected!==null)return;setSelected(option);setAnswers([...answers,{id:current.id,correct:option===current.answer}])}
   function next(){if(index===session.length-1)setFinished(true);else{setIndex(index+1);setSelected(null)}}
   function retryErrors(){const ids=new Set(answers.filter(a=>!a.correct).map(a=>a.id));const errors=session.filter(q=>ids.has(q.id));if(!errors.length){start(activeTopic);return}setSession(errors);setIndex(0);setSelected(null);setAnswers([]);setFinished(false)}
@@ -55,7 +67,7 @@ export default function Home(){
     <header className="header"><a href="#inici" className="logo"><span>ç</span> Practica Català</a><nav><a href="#nivells">Nivells</a><a href="#temes">Temes</a><a href="#practica">Exercicis</a></nav><a href="#temes" className="small-cta">Comença ara</a></header>
     <section className="hero" id="inici"><div className="hero-copy"><div className="tag">SENSE TEORIA. DIRECTE A LA PRÀCTICA.</div><h1>El català<br/>s'aprèn <em>fent.</em></h1><p>Exercicis autocorrectius per practicar al teu ritme. Respon, entén l'error en una línia i torna-ho a intentar.</p><div className="hero-actions"><button onClick={()=>start("tots")} className="main-cta">Comença una sessió <b>→</b></button><a href="#temes" className="text-link">Practicar un tema concret</a></div><div className="quick-facts"><span>✓ Sense registre</span><span>✓ Correcció immediata</span><span>✓ Gratuït</span></div></div><div className="hero-demo"><div className="demo-top"><span>EXERCICI DE MOSTRA</span><b>C1</b></div><p>Tria l'opció correcta:</p><h3>«Tens pa? Sí, en tinc.»</h3><button className="demo-correct">en <span>✓</span></button><button>hi</button><button>ho</button><small><strong>En</strong> substitueix un complement directe indeterminat.</small></div></section>
     <section className="levels section" id="nivells"><div className="section-heading"><div><span className="kicker">PRIMER OBJECTIU</span><h2>Comencem pel nivell C1</h2></div><p>Una base enfocada a adults que volen consolidar el nivell de suficiència. B2 i C2 arribaran després.</p></div><div className="level-grid"><article className="level-card muted-card"><div className="level-badge">B2</div><div><h3>Intermedi</h3><p>Properament</p></div></article><article className="level-card blue featured"><div className="level-badge">C1</div><div><h3>Nivell de suficiència</h3><p>{questions.length} preguntes inicials en sis blocs pràctics.</p><button onClick={()=>start("tots")}>Practicar C1 <span>→</span></button></div></article><article className="level-card muted-card"><div className="level-badge">C2</div><div><h3>Superior</h3><p>Properament</p></div></article></div></section>
-    <section className="topics section" id="temes"><div className="section-heading"><div><span className="kicker">TRIA QUÈ VOLS REFORÇAR</span><h2>Exercicis per tema</h2></div><p>Sessions breus. Pots practicar un bloc concret o barrejar-los tots.</p></div><div className="topic-grid">{topicMeta.map(topic=><button onClick={()=>start(topic.slug)} className="topic-card" key={topic.slug}><span>{topic.icon}</span><div><h3>{topic.title}</h3><p>{questions.filter(q=>q.topic===topic.slug).length} exercicis · {topic.description}</p></div><b>→</b></button>)}</div></section>
+    <section className="topics section" id="temes"><div className="section-heading"><div><span className="kicker">TRIA QUÈ VOLS REFORÇAR</span><h2>Exercicis per tema</h2></div><p>Sessions breus. Pots practicar un bloc concret o barrejar-los tots.</p></div><div className="topic-grid">{topicMeta.map(topic=>{const count=questions.filter(q=>q.topic===topic.slug).length;return <button disabled={!count} onClick={()=>start(topic.slug)} className="topic-card" key={topic.slug}><span>{topic.icon}</span><div><h3>{topic.title}</h3><p>{count?`${count} exercicis · ${topic.description}`:"En preparació"}</p></div><b>{count?"→":"·"}</b></button>})}</div></section>
     <section className="practice" id="practica"><div className="practice-intro"><span className="kicker">PRÀCTICA C1</span><h2>{activeTopic==="tots"?"Sessió variada":topicMeta.find(t=>t.slug===activeTopic)?.title}</h2><p>{session.length} preguntes amb correcció immediata i una explicació curta.</p><ul><li>Sense registre ni dades personals</li><li>Resultat final immediat</li><li>Opció de repetir només els errors</li></ul></div><div className="quiz-card">{!finished?<><div className="quiz-meta"><span>Pregunta {index+1} de {session.length}</span><b>Nivell C1</b></div><div className="progress"><i style={{width:progress+"%"}}/></div><h3>{current.text}</h3><div className="options">{current.options.map((option,i)=><button key={option} onClick={()=>choose(i)} className={selected===null?"":i===current.answer?"correct":i===selected?"wrong":"muted"}><span>{String.fromCharCode(65+i)}</span>{option}{selected!==null&&i===current.answer&&<b>✓</b>}</button>)}</div>{selected!==null&&<div className={"feedback "+(selected===current.answer?"good":"bad")}><strong>{selected===current.answer?"Molt bé!":"La resposta no és correcta."}</strong><p>{current.why}</p><button onClick={next}>{index===session.length-1?"Veure el resultat":"Pregunta següent"} →</button></div>}</>:<div className="result"><div className="result-ring">{score}<small>/ {session.length}</small></div><span>SESSIÓ COMPLETADA</span><h3>{score===session.length?"Perfecte!":score/session.length>=.7?"Molt bona feina!":"Cada error és pràctica"}</h3><p>Has encertat {score} de {session.length} preguntes.</p><div className="result-actions">{score<session.length&&<button onClick={retryErrors}>Repetir els errors</button>}<button className="secondary" onClick={()=>start(activeTopic)}>Nova sessió</button></div></div>}</div></section>
     <section className="promise"><span>ç</span><div><h2>Aquí no vens a llegir teoria.</h2><p>Vens a practicar, equivocar-te, entendre l'error i tornar-ho a intentar.</p></div><a href="#temes">Tria un tema →</a></section>
     <footer><a href="#inici" className="logo"><span>ç</span> Practica Català</a><p>Exercicis de català, sense complicacions.</p><small>Projecte independent · 2026</small></footer>
