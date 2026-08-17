@@ -30,7 +30,19 @@ Una pregunta només passa de `draft` a `published` si compleix tots els requisit
 Si una consulta normativa no resol el dubte, la pregunta es retira. No es publica amb una
 nota de cautela.
 
-## Distribució inicial de 1.000 preguntes
+## Abast editorial tancat
+
+| Nivell | Preguntes publicables |
+| --- | ---: |
+| B2 | 600 |
+| C1 | 1.000 |
+| C2 | 600 |
+| **Total** | **2.200** |
+
+El desenvolupament es fa en aquest ordre: C1, B2 i C2. Una xifra només augmenta quan la
+pregunta és `published`; els esborranys i les preguntes rebutjades no compten.
+
+## Distribució de les 1.000 preguntes C1
 
 | Bloc | Preguntes |
 | --- | ---: |
@@ -48,4 +60,3 @@ nota de cautela.
 
 Cada sessió comença amb deu preguntes. En acabar, l'usuari pot fer-ne deu més, practicar
 els errors o acabar. No se li demana que triï la durada abans de començar.
-
