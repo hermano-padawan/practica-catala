@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "c1-sib-051",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El comitè va demanar la ___ d'aquell apartat.»",
+    "options": [
+      "supressió",
+      "supresió",
+      "supreçió"
+    ],
+    "answer": 0,
+    "explanation": "Supressió s'escriu amb ss entre vocals.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-052",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «La divulgació acosta la ___ a tothom.»",
+    "options": [
+      "siència",
+      "ciència",
+      "ciènçia"
+    ],
+    "answer": 1,
+    "explanation": "Ciència s'escriu amb c davant de i i de e.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-053",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «La mediadora inspira ___.»",
+    "options": [
+      "confiansa",
+      "confianssa",
+      "confiança"
+    ],
+    "answer": 2,
+    "explanation": "Confiança acaba amb el sufix -ança, que s'escriu amb ç.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-054",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Han rehabilitat una ___ antiga.»",
+    "options": [
+      "casa",
+      "cassa",
+      "caza"
+    ],
+    "answer": 0,
+    "explanation": "Casa s'escriu amb una sola s entre vocals perquè el so és sonor.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-055",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Al documental apareix una ___.»",
+    "options": [
+      "sebra",
+      "zebra",
+      "çebra"
+    ],
+    "answer": 1,
+    "explanation": "Zebra s'escriu amb z inicial.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-056",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Al jardí hi ha una ___ de fusta.»",
+    "options": [
+      "casseta",
+      "cazeta",
+      "caseta"
+    ],
+    "answer": 2,
+    "explanation": "Caseta conserva la s de la família de casa.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-057",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Han ampliat la ___ municipal.»",
+    "options": [
+      "gossera",
+      "gosera",
+      "goçera"
+    ],
+    "answer": 0,
+    "explanation": "Gossera conserva la ss de la família de gos.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-058",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Va embolicar el paquet amb una ___.»",
+    "options": [
+      "llasada",
+      "llaçada",
+      "llassada"
+    ],
+    "answer": 1,
+    "explanation": "Llaçada conserva la ç de la família de llaç.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-059",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Cada ___ té la seva història.»",
+    "options": [
+      "nasió",
+      "naçió",
+      "nació"
+    ],
+    "answer": 2,
+    "explanation": "Nació s'escriu amb c davant de i.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-060",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «No cal empènyer amb tanta ___.»",
+    "options": [
+      "força",
+      "forsa",
+      "forssa"
+    ],
+    "answer": 0,
+    "explanation": "Força s'escriu amb ç davant de a.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-061",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «La ___ publicarà l'informe demà.»",
+    "options": [
+      "comisió",
+      "comissió",
+      "comició"
+    ],
+    "answer": 1,
+    "explanation": "Comissió s'escriu amb ss entre vocals.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-062",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El curs acabarà al ___.»",
+    "options": [
+      "dezembre",
+      "dessembre",
+      "desembre"
+    ],
+    "answer": 2,
+    "explanation": "Desembre s'escriu amb s, encara que en alguns parlars es pugui ensordir.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-063",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «L'informe descriu una conducta ___.»",
+    "options": [
+      "antisocial",
+      "antissocial",
+      "antiçocial"
+    ],
+    "answer": 0,
+    "explanation": "Antisocial porta una sola s després del prefix anti-.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-064",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Canvia la ___ cada sis mesos.»",
+    "options": [
+      "contrassenya",
+      "contrasenya",
+      "contracenya"
+    ],
+    "answer": 1,
+    "explanation": "Contrasenya s'escriu amb una sola s en aquest mot prefixat.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-065",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Pa és un mot ___.»",
+    "options": [
+      "monossíl·lab",
+      "monoçíl·lab",
+      "monosíl·lab"
+    ],
+    "answer": 2,
+    "explanation": "Monosíl·lab s'escriu amb una sola s després del formant mono-.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-066",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «La prova inclou una fase de ___.»",
+    "options": [
+      "preselecció",
+      "presselecció",
+      "preçelecció"
+    ],
+    "answer": 0,
+    "explanation": "Preselecció porta una sola s després del prefix pre-.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-067",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «La notícia va tenir molt de ___.»",
+    "options": [
+      "resò",
+      "ressò",
+      "reçò"
+    ],
+    "answer": 1,
+    "explanation": "Ressò és una excepció prefixada que s'escriu amb ss.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-068",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Cal protegir aquest ___.»",
+    "options": [
+      "ecossistema",
+      "ecozistema",
+      "ecosistema"
+    ],
+    "answer": 2,
+    "explanation": "Ecosistema s'escriu amb una sola s en el compost.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-069",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «La ___ atendrà les urgències.»",
+    "options": [
+      "metgessa",
+      "metgesa",
+      "metgeça"
+    ],
+    "answer": 0,
+    "explanation": "Metgessa s'escriu amb ss entre vocals.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-070",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El protocol rebutja qualsevol ___.»",
+    "options": [
+      "agresió",
+      "agressió",
+      "agreció"
+    ],
+    "answer": 1,
+    "explanation": "Agressió s'escriu amb ss entre vocals.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-071",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El museu documenta l'ascens del ___.»",
+    "options": [
+      "nasisme",
+      "nacisme",
+      "nazisme"
+    ],
+    "answer": 2,
+    "explanation": "Nazisme s'escriu amb z.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-072",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Van visitar l'antic ___.»",
+    "options": [
+      "alcàsser",
+      "alcàser",
+      "alcàçer"
+    ],
+    "answer": 0,
+    "explanation": "Alcàsser s'escriu amb ss.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-073",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «La protagonista està ___.»",
+    "options": [
+      "embarasssada",
+      "embarassada",
+      "embarazada"
+    ],
+    "answer": 1,
+    "explanation": "Embarassada s'escriu amb ss.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-074",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «L'___ dona ombra a la plaça.»",
+    "options": [
+      "alsina",
+      "alçina",
+      "alzina"
+    ],
+    "answer": 2,
+    "explanation": "Alzina s'escriu amb z.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-sib-075",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El procediment és ben ___.»",
+    "options": [
+      "senzill",
+      "sensill",
+      "sençill"
+    ],
+    "answer": 0,
+    "explanation": "Senzill s'escriu amb z.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
+      "locator": "Regles i casos especials de s, ss, c, ç i z"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-076",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «La infermera va ___ el turmell.»",
+    "options": [
+      "envenar",
+      "embenar",
+      "emvenar"
+    ],
+    "answer": 1,
+    "explanation": "Embenar s'escriu amb b darrere de m.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-077",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El músic toca el ___.»",
+    "options": [
+      "timval",
+      "tinbal",
+      "timbal"
+    ],
+    "answer": 2,
+    "explanation": "Timbal s'escriu amb b darrere de m.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-078",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El projecte necessita un ___.»",
+    "options": [
+      "canvi",
+      "canbi",
+      "cambi"
+    ],
+    "answer": 0,
+    "explanation": "Canvi s'escriu amb v darrere de n.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-079",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El tribunal va declarar ___ el document.»",
+    "options": [
+      "inbàlid",
+      "invàlid",
+      "imbàlid"
+    ],
+    "answer": 1,
+    "explanation": "Invàlid s'escriu amb v darrere de n.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-080",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Anirem al centre amb ___.»",
+    "options": [
+      "tranvia",
+      "trambia",
+      "tramvia"
+    ],
+    "answer": 2,
+    "explanation": "Tramvia és una excepció: s'escriu amb v darrere de m.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-081",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Per respondre cal ___ la norma.»",
+    "options": [
+      "saber",
+      "saver",
+      "zaber"
+    ],
+    "answer": 0,
+    "explanation": "Saber s'escriu amb b; la b alterna amb la p de sap.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-082",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Esperem ___ una resposta avui.»",
+    "options": [
+      "revre",
+      "rebre",
+      "rever"
+    ],
+    "answer": 1,
+    "explanation": "Rebre s'escriu amb b; la b alterna amb la p de rep.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-083",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «La ___ del cel era intensa.»",
+    "options": [
+      "blabor",
+      "vlavor",
+      "blavor"
+    ],
+    "answer": 2,
+    "explanation": "Blavor s'escriu amb v perquè alterna amb la u de blau.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-084",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Podria ___ arribat abans.»",
+    "options": [
+      "haver",
+      "haber",
+      "aver"
+    ],
+    "answer": 0,
+    "explanation": "Haver s'escriu amb v; la v alterna amb la u de hauré.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-085",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Abans ___ sovint els avis.»",
+    "options": [
+      "visitabes",
+      "visitaves",
+      "visitàves"
+    ],
+    "answer": 1,
+    "explanation": "L'imperfet dels verbs de la primera conjugació s'escriu amb v.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-086",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El tractament no evita la ___.»",
+    "options": [
+      "calbície",
+      "calvíssie",
+      "calvície"
+    ],
+    "answer": 2,
+    "explanation": "Calvície és un pseudoderivat de calb i s'escriu amb v.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-087",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «L'estudi analitza l'activitat ___.»",
+    "options": [
+      "cerebral",
+      "ceravral",
+      "cerevral"
+    ],
+    "answer": 0,
+    "explanation": "Cerebral és un pseudoderivat de cervell i s'escriu amb b.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-088",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «La carretera té molta ___.»",
+    "options": [
+      "corbatura",
+      "curvatura",
+      "curvattura"
+    ],
+    "answer": 1,
+    "explanation": "Curvatura és un pseudoderivat de corb i s'escriu amb v.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-089",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El compte presenta un ___.»",
+    "options": [
+      "dèvit",
+      "débit",
+      "dèbit"
+    ],
+    "answer": 2,
+    "explanation": "Dèbit és un pseudoderivat relacionat amb deure i s'escriu amb b.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-090",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «L'___ copiava manuscrits.»",
+    "options": [
+      "escriba",
+      "escriva",
+      "escribà"
+    ],
+    "answer": 0,
+    "explanation": "Escriba és un pseudoderivat d'escriure i s'escriu amb b.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-091",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «És una consonant ___.»",
+    "options": [
+      "lavial",
+      "labial",
+      "llabial"
+    ],
+    "answer": 1,
+    "explanation": "Labial és un pseudoderivat de llavi i s'escriu amb b.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-092",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «La premsa defensa la ___.»",
+    "options": [
+      "llivertat",
+      "libertat",
+      "llibertat"
+    ],
+    "answer": 2,
+    "explanation": "Llibertat és un pseudoderivat de lliure i s'escriu amb b.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-093",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «He silenciat el telèfon ___.»",
+    "options": [
+      "mòbil",
+      "mòvil",
+      "móbil"
+    ],
+    "answer": 0,
+    "explanation": "Mòbil és un pseudoderivat de moure i s'escriu amb b.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-094",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «La previsió anuncia ___.»",
+    "options": [
+      "nebulossitat",
+      "nebulositat",
+      "nevulositat"
+    ],
+    "answer": 1,
+    "explanation": "Nebulositat és un pseudoderivat de núvol i s'escriu amb b.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-095",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Hi ha poca ___ de pluja.»",
+    "options": [
+      "provabilitat",
+      "probavilitat",
+      "probabilitat"
+    ],
+    "answer": 2,
+    "explanation": "Probabilitat és un pseudoderivat de provar i s'escriu amb b.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-096",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Esperen ___ abans de les nou.»",
+    "options": [
+      "arribar",
+      "arrivar",
+      "aribar"
+    ],
+    "answer": 0,
+    "explanation": "Arribar figura entre els mots que s'escriuen amb b.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-097",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «S'ha posat la ___ perquè plou.»",
+    "options": [
+      "gabardina",
+      "gavardina",
+      "gavadina"
+    ],
+    "answer": 1,
+    "explanation": "Gavardina s'escriu amb v.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-098",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El partit es juga al ___.»",
+    "options": [
+      "pabelló",
+      "pavel·ló",
+      "pavelló"
+    ],
+    "answer": 2,
+    "explanation": "Pavelló s'escriu amb v i amb ela simple.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-099",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «S'ha trencat la ___ del cinturó.»",
+    "options": [
+      "sivella",
+      "sibella",
+      "civella"
+    ],
+    "answer": 0,
+    "explanation": "Sivella s'escriu amb v.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-bv-100",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Va trobar un ___ de quatre fulles.»",
+    "options": [
+      "trébol",
+      "trèvol",
+      "trèbol"
+    ],
+    "answer": 1,
+    "explanation": "Trèvol s'escriu amb v i accent obert.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
+      "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-101",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El dentista li ha revisat la ___.»",
+    "options": [
+      "jeniva",
+      "geniba",
+      "geniva"
+    ],
+    "answer": 2,
+    "explanation": "Geniva s'escriu amb g davant de e.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-102",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «A la tardor passejarem per la ___.»",
+    "options": [
+      "fageda",
+      "fajeda",
+      "fagueda"
+    ],
+    "answer": 0,
+    "explanation": "Fageda s'escriu amb g davant de e.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-103",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «La ___ floreix a la primavera.»",
+    "options": [
+      "jinesta",
+      "ginesta",
+      "guinesta"
+    ],
+    "answer": 1,
+    "explanation": "Ginesta s'escriu amb g davant de i.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-104",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Cal ___ una nota al final.»",
+    "options": [
+      "afejir",
+      "afeguir",
+      "afegir"
+    ],
+    "answer": 2,
+    "explanation": "Afegir s'escriu amb g davant de i.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-105",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Els infants juguen al ___.»",
+    "options": [
+      "jardí",
+      "gardí",
+      "jardín"
+    ],
+    "answer": 0,
+    "explanation": "Jardí s'escriu amb j davant de a.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-106",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Haurem de ___ per l'escala.»",
+    "options": [
+      "pugar",
+      "pujar",
+      "putjar"
+    ],
+    "answer": 1,
+    "explanation": "Pujar s'escriu amb j davant de a.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-107",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «La biblioteca promou activitats per a la ___.»",
+    "options": [
+      "goventut",
+      "jobentut",
+      "joventut"
+    ],
+    "answer": 2,
+    "explanation": "Joventut s'escriu amb j davant de o.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-108",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Han substituït una ___ del terra.»",
+    "options": [
+      "rajola",
+      "ragola",
+      "ratjola"
+    ],
+    "answer": 0,
+    "explanation": "Rajola s'escriu amb j davant de o.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-109",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El festival se celebrarà al ___.»",
+    "options": [
+      "guliol",
+      "juliol",
+      "julliol"
+    ],
+    "answer": 1,
+    "explanation": "Juliol s'escriu amb j davant de u.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-110",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «L'entitat ha rebut un ___.»",
+    "options": [
+      "agut",
+      "atjut",
+      "ajut"
+    ],
+    "answer": 2,
+    "explanation": "Ajut s'escriu amb j davant de u.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-111",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «La ___ és gairebé buida.»",
+    "options": [
+      "platja",
+      "plaja",
+      "platga"
+    ],
+    "answer": 0,
+    "explanation": "Platja s'escriu amb el grup tj.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-112",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El ___ compleix funcions essencials.»",
+    "options": [
+      "fege",
+      "fetge",
+      "fetja"
+    ],
+    "answer": 1,
+    "explanation": "Fetge s'escriu amb el grup tg.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-113",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El tribunal el va acusar d'___.»",
+    "options": [
+      "heretjia",
+      "eretgia",
+      "heretgia"
+    ],
+    "answer": 2,
+    "explanation": "Heretgia s'escriu amb el grup tg.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-114",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «La situació podria ___.»",
+    "options": [
+      "empitjorar",
+      "empijorar",
+      "empitxorar"
+    ],
+    "answer": 0,
+    "explanation": "Empitjorar s'escriu amb tj.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-115",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Cal ___ el comprovant.»",
+    "options": [
+      "atjuntar",
+      "adjuntar",
+      "adguntar"
+    ],
+    "answer": 1,
+    "explanation": "Adjuntar s'escriu amb el grup dj.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-116",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Li han administrat una ___.»",
+    "options": [
+      "ingecció",
+      "injeccióo",
+      "injecció"
+    ],
+    "answer": 2,
+    "explanation": "Injecció manté la j davant de e en el grup -jecc-.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-117",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El tècnic va ___ el producte.»",
+    "options": [
+      "injectar",
+      "ingectar",
+      "injeptar"
+    ],
+    "answer": 0,
+    "explanation": "Injectar manté la j en el formant -ject-.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-118",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Cal triar un ___ precís.»",
+    "options": [
+      "adgetiu",
+      "adjectiu",
+      "adjectíu"
+    ],
+    "answer": 1,
+    "explanation": "Adjectiu manté la j en el formant -ject-.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-119",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Han trobat un ___ antic.»",
+    "options": [
+      "obgecte",
+      "objecta",
+      "objecte"
+    ],
+    "answer": 2,
+    "explanation": "Objecte manté la j en el formant -ject-.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-120",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El gos es va ___ a l'ombra.»",
+    "options": [
+      "jeure",
+      "geure",
+      "jèure"
+    ],
+    "answer": 0,
+    "explanation": "Jeure és una excepció que s'escriu amb j davant de e.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-121",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El reportatge parla de ___.»",
+    "options": [
+      "Gerusalem",
+      "Jerusalem",
+      "Jerussalem"
+    ],
+    "answer": 1,
+    "explanation": "Jerusalem s'escriu amb j inicial.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-122",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El protagonista es diu ___.»",
+    "options": [
+      "Geroni",
+      "Jerroni",
+      "Jeroni"
+    ],
+    "answer": 2,
+    "explanation": "Jeroni s'escriu amb j inicial.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-123",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El tractament protocol·lari és «Sa ___».»",
+    "options": [
+      "majestat",
+      "magestat",
+      "majestad"
+    ],
+    "answer": 0,
+    "explanation": "Majestat s'escriu amb j davant de e.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-124",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «S'ha posat un ___ de llana.»",
+    "options": [
+      "gersei",
+      "jersei",
+      "jerssei"
+    ],
+    "answer": 1,
+    "explanation": "Jersei s'escriu amb j inicial.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-gj-125",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «L'organigrama representa la ___.»",
+    "options": [
+      "gerarquia",
+      "jerarquía",
+      "jerarquia"
+    ],
+    "answer": 2,
+    "explanation": "Jerarquia s'escriu amb j inicial.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
+      "locator": "Regles de g/j i excepcions de Suficiència"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-126",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Cada setmana ___ una carta.»",
+    "options": [
+      "rep",
+      "reb",
+      "repp"
+    ],
+    "answer": 0,
+    "explanation": "Rep acaba en p, com mostra l'alternança amb rebre.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-127",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Ella ja ___ la resposta.»",
+    "options": [
+      "sab",
+      "sap",
+      "sapp"
+    ],
+    "answer": 1,
+    "explanation": "Sap acaba en p, tot i que alterna amb la b de saber.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-128",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El conte parla d'un ___.»",
+    "options": [
+      "llob",
+      "llopp",
+      "llop"
+    ],
+    "answer": 2,
+    "explanation": "Llop acaba en p, tot i que el femení és lloba.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-129",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «L'activitat física millora la ___.»",
+    "options": [
+      "salut",
+      "salud",
+      "salutt"
+    ],
+    "answer": 0,
+    "explanation": "Salut acaba en t, tot i que el derivat saludable porta d.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-130",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El dipòsit és ___.»",
+    "options": [
+      "buid",
+      "buit",
+      "buït"
+    ],
+    "answer": 1,
+    "explanation": "Buit acaba en t, tot i que el derivat buidor porta d.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-131",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El detall és molt ___.»",
+    "options": [
+      "menud",
+      "menutt",
+      "menut"
+    ],
+    "answer": 2,
+    "explanation": "Menut acaba en t, tot i que menudesa porta d.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-132",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «És un vell ___.»",
+    "options": [
+      "amic",
+      "amig",
+      "amiq"
+    ],
+    "answer": 0,
+    "explanation": "Amic acaba en c, tot i que el femení és amiga.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-133",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Guarda el document dins del ___.»",
+    "options": [
+      "pleg",
+      "plec",
+      "pleck"
+    ],
+    "answer": 1,
+    "explanation": "Plec acaba en c, tot i que el verb plegar porta g.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-134",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Agafa l'___ abans de sortir.»",
+    "options": [
+      "abrig",
+      "abrit",
+      "abric"
+    ],
+    "answer": 2,
+    "explanation": "Abric acaba en c, tot i que abrigar porta g.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-135",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «S'ha inscrit al ___ de lectura.»",
+    "options": [
+      "club",
+      "clup",
+      "cluv"
+    ],
+    "answer": 0,
+    "explanation": "Club és una excepció que acaba en b.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-136",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El líquid passa per un ___.»",
+    "options": [
+      "tup",
+      "tub",
+      "tuv"
+    ],
+    "answer": 1,
+    "explanation": "Tub és una excepció que acaba en b.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-137",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Avui fa molt de ___.»",
+    "options": [
+      "fret",
+      "fredd",
+      "fred"
+    ],
+    "answer": 2,
+    "explanation": "Fred és una excepció que acaba en d.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-138",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El vent bufa del ___.»",
+    "options": [
+      "sud",
+      "sut",
+      "sudd"
+    ],
+    "answer": 0,
+    "explanation": "Sud és una excepció que acaba en d.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-139",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El conte té un ___ savi.»",
+    "options": [
+      "mac",
+      "mag",
+      "magg"
+    ],
+    "answer": 1,
+    "explanation": "Mag és una excepció que acaba en g.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-140",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El centre ha contractat un ___.»",
+    "options": [
+      "pedagoc",
+      "pedàgog",
+      "pedagog"
+    ],
+    "answer": 2,
+    "explanation": "Pedagog és una excepció que acaba en g.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-141",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Han travessat el ___.»",
+    "options": [
+      "camp",
+      "camb",
+      "cam"
+    ],
+    "answer": 0,
+    "explanation": "Camp conserva la p que apareix en camperol.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-142",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Un ___ s'ha aturat a la branca.»",
+    "options": [
+      "corp",
+      "corb",
+      "corv"
+    ],
+    "answer": 1,
+    "explanation": "Corb conserva la b que apareix en corba.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-143",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Han excavat un pou ___.»",
+    "options": [
+      "profunt",
+      "profún",
+      "profund"
+    ],
+    "answer": 2,
+    "explanation": "Profund conserva la d que apareix en profunditat.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-144",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Seieu en aquell ___.»",
+    "options": [
+      "banc",
+      "bang",
+      "bank"
+    ],
+    "answer": 0,
+    "explanation": "Banc conserva la c que apareix en banca.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-145",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Les botes són plenes de ___.»",
+    "options": [
+      "fanc",
+      "fang",
+      "fan"
+    ],
+    "answer": 1,
+    "explanation": "Fang conserva la g que apareix en fangueig.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-146",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Un ___ neda a l'estany.»",
+    "options": [
+      "àneg",
+      "ánec",
+      "ànec"
+    ],
+    "answer": 2,
+    "explanation": "Ànec acaba en c, encara que el diminutiu és aneguet.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-147",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Ha renunciat al ___.»",
+    "options": [
+      "càrrec",
+      "càrreg",
+      "càrrech"
+    ],
+    "answer": 0,
+    "explanation": "Càrrec acaba en c, encara que carregar porta g.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-148",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Aquella olor em fa ___.»",
+    "options": [
+      "fàstig",
+      "fàstic",
+      "fástic"
+    ],
+    "answer": 1,
+    "explanation": "Fàstic acaba en c, encara que fastigós porta g.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-149",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «El ___ de la paella crema.»",
+    "options": [
+      "màneg",
+      "mánec",
+      "mànec"
+    ],
+    "answer": 2,
+    "explanation": "Mànec acaba en c, encara que manegar porta g.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  },
+  {
+    "id": "c1-ocl-150",
+    "level": "C1",
+    "topic": "ortografia",
+    "status": "published",
+    "prompt": "Completa amb la forma correcta: «Ha menjat un ___.»",
+    "options": [
+      "préssec",
+      "présseg",
+      "prèsec"
+    ],
+    "answer": 0,
+    "explanation": "Préssec acaba en c, encara que presseguer porta g.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
+      "locator": "Oclusives a final de mot i excepcions"
+    },
+    "reviewedAt": "2026-08-17",
+    "reviewedBy": "Codex; doble contrast CPNL"
+  }
+]
