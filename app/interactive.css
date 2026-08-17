@@ -1,0 +1,5 @@
+.small-cta,.main-cta{border:0;cursor:pointer}
+.level-card button{display:inline-flex;margin-top:23px;font-size:13px;font-weight:900;color:var(--green);gap:30px;border:0;background:transparent;padding:0;cursor:pointer}
+.level-card.muted-card{opacity:.58;background:#f5f5f1}.level-card.featured{box-shadow:0 14px 40px rgba(27,71,58,.1)}
+.topic-card{font:inherit;text-align:left;cursor:pointer;color:inherit}.topic-card:hover{box-shadow:0 8px 22px rgba(27,71,58,.08)}.topic-card p{line-height:1.4}
+.result-actions{display:flex;justify-content:center;gap:10px;flex-wrap:wrap}.result .secondary{background:white;color:var(--green);border:1px solid var(--green)}
