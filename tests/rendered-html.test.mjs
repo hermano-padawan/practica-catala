@@ -10,6 +10,12 @@ test("exports a GitHub Pages-ready home page", async () => {
   assert.match(html, /B1 i B2 arribaran després/);
   assert.match(html, /(?:href|src)=["']\/_next\//);
   assert.match(html, /https:\/\/practica-catala\.online\//);
+  assert.match(html, /property="og:image" content="https:\/\/practica-catala\.online\/social-card\.png"/);
+  assert.match(html, /name="twitter:card" content="summary_large_image"/);
+  assert.match(html, /rel="icon" href="\/favicon\.svg"/);
+  assert.match(html, /rel="apple-touch-icon" href="\/apple-touch-icon\.png"/);
+  assert.match(html, /application\/ld\+json/);
+  assert.match(html, /EducationalApplication/);
   const source = await readFile(new URL("../app/page.tsx", import.meta.url), "utf8");
   assert.match(source, /Fer 10 preguntes més/);
   assert.match(source, /practica-catala-c1-progress/);
