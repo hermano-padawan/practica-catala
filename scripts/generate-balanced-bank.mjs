@@ -21,7 +21,20 @@ const lexSource={url:"https://www.cpnl.cat/gramatica/135/6-els-barbarismes",loca
 
 // 75 d'accentuació: 50 casos lèxics diferents i 25 revisions dobles.
 const accents=originals.filter(q=>q.id.includes("-accent-"));
-for(const q of accents) add("accentuacio","Quina forma completa correctament un text formal?",q.options,q.answer,q.explanation,accentSource,"accentuació lèxica");
+const accentContexts=[
+"El ___ va arribar amb retard.","La coral va interpretar una ___.","Prendrem un ___ després de dinar.","No hi anirem ___ plou.","Hi va arribar poc ___.",
+"Ella ___ participarà en el debat.","El cuiner ha preparat ___.","Passejarem pel ___.","Ens llevarem de bon ___.","No ho ha explicat a ___.",
+"És un problema molt ___.","El gat és petit i ___.","Aquest mecanisme sembla ___.","Un ___ custodiava l'entrada.","La investigació estudia el ___.",
+"El seu ___ és molt afable.","Han observat diversos ___.","Cal estudiar els ___ del conflicte.","He apagat el ___.","Hem comprat un ___.",
+"El banc ha concedit el ___.","La fàbrica incorpora una nova ___.","La ___ omplia tot l'auditori.","Falta una ___ de l'informe.","El llibre repassa la ___ contemporània.",
+"La ___ avança gràcies a la recerca.","Tota la ___ hi participarà.","L'___ és al centre del poble.","Recorda aquell fet amb bona ___.","La ___ municipal ha canviat.",
+"La ___ diària ajuda a progressar.","La biblioteca és ___.","Necessitem una resposta ___.","És l'___ oportunitat.","La música li arriba a l'___.",
+"Consulta la ___ abans de sortir.","Aquesta ___ no és correcta.","El servei obrirà durant un ___ de prova.","Han recorregut un ___.","Anota el ___ d'expedient.",
+"La ___ va declarar al judici.","L'___ sortirà a les sis.","El ___ travessa la vall.","La conferència tindrà lloc a ___.","Mostra molt d'___ per la proposta.",
+"Ella no ___ la pregunta.","El resultat ___ de diversos factors.","Vol ___ millor el territori.","Les plantes necessiten llum per ___.","No és prudent ___ per aquest camí."
+];
+if(accents.length!==50 || accentContexts.length!==50) throw new Error("El bloc d'accentuació necessita 50 mots i 50 contextos");
+for(const [i,q] of accents.entries()) add("accentuacio","Completa amb la forma correcta: «"+accentContexts[i]+"»",q.options,q.answer,q.explanation,accentSource,"accentuació lèxica");
 for(let i=0;i<25;i++){
   const a=core[i],b=core[(i+11)%25],ca=a.options[a.answer],cb=b.options[b.answer];
   add("accentuacio","Quina parella està ben accentuada?",[ca+" · "+cb,a.options[(a.answer+1)%3]+" · "+cb,ca+" · "+b.options[(b.answer+1)%3]],0,
