@@ -10354,7 +10354,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Avui ___ 2 incidències registrades.",
+    "prompt": "Avui ___ tres incidències registrades.",
     "options": [
       "hi han",
       "ha",
@@ -10375,7 +10375,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Abans ___ 3 incidències registrades.",
+    "prompt": "Abans ___ moltes sol·licituds pendents.",
     "options": [
       "ha",
       "hi havia",
@@ -10396,7 +10396,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Demà ___ 4 incidències registrades.",
+    "prompt": "Demà ___ dues places disponibles.",
     "options": [
       "hi haurà",
       "hi hanurà",
@@ -10417,7 +10417,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Ahir ___ 5 incidències registrades.",
+    "prompt": "Ahir ___ prou cadires per a tothom.",
     "options": [
       "hi va hanver",
       "ha",
@@ -10438,7 +10438,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "D'aquí a un any ___ 6 incidències registrades.",
+    "prompt": "D'aquí a un any ___ diversos errors al document.",
     "options": [
       "ha",
       "hi haurà",
@@ -10459,7 +10459,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Avui ___ 7 incidències registrades.",
+    "prompt": "Avui ___ massa vehicles al carrer.",
     "options": [
       "hi ha",
       "hi han",
@@ -10480,7 +10480,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Abans ___ 8 incidències registrades.",
+    "prompt": "Abans ___ cinc persones esperant.",
     "options": [
       "hi hanvia",
       "ha",
@@ -10501,7 +10501,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Demà ___ 9 incidències registrades.",
+    "prompt": "Demà ___ noves proves a l'expedient.",
     "options": [
       "ha",
       "hi haurà",
@@ -10522,7 +10522,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Ahir ___ 10 incidències registrades.",
+    "prompt": "Ahir ___ algunes qüestions per resoldre.",
     "options": [
       "hi va haver",
       "hi va hanver",
@@ -10543,7 +10543,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "D'aquí a un any ___ 11 incidències registrades.",
+    "prompt": "D'aquí a un any ___ més opcions que abans.",
     "options": [
       "hi hanurà",
       "ha",
@@ -10564,7 +10564,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Avui ___ 12 incidències registrades.",
+    "prompt": "Avui ___ poques entrades a la venda.",
     "options": [
       "ha",
       "hi ha",
@@ -10585,7 +10585,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Abans ___ 13 incidències registrades.",
+    "prompt": "Abans ___ molts canvis al programa.",
     "options": [
       "hi havia",
       "hi hanvia",
@@ -10606,7 +10606,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Demà ___ 14 incidències registrades.",
+    "prompt": "Demà ___ dos avisos urgents.",
     "options": [
       "hi hanurà",
       "ha",
@@ -10627,7 +10627,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Ahir ___ 15 incidències registrades.",
+    "prompt": "Ahir ___ diverses causes possibles.",
     "options": [
       "ha",
       "hi va haver",
@@ -10648,7 +10648,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "D'aquí a un any ___ 16 incidències registrades.",
+    "prompt": "D'aquí a un any ___ més alumnes matriculats.",
     "options": [
       "hi haurà",
       "hi hanurà",
@@ -10669,7 +10669,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Avui ___ 17 incidències registrades.",
+    "prompt": "Avui ___ quatre reunions previstes.",
     "options": [
       "hi han",
       "ha",
@@ -10690,7 +10690,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Abans ___ 18 incidències registrades.",
+    "prompt": "Abans ___ moltes dades duplicades.",
     "options": [
       "ha",
       "hi havia",
@@ -10711,7 +10711,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Demà ___ 19 incidències registrades.",
+    "prompt": "Demà ___ noves mesures de seguretat.",
     "options": [
       "hi haurà",
       "hi hanurà",
@@ -10732,7 +10732,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Ahir ___ 20 incidències registrades.",
+    "prompt": "Ahir ___ tres testimonis citats.",
     "options": [
       "hi va hanver",
       "ha",
@@ -10753,7 +10753,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "D'aquí a un any ___ 21 incidències registrades.",
+    "prompt": "D'aquí a un any ___ alguns obstacles imprevistos.",
     "options": [
       "ha",
       "hi haurà",
@@ -10774,7 +10774,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Avui ___ 22 incidències registrades.",
+    "prompt": "Avui ___ prou recursos disponibles.",
     "options": [
       "hi ha",
       "hi han",
@@ -10795,7 +10795,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Abans ___ 23 incidències registrades.",
+    "prompt": "Abans ___ moltes botigues obertes.",
     "options": [
       "hi hanvia",
       "ha",
@@ -10816,7 +10816,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Demà ___ 24 incidències registrades.",
+    "prompt": "Demà ___ dos accessos alternatius.",
     "options": [
       "ha",
       "hi haurà",
@@ -10837,7 +10837,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Ahir ___ 25 incidències registrades.",
+    "prompt": "Ahir ___ diverses activitats gratuïtes.",
     "options": [
       "hi va haver",
       "hi va hanver",
@@ -10858,7 +10858,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "D'aquí a un any ___ 26 incidències registrades.",
+    "prompt": "D'aquí a un any ___ cinc documents sense signar.",
     "options": [
       "hi hanurà",
       "ha",
@@ -10879,7 +10879,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Avui ___ 27 incidències registrades.",
+    "prompt": "Avui ___ més arbres a la plaça.",
     "options": [
       "ha",
       "hi ha",
@@ -10900,7 +10900,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Abans ___ 28 incidències registrades.",
+    "prompt": "Abans ___ poques habitacions lliures.",
     "options": [
       "hi havia",
       "hi hanvia",
@@ -10921,7 +10921,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Demà ___ 29 incidències registrades.",
+    "prompt": "Demà ___ algunes diferències importants.",
     "options": [
       "hi hanurà",
       "ha",
@@ -10942,7 +10942,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Ahir ___ 30 incidències registrades.",
+    "prompt": "Ahir ___ moltes consultes acumulades.",
     "options": [
       "ha",
       "hi va haver",
@@ -10963,7 +10963,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "D'aquí a un any ___ 31 incidències registrades.",
+    "prompt": "D'aquí a un any ___ tres factures incorrectes.",
     "options": [
       "hi haurà",
       "hi hanurà",
@@ -10984,7 +10984,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Avui ___ 32 incidències registrades.",
+    "prompt": "Avui ___ nous criteris d'avaluació.",
     "options": [
       "hi han",
       "ha",
@@ -11005,7 +11005,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Abans ___ 33 incidències registrades.",
+    "prompt": "Abans ___ diverses rutes senyalitzades.",
     "options": [
       "ha",
       "hi havia",
@@ -11026,7 +11026,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Demà ___ 34 incidències registrades.",
+    "prompt": "Demà ___ quatre candidats finalistes.",
     "options": [
       "hi haurà",
       "hi hanurà",
@@ -11047,7 +11047,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Ahir ___ 35 incidències registrades.",
+    "prompt": "Ahir ___ moltes famílies interessades.",
     "options": [
       "hi va hanver",
       "ha",
@@ -11068,7 +11068,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "D'aquí a un any ___ 36 incidències registrades.",
+    "prompt": "D'aquí a un any ___ dos ordinadors espatllats.",
     "options": [
       "ha",
       "hi haurà",
@@ -11089,7 +11089,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Avui ___ 37 incidències registrades.",
+    "prompt": "Avui ___ alguns dubtes raonables.",
     "options": [
       "hi ha",
       "hi han",
@@ -11110,7 +11110,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Abans ___ 38 incidències registrades.",
+    "prompt": "Abans ___ més serveis al barri.",
     "options": [
       "hi hanvia",
       "ha",
@@ -11131,7 +11131,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Demà ___ 39 incidències registrades.",
+    "prompt": "Demà ___ poques queixes formals.",
     "options": [
       "ha",
       "hi haurà",
@@ -11152,7 +11152,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Ahir ___ 40 incidències registrades.",
+    "prompt": "Ahir ___ tres cursos intensius.",
     "options": [
       "hi va haver",
       "hi va hanver",
@@ -11173,7 +11173,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "D'aquí a un any ___ 41 incidències registrades.",
+    "prompt": "D'aquí a un any ___ diverses obres en marxa.",
     "options": [
       "hi hanurà",
       "ha",
@@ -11194,7 +11194,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Avui ___ 42 incidències registrades.",
+    "prompt": "Avui ___ moltes carpetes arxivades.",
     "options": [
       "ha",
       "hi ha",
@@ -11215,7 +11215,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Abans ___ 43 incidències registrades.",
+    "prompt": "Abans ___ dos terminis simultanis.",
     "options": [
       "hi havia",
       "hi hanvia",
@@ -11236,7 +11236,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Demà ___ 44 incidències registrades.",
+    "prompt": "Demà ___ algunes excepcions a la regla.",
     "options": [
       "hi hanurà",
       "ha",
@@ -11257,7 +11257,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Ahir ___ 45 incidències registrades.",
+    "prompt": "Ahir ___ més controls fronterers.",
     "options": [
       "ha",
       "hi va haver",
@@ -11278,7 +11278,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "D'aquí a un any ___ 46 incidències registrades.",
+    "prompt": "D'aquí a un any ___ quatre propostes viables.",
     "options": [
       "hi haurà",
       "hi hanurà",
@@ -11299,7 +11299,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Avui ___ 47 incidències registrades.",
+    "prompt": "Avui ___ moltes persones voluntàries.",
     "options": [
       "hi han",
       "ha",
@@ -11320,7 +11320,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Abans ___ 48 incidències registrades.",
+    "prompt": "Abans ___ tres informes contradictoris.",
     "options": [
       "ha",
       "hi havia",
@@ -11341,7 +11341,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Demà ___ 49 incidències registrades.",
+    "prompt": "Demà ___ alguns seients buits.",
     "options": [
       "hi haurà",
       "hi hanurà",
@@ -11362,7 +11362,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Ahir ___ 50 incidències registrades.",
+    "prompt": "Ahir ___ dues sortides d'emergència.",
     "options": [
       "hi va hanver",
       "ha",
@@ -11383,7 +11383,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "D'aquí a un any ___ 51 incidències registrades.",
+    "prompt": "D'aquí a un any ___ més oportunitats laborals.",
     "options": [
       "ha",
       "hi haurà",
@@ -11404,7 +11404,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "No crec que ella ___ avui. Cas 1.",
+    "prompt": "No crec que ella ___ avui.",
     "options": [
       "ve",
       "vingui",
@@ -11425,7 +11425,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Volien que nosaltres ___ abans. Cas 2.",
+    "prompt": "Volien que nosaltres ___ abans.",
     "options": [
       "arribéssim",
       "arribarem",
@@ -11446,7 +11446,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Cal que tu ho ___. Cas 3.",
+    "prompt": "Cal que tu ho ___.",
     "options": [
       "faràs",
       "fas",
@@ -11467,7 +11467,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Si ho ___, t'ho diria. Cas 4.",
+    "prompt": "Si ho ___, t'ho diria.",
     "options": [
       "sabria",
       "sabés",
@@ -11488,7 +11488,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Quan ___ la resposta, avisa'm. Cas 5.",
+    "prompt": "Quan ___ la resposta, avisa'm.",
     "options": [
       "tinguis",
       "tens",
@@ -11509,7 +11509,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Dubto que ells ho ___. Cas 6.",
+    "prompt": "Dubto que ells ho ___.",
     "options": [
       "acceptaran",
       "accepten",
@@ -11530,7 +11530,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "És possible que demà ___. Cas 7.",
+    "prompt": "És possible que demà ___.",
     "options": [
       "plou",
       "plogui",
@@ -11551,7 +11551,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Preferia que hi ___. Cas 8.",
+    "prompt": "Preferia que hi ___.",
     "options": [
       "anessis",
       "aniràs",
@@ -11572,7 +11572,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Convé que ho ___. Cas 9.",
+    "prompt": "Convé que ho ___.",
     "options": [
       "revisàvem",
       "revisarem",
@@ -11593,7 +11593,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "No sembla que ___ prou temps. Cas 10.",
+    "prompt": "No sembla que ___ prou temps.",
     "options": [
       "tenim",
       "tinguem",
@@ -11614,7 +11614,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Vull que em ___ la veritat. Cas 11.",
+    "prompt": "Vull que em ___ la veritat.",
     "options": [
       "diguis",
       "diràs",
@@ -11635,7 +11635,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Era necessari que ho ___. Cas 12.",
+    "prompt": "Era necessari que ho ___.",
     "options": [
       "resoldran",
       "resolien",
@@ -11656,7 +11656,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Pot ser que no ___. Cas 13.",
+    "prompt": "Pot ser que no ___.",
     "options": [
       "podem",
       "puguem",
@@ -11677,7 +11677,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Em va demanar que ___. Cas 14.",
+    "prompt": "Em va demanar que ___.",
     "options": [
       "segués",
       "seuré",
@@ -11698,7 +11698,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Temien que el tren no ___. Cas 15.",
+    "prompt": "Temien que el tren no ___.",
     "options": [
       "sortirà",
       "sortia",
@@ -11719,7 +11719,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Encara que ___ fred, sortirem. Cas 16.",
+    "prompt": "Encara que ___ fred, sortirem.",
     "options": [
       "fa",
       "faci",
@@ -11740,7 +11740,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Busquem algú que ho ___. Cas 17.",
+    "prompt": "Busquem algú que ho ___.",
     "options": [
       "sàpiga",
       "sabrà",
@@ -11761,7 +11761,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "No hi ha ningú que ho ___. Cas 18.",
+    "prompt": "No hi ha ningú que ho ___.",
     "options": [
       "entendrà",
       "entén",
@@ -11782,7 +11782,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Abans que ___, truca'm. Cas 19.",
+    "prompt": "Abans que ___, truca'm.",
     "options": [
       "marxes",
       "marxis",
@@ -11803,7 +11803,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "És millor que no ___. Cas 20.",
+    "prompt": "És millor que no ___.",
     "options": [
       "condueixis",
       "conduiràs",
@@ -11824,7 +11824,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Desitjo que tot ___ bé. Cas 21.",
+    "prompt": "Desitjo que tot ___ bé.",
     "options": [
       "anirà",
       "va",
@@ -11845,7 +11845,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Negava que ho ___. Cas 22.",
+    "prompt": "Negava que ho ___.",
     "options": [
       "havia fet",
       "hagués fet",
@@ -11866,7 +11866,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "M'agradaria que ___. Cas 23.",
+    "prompt": "M'agradaria que ___.",
     "options": [
       "vinguéssiu",
       "vindreu",
@@ -11887,7 +11887,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Sense que ningú ho ___. Cas 24.",
+    "prompt": "Sense que ningú ho ___.",
     "options": [
       "notarà",
       "notava",
@@ -11908,7 +11908,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Si ___ més temps, viatjaria. Cas 25.",
+    "prompt": "Si ___ més temps, viatjaria.",
     "options": [
       "tindria",
       "tingués",
@@ -11929,14 +11929,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "No crec que ella ___ avui. Cas 26.",
+    "prompt": "No permetran que hi ___.",
     "options": [
-      "vingui",
-      "vindrà",
-      "ve"
+      "entrem",
+      "entrarem",
+      "entrem-hi"
     ],
     "answer": 0,
-    "explanation": "El context exigeix la forma «vingui».",
+    "explanation": "El context exigeix la forma «entrem».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -11950,14 +11950,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Volien que nosaltres ___ abans. Cas 27.",
+    "prompt": "Procurava que no se'n ___.",
     "options": [
-      "arribarem",
-      "arribàvem",
-      "arribéssim"
+      "adonaran",
+      "adonaven",
+      "adonessin"
     ],
     "answer": 2,
-    "explanation": "El context exigeix la forma «arribéssim».",
+    "explanation": "El context exigeix la forma «adonessin».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -11971,14 +11971,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Cal que tu ho ___. Cas 28.",
+    "prompt": "És probable que el preu ___.",
     "options": [
-      "fas",
-      "facis",
-      "faràs"
+      "puja",
+      "pugi",
+      "pujarà"
     ],
     "answer": 1,
-    "explanation": "El context exigeix la forma «facis».",
+    "explanation": "El context exigeix la forma «pugi».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -11992,14 +11992,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Si ho ___, t'ho diria. Cas 29.",
+    "prompt": "Volia que m'ho ___.",
     "options": [
-      "sabés",
-      "sàpigues",
-      "sabria"
+      "expliquessis",
+      "explicaràs",
+      "explicaves"
     ],
     "answer": 0,
-    "explanation": "El context exigeix la forma «sabés».",
+    "explanation": "El context exigeix la forma «expliquessis».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12013,14 +12013,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Quan ___ la resposta, avisa'm. Cas 30.",
+    "prompt": "Quan ho ___, podrem continuar.",
     "options": [
-      "tens",
-      "tindràs",
-      "tinguis"
+      "acabareu",
+      "heu acabat",
+      "hàgiu acabat"
     ],
     "answer": 2,
-    "explanation": "El context exigeix la forma «tinguis».",
+    "explanation": "El context exigeix la forma «hàgiu acabat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12034,14 +12034,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Dubto que ells ho ___. Cas 31.",
+    "prompt": "No acceptava que el ___.",
     "options": [
-      "accepten",
-      "acceptin",
-      "acceptaran"
+      "contradeien",
+      "contradiguessin",
+      "contradiran"
     ],
     "answer": 1,
-    "explanation": "El context exigeix la forma «acceptin».",
+    "explanation": "El context exigeix la forma «contradiguessin».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12055,14 +12055,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "És possible que demà ___. Cas 32.",
+    "prompt": "Convé que la porta romangui ___.",
     "options": [
-      "plogui",
-      "plourà",
-      "plou"
+      "tancada",
+      "tancava",
+      "tancarà"
     ],
     "answer": 0,
-    "explanation": "El context exigeix la forma «plogui».",
+    "explanation": "El context exigeix la forma «tancada».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12076,14 +12076,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Preferia que hi ___. Cas 33.",
+    "prompt": "Si no ___ tant, dormiries millor.",
     "options": [
-      "aniràs",
-      "anaves",
-      "anessis"
+      "treballaves",
+      "treballaràs",
+      "treballessis"
     ],
     "answer": 2,
-    "explanation": "El context exigeix la forma «anessis».",
+    "explanation": "El context exigeix la forma «treballessis».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12097,14 +12097,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Convé que ho ___. Cas 34.",
+    "prompt": "Ens sorprèn que encara no ___.",
     "options": [
-      "revisarem",
-      "revisem",
-      "revisàvem"
+      "han arribat",
+      "hagin arribat",
+      "arribaran"
     ],
     "answer": 1,
-    "explanation": "El context exigeix la forma «revisem».",
+    "explanation": "El context exigeix la forma «hagin arribat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12118,14 +12118,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "No sembla que ___ prou temps. Cas 35.",
+    "prompt": "Demanava que li ___ una còpia.",
     "options": [
-      "tinguem",
-      "tindrem",
-      "tenim"
+      "enviessin",
+      "enviaran",
+      "enviaven"
     ],
     "answer": 0,
-    "explanation": "El context exigeix la forma «tinguem».",
+    "explanation": "El context exigeix la forma «enviessin».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12139,14 +12139,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Vull que em ___ la veritat. Cas 36.",
+    "prompt": "No era segur que el pont ___.",
     "options": [
-      "diràs",
-      "dius",
-      "diguis"
+      "resistirà",
+      "resistia",
+      "resistís"
     ],
     "answer": 2,
-    "explanation": "El context exigeix la forma «diguis».",
+    "explanation": "El context exigeix la forma «resistís».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12160,14 +12160,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Era necessari que ho ___. Cas 37.",
+    "prompt": "Tant de bo ___ la beca.",
     "options": [
-      "resolien",
-      "resolguessin",
-      "resoldran"
+      "obtens",
+      "obtinguis",
+      "obtindràs"
     ],
     "answer": 1,
-    "explanation": "El context exigeix la forma «resolguessin».",
+    "explanation": "El context exigeix la forma «obtinguis».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12181,14 +12181,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Pot ser que no ___. Cas 38.",
+    "prompt": "Encara que no hi ___, comptarem amb tu.",
     "options": [
-      "puguem",
-      "podrem",
-      "podem"
+      "assisteixis",
+      "assistiràs",
+      "assisteixes"
     ],
     "answer": 0,
-    "explanation": "El context exigeix la forma «puguem».",
+    "explanation": "El context exigeix la forma «assisteixis».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12202,14 +12202,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Em va demanar que ___. Cas 39.",
+    "prompt": "Calia que els tècnics ho ___.",
     "options": [
-      "seuré",
-      "seia",
-      "segués"
+      "verificaran",
+      "verificaven",
+      "verifiquessin"
     ],
     "answer": 2,
-    "explanation": "El context exigeix la forma «segués».",
+    "explanation": "El context exigeix la forma «verifiquessin».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12223,14 +12223,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Temien que el tren no ___. Cas 40.",
+    "prompt": "No pensava que la coneguessis tan ___.",
     "options": [
-      "sortia",
-      "sortís",
-      "sortirà"
+      "bona",
+      "bé",
+      "milloraria"
     ],
     "answer": 1,
-    "explanation": "El context exigeix la forma «sortís».",
+    "explanation": "El context exigeix la forma «bé».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12244,14 +12244,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Encara que ___ fred, sortirem. Cas 41.",
+    "prompt": "Si m'ho ___, ho entendria.",
     "options": [
-      "faci",
-      "farà",
-      "fa"
+      "demostressis",
+      "demostraves",
+      "demostraràs"
     ],
     "answer": 0,
-    "explanation": "El context exigeix la forma «faci».",
+    "explanation": "El context exigeix la forma «demostressis».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12265,14 +12265,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Busquem algú que ho ___. Cas 42.",
+    "prompt": "Esperarem fins que ens ___.",
     "options": [
-      "sabrà",
-      "sap",
-      "sàpiga"
+      "atendran",
+      "atenen",
+      "atenguin"
     ],
     "answer": 2,
-    "explanation": "El context exigeix la forma «sàpiga».",
+    "explanation": "El context exigeix la forma «atenguin».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12286,14 +12286,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "No hi ha ningú que ho ___. Cas 43.",
+    "prompt": "Era improbable que se'n ___.",
     "options": [
-      "entén",
-      "entengui",
-      "entendrà"
+      "recordava",
+      "recordés",
+      "recordarà"
     ],
     "answer": 1,
-    "explanation": "El context exigeix la forma «entengui».",
+    "explanation": "El context exigeix la forma «recordés».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12307,14 +12307,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Abans que ___, truca'm. Cas 44.",
+    "prompt": "Necessitem una persona que ___ alemany.",
     "options": [
-      "marxis",
-      "marxaràs",
-      "marxes"
+      "parli",
+      "parlarà",
+      "parla"
     ],
     "answer": 0,
-    "explanation": "El context exigeix la forma «marxis».",
+    "explanation": "El context exigeix la forma «parli».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12328,14 +12328,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "És millor que no ___. Cas 45.",
+    "prompt": "No marxis sense que t'ho ___.",
     "options": [
-      "conduiràs",
-      "condueixes",
-      "condueixis"
+      "confirmaran",
+      "confirmen",
+      "confirmin"
     ],
     "answer": 2,
-    "explanation": "El context exigeix la forma «condueixis».",
+    "explanation": "El context exigeix la forma «confirmin».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12349,14 +12349,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Desitjo que tot ___ bé. Cas 46.",
+    "prompt": "Potser convindria que ho ___.",
     "options": [
-      "va",
-      "vagi",
-      "anirà"
+      "ajornàvem",
+      "ajornéssim",
+      "ajornarem"
     ],
     "answer": 1,
-    "explanation": "El context exigeix la forma «vagi».",
+    "explanation": "El context exigeix la forma «ajornéssim».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12370,14 +12370,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Negava que ho ___. Cas 47.",
+    "prompt": "Em molestava que sempre ___.",
     "options": [
-      "hagués fet",
-      "ha fet",
-      "havia fet"
+      "interrompessis",
+      "interrompràs",
+      "interrompies"
     ],
     "answer": 0,
-    "explanation": "El context exigeix la forma «hagués fet».",
+    "explanation": "El context exigeix la forma «interrompessis».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12391,14 +12391,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "M'agradaria que ___. Cas 48.",
+    "prompt": "Sigui com ___, acabarem la feina.",
     "options": [
-      "vindreu",
-      "veníeu",
-      "vinguéssiu"
+      "serà",
+      "és",
+      "sigui"
     ],
     "answer": 2,
-    "explanation": "El context exigeix la forma «vinguéssiu».",
+    "explanation": "El context exigeix la forma «sigui».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12412,14 +12412,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Sense que ningú ho ___. Cas 49.",
+    "prompt": "No trobaràs ningú que t'ho ___.",
     "options": [
-      "notava",
-      "notés",
-      "notarà"
+      "garanteix",
+      "garanteixi",
+      "garantirà"
     ],
     "answer": 1,
-    "explanation": "El context exigeix la forma «notés».",
+    "explanation": "El context exigeix la forma «garanteixi».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12433,14 +12433,14 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Si ___ més temps, viatjaria. Cas 50.",
+    "prompt": "Hauríem preferit que ens ho ___ abans.",
     "options": [
-      "tingués",
-      "tinc",
-      "tindria"
+      "comuniquessin",
+      "comunicaran",
+      "comunicaven"
     ],
     "answer": 0,
-    "explanation": "El context exigeix la forma «tingués».",
+    "explanation": "El context exigeix la forma «comuniquessin».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
@@ -12454,7 +12454,7 @@
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "No crec que ella ___ avui. Situació 51.",
+    "prompt": "Corregeix la forma verbal de «No crec que ella ve avui.»",
     "options": [
       "vindrà",
       "ve",
@@ -12468,14 +12468,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-702",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Volien que nosaltres ___ abans. Situació 52.",
+    "prompt": "Corregeix la forma verbal de «Volien que nosaltres arribàvem abans.»",
     "options": [
       "arribàvem",
       "arribéssim",
@@ -12489,14 +12489,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-703",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Cal que tu ho ___. Situació 53.",
+    "prompt": "Corregeix la forma verbal de «Cal que tu ho fas.»",
     "options": [
       "facis",
       "faràs",
@@ -12510,14 +12510,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-704",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Si ho ___, t'ho diria. Situació 54.",
+    "prompt": "Corregeix la forma verbal de «Si ho sabria, t'ho diria.»",
     "options": [
       "sàpigues",
       "sabria",
@@ -12531,14 +12531,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-705",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Quan ___ la resposta, avisa'm. Situació 55.",
+    "prompt": "Corregeix la forma verbal de «Quan tindràs la resposta, avisa'm.»",
     "options": [
       "tindràs",
       "tinguis",
@@ -12552,14 +12552,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-706",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Dubto que ells ho ___. Situació 56.",
+    "prompt": "Corregeix la forma verbal de «Dubto que ells ho accepten.»",
     "options": [
       "acceptin",
       "acceptaran",
@@ -12573,14 +12573,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-707",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "És possible que demà ___. Situació 57.",
+    "prompt": "Corregeix la forma verbal de «És possible que demà plou.»",
     "options": [
       "plourà",
       "plou",
@@ -12594,14 +12594,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-708",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Preferia que hi ___. Situació 58.",
+    "prompt": "Corregeix la forma verbal de «Preferia que hi anaves.»",
     "options": [
       "anaves",
       "anessis",
@@ -12615,14 +12615,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-709",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Convé que ho ___. Situació 59.",
+    "prompt": "Corregeix la forma verbal de «Convé que ho revisarem.»",
     "options": [
       "revisem",
       "revisàvem",
@@ -12636,14 +12636,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-710",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "No sembla que ___ prou temps. Situació 60.",
+    "prompt": "Corregeix la forma verbal de «No sembla que tenim prou temps.»",
     "options": [
       "tindrem",
       "tenim",
@@ -12657,14 +12657,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-711",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Vull que em ___ la veritat. Situació 61.",
+    "prompt": "Corregeix la forma verbal de «Vull que em dius la veritat.»",
     "options": [
       "dius",
       "diguis",
@@ -12678,14 +12678,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-712",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Era necessari que ho ___. Situació 62.",
+    "prompt": "Corregeix la forma verbal de «Era necessari que ho resolien.»",
     "options": [
       "resolguessin",
       "resoldran",
@@ -12699,14 +12699,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-713",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Pot ser que no ___. Situació 63.",
+    "prompt": "Corregeix la forma verbal de «Pot ser que no podem.»",
     "options": [
       "podrem",
       "podem",
@@ -12720,14 +12720,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-714",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Em va demanar que ___. Situació 64.",
+    "prompt": "Corregeix la forma verbal de «Em va demanar que seia.»",
     "options": [
       "seia",
       "segués",
@@ -12741,14 +12741,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-715",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Temien que el tren no ___. Situació 65.",
+    "prompt": "Corregeix la forma verbal de «Temien que el tren no sortia.»",
     "options": [
       "sortís",
       "sortirà",
@@ -12762,14 +12762,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-716",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Encara que ___ fred, sortirem. Situació 66.",
+    "prompt": "Corregeix la forma verbal de «Encara que fa fred, sortirem.»",
     "options": [
       "farà",
       "fa",
@@ -12783,14 +12783,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-717",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Busquem algú que ho ___. Situació 67.",
+    "prompt": "Corregeix la forma verbal de «Busquem algú que ho sap.»",
     "options": [
       "sap",
       "sàpiga",
@@ -12804,14 +12804,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-718",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "No hi ha ningú que ho ___. Situació 68.",
+    "prompt": "Corregeix la forma verbal de «No hi ha ningú que ho entén.»",
     "options": [
       "entengui",
       "entendrà",
@@ -12825,14 +12825,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-719",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Abans que ___, truca'm. Situació 69.",
+    "prompt": "Corregeix la forma verbal de «Abans que marxes, truca'm.»",
     "options": [
       "marxaràs",
       "marxes",
@@ -12846,14 +12846,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-720",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "És millor que no ___. Situació 70.",
+    "prompt": "Corregeix la forma verbal de «És millor que no condueixes.»",
     "options": [
       "condueixes",
       "condueixis",
@@ -12867,14 +12867,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-721",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Desitjo que tot ___ bé. Situació 71.",
+    "prompt": "Corregeix la forma verbal de «Desitjo que tot va bé.»",
     "options": [
       "vagi",
       "anirà",
@@ -12888,14 +12888,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-722",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Negava que ho ___. Situació 72.",
+    "prompt": "Corregeix la forma verbal de «Negava que ho havia fet.»",
     "options": [
       "ha fet",
       "havia fet",
@@ -12909,14 +12909,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-723",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "M'agradaria que ___. Situació 73.",
+    "prompt": "Corregeix la forma verbal de «M'agradaria que veníeu.»",
     "options": [
       "veníeu",
       "vinguéssiu",
@@ -12930,14 +12930,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-724",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Sense que ningú ho ___. Situació 74.",
+    "prompt": "Corregeix la forma verbal de «Sense que ningú ho notava.»",
     "options": [
       "notés",
       "notarà",
@@ -12951,14 +12951,14 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-725",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Si ___ més temps, viatjaria. Situació 75.",
+    "prompt": "Corregeix la forma verbal de «Si tindria més temps, viatjaria.»",
     "options": [
       "tinc",
       "tindria",
@@ -12972,539 +12972,539 @@
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-726",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "No crec que ella ___ avui. Situació 76.",
+    "prompt": "Corregeix la forma verbal de «No permetran que hi entrem-hi.»",
     "options": [
-      "ve",
-      "vingui",
-      "vindrà"
+      "entrem-hi",
+      "entrem",
+      "entrarem"
     ],
     "answer": 1,
-    "explanation": "El context exigeix la forma «vingui».",
+    "explanation": "El context exigeix la forma «entrem».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-727",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Volien que nosaltres ___ abans. Situació 77.",
+    "prompt": "Corregeix la forma verbal de «Procurava que no se'n adonaven.»",
     "options": [
-      "arribéssim",
-      "arribarem",
-      "arribàvem"
+      "adonessin",
+      "adonaran",
+      "adonaven"
     ],
     "answer": 0,
-    "explanation": "El context exigeix la forma «arribéssim».",
+    "explanation": "El context exigeix la forma «adonessin».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-728",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Cal que tu ho ___. Situació 78.",
+    "prompt": "Corregeix la forma verbal de «És probable que el preu puja.»",
     "options": [
-      "faràs",
-      "fas",
-      "facis"
+      "pujarà",
+      "puja",
+      "pugi"
     ],
     "answer": 2,
-    "explanation": "El context exigeix la forma «facis».",
+    "explanation": "El context exigeix la forma «pugi».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-729",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Si ho ___, t'ho diria. Situació 79.",
+    "prompt": "Corregeix la forma verbal de «Volia que m'ho explicaves.»",
     "options": [
-      "sabria",
-      "sabés",
-      "sàpigues"
+      "explicaves",
+      "expliquessis",
+      "explicaràs"
     ],
     "answer": 1,
-    "explanation": "El context exigeix la forma «sabés».",
+    "explanation": "El context exigeix la forma «expliquessis».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-730",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Quan ___ la resposta, avisa'm. Situació 80.",
+    "prompt": "Corregeix la forma verbal de «Quan ho heu acabat, podrem continuar.»",
     "options": [
-      "tinguis",
-      "tens",
-      "tindràs"
+      "hàgiu acabat",
+      "acabareu",
+      "heu acabat"
     ],
     "answer": 0,
-    "explanation": "El context exigeix la forma «tinguis».",
+    "explanation": "El context exigeix la forma «hàgiu acabat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-731",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Dubto que ells ho ___. Situació 81.",
+    "prompt": "Corregeix la forma verbal de «No acceptava que el contradeien.»",
     "options": [
-      "acceptaran",
-      "accepten",
-      "acceptin"
+      "contradiran",
+      "contradeien",
+      "contradiguessin"
     ],
     "answer": 2,
-    "explanation": "El context exigeix la forma «acceptin».",
+    "explanation": "El context exigeix la forma «contradiguessin».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-732",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "És possible que demà ___. Situació 82.",
+    "prompt": "Corregeix la forma verbal de «Convé que la porta romangui tancarà.»",
     "options": [
-      "plou",
-      "plogui",
-      "plourà"
+      "tancarà",
+      "tancada",
+      "tancava"
     ],
     "answer": 1,
-    "explanation": "El context exigeix la forma «plogui».",
+    "explanation": "El context exigeix la forma «tancada».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-733",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Preferia que hi ___. Situació 83.",
+    "prompt": "Corregeix la forma verbal de «Si no treballaràs tant, dormiries millor.»",
     "options": [
-      "anessis",
-      "aniràs",
-      "anaves"
+      "treballessis",
+      "treballaves",
+      "treballaràs"
     ],
     "answer": 0,
-    "explanation": "El context exigeix la forma «anessis».",
+    "explanation": "El context exigeix la forma «treballessis».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-734",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Convé que ho ___. Situació 84.",
+    "prompt": "Corregeix la forma verbal de «Ens sorprèn que encara no han arribat.»",
     "options": [
-      "revisàvem",
-      "revisarem",
-      "revisem"
+      "arribaran",
+      "han arribat",
+      "hagin arribat"
     ],
     "answer": 2,
-    "explanation": "El context exigeix la forma «revisem».",
+    "explanation": "El context exigeix la forma «hagin arribat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-735",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "No sembla que ___ prou temps. Situació 85.",
+    "prompt": "Corregeix la forma verbal de «Demanava que li enviaven una còpia.»",
     "options": [
-      "tenim",
-      "tinguem",
-      "tindrem"
+      "enviaven",
+      "enviessin",
+      "enviaran"
     ],
     "answer": 1,
-    "explanation": "El context exigeix la forma «tinguem».",
+    "explanation": "El context exigeix la forma «enviessin».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-736",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Vull que em ___ la veritat. Situació 86.",
+    "prompt": "Corregeix la forma verbal de «No era segur que el pont resistia.»",
     "options": [
-      "diguis",
-      "diràs",
-      "dius"
+      "resistís",
+      "resistirà",
+      "resistia"
     ],
     "answer": 0,
-    "explanation": "El context exigeix la forma «diguis».",
+    "explanation": "El context exigeix la forma «resistís».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-737",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Era necessari que ho ___. Situació 87.",
+    "prompt": "Corregeix la forma verbal de «Tant de bo obtens la beca.»",
     "options": [
-      "resoldran",
-      "resolien",
-      "resolguessin"
+      "obtindràs",
+      "obtens",
+      "obtinguis"
     ],
     "answer": 2,
-    "explanation": "El context exigeix la forma «resolguessin».",
+    "explanation": "El context exigeix la forma «obtinguis».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-738",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Pot ser que no ___. Situació 88.",
+    "prompt": "Corregeix la forma verbal de «Encara que no hi assisteixes, comptarem amb tu.»",
     "options": [
-      "podem",
-      "puguem",
-      "podrem"
+      "assisteixes",
+      "assisteixis",
+      "assistiràs"
     ],
     "answer": 1,
-    "explanation": "El context exigeix la forma «puguem».",
+    "explanation": "El context exigeix la forma «assisteixis».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-739",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Em va demanar que ___. Situació 89.",
+    "prompt": "Corregeix la forma verbal de «Calia que els tècnics ho verificaven.»",
     "options": [
-      "segués",
-      "seuré",
-      "seia"
+      "verifiquessin",
+      "verificaran",
+      "verificaven"
     ],
     "answer": 0,
-    "explanation": "El context exigeix la forma «segués».",
+    "explanation": "El context exigeix la forma «verifiquessin».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-740",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Temien que el tren no ___. Situació 90.",
+    "prompt": "Corregeix la forma verbal de «No pensava que la coneguessis tan bona.»",
     "options": [
-      "sortirà",
-      "sortia",
-      "sortís"
+      "milloraria",
+      "bona",
+      "bé"
     ],
     "answer": 2,
-    "explanation": "El context exigeix la forma «sortís».",
+    "explanation": "El context exigeix la forma «bé».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-741",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Encara que ___ fred, sortirem. Situació 91.",
+    "prompt": "Corregeix la forma verbal de «Si m'ho demostraràs, ho entendria.»",
     "options": [
-      "fa",
-      "faci",
-      "farà"
+      "demostraràs",
+      "demostressis",
+      "demostraves"
     ],
     "answer": 1,
-    "explanation": "El context exigeix la forma «faci».",
+    "explanation": "El context exigeix la forma «demostressis».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-742",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Busquem algú que ho ___. Situació 92.",
+    "prompt": "Corregeix la forma verbal de «Esperarem fins que ens atenen.»",
     "options": [
-      "sàpiga",
-      "sabrà",
-      "sap"
+      "atenguin",
+      "atendran",
+      "atenen"
     ],
     "answer": 0,
-    "explanation": "El context exigeix la forma «sàpiga».",
+    "explanation": "El context exigeix la forma «atenguin».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-743",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "No hi ha ningú que ho ___. Situació 93.",
+    "prompt": "Corregeix la forma verbal de «Era improbable que se'n recordava.»",
     "options": [
-      "entendrà",
-      "entén",
-      "entengui"
+      "recordarà",
+      "recordava",
+      "recordés"
     ],
     "answer": 2,
-    "explanation": "El context exigeix la forma «entengui».",
+    "explanation": "El context exigeix la forma «recordés».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-744",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Abans que ___, truca'm. Situació 94.",
+    "prompt": "Corregeix la forma verbal de «Necessitem una persona que parla alemany.»",
     "options": [
-      "marxes",
-      "marxis",
-      "marxaràs"
+      "parla",
+      "parli",
+      "parlarà"
     ],
     "answer": 1,
-    "explanation": "El context exigeix la forma «marxis».",
+    "explanation": "El context exigeix la forma «parli».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-745",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "És millor que no ___. Situació 95.",
+    "prompt": "Corregeix la forma verbal de «No marxis sense que t'ho confirmen.»",
     "options": [
-      "condueixis",
-      "conduiràs",
-      "condueixes"
+      "confirmin",
+      "confirmaran",
+      "confirmen"
     ],
     "answer": 0,
-    "explanation": "El context exigeix la forma «condueixis».",
+    "explanation": "El context exigeix la forma «confirmin».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-746",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Desitjo que tot ___ bé. Situació 96.",
+    "prompt": "Corregeix la forma verbal de «Potser convindria que ho ajornàvem.»",
     "options": [
-      "anirà",
-      "va",
-      "vagi"
+      "ajornarem",
+      "ajornàvem",
+      "ajornéssim"
     ],
     "answer": 2,
-    "explanation": "El context exigeix la forma «vagi».",
+    "explanation": "El context exigeix la forma «ajornéssim».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-747",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Negava que ho ___. Situació 97.",
+    "prompt": "Corregeix la forma verbal de «Em molestava que sempre interrompies.»",
     "options": [
-      "havia fet",
-      "hagués fet",
-      "ha fet"
+      "interrompies",
+      "interrompessis",
+      "interrompràs"
     ],
     "answer": 1,
-    "explanation": "El context exigeix la forma «hagués fet».",
+    "explanation": "El context exigeix la forma «interrompessis».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-748",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "M'agradaria que ___. Situació 98.",
+    "prompt": "Corregeix la forma verbal de «Sigui com és, acabarem la feina.»",
     "options": [
-      "vinguéssiu",
-      "vindreu",
-      "veníeu"
+      "sigui",
+      "serà",
+      "és"
     ],
     "answer": 0,
-    "explanation": "El context exigeix la forma «vinguéssiu».",
+    "explanation": "El context exigeix la forma «sigui».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-749",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Sense que ningú ho ___. Situació 99.",
+    "prompt": "Corregeix la forma verbal de «No trobaràs ningú que t'ho garanteix.»",
     "options": [
-      "notarà",
-      "notava",
-      "notés"
+      "garantirà",
+      "garanteix",
+      "garanteixi"
     ],
     "answer": 2,
-    "explanation": "El context exigeix la forma «notés».",
+    "explanation": "El context exigeix la forma «garanteixi».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-750",
     "level": "C1",
     "topic": "verbs",
     "status": "published",
-    "prompt": "Si ___ més temps, viatjaria. Situació 100.",
+    "prompt": "Corregeix la forma verbal de «Hauríem preferit que ens ho comunicaven abans.»",
     "options": [
-      "tindria",
-      "tingués",
-      "tinc"
+      "comunicaven",
+      "comuniquessin",
+      "comunicaran"
     ],
     "answer": 1,
-    "explanation": "El context exigeix la forma «tingués».",
+    "explanation": "El context exigeix la forma «comuniquessin».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
       "locator": "Indicatiu i subjuntiu en context"
     },
     "reviewedAt": "2026-08-18",
     "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "subjuntiu en context"
+    "exerciseType": "correcció verbal"
   },
   {
     "id": "c1-bal-751",
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "No vam sortir; ___, plovia intensament. Relació: causa.",
+    "prompt": "Vam ajornar l'excursió ___ plovia intensament.",
     "options": [
       "perquè",
       "tanmateix",
@@ -13525,14 +13525,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "No vam sortir; ___, plovia intensament. Relació: conseqüència.",
+    "prompt": "No ha vingut a la reunió ___ està malalt.",
     "options": [
-      "en canvi",
-      "perquè",
-      "per tant"
+      "tanmateix",
+      "per tant",
+      "perquè"
     ],
     "answer": 2,
-    "explanation": "«per tant» introdueix una relació de conseqüència.",
+    "explanation": "«perquè» introdueix una relació de causa.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -13546,14 +13546,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "No vam sortir; ___, plovia intensament. Relació: contrast.",
+    "prompt": "Han tancat la carretera ___ hi ha hagut una esllavissada.",
     "options": [
-      "a més",
-      "tanmateix",
-      "per tant"
+      "per tant",
+      "perquè",
+      "tanmateix"
     ],
     "answer": 1,
-    "explanation": "«tanmateix» introdueix una relació de contrast.",
+    "explanation": "«perquè» introdueix una relació de causa.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -13567,14 +13567,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "No vam sortir; ___, plovia intensament. Relació: addició.",
+    "prompt": "He apagat l'ordinador ___ ja no el necessitava.",
     "options": [
-      "a més",
       "perquè",
-      "malgrat això"
+      "tanmateix",
+      "per tant"
     ],
     "answer": 0,
-    "explanation": "«a més» introdueix una relació de addició.",
+    "explanation": "«perquè» introdueix una relació de causa.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -13588,14 +13588,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "No vam sortir; ___, plovia intensament. Relació: exemplificació.",
+    "prompt": "No podem publicar l'informe ___ encara conté errors.",
     "options": [
-      "en canvi",
-      "en conseqüència",
-      "per exemple"
+      "tanmateix",
+      "per tant",
+      "perquè"
     ],
     "answer": 2,
-    "explanation": "«per exemple» introdueix una relació de exemplificació.",
+    "explanation": "«perquè» introdueix una relació de causa.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -13609,7 +13609,7 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El termini s'ha acabat; ___, no admetran més sol·licituds. Relació: causa.",
+    "prompt": "La planta s'ha assecat ___ ningú no l'ha regada.",
     "options": [
       "per tant",
       "perquè",
@@ -13630,14 +13630,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El termini s'ha acabat; ___, no admetran més sol·licituds. Relació: conseqüència.",
+    "prompt": "Hem canviat de sala ___ l'anterior era massa petita.",
     "options": [
-      "per tant",
-      "en canvi",
-      "perquè"
+      "perquè",
+      "tanmateix",
+      "per tant"
     ],
     "answer": 0,
-    "explanation": "«per tant» introdueix una relació de conseqüència.",
+    "explanation": "«perquè» introdueix una relació de causa.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -13651,14 +13651,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El termini s'ha acabat; ___, no admetran més sol·licituds. Relació: contrast.",
+    "prompt": "Porta l'abric ___ fa molt de fred.",
     "options": [
+      "tanmateix",
       "per tant",
-      "a més",
-      "tanmateix"
+      "perquè"
     ],
     "answer": 2,
-    "explanation": "«tanmateix» introdueix una relació de contrast.",
+    "explanation": "«perquè» introdueix una relació de causa.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -13672,14 +13672,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El termini s'ha acabat; ___, no admetran més sol·licituds. Relació: addició.",
+    "prompt": "No li han concedit l'ajut ___ faltava documentació.",
     "options": [
-      "malgrat això",
-      "a més",
-      "perquè"
+      "per tant",
+      "perquè",
+      "tanmateix"
     ],
     "answer": 1,
-    "explanation": "«a més» introdueix una relació de addició.",
+    "explanation": "«perquè» introdueix una relació de causa.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -13693,14 +13693,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El termini s'ha acabat; ___, no admetran més sol·licituds. Relació: exemplificació.",
+    "prompt": "El tren acumula retard ___ hi ha una avaria.",
     "options": [
-      "per exemple",
-      "en canvi",
-      "en conseqüència"
+      "perquè",
+      "tanmateix",
+      "per tant"
     ],
     "answer": 0,
-    "explanation": "«per exemple» introdueix una relació de exemplificació.",
+    "explanation": "«perquè» introdueix una relació de causa.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -13714,7 +13714,7 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La proposta és cara; ___, resol millor el problema. Relació: causa.",
+    "prompt": "Han suspès el concert ___ el cantant ha perdut la veu.",
     "options": [
       "tanmateix",
       "per tant",
@@ -13735,14 +13735,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La proposta és cara; ___, resol millor el problema. Relació: conseqüència.",
+    "prompt": "No contestava el telèfon ___ era en una entrevista.",
     "options": [
-      "perquè",
       "per tant",
-      "en canvi"
+      "perquè",
+      "tanmateix"
     ],
     "answer": 1,
-    "explanation": "«per tant» introdueix una relació de conseqüència.",
+    "explanation": "«perquè» introdueix una relació de causa.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -13756,14 +13756,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La proposta és cara; ___, resol millor el problema. Relació: contrast.",
+    "prompt": "Cal repetir la prova ___ els resultats no són concloents.",
     "options": [
+      "perquè",
       "tanmateix",
-      "per tant",
-      "a més"
+      "per tant"
     ],
     "answer": 0,
-    "explanation": "«tanmateix» introdueix una relació de contrast.",
+    "explanation": "«perquè» introdueix una relació de causa.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -13777,14 +13777,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La proposta és cara; ___, resol millor el problema. Relació: addició.",
+    "prompt": "La botiga avui no obre ___ és festa local.",
     "options": [
-      "perquè",
-      "malgrat això",
-      "a més"
+      "tanmateix",
+      "per tant",
+      "perquè"
     ],
     "answer": 2,
-    "explanation": "«a més» introdueix una relació de addició.",
+    "explanation": "«perquè» introdueix una relació de causa.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -13798,14 +13798,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La proposta és cara; ___, resol millor el problema. Relació: exemplificació.",
+    "prompt": "Hem reduït la despesa ___ el pressupost era insuficient.",
     "options": [
-      "en conseqüència",
-      "per exemple",
-      "en canvi"
+      "per tant",
+      "perquè",
+      "tanmateix"
     ],
     "answer": 1,
-    "explanation": "«per exemple» introdueix una relació de exemplificació.",
+    "explanation": "«perquè» introdueix una relació de causa.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -13819,7 +13819,7 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Ha presentat l'informe; ___, hi ha adjuntat els annexos. Relació: causa.",
+    "prompt": "No travessis el riu ___ baixa molt ple.",
     "options": [
       "perquè",
       "tanmateix",
@@ -13840,14 +13840,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Ha presentat l'informe; ___, hi ha adjuntat els annexos. Relació: conseqüència.",
+    "prompt": "Han reforçat el servei ___ ha augmentat la demanda.",
     "options": [
-      "en canvi",
-      "perquè",
-      "per tant"
+      "tanmateix",
+      "per tant",
+      "perquè"
     ],
     "answer": 2,
-    "explanation": "«per tant» introdueix una relació de conseqüència.",
+    "explanation": "«perquè» introdueix una relació de causa.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -13861,70 +13861,7 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Ha presentat l'informe; ___, hi ha adjuntat els annexos. Relació: contrast.",
-    "options": [
-      "a més",
-      "tanmateix",
-      "per tant"
-    ],
-    "answer": 1,
-    "explanation": "«tanmateix» introdueix una relació de contrast.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
-    },
-    "reviewedAt": "2026-08-18",
-    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "cohesió textual"
-  },
-  {
-    "id": "c1-bal-769",
-    "level": "C1",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "Ha presentat l'informe; ___, hi ha adjuntat els annexos. Relació: addició.",
-    "options": [
-      "a més",
-      "perquè",
-      "malgrat això"
-    ],
-    "answer": 0,
-    "explanation": "«a més» introdueix una relació de addició.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
-    },
-    "reviewedAt": "2026-08-18",
-    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "cohesió textual"
-  },
-  {
-    "id": "c1-bal-770",
-    "level": "C1",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "Ha presentat l'informe; ___, hi ha adjuntat els annexos. Relació: exemplificació.",
-    "options": [
-      "en canvi",
-      "en conseqüència",
-      "per exemple"
-    ],
-    "answer": 2,
-    "explanation": "«per exemple» introdueix una relació de exemplificació.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
-    },
-    "reviewedAt": "2026-08-18",
-    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "cohesió textual"
-  },
-  {
-    "id": "c1-bal-771",
-    "level": "C1",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "Algunes mesures estalvien energia; ___, apagar els llums innecessaris. Relació: causa.",
+    "prompt": "Va acceptar l'oferta ___ les condicions eren bones.",
     "options": [
       "per tant",
       "perquè",
@@ -13941,14 +13878,77 @@
     "exerciseType": "cohesió textual"
   },
   {
+    "id": "c1-bal-769",
+    "level": "C1",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "No han admès el recurs ___ es va presentar fora de termini.",
+    "options": [
+      "perquè",
+      "tanmateix",
+      "per tant"
+    ],
+    "answer": 0,
+    "explanation": "«perquè» introdueix una relació de causa.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
+    },
+    "reviewedAt": "2026-08-18",
+    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
+    "exerciseType": "cohesió textual"
+  },
+  {
+    "id": "c1-bal-770",
+    "level": "C1",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "Obre la finestra ___ aquí dins fa calor.",
+    "options": [
+      "tanmateix",
+      "per tant",
+      "perquè"
+    ],
+    "answer": 2,
+    "explanation": "«perquè» introdueix una relació de causa.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
+    },
+    "reviewedAt": "2026-08-18",
+    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
+    "exerciseType": "cohesió textual"
+  },
+  {
+    "id": "c1-bal-771",
+    "level": "C1",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "S'ha acabat el termini; ___, no admetran més sol·licituds.",
+    "options": [
+      "perquè",
+      "per tant",
+      "tanmateix"
+    ],
+    "answer": 1,
+    "explanation": "«per tant» introdueix una relació de conseqüència.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
+    },
+    "reviewedAt": "2026-08-18",
+    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
+    "exerciseType": "cohesió textual"
+  },
+  {
     "id": "c1-bal-772",
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Algunes mesures estalvien energia; ___, apagar els llums innecessaris. Relació: conseqüència.",
+    "prompt": "La carretera està tallada; ___, haurem de buscar una altra ruta.",
     "options": [
       "per tant",
-      "en canvi",
+      "tanmateix",
       "perquè"
     ],
     "answer": 0,
@@ -13966,14 +13966,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Algunes mesures estalvien energia; ___, apagar els llums innecessaris. Relació: contrast.",
+    "prompt": "Ha superat totes les proves; ___, obtindrà el certificat.",
     "options": [
-      "per tant",
-      "a més",
-      "tanmateix"
+      "tanmateix",
+      "perquè",
+      "per tant"
     ],
     "answer": 2,
-    "explanation": "«tanmateix» introdueix una relació de contrast.",
+    "explanation": "«per tant» introdueix una relació de conseqüència.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -13987,14 +13987,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Algunes mesures estalvien energia; ___, apagar els llums innecessaris. Relació: addició.",
+    "prompt": "No queda cap entrada; ___, no podrem assistir al concert.",
     "options": [
-      "malgrat això",
-      "a més",
-      "perquè"
+      "perquè",
+      "per tant",
+      "tanmateix"
     ],
     "answer": 1,
-    "explanation": "«a més» introdueix una relació de addició.",
+    "explanation": "«per tant» introdueix una relació de conseqüència.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14008,14 +14008,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Algunes mesures estalvien energia; ___, apagar els llums innecessaris. Relació: exemplificació.",
+    "prompt": "El document no està signat; ___, no té validesa.",
     "options": [
-      "per exemple",
-      "en canvi",
-      "en conseqüència"
+      "per tant",
+      "tanmateix",
+      "perquè"
     ],
     "answer": 0,
-    "explanation": "«per exemple» introdueix una relació de exemplificació.",
+    "explanation": "«per tant» introdueix una relació de conseqüència.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14029,14 +14029,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "No trobava les claus; ___, va arribar tard. Relació: causa.",
+    "prompt": "Plou molt; ___, el partit s'ajornarà.",
     "options": [
       "tanmateix",
-      "per tant",
-      "perquè"
+      "perquè",
+      "per tant"
     ],
     "answer": 2,
-    "explanation": "«perquè» introdueix una relació de causa.",
+    "explanation": "«per tant» introdueix una relació de conseqüència.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14050,11 +14050,11 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "No trobava les claus; ___, va arribar tard. Relació: conseqüència.",
+    "prompt": "Han augmentat els costos; ___, caldrà revisar el pressupost.",
     "options": [
       "perquè",
       "per tant",
-      "en canvi"
+      "tanmateix"
     ],
     "answer": 1,
     "explanation": "«per tant» introdueix una relació de conseqüència.",
@@ -14071,14 +14071,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "No trobava les claus; ___, va arribar tard. Relació: contrast.",
+    "prompt": "La sala és plena; ___, obrirem l'espai annex.",
     "options": [
-      "tanmateix",
       "per tant",
-      "a més"
+      "tanmateix",
+      "perquè"
     ],
     "answer": 0,
-    "explanation": "«tanmateix» introdueix una relació de contrast.",
+    "explanation": "«per tant» introdueix una relació de conseqüència.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14092,14 +14092,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "No trobava les claus; ___, va arribar tard. Relació: addició.",
+    "prompt": "No ha presentat els justificants; ___, haurà de retornar l'ajut.",
     "options": [
+      "tanmateix",
       "perquè",
-      "malgrat això",
-      "a més"
+      "per tant"
     ],
     "answer": 2,
-    "explanation": "«a més» introdueix una relació de addició.",
+    "explanation": "«per tant» introdueix una relació de conseqüència.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14113,14 +14113,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "No trobava les claus; ___, va arribar tard. Relació: exemplificació.",
+    "prompt": "El sistema ha fallat; ___, activarem el protocol manual.",
     "options": [
-      "en conseqüència",
-      "per exemple",
-      "en canvi"
+      "perquè",
+      "per tant",
+      "tanmateix"
     ],
     "answer": 1,
-    "explanation": "«per exemple» introdueix una relació de exemplificació.",
+    "explanation": "«per tant» introdueix una relació de conseqüència.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14134,14 +14134,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "L'equip ha assolit els objectius; ___, rebrà el reconeixement. Relació: causa.",
+    "prompt": "L'equip ha complert els objectius; ___, rebrà una gratificació.",
     "options": [
-      "perquè",
+      "per tant",
       "tanmateix",
-      "per tant"
+      "perquè"
     ],
     "answer": 0,
-    "explanation": "«perquè» introdueix una relació de causa.",
+    "explanation": "«per tant» introdueix una relació de conseqüència.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14155,9 +14155,9 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "L'equip ha assolit els objectius; ___, rebrà el reconeixement. Relació: conseqüència.",
+    "prompt": "La demanda ha crescut; ___, ampliarem l'horari.",
     "options": [
-      "en canvi",
+      "tanmateix",
       "perquè",
       "per tant"
     ],
@@ -14176,14 +14176,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "L'equip ha assolit els objectius; ___, rebrà el reconeixement. Relació: contrast.",
+    "prompt": "El pont és inestable; ___, restarà tancat.",
     "options": [
-      "a més",
-      "tanmateix",
-      "per tant"
+      "perquè",
+      "per tant",
+      "tanmateix"
     ],
     "answer": 1,
-    "explanation": "«tanmateix» introdueix una relació de contrast.",
+    "explanation": "«per tant» introdueix una relació de conseqüència.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14197,14 +14197,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "L'equip ha assolit els objectius; ___, rebrà el reconeixement. Relació: addició.",
+    "prompt": "La prova ha estat negativa; ___, no caldrà repetir el tractament.",
     "options": [
-      "a més",
-      "perquè",
-      "malgrat això"
+      "per tant",
+      "tanmateix",
+      "perquè"
     ],
     "answer": 0,
-    "explanation": "«a més» introdueix una relació de addició.",
+    "explanation": "«per tant» introdueix una relació de conseqüència.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14218,14 +14218,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "L'equip ha assolit els objectius; ___, rebrà el reconeixement. Relació: exemplificació.",
+    "prompt": "No hi ha prou quòrum; ___, la votació no es pot fer.",
     "options": [
-      "en canvi",
-      "en conseqüència",
-      "per exemple"
+      "tanmateix",
+      "perquè",
+      "per tant"
     ],
     "answer": 2,
-    "explanation": "«per exemple» introdueix una relació de exemplificació.",
+    "explanation": "«per tant» introdueix una relació de conseqüència.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14239,14 +14239,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El local és petit; ___, està molt ben distribuït. Relació: causa.",
+    "prompt": "La informació era falsa; ___, han rectificat la notícia.",
     "options": [
-      "per tant",
       "perquè",
+      "per tant",
       "tanmateix"
     ],
     "answer": 1,
-    "explanation": "«perquè» introdueix una relació de causa.",
+    "explanation": "«per tant» introdueix una relació de conseqüència.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14260,10 +14260,10 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El local és petit; ___, està molt ben distribuït. Relació: conseqüència.",
+    "prompt": "S'ha espatllat la calefacció; ___, treballarem en una altra planta.",
     "options": [
       "per tant",
-      "en canvi",
+      "tanmateix",
       "perquè"
     ],
     "answer": 0,
@@ -14281,7 +14281,70 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El local és petit; ___, està molt ben distribuït. Relació: contrast.",
+    "prompt": "Tots hi estan d'acord; ___, aprovarem la proposta.",
+    "options": [
+      "tanmateix",
+      "perquè",
+      "per tant"
+    ],
+    "answer": 2,
+    "explanation": "«per tant» introdueix una relació de conseqüència.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
+    },
+    "reviewedAt": "2026-08-18",
+    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
+    "exerciseType": "cohesió textual"
+  },
+  {
+    "id": "c1-bal-789",
+    "level": "C1",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "El pagament s'ha duplicat; ___, en reclamarem la devolució.",
+    "options": [
+      "perquè",
+      "per tant",
+      "tanmateix"
+    ],
+    "answer": 1,
+    "explanation": "«per tant» introdueix una relació de conseqüència.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
+    },
+    "reviewedAt": "2026-08-18",
+    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
+    "exerciseType": "cohesió textual"
+  },
+  {
+    "id": "c1-bal-790",
+    "level": "C1",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "La previsió és favorable; ___, mantindrem l'activitat.",
+    "options": [
+      "per tant",
+      "tanmateix",
+      "perquè"
+    ],
+    "answer": 0,
+    "explanation": "«per tant» introdueix una relació de conseqüència.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
+    },
+    "reviewedAt": "2026-08-18",
+    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
+    "exerciseType": "cohesió textual"
+  },
+  {
+    "id": "c1-bal-791",
+    "level": "C1",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "La proposta és cara; ___, és la més completa.",
     "options": [
       "per tant",
       "a més",
@@ -14298,81 +14361,18 @@
     "exerciseType": "cohesió textual"
   },
   {
-    "id": "c1-bal-789",
-    "level": "C1",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "El local és petit; ___, està molt ben distribuït. Relació: addició.",
-    "options": [
-      "malgrat això",
-      "a més",
-      "perquè"
-    ],
-    "answer": 1,
-    "explanation": "«a més» introdueix una relació de addició.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
-    },
-    "reviewedAt": "2026-08-18",
-    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "cohesió textual"
-  },
-  {
-    "id": "c1-bal-790",
-    "level": "C1",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "El local és petit; ___, està molt ben distribuït. Relació: exemplificació.",
-    "options": [
-      "per exemple",
-      "en canvi",
-      "en conseqüència"
-    ],
-    "answer": 0,
-    "explanation": "«per exemple» introdueix una relació de exemplificació.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
-    },
-    "reviewedAt": "2026-08-18",
-    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "cohesió textual"
-  },
-  {
-    "id": "c1-bal-791",
-    "level": "C1",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "La recerca aporta dades noves; ___, obre noves línies d'estudi. Relació: causa.",
-    "options": [
-      "tanmateix",
-      "per tant",
-      "perquè"
-    ],
-    "answer": 2,
-    "explanation": "«perquè» introdueix una relació de causa.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
-    },
-    "reviewedAt": "2026-08-18",
-    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "cohesió textual"
-  },
-  {
     "id": "c1-bal-792",
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La recerca aporta dades noves; ___, obre noves línies d'estudi. Relació: conseqüència.",
+    "prompt": "Plovia intensament; ___, vam sortir a caminar.",
     "options": [
-      "perquè",
-      "per tant",
-      "en canvi"
+      "a més",
+      "tanmateix",
+      "per tant"
     ],
     "answer": 1,
-    "explanation": "«per tant» introdueix una relació de conseqüència.",
+    "explanation": "«tanmateix» introdueix una relació de contrast.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14386,7 +14386,7 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La recerca aporta dades noves; ___, obre noves línies d'estudi. Relació: contrast.",
+    "prompt": "El local és petit; ___, està molt ben distribuït.",
     "options": [
       "tanmateix",
       "per tant",
@@ -14407,14 +14407,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La recerca aporta dades noves; ___, obre noves línies d'estudi. Relació: addició.",
+    "prompt": "No tenia experiència; ___, va resoldre el problema.",
     "options": [
-      "perquè",
-      "malgrat això",
-      "a més"
+      "per tant",
+      "a més",
+      "tanmateix"
     ],
     "answer": 2,
-    "explanation": "«a més» introdueix una relació de addició.",
+    "explanation": "«tanmateix» introdueix una relació de contrast.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14428,14 +14428,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La recerca aporta dades noves; ___, obre noves línies d'estudi. Relació: exemplificació.",
+    "prompt": "La prova era difícil; ___, la majoria la va superar.",
     "options": [
-      "en conseqüència",
-      "per exemple",
-      "en canvi"
+      "a més",
+      "tanmateix",
+      "per tant"
     ],
     "answer": 1,
-    "explanation": "«per exemple» introdueix una relació de exemplificació.",
+    "explanation": "«tanmateix» introdueix una relació de contrast.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14449,14 +14449,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El servei era lent; ___, ara respon de seguida. Relació: causa.",
+    "prompt": "El termini era molt curt; ___, vam lliurar la feina a temps.",
     "options": [
-      "perquè",
       "tanmateix",
-      "per tant"
+      "per tant",
+      "a més"
     ],
     "answer": 0,
-    "explanation": "«perquè» introdueix una relació de causa.",
+    "explanation": "«tanmateix» introdueix una relació de contrast.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14470,14 +14470,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El servei era lent; ___, ara respon de seguida. Relació: conseqüència.",
+    "prompt": "El cotxe és antic; ___, funciona perfectament.",
     "options": [
-      "en canvi",
-      "perquè",
-      "per tant"
+      "per tant",
+      "a més",
+      "tanmateix"
     ],
     "answer": 2,
-    "explanation": "«per tant» introdueix una relació de conseqüència.",
+    "explanation": "«tanmateix» introdueix una relació de contrast.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14491,7 +14491,7 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El servei era lent; ___, ara respon de seguida. Relació: contrast.",
+    "prompt": "Havia estudiat molt; ___, no va aprovar.",
     "options": [
       "a més",
       "tanmateix",
@@ -14512,14 +14512,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El servei era lent; ___, ara respon de seguida. Relació: addició.",
+    "prompt": "El servei rebia crítiques; ___, va renovar el contracte.",
     "options": [
-      "a més",
-      "perquè",
-      "malgrat això"
+      "tanmateix",
+      "per tant",
+      "a més"
     ],
     "answer": 0,
-    "explanation": "«a més» introdueix una relació de addició.",
+    "explanation": "«tanmateix» introdueix una relació de contrast.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14533,14 +14533,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El servei era lent; ___, ara respon de seguida. Relació: exemplificació.",
+    "prompt": "La ruta és llarga; ___, no presenta gaire desnivell.",
     "options": [
-      "en canvi",
-      "en conseqüència",
-      "per exemple"
+      "per tant",
+      "a més",
+      "tanmateix"
     ],
     "answer": 2,
-    "explanation": "«per exemple» introdueix una relació de exemplificació.",
+    "explanation": "«tanmateix» introdueix una relació de contrast.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14554,14 +14554,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "No hi havia places; ___, vam buscar una alternativa. Relació: causa.",
+    "prompt": "L'informe és breu; ___, conté totes les dades necessàries.",
     "options": [
-      "per tant",
-      "perquè",
-      "tanmateix"
+      "a més",
+      "tanmateix",
+      "per tant"
     ],
     "answer": 1,
-    "explanation": "«perquè» introdueix una relació de causa.",
+    "explanation": "«tanmateix» introdueix una relació de contrast.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14575,14 +14575,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "No hi havia places; ___, vam buscar una alternativa. Relació: conseqüència.",
+    "prompt": "El producte és econòmic; ___, ofereix una bona qualitat.",
     "options": [
+      "tanmateix",
       "per tant",
-      "en canvi",
-      "perquè"
+      "a més"
     ],
     "answer": 0,
-    "explanation": "«per tant» introdueix una relació de conseqüència.",
+    "explanation": "«tanmateix» introdueix una relació de contrast.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14596,7 +14596,7 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "No hi havia places; ___, vam buscar una alternativa. Relació: contrast.",
+    "prompt": "Estava molt cansada; ___, va acabar la cursa.",
     "options": [
       "per tant",
       "a més",
@@ -14617,14 +14617,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "No hi havia places; ___, vam buscar una alternativa. Relació: addició.",
+    "prompt": "La norma sembla clara; ___, genera interpretacions diferents.",
     "options": [
-      "malgrat això",
       "a més",
-      "perquè"
+      "tanmateix",
+      "per tant"
     ],
     "answer": 1,
-    "explanation": "«a més» introdueix una relació de addició.",
+    "explanation": "«tanmateix» introdueix una relació de contrast.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14638,14 +14638,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "No hi havia places; ___, vam buscar una alternativa. Relació: exemplificació.",
+    "prompt": "No compartim el diagnòstic; ___, acceptarem la decisió.",
     "options": [
-      "per exemple",
-      "en canvi",
-      "en conseqüència"
+      "tanmateix",
+      "per tant",
+      "a més"
     ],
     "answer": 0,
-    "explanation": "«per exemple» introdueix una relació de exemplificació.",
+    "explanation": "«tanmateix» introdueix una relació de contrast.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14659,14 +14659,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La norma és complexa; ___, cal explicar-la amb exemples. Relació: causa.",
+    "prompt": "La sala era sorollosa; ___, la presentació es va entendre bé.",
     "options": [
-      "tanmateix",
       "per tant",
-      "perquè"
+      "a més",
+      "tanmateix"
     ],
     "answer": 2,
-    "explanation": "«perquè» introdueix una relació de causa.",
+    "explanation": "«tanmateix» introdueix una relació de contrast.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14680,14 +14680,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La norma és complexa; ___, cal explicar-la amb exemples. Relació: conseqüència.",
+    "prompt": "El projecte comporta riscos; ___, pot generar molts beneficis.",
     "options": [
-      "perquè",
-      "per tant",
-      "en canvi"
+      "a més",
+      "tanmateix",
+      "per tant"
     ],
     "answer": 1,
-    "explanation": "«per tant» introdueix una relació de conseqüència.",
+    "explanation": "«tanmateix» introdueix una relació de contrast.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14701,7 +14701,7 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La norma és complexa; ___, cal explicar-la amb exemples. Relació: contrast.",
+    "prompt": "L'accés és complicat; ___, el paisatge compensa l'esforç.",
     "options": [
       "tanmateix",
       "per tant",
@@ -14722,14 +14722,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La norma és complexa; ___, cal explicar-la amb exemples. Relació: addició.",
+    "prompt": "Les vendes han baixat; ___, l'empresa contractarà personal.",
     "options": [
-      "perquè",
-      "malgrat això",
-      "a més"
+      "per tant",
+      "a més",
+      "tanmateix"
     ],
     "answer": 2,
-    "explanation": "«a més» introdueix una relació de addició.",
+    "explanation": "«tanmateix» introdueix una relació de contrast.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14743,70 +14743,7 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La norma és complexa; ___, cal explicar-la amb exemples. Relació: exemplificació.",
-    "options": [
-      "en conseqüència",
-      "per exemple",
-      "en canvi"
-    ],
-    "answer": 1,
-    "explanation": "«per exemple» introdueix una relació de exemplificació.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
-    },
-    "reviewedAt": "2026-08-18",
-    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "cohesió textual"
-  },
-  {
-    "id": "c1-bal-811",
-    "level": "C1",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "El pressupost ha disminuït; ___, el projecte continuarà. Relació: causa.",
-    "options": [
-      "perquè",
-      "tanmateix",
-      "per tant"
-    ],
-    "answer": 0,
-    "explanation": "«perquè» introdueix una relació de causa.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
-    },
-    "reviewedAt": "2026-08-18",
-    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "cohesió textual"
-  },
-  {
-    "id": "c1-bal-812",
-    "level": "C1",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "El pressupost ha disminuït; ___, el projecte continuarà. Relació: conseqüència.",
-    "options": [
-      "en canvi",
-      "perquè",
-      "per tant"
-    ],
-    "answer": 2,
-    "explanation": "«per tant» introdueix una relació de conseqüència.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
-    },
-    "reviewedAt": "2026-08-18",
-    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "cohesió textual"
-  },
-  {
-    "id": "c1-bal-813",
-    "level": "C1",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "El pressupost ha disminuït; ___, el projecte continuarà. Relació: contrast.",
+    "prompt": "No és una solució definitiva; ___, permet guanyar temps.",
     "options": [
       "a més",
       "tanmateix",
@@ -14823,11 +14760,74 @@
     "exerciseType": "cohesió textual"
   },
   {
+    "id": "c1-bal-811",
+    "level": "C1",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "Ha redactat l'informe; ___, hi ha incorporat tots els annexos.",
+    "options": [
+      "a més",
+      "perquè",
+      "malgrat això"
+    ],
+    "answer": 0,
+    "explanation": "«a més» introdueix una relació de addició.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
+    },
+    "reviewedAt": "2026-08-18",
+    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
+    "exerciseType": "cohesió textual"
+  },
+  {
+    "id": "c1-bal-812",
+    "level": "C1",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "El curs és gratuït; ___, ofereix material en línia.",
+    "options": [
+      "perquè",
+      "malgrat això",
+      "a més"
+    ],
+    "answer": 2,
+    "explanation": "«a més» introdueix una relació de addició.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
+    },
+    "reviewedAt": "2026-08-18",
+    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
+    "exerciseType": "cohesió textual"
+  },
+  {
+    "id": "c1-bal-813",
+    "level": "C1",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "La mesura redueix el consum; ___, millora la seguretat.",
+    "options": [
+      "malgrat això",
+      "a més",
+      "perquè"
+    ],
+    "answer": 1,
+    "explanation": "«a més» introdueix una relació de addició.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
+    },
+    "reviewedAt": "2026-08-18",
+    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
+    "exerciseType": "cohesió textual"
+  },
+  {
     "id": "c1-bal-814",
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El pressupost ha disminuït; ___, el projecte continuarà. Relació: addició.",
+    "prompt": "Domina l'anglès; ___, parla alemany amb fluïdesa.",
     "options": [
       "a més",
       "perquè",
@@ -14848,14 +14848,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El pressupost ha disminuït; ___, el projecte continuarà. Relació: exemplificació.",
+    "prompt": "Han renovat la façana; ___, han reparat la teulada.",
     "options": [
-      "en canvi",
-      "en conseqüència",
-      "per exemple"
+      "perquè",
+      "malgrat això",
+      "a més"
     ],
     "answer": 2,
-    "explanation": "«per exemple» introdueix una relació de exemplificació.",
+    "explanation": "«a més» introdueix una relació de addició.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14869,14 +14869,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La reunió s'ha ajornat; ___, la convocaran la setmana vinent. Relació: causa.",
+    "prompt": "El programa és intuïtiu; ___, funciona en dispositius mòbils.",
     "options": [
-      "per tant",
-      "perquè",
-      "tanmateix"
+      "malgrat això",
+      "a més",
+      "perquè"
     ],
     "answer": 1,
-    "explanation": "«perquè» introdueix una relació de causa.",
+    "explanation": "«a més» introdueix una relació de addició.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14890,14 +14890,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La reunió s'ha ajornat; ___, la convocaran la setmana vinent. Relació: conseqüència.",
+    "prompt": "La biblioteca amplia l'horari; ___, obrirà els diumenges.",
     "options": [
-      "per tant",
-      "en canvi",
-      "perquè"
+      "a més",
+      "perquè",
+      "malgrat això"
     ],
     "answer": 0,
-    "explanation": "«per tant» introdueix una relació de conseqüència.",
+    "explanation": "«a més» introdueix una relació de addició.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14911,14 +14911,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La reunió s'ha ajornat; ___, la convocaran la setmana vinent. Relació: contrast.",
+    "prompt": "Ha obtingut la millor nota; ___, ha rebut una menció especial.",
     "options": [
-      "per tant",
-      "a més",
-      "tanmateix"
+      "perquè",
+      "malgrat això",
+      "a més"
     ],
     "answer": 2,
-    "explanation": "«tanmateix» introdueix una relació de contrast.",
+    "explanation": "«a més» introdueix una relació de addició.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14932,7 +14932,7 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La reunió s'ha ajornat; ___, la convocaran la setmana vinent. Relació: addició.",
+    "prompt": "El barri disposa de metro; ___, té diverses línies d'autobús.",
     "options": [
       "malgrat això",
       "a més",
@@ -14953,14 +14953,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La reunió s'ha ajornat; ___, la convocaran la setmana vinent. Relació: exemplificació.",
+    "prompt": "L'acord millora els salaris; ___, redueix la jornada laboral.",
     "options": [
-      "per exemple",
-      "en canvi",
-      "en conseqüència"
+      "a més",
+      "perquè",
+      "malgrat això"
     ],
     "answer": 0,
-    "explanation": "«per exemple» introdueix una relació de exemplificació.",
+    "explanation": "«a més» introdueix una relació de addició.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14974,14 +14974,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La prova era difícil; ___, la majoria la va superar. Relació: causa.",
+    "prompt": "La reforma crea més espai; ___, aprofita millor la llum natural.",
     "options": [
-      "tanmateix",
-      "per tant",
-      "perquè"
+      "perquè",
+      "malgrat això",
+      "a més"
     ],
     "answer": 2,
-    "explanation": "«perquè» introdueix una relació de causa.",
+    "explanation": "«a més» introdueix una relació de addició.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -14995,14 +14995,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La prova era difícil; ___, la majoria la va superar. Relació: conseqüència.",
+    "prompt": "L'estudi aporta dades noves; ___, proposa mesures concretes.",
     "options": [
-      "perquè",
-      "per tant",
-      "en canvi"
+      "malgrat això",
+      "a més",
+      "perquè"
     ],
     "answer": 1,
-    "explanation": "«per tant» introdueix una relació de conseqüència.",
+    "explanation": "«a més» introdueix una relació de addició.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15016,14 +15016,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La prova era difícil; ___, la majoria la va superar. Relació: contrast.",
+    "prompt": "El museu ha renovat l'exposició; ___, ha creat una visita virtual.",
     "options": [
-      "tanmateix",
-      "per tant",
-      "a més"
+      "a més",
+      "perquè",
+      "malgrat això"
     ],
     "answer": 0,
-    "explanation": "«tanmateix» introdueix una relació de contrast.",
+    "explanation": "«a més» introdueix una relació de addició.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15037,7 +15037,7 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La prova era difícil; ___, la majoria la va superar. Relació: addició.",
+    "prompt": "La convocatòria ofereix cent places; ___, inclou una borsa de reserva.",
     "options": [
       "perquè",
       "malgrat això",
@@ -15058,14 +15058,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La prova era difícil; ___, la majoria la va superar. Relació: exemplificació.",
+    "prompt": "El vehicle consumeix poc; ___, emet menys contaminants.",
     "options": [
-      "en conseqüència",
-      "per exemple",
-      "en canvi"
+      "malgrat això",
+      "a més",
+      "perquè"
     ],
     "answer": 1,
-    "explanation": "«per exemple» introdueix una relació de exemplificació.",
+    "explanation": "«a més» introdueix una relació de addició.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15079,14 +15079,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Hem revisat les dades; ___, hem corregit les errades. Relació: causa.",
+    "prompt": "Han netejat el bosc; ___, han senyalitzat els camins.",
     "options": [
+      "a més",
       "perquè",
-      "tanmateix",
-      "per tant"
+      "malgrat això"
     ],
     "answer": 0,
-    "explanation": "«perquè» introdueix una relació de causa.",
+    "explanation": "«a més» introdueix una relació de addició.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15100,14 +15100,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Hem revisat les dades; ___, hem corregit les errades. Relació: conseqüència.",
+    "prompt": "La plataforma permet fer tràmits; ___, envia avisos automàtics.",
     "options": [
-      "en canvi",
       "perquè",
-      "per tant"
+      "malgrat això",
+      "a més"
     ],
     "answer": 2,
-    "explanation": "«per tant» introdueix una relació de conseqüència.",
+    "explanation": "«a més» introdueix una relació de addició.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15121,14 +15121,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Hem revisat les dades; ___, hem corregit les errades. Relació: contrast.",
+    "prompt": "La dieta és equilibrada; ___, resulta fàcil de seguir.",
     "options": [
+      "malgrat això",
       "a més",
-      "tanmateix",
-      "per tant"
+      "perquè"
     ],
     "answer": 1,
-    "explanation": "«tanmateix» introdueix una relació de contrast.",
+    "explanation": "«a més» introdueix una relació de addició.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15142,7 +15142,7 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Hem revisat les dades; ___, hem corregit les errades. Relació: addició.",
+    "prompt": "L'equip ha reduït els errors; ___, ha accelerat els lliuraments.",
     "options": [
       "a més",
       "perquè",
@@ -15163,7 +15163,70 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Hem revisat les dades; ___, hem corregit les errades. Relació: exemplificació.",
+    "prompt": "El pla protegeix el patrimoni; ___, promou el comerç local.",
+    "options": [
+      "perquè",
+      "malgrat això",
+      "a més"
+    ],
+    "answer": 2,
+    "explanation": "«a més» introdueix una relació de addició.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
+    },
+    "reviewedAt": "2026-08-18",
+    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
+    "exerciseType": "cohesió textual"
+  },
+  {
+    "id": "c1-bal-831",
+    "level": "C1",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "Algunes mesures permeten estalviar energia, ___, apagar els llums innecessaris.",
+    "options": [
+      "en conseqüència",
+      "per exemple",
+      "en canvi"
+    ],
+    "answer": 1,
+    "explanation": "«per exemple» introdueix una relació de exemplificació.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
+    },
+    "reviewedAt": "2026-08-18",
+    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
+    "exerciseType": "cohesió textual"
+  },
+  {
+    "id": "c1-bal-832",
+    "level": "C1",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "Hi ha fruites riques en vitamina C, ___, la taronja.",
+    "options": [
+      "per exemple",
+      "en canvi",
+      "en conseqüència"
+    ],
+    "answer": 0,
+    "explanation": "«per exemple» introdueix una relació de exemplificació.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
+    },
+    "reviewedAt": "2026-08-18",
+    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
+    "exerciseType": "cohesió textual"
+  },
+  {
+    "id": "c1-bal-833",
+    "level": "C1",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "Diversos oficis requereixen precisió manual, ___, la rellotgeria.",
     "options": [
       "en canvi",
       "en conseqüència",
@@ -15180,81 +15243,18 @@
     "exerciseType": "cohesió textual"
   },
   {
-    "id": "c1-bal-831",
-    "level": "C1",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "La carretera estava tallada; ___, vam canviar de ruta. Relació: causa.",
-    "options": [
-      "per tant",
-      "perquè",
-      "tanmateix"
-    ],
-    "answer": 1,
-    "explanation": "«perquè» introdueix una relació de causa.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
-    },
-    "reviewedAt": "2026-08-18",
-    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "cohesió textual"
-  },
-  {
-    "id": "c1-bal-832",
-    "level": "C1",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "La carretera estava tallada; ___, vam canviar de ruta. Relació: conseqüència.",
-    "options": [
-      "per tant",
-      "en canvi",
-      "perquè"
-    ],
-    "answer": 0,
-    "explanation": "«per tant» introdueix una relació de conseqüència.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
-    },
-    "reviewedAt": "2026-08-18",
-    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "cohesió textual"
-  },
-  {
-    "id": "c1-bal-833",
-    "level": "C1",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "La carretera estava tallada; ___, vam canviar de ruta. Relació: contrast.",
-    "options": [
-      "per tant",
-      "a més",
-      "tanmateix"
-    ],
-    "answer": 2,
-    "explanation": "«tanmateix» introdueix una relació de contrast.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
-    },
-    "reviewedAt": "2026-08-18",
-    "reviewedBy": "Codex; redistribució C1 i contrast CPNL",
-    "exerciseType": "cohesió textual"
-  },
-  {
     "id": "c1-bal-834",
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La carretera estava tallada; ___, vam canviar de ruta. Relació: addició.",
+    "prompt": "Alguns tràmits es poden fer en línia, ___, demanar un certificat.",
     "options": [
-      "malgrat això",
-      "a més",
-      "perquè"
+      "en conseqüència",
+      "per exemple",
+      "en canvi"
     ],
     "answer": 1,
-    "explanation": "«a més» introdueix una relació de addició.",
+    "explanation": "«per exemple» introdueix una relació de exemplificació.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15268,7 +15268,7 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La carretera estava tallada; ___, vam canviar de ruta. Relació: exemplificació.",
+    "prompt": "Moltes aus migren a la tardor, ___, les orenetes.",
     "options": [
       "per exemple",
       "en canvi",
@@ -15289,14 +15289,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El document és incomplet; ___, l'hem retornat. Relació: causa.",
+    "prompt": "Certs materials són bons aïllants, ___, el suro.",
     "options": [
-      "tanmateix",
-      "per tant",
-      "perquè"
+      "en canvi",
+      "en conseqüència",
+      "per exemple"
     ],
     "answer": 2,
-    "explanation": "«perquè» introdueix una relació de causa.",
+    "explanation": "«per exemple» introdueix una relació de exemplificació.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15310,14 +15310,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El document és incomplet; ___, l'hem retornat. Relació: conseqüència.",
+    "prompt": "Algunes activitats milloren la resistència, ___, nedar.",
     "options": [
-      "perquè",
-      "per tant",
+      "en conseqüència",
+      "per exemple",
       "en canvi"
     ],
     "answer": 1,
-    "explanation": "«per tant» introdueix una relació de conseqüència.",
+    "explanation": "«per exemple» introdueix una relació de exemplificació.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15331,14 +15331,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El document és incomplet; ___, l'hem retornat. Relació: contrast.",
+    "prompt": "Hi ha fonts d'energia renovable, ___, la solar.",
     "options": [
-      "tanmateix",
-      "per tant",
-      "a més"
+      "per exemple",
+      "en canvi",
+      "en conseqüència"
     ],
     "answer": 0,
-    "explanation": "«tanmateix» introdueix una relació de contrast.",
+    "explanation": "«per exemple» introdueix una relació de exemplificació.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15352,14 +15352,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El document és incomplet; ___, l'hem retornat. Relació: addició.",
+    "prompt": "Diversos connectors expressen contrast, ___, tanmateix.",
     "options": [
-      "perquè",
-      "malgrat això",
-      "a més"
+      "en canvi",
+      "en conseqüència",
+      "per exemple"
     ],
     "answer": 2,
-    "explanation": "«a més» introdueix una relació de addició.",
+    "explanation": "«per exemple» introdueix una relació de exemplificació.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15373,7 +15373,7 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El document és incomplet; ___, l'hem retornat. Relació: exemplificació.",
+    "prompt": "Alguns residus s'han de dur a la deixalleria, ___, les piles.",
     "options": [
       "en conseqüència",
       "per exemple",
@@ -15394,14 +15394,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La mesura és temporal; ___, s'avaluarà al desembre. Relació: causa.",
+    "prompt": "Moltes plantes aromàtiques són mediterrànies, ___, la farigola.",
     "options": [
-      "perquè",
-      "tanmateix",
-      "per tant"
+      "per exemple",
+      "en canvi",
+      "en conseqüència"
     ],
     "answer": 0,
-    "explanation": "«perquè» introdueix una relació de causa.",
+    "explanation": "«per exemple» introdueix una relació de exemplificació.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15415,14 +15415,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La mesura és temporal; ___, s'avaluarà al desembre. Relació: conseqüència.",
+    "prompt": "Certes dades són especialment sensibles, ___, les mèdiques.",
     "options": [
       "en canvi",
-      "perquè",
-      "per tant"
+      "en conseqüència",
+      "per exemple"
     ],
     "answer": 2,
-    "explanation": "«per tant» introdueix una relació de conseqüència.",
+    "explanation": "«per exemple» introdueix una relació de exemplificació.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15436,14 +15436,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La mesura és temporal; ___, s'avaluarà al desembre. Relació: contrast.",
+    "prompt": "Hi ha mesures per reduir el trànsit, ___, ampliar el transport públic.",
     "options": [
-      "a més",
-      "tanmateix",
-      "per tant"
+      "en conseqüència",
+      "per exemple",
+      "en canvi"
     ],
     "answer": 1,
-    "explanation": "«tanmateix» introdueix una relació de contrast.",
+    "explanation": "«per exemple» introdueix una relació de exemplificació.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15457,14 +15457,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La mesura és temporal; ___, s'avaluarà al desembre. Relació: addició.",
+    "prompt": "Algunes paraules porten dièresi, ___, veïna.",
     "options": [
-      "a més",
-      "perquè",
-      "malgrat això"
+      "per exemple",
+      "en canvi",
+      "en conseqüència"
     ],
     "answer": 0,
-    "explanation": "«a més» introdueix una relació de addició.",
+    "explanation": "«per exemple» introdueix una relació de exemplificació.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15478,7 +15478,7 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "La mesura és temporal; ___, s'avaluarà al desembre. Relació: exemplificació.",
+    "prompt": "Diversos mamífers hibernen, ___, la marmota.",
     "options": [
       "en canvi",
       "en conseqüència",
@@ -15499,14 +15499,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El sistema és segur; ___, cal renovar les contrasenyes. Relació: causa.",
+    "prompt": "Hi ha documents que exigeixen signatura, ___, el contracte.",
     "options": [
-      "per tant",
-      "perquè",
-      "tanmateix"
+      "en conseqüència",
+      "per exemple",
+      "en canvi"
     ],
     "answer": 1,
-    "explanation": "«perquè» introdueix una relació de causa.",
+    "explanation": "«per exemple» introdueix una relació de exemplificació.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15520,14 +15520,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El sistema és segur; ___, cal renovar les contrasenyes. Relació: conseqüència.",
+    "prompt": "Alguns aliments contenen molt de ferro, ___, les llenties.",
     "options": [
-      "per tant",
+      "per exemple",
       "en canvi",
-      "perquè"
+      "en conseqüència"
     ],
     "answer": 0,
-    "explanation": "«per tant» introdueix una relació de conseqüència.",
+    "explanation": "«per exemple» introdueix una relació de exemplificació.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15541,14 +15541,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El sistema és segur; ___, cal renovar les contrasenyes. Relació: contrast.",
+    "prompt": "Certes despeses són deduïbles, ___, les vinculades a l'activitat.",
     "options": [
-      "per tant",
-      "a més",
-      "tanmateix"
+      "en canvi",
+      "en conseqüència",
+      "per exemple"
     ],
     "answer": 2,
-    "explanation": "«tanmateix» introdueix una relació de contrast.",
+    "explanation": "«per exemple» introdueix una relació de exemplificació.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15562,14 +15562,14 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El sistema és segur; ___, cal renovar les contrasenyes. Relació: addició.",
+    "prompt": "Hi ha eines per comprovar l'ortografia, ___, els diccionaris normatius.",
     "options": [
-      "malgrat això",
-      "a més",
-      "perquè"
+      "en conseqüència",
+      "per exemple",
+      "en canvi"
     ],
     "answer": 1,
-    "explanation": "«a més» introdueix una relació de addició.",
+    "explanation": "«per exemple» introdueix una relació de exemplificació.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Relacions de causa, conseqüència, contrast, addició i ordre"
@@ -15583,7 +15583,7 @@
     "level": "C1",
     "topic": "connectors",
     "status": "published",
-    "prompt": "El sistema és segur; ___, cal renovar les contrasenyes. Relació: exemplificació.",
+    "prompt": "Alguns espais naturals tenen protecció especial, ___, els parcs nacionals.",
     "options": [
       "per exemple",
       "en canvi",
