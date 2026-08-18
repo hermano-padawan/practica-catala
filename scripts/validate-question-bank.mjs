@@ -1,9 +1,14 @@
-import { readFile } from "node:fs/promises";
+import { readFile, readdir } from "node:fs/promises";
 
-const paths = ["c1.json", "c1-ortografia.json"].map((file) => new URL(`../content/questions/${file}`, import.meta.url));
+const directory = new URL("../content/questions/", import.meta.url);
+const paths = (await readdir(directory))
+  .filter((file) => /^c1.*\.json$/.test(file))
+  .sort()
+  .map((file) => new URL(file, directory));
 const questions = (await Promise.all(paths.map(async (path) => JSON.parse(await readFile(path, "utf8"))))).flat();
 const errors = [];
 const ids = new Set();
+const exactExercises = new Set();
 
 for (const [index, q] of questions.entries()) {
   const at = `questions[${index}]`;
@@ -17,6 +22,9 @@ for (const [index, q] of questions.entries()) {
   if (new Set(q.options).size !== q.options.length) errors.push(`${at}: opcions duplicades`);
   if (q.options?.some((option) => option !== option.trim())) errors.push(`${at}: espais sobrers en una opció`);
   if (!q.explanation?.trim()) errors.push(`${at}: falta l'explicació`);
+  const signature = JSON.stringify([q.prompt, q.options]);
+  if (exactExercises.has(signature)) errors.push(`${at}: exercici exactament duplicat`);
+  exactExercises.add(signature);
   if (q.status === 'published') {
     if (!q.source?.url || !q.source?.locator) errors.push(`${at}: una pregunta publicada necessita font i localitzador`);
     if (!q.reviewedAt || !q.reviewedBy) errors.push(`${at}: una pregunta publicada necessita revisió documentada`);
