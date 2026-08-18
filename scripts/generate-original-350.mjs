@@ -36,6 +36,18 @@ const nasContexts = [
   "Revisa el ___ abans de pagar.","El diari sortirà de la ___.","La policia va trobar una ___ a la porta.","El nadó va començar a ___.","El protagonista caminava ___.",
   "Aquesta regla és fàcil de recordar amb un recurs ___.","El tràmit gaudeix d'una ___ fiscal.","El candidat està ___ de fer la prova.","La resposta té un caràcter ___.","La febre pot ser un ___ de la infecció."
 ];
+const hacContexts = [
+  "La candidata ha demostrat que és molt ___.","El pescador va posar l'esquer a l'___.","La coral va interpretar la peça amb gran ___.","Podries ___ avisat abans.","El documental reconstrueix aquella ___.",
+  "El dipòsit té una capacitat d'un ___.","El cim és a un ___ del refugi.","La potència aspirava a mantenir la seva ___.","El museu conserva un bust ___.","El debat es farà a l'___ del Parlament.",
+  "El mapa representa cada ___.","El poema és un ___.","La figura té forma d'___.","L'escut pertany a l'àmbit ___.","La tortuga s'amaga entre l'___.",
+  "L'___ rebrà la propietat familiar.","L'han operat d'una ___.","Defensa un plantejament ___.","Un ___ regular té sis costats.","Van ___ la bandera al balcó.",
+  "A l'___ es fa fosc molt aviat.","El pacient continua ingressat a l'___.","L'alberg ofereix ___ als excursionistes.","Cada ___ disposa d'una habitació individual.","El sacerdot va sostenir l'___ durant la cerimònia.",
+  "La mina extreia ___ per alimentar els forns.","Aquesta substància es pot ___ a la superfície.","Vaig acabar l'informe ___.","Primer ho explicarà i, ___, respondrà preguntes.","No pots parlar i escoltar ___.",
+  "Sentia un fort ___ de llibertat.","L'exèrcit pretenia ___ tota resistència.","La notícia li va causar una gran ___.","La mediació facilita la ___ entre les parts.","La pressió social el podia ___.",
+  "Les seves paraules van ser un gran ___.","L'activitat ajudava a ___ els participants.","La planta comença a ___ una olor intensa.","Hem d'___ totes les places disponibles.","El manifest vol ___ la ciutadania a actuar.",
+  "L'orquestra interpretarà un repertori ___.","La contradicció és ___ al plantejament.","El tractament redueix la ___.","El documental explica la vida d'un ___.","El monument és un antic ___.",
+  "La campanya s'adreça a ___.","El servei funciona a tota ___.","La població ___ viu al Sàhara Occidental.","Estudia la llengua ___.","La finca es vendrà en ___."
+];
 const erraContexts = [
   "La seva ___ treballava a l'hospital.","La capsa té una ___ transparent.","Va menjar una ___ per postres.","L'exercici d'___ era força complex.","La gata és tímida i ___.",
   "Una ___ travessava el camí.","En ___ presentarà la ponència.","Hem preparat ___ amb verdures.","Aprèn a tocar la ___.","Des de la ___ es veu tota la vall.",
@@ -48,7 +60,7 @@ const erraContexts = [
   "Prefereixo ___ abans de respondre.","La vergonya la va fer ___.","La campanya combat l'___.","El museu exposa un ___ de l'artista.","El moviment impulsava la ___.",
   "Va guanyar la prova ___.","L'equip intenta ___ l'ofensiva rival.","La ___ va transformar el país.","Viuen en un barri de l'___.","La càmera detecta radiació d'___."
 ];
-if(nasContexts.length!==50 || erraContexts.length!==50) throw new Error("Cada bloc contextual ha de contenir exactament 50 frases");
+if(nasContexts.length!==50 || hacContexts.length!==50 || erraContexts.length!==50) throw new Error("Cada bloc contextual ha de contenir exactament 50 frases");
 
 function wrongForms(word,key){
   const candidates=[];
@@ -77,7 +89,7 @@ for(const block of blocks){
     if(wrong.length!==2) throw new Error(`${block.key}/${word}: no hi ha dos distractors`);
     const answer=(questions.length+index)%3;
     const options=[...wrong]; options.splice(answer,0,word);
-    const contexts=block.key==="nas"?nasContexts:block.key==="erra"?erraContexts:null;
+    const contexts=block.key==="nas"?nasContexts:block.key==="hac"?hacContexts:block.key==="erra"?erraContexts:null;
     const prompt=contexts?`Completa amb la forma correcta: «${contexts[index]}»`:frames[index%frames.length];
     questions.push({
       id:`c1-${block.key}-${String(651+questions.length).padStart(3,"0")}`,
