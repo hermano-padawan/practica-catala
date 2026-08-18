@@ -4579,7 +4579,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Completa: «Estudia a ___ universitat pública».",
+    "prompt": "Completa: «Estudia a ___ universitat pública».",
     "options": [
       "una l'",
       "la",
@@ -4600,7 +4600,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «l'». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Completa: «Estudia a ___ universitat pública». S'hi ha proposat «l'». Quina opció l'ha de substituir?",
     "options": [
       "l'",
       "la",
@@ -4621,7 +4621,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Completa: «Estudia a ___ universitat pública». 2) Completa: «Hem felicitat ___ Ignàsia».",
     "options": [
       "l' · la",
       "la · l'",
@@ -4642,7 +4642,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Quina expressió està ben escrita?",
+    "prompt": "Quina expressió està ben escrita?",
     "options": [
       "la'història contemporània",
       "l'història contemporània",
@@ -4663,7 +4663,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «la'història contemporània». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Quina expressió està ben escrita? S'hi ha proposat «la'història contemporània». Quina opció l'ha de substituir?",
     "options": [
       "la'història contemporània",
       "la història contemporània",
@@ -4684,7 +4684,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Quina expressió està ben escrita? 2) Quin article personal està ben escrit?",
     "options": [
       "la'història contemporània · n'Anna",
       "la història contemporània · n Anna",
@@ -4705,7 +4705,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Completa: «Ja sabem ___ hora de sortida».",
+    "prompt": "Completa: «Ja sabem ___ hora de sortida».",
     "options": [
       "el",
       "la",
@@ -4726,7 +4726,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «el». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Completa: «Ja sabem ___ hora de sortida». S'hi ha proposat «el». Quina opció l'ha de substituir?",
     "options": [
       "el",
       "l'",
@@ -4747,7 +4747,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Completa: «Ja sabem ___ hora de sortida». 2) Quina expressió està ben escrita?",
     "options": [
       "el · la iaia",
       "l' · la'iaia",
@@ -4768,7 +4768,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Completa: «És un llibre ___ història medieval».",
+    "prompt": "Completa: «És un llibre ___ història medieval».",
     "options": [
       "del",
       "de",
@@ -4789,7 +4789,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «del». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Completa: «És un llibre ___ història medieval». S'hi ha proposat «del». Quina opció l'ha de substituir?",
     "options": [
       "del",
       "d'",
@@ -4810,7 +4810,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Completa: «És un llibre ___ història medieval». 2) Completa: «___ iode és un element químic».",
     "options": [
       "del · El",
       "d' · Lo",
@@ -4831,7 +4831,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Quina forma és correcta davant del nom Imma?",
+    "prompt": "Quina forma és correcta davant del nom Imma?",
     "options": [
       "la'Imma",
       "la Imma",
@@ -4852,7 +4852,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «la'Imma». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Quina forma és correcta davant del nom Imma? S'hi ha proposat «la'Imma». Quina opció l'ha de substituir?",
     "options": [
       "la'Imma",
       "l'Imma",
@@ -4873,7 +4873,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Quina forma és correcta davant del nom Imma? 2) Quina forma és correcta?",
     "options": [
       "la'Imma · la UEFA",
       "l'Imma · la'UEFA",
@@ -4894,7 +4894,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Quina forma és correcta davant del nom Immaculada?",
+    "prompt": "Quina forma és correcta davant del nom Immaculada?",
     "options": [
       "l Immaculada",
       "l'Immaculada",
@@ -4915,7 +4915,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «l Immaculada». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Quina forma és correcta davant del nom Immaculada? S'hi ha proposat «l Immaculada». Quina opció l'ha de substituir?",
     "options": [
       "l Immaculada",
       "la Immaculada",
@@ -4936,7 +4936,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Quina forma és correcta davant del nom Immaculada? 2) Completa: «Han comprat un pot ___ iogurt».",
     "options": [
       "l Immaculada · de",
       "la Immaculada · del",
@@ -4957,7 +4957,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Completa: «Hem felicitat ___ Ignasi».",
+    "prompt": "Completa: «Hem felicitat ___ Ignasi».",
     "options": [
       "la",
       "el",
@@ -4978,7 +4978,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «la». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Completa: «Hem felicitat ___ Ignasi». S'hi ha proposat «la». Quina opció l'ha de substituir?",
     "options": [
       "la",
       "l'",
@@ -4999,7 +4999,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Completa: «Hem felicitat ___ Ignasi». 2) Quina expressió està ben escrita?",
     "options": [
       "la · el hiat",
       "l' · el'hiat",
@@ -5020,7 +5020,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Completa: «Hem felicitat ___ Ignàsia».",
+    "prompt": "Completa: «Hem felicitat ___ Ignàsia».",
     "options": [
       "el",
       "la",
@@ -5041,7 +5041,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «l'». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Completa: «Hem felicitat ___ Ignàsia». S'hi ha proposat «l'». Quina opció l'ha de substituir?",
     "options": [
       "l'",
       "la",
@@ -5062,7 +5062,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Completa: «Hem felicitat ___ Ignàsia». 2) Quina forma indica correctament l'hora?",
     "options": [
       "l' · la una de la matinada",
       "la · la'una de la matinada",
@@ -5083,7 +5083,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Quin article personal està ben escrit?",
+    "prompt": "Quin article personal està ben escrit?",
     "options": [
       "n Anna",
       "na Anna",
@@ -5104,7 +5104,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «n Anna». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Quin article personal està ben escrit? S'hi ha proposat «n Anna». Quina opció l'ha de substituir?",
     "options": [
       "n Anna",
       "n'Anna",
@@ -5125,7 +5125,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Quin article personal està ben escrit? 2) Com s'escriu el nom de la lletra o amb article?",
     "options": [
       "n Anna · la o",
       "n'Anna · la'o",
@@ -5146,7 +5146,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Quina expressió està ben escrita?",
+    "prompt": "Quina expressió està ben escrita?",
     "options": [
       "la'iaia",
       "l'iaia",
@@ -5167,7 +5167,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «la'iaia». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Quina expressió està ben escrita? S'hi ha proposat «la'iaia». Quina opció l'ha de substituir?",
     "options": [
       "la'iaia",
       "la iaia",
@@ -5188,7 +5188,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Quina expressió està ben escrita? 2) Quina forma és correcta davant de la xifra 1?",
     "options": [
       "la'iaia · l'1",
       "la iaia · la 1",
@@ -5209,7 +5209,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Completa: «___ iode és un element químic».",
+    "prompt": "Completa: «___ iode és un element químic».",
     "options": [
       "Lo",
       "L'",
@@ -5230,7 +5230,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «Lo». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Completa: «___ iode és un element químic». S'hi ha proposat «Lo». Quina opció l'ha de substituir?",
     "options": [
       "Lo",
       "El",
@@ -5251,7 +5251,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Completa: «___ iode és un element químic». 2) Quina forma és correcta davant de la sigla FMI?",
     "options": [
       "Lo · l'FMI",
       "El · la FMI",
@@ -5272,7 +5272,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Quina forma és correcta?",
+    "prompt": "Quina forma és correcta?",
     "options": [
       "la'UEFA",
       "l'UEFA",
@@ -5293,7 +5293,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «la'UEFA». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Quina forma és correcta? S'hi ha proposat «la'UEFA». Quina opció l'ha de substituir?",
     "options": [
       "la'UEFA",
       "la UEFA",
@@ -5314,7 +5314,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Quina forma és correcta? 2) Completa: «Demà anirem ___ banc».",
     "options": [
       "la'UEFA · al",
       "la UEFA · a l'",
@@ -5335,7 +5335,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Completa: «Han comprat un pot ___ iogurt».",
+    "prompt": "Completa: «Han comprat un pot ___ iogurt».",
     "options": [
       "del",
       "d'",
@@ -5356,7 +5356,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «del». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Completa: «Han comprat un pot ___ iogurt». S'hi ha proposat «del». Quina opció l'ha de substituir?",
     "options": [
       "del",
       "de",
@@ -5377,7 +5377,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Completa: «Han comprat un pot ___ iogurt». 2) Completa: «S'allotjaran ___ hotel del centre».",
     "options": [
       "del · a l'",
       "de · a el",
@@ -5398,7 +5398,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Quina expressió està ben escrita?",
+    "prompt": "Quina expressió està ben escrita?",
     "options": [
       "el'hiat",
       "l'hiat",
@@ -5419,7 +5419,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «el'hiat». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Quina expressió està ben escrita? S'hi ha proposat «el'hiat». Quina opció l'ha de substituir?",
     "options": [
       "el'hiat",
       "el hiat",
@@ -5440,7 +5440,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Quina expressió està ben escrita? 2) Completa: «Acaba de sortir ___ despatx».",
     "options": [
       "el'hiat · del",
       "el hiat · de l'",
@@ -5461,7 +5461,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Quina forma indica correctament l'hora?",
+    "prompt": "Quina forma indica correctament l'hora?",
     "options": [
       "la'una de la matinada",
       "l'una de la matinada",
@@ -5482,7 +5482,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «la'una de la matinada». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Quina forma indica correctament l'hora? S'hi ha proposat «la'una de la matinada». Quina opció l'ha de substituir?",
     "options": [
       "la'una de la matinada",
       "la una de la matinada",
@@ -5503,7 +5503,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Quina forma indica correctament l'hora? 2) Completa: «Aquesta és la jaqueta ___ avi».",
     "options": [
       "la'una de la matinada · de l'",
       "la una de la matinada · de el",
@@ -5524,7 +5524,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Com s'escriu el nom de la lletra o amb article?",
+    "prompt": "Com s'escriu el nom de la lletra o amb article?",
     "options": [
       "la'o",
       "l'o",
@@ -5545,7 +5545,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «la'o». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Com s'escriu el nom de la lletra o amb article? S'hi ha proposat «la'o». Quina opció l'ha de substituir?",
     "options": [
       "la'o",
       "la o",
@@ -5566,7 +5566,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Com s'escriu el nom de la lletra o amb article? 2) Completa: «Passegem ___ carrer principal».",
     "options": [
       "la'o · pel",
       "la o · per l'",
@@ -5587,7 +5587,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Quina forma és correcta davant de la xifra 1?",
+    "prompt": "Quina forma és correcta davant de la xifra 1?",
     "options": [
       "la 1",
       "el 1",
@@ -5608,7 +5608,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «la 1». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Quina forma és correcta davant de la xifra 1? S'hi ha proposat «la 1». Quina opció l'ha de substituir?",
     "options": [
       "la 1",
       "l'1",
@@ -5629,7 +5629,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Quina forma és correcta davant de la xifra 1? 2) Completa: «Entrarem ___ avinguda principal».",
     "options": [
       "la 1 · per l'",
       "l'1 · pel",
@@ -5650,7 +5650,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Quina forma és correcta davant de la sigla FMI?",
+    "prompt": "Quina forma és correcta davant de la sigla FMI?",
     "options": [
       "la FMI",
       "el FMI",
@@ -5671,7 +5671,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «la FMI». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Quina forma és correcta davant de la sigla FMI? S'hi ha proposat «la FMI». Quina opció l'ha de substituir?",
     "options": [
       "la FMI",
       "l'FMI",
@@ -5692,7 +5692,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Quina forma és correcta davant de la sigla FMI? 2) Completa: «Aquesta carta és ___ director».",
     "options": [
       "la FMI · per al",
       "l'FMI · per el",
@@ -5713,7 +5713,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Completa: «Demà anirem ___ banc».",
+    "prompt": "Completa: «Demà anirem ___ banc».",
     "options": [
       "a l'",
       "a el",
@@ -5734,7 +5734,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «a l'». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Completa: «Demà anirem ___ banc». S'hi ha proposat «a l'». Quina opció l'ha de substituir?",
     "options": [
       "a l'",
       "al",
@@ -5755,7 +5755,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Completa: «Demà anirem ___ banc». 2) Completa: «Estudia a ___ universitat pública».",
     "options": [
       "a l' · la",
       "al · l'",
@@ -5776,7 +5776,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Completa: «S'allotjaran ___ hotel del centre».",
+    "prompt": "Completa: «S'allotjaran ___ hotel del centre».",
     "options": [
       "a el",
       "al",
@@ -5797,7 +5797,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «a el». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Completa: «S'allotjaran ___ hotel del centre». S'hi ha proposat «a el». Quina opció l'ha de substituir?",
     "options": [
       "a el",
       "a l'",
@@ -5818,7 +5818,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Completa: «S'allotjaran ___ hotel del centre». 2) Quina expressió està ben escrita?",
     "options": [
       "a el · la història contemporània",
       "a l' · la'història contemporània",
@@ -5839,7 +5839,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Completa: «Acaba de sortir ___ despatx».",
+    "prompt": "Completa: «Acaba de sortir ___ despatx».",
     "options": [
       "de l'",
       "de el",
@@ -5860,7 +5860,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «de l'». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Completa: «Acaba de sortir ___ despatx». S'hi ha proposat «de l'». Quina opció l'ha de substituir?",
     "options": [
       "de l'",
       "del",
@@ -5881,7 +5881,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Completa: «Acaba de sortir ___ despatx». 2) Completa: «Ja sabem ___ hora de sortida».",
     "options": [
       "de l' · l'",
       "del · el",
@@ -5902,7 +5902,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Completa: «Aquesta és la jaqueta ___ avi».",
+    "prompt": "Completa: «Aquesta és la jaqueta ___ avi».",
     "options": [
       "de el",
       "del",
@@ -5923,7 +5923,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «de el». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Completa: «Aquesta és la jaqueta ___ avi». S'hi ha proposat «de el». Quina opció l'ha de substituir?",
     "options": [
       "de el",
       "de l'",
@@ -5944,7 +5944,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Completa: «Aquesta és la jaqueta ___ avi». 2) Completa: «És un llibre ___ història medieval».",
     "options": [
       "de el · d'",
       "de l' · del",
@@ -5965,7 +5965,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Completa: «Passegem ___ carrer principal».",
+    "prompt": "Completa: «Passegem ___ carrer principal».",
     "options": [
       "per l'",
       "per el",
@@ -5986,7 +5986,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «per l'». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Completa: «Passegem ___ carrer principal». S'hi ha proposat «per l'». Quina opció l'ha de substituir?",
     "options": [
       "per l'",
       "pel",
@@ -6007,7 +6007,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Completa: «Passegem ___ carrer principal». 2) Quina forma és correcta davant del nom Imma?",
     "options": [
       "per l' · l'Imma",
       "pel · la'Imma",
@@ -6028,7 +6028,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Completa: «Entrarem ___ avinguda principal».",
+    "prompt": "Completa: «Entrarem ___ avinguda principal».",
     "options": [
       "per el",
       "per l'",
@@ -6049,7 +6049,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «pel». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Completa: «Entrarem ___ avinguda principal». S'hi ha proposat «pel». Quina opció l'ha de substituir?",
     "options": [
       "pel",
       "per l'",
@@ -6070,7 +6070,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Completa: «Entrarem ___ avinguda principal». 2) Quina forma és correcta davant del nom Immaculada?",
     "options": [
       "pel · la Immaculada",
       "per l' · l Immaculada",
@@ -6091,7 +6091,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Nou context d'aplicació. Completa: «Aquesta carta és ___ director».",
+    "prompt": "Completa: «Aquesta carta és ___ director».",
     "options": [
       "per al",
       "per el",
@@ -6112,7 +6112,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "En una revisió apareix «per el». Quina substitució és correcta?",
+    "prompt": "Revisa aquest cas: Completa: «Aquesta carta és ___ director». S'hi ha proposat «per el». Quina opció l'ha de substituir?",
     "options": [
       "per el",
       "per al",
@@ -6133,7 +6133,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina opció resol correctament tots dos casos?",
+    "prompt": "Resol els dos casos en el mateix ordre: 1) Completa: «Aquesta carta és ___ director». 2) Completa: «Hem felicitat ___ Ignasi».",
     "options": [
       "per el · l'",
       "per al · la",
