@@ -24,6 +24,18 @@ const frames = [
   "Assenyala l'opció ortogràficament correcta.", "Quina forma conservaries en una revisió professional?",
   "Tria l'única opció sense errors.", "Quina grafia és adequada en un text formal?",
 ];
+const erraContexts = [
+  "La seva ___ treballava a l'hospital.","La capsa té una ___ transparent.","Va menjar una ___ per postres.","L'exercici d'___ era força complex.","La gata és tímida i ___.",
+  "Una ___ travessava el camí.","En ___ presentarà la ponència.","Hem preparat ___ amb verdures.","Aprèn a tocar la ___.","Des de la ___ es veu tota la vall.",
+  "Hem de ___ amb la direcció.","Vam ___ atentament el paisatge.","El cor va començar a ___.","Li agrada ___ cada matí.","No has de ___ cap conseqüència.",
+  "Les plantes necessiten llum per ___.","Després de dinar vol ___.","No podem ___ aquesta injustícia.","Cal ___ els fullets entre els assistents.","La ___ del cel anunciava tempesta.",
+  "Han restaurat un ___ abandonat.","La ___ de l'hivern tenyia el paisatge.","El ___ va reparar la porta.","Duia un ___ de seda.","El metge li va auscultar el ___.",
+  "La novel·la parla d'un ___ impossible.","El vaixell es va endinsar a la ___.","La llum del ___ guiava els navegants.","El projecte mira cap al ___.","És un parent ___.",
+  "Va rebre l'acte amb gran ___.","La proposta aporta molt de ___.","La taxa d'___ ha disminuït.","El ___ meteorològic detectava la tempesta.","Em pots fer el ___ d'acostar-m'ho?",
+  "Un ___ de sol entrava per la finestra.","Van seure en un ___ tranquil.","Necessito temps per ___ la resposta.","Deixa de ___ i explica què et passa.","El ___ ha quedat negat per la pluja.",
+  "Prefereixo ___ abans de respondre.","La vergonya la va fer ___.","La campanya combat l'___.","El museu exposa un ___ de l'artista.","El moviment impulsava la ___.",
+  "Va guanyar la prova ___.","L'equip intenta ___ l'ofensiva rival.","La ___ va transformar el país.","Viuen en un barri de l'___.","La càmera detecta radiació d'___."
+];
 
 function wrongForms(word,key){
   const candidates=[];
@@ -52,9 +64,10 @@ for(const block of blocks){
     if(wrong.length!==2) throw new Error(`${block.key}/${word}: no hi ha dos distractors`);
     const answer=(questions.length+index)%3;
     const options=[...wrong]; options.splice(answer,0,word);
+    const prompt=block.key==="erra"?`Completa amb la forma correcta: «${erraContexts[index].replace(word,"___") }»`:frames[index%frames.length];
     questions.push({
       id:`c1-${block.key}-${String(651+questions.length).padStart(3,"0")}`,
-      level:"C1", topic:"ortografia", status:"published", prompt:frames[index%frames.length],
+      level:"C1", topic:"ortografia", status:"published", prompt,
       options, answer,
       explanation:`La forma normativa és «${word}». Aquest exercici treballa ${block.label}.`,
       source:{url:block.url,locator:block.locator}, reviewedAt:"2026-08-18",
