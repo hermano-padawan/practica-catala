@@ -18,6 +18,13 @@ const verbSource={url:"https://www.cpnl.cat/gramatica/46/13-els-verbs",locator:"
 const haverSource={url:"https://www.cpnl.cat/gramatica/91/29-verbs-amb-pronom",locator:"Ús impersonal d'haver-hi"};
 const connSource={url:"https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",locator:"Relacions de causa, conseqüència, contrast, addició i ordre"};
 const lexSource={url:"https://www.cpnl.cat/gramatica/135/6-els-barbarismes",locator:"Barbarismes i alternatives normatives"};
+function verbExplanation(prompt,correct){
+  if(/No crec|Dubto|No sembla|Negava|No pensava|No era segur|improbable/.test(prompt))return `La negació o el dubte introdueixen el subjuntiu: «${correct}».`;
+  if(/\bSi\b/.test(prompt))return `En una condició hipotètica amb condicional, usem l'imperfet de subjuntiu: «${correct}».`;
+  if(/Vol|Prefer|Deman|deman|Calia|necessari|Convé|millor|Desitjo|agradaria|Hauríem preferit/.test(prompt))return `La voluntat, la preferència o la necessitat introdueixen el subjuntiu: «${correct}».`;
+  if(/Quan|Abans que|fins que|sense que/.test(prompt))return `Si el fet temporal o modal encara no s'ha realitzat, usem el subjuntiu: «${correct}».`;
+  return `El fet es presenta com a possible, desitjat o no confirmat; per això usem el subjuntiu: «${correct}».`;
+}
 
 // 75 d'accentuació: 50 casos lèxics diferents i 25 revisions dobles.
 const accents=originals.filter(q=>q.id.includes("-accent-"));
@@ -38,7 +45,7 @@ for(const [i,q] of accents.entries()) add("accentuacio","Completa amb la forma c
 for(let i=0;i<25;i++){
   const a=core[i],b=core[(i+11)%25],ca=a.options[a.answer],cb=b.options[b.answer];
   add("accentuacio","Quina parella està ben accentuada?",[ca+" · "+cb,a.options[(a.answer+1)%3]+" · "+cb,ca+" · "+b.options[(b.answer+1)%3]],0,
-    "Les dues formes normatives són «"+ca+"» i «"+cb+"».",accentSource,"revisió doble");
+    `«${ca}» i «${cb}» porten els accents que corresponen a la síl·laba tònica i a la terminació de cada mot.`,accentSource,"revisió doble");
 }
 
 // 75 d'apostrofació: aplicació, correcció i contrast de 25 regles documentades.
@@ -47,10 +54,10 @@ for(const [i,q] of apost.entries()){
   add("apostrofacio",q.prompt,q.options,q.answer,q.explanation,apostSource,"aplicació contextual");
   const c=q.options[q.answer],w=q.options[(q.answer+1)%q.options.length];
   add("apostrofacio","Revisa aquest cas: "+q.prompt+" S'hi ha proposat «"+w+"». Quina opció l'ha de substituir?",[w,c,q.options[(q.answer+2)%q.options.length]],1,
-    "La forma que cal emprar és «"+c+"». "+q.explanation,apostSource,"correcció");
+    q.explanation,apostSource,"correcció");
   const n=apost[(i+7)%25],cn=n.options[n.answer];
   add("apostrofacio","Resol els dos casos en el mateix ordre: 1) "+q.prompt+" 2) "+n.prompt,[c+" · "+cn,w+" · "+cn,c+" · "+n.options[(n.answer+1)%3]],0,
-    "Les dues formes correctes són «"+c+"» i «"+cn+"».",apostSource,"contrast doble");
+    q.explanation+" "+n.explanation,apostSource,"contrast doble");
 }
 
 const nouns="pa pomes llibres cafè arròs entrades temps paciència diners informació fotografies preguntes feina experiència sucre farina aigua vi oli notícies proves documents informes exemples idees propostes solucions dubtes records ganes por fred calor pressa sort cura material roba música energia espai ajuda suport permís responsabilitat confiança interès costum oportunitats recursos".split(" ");
@@ -112,7 +119,7 @@ const verbRows=[
 ];
 for(let i=0;i<100;i++){const r=verbRows[i%50],correction=i>=50;
  const prompt=correction?"Corregeix la forma verbal de «"+r[0].replace("___",r[2])+"»":r[0];
- add("verbs",prompt,[r[2],r[1],r[3]],1,"El context exigeix la forma «"+r[1]+"».",verbSource,correction?"correcció verbal":"subjuntiu en context");}
+ add("verbs",prompt,[r[2],r[1],r[3]],1,verbExplanation(r[0],r[1]),verbSource,correction?"correcció verbal":"subjuntiu en context");}
 
 const connectorGroups=[
  {rel:"causa",c:"perquè",d:["per tant","tanmateix"],items:[
@@ -158,9 +165,9 @@ const lexContexts=[
 ];
 if(lexPairs.length!==50 || lexContexts.length!==50) throw new Error("El bloc lèxic necessita 50 correspondències i 50 contextos");
 for(let i=0;i<50;i++){const [w,c]=lexPairs[i],n=lexPairs[(i+17)%50];
- add("lexic","Revisa aquesta frase: "+lexContexts[i]+" Quina forma ha de substituir «"+w+"»?",[c,w,n[1]],0,"La forma adequada és «"+c+"».",lexSource,"barbarismes");
+ add("lexic","Revisa aquesta frase: "+lexContexts[i]+" Quina forma ha de substituir «"+w+"»?",[c,w,n[1]],0,`«${w}» no és normatiu en aquest sentit; cal substituir-lo per «${c}».`,lexSource,"barbarismes");
  add("lexic","Quina correspondència és íntegrament correcta?",[w+" → "+c,n[0]+" → "+n[0],w+" → "+n[1]],0,
-  "La correspondència normativa és «"+w+" → "+c+"».",lexSource,"revisió lèxica");
+  `«${w}» no és normatiu en aquest sentit; l'alternativa adequada és «${c}».`,lexSource,"revisió lèxica");
 }
 
 if(out.length!==850) throw new Error("El banc equilibrat ha de tenir 850 registres i en té "+out.length);

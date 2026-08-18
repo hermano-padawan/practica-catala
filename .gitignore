@@ -40,3 +40,7 @@ next-env.d.ts
 /.sites-runtime/
 /outputs/
 /work/
+
+# Generated question banks (rebuilt before validation and deployment)
+/content/questions/c1-originals-350.json
+/content/questions/c1-equilibrat-850.json

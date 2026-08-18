@@ -19,6 +19,15 @@ for (const [index, q] of questions.entries()) {
   if (new Set(q.options).size !== q.options.length) errors.push(`${at}: opcions duplicades`);
   if (q.options?.some((option) => option !== option.trim())) errors.push(`${at}: espais sobrers en una opció`);
   if (!q.explanation?.trim()) errors.push(`${at}: falta l'explicació`);
+  if (q.explanation?.split("\n").length > 3) errors.push(`${at}: l'explicació supera les tres línies`);
+  if (q.explanation?.length > 180) errors.push(`${at}: l'explicació és massa llarga`);
+  if (/Aquest exercici treballa|La forma normativa és/.test(q.explanation ?? "")) errors.push(`${at}: explicació genèrica o metalingüística`);
+  for (const option of q.options ?? []) {
+    for (const word of option.split(/\s+/)) {
+      const accents = word.match(/[àèéíòóúÀÈÉÍÒÓÚ]/g)?.length ?? 0;
+      if (accents > 1) errors.push(`${at}: l'opció conté un mot amb més d'un accent gràfic: ${word}`);
+    }
+  }
   const signature = JSON.stringify([q.prompt, q.options]);
   if (exactExercises.has(signature)) errors.push(`${at}: exercici exactament duplicat`);
   exactExercises.add(signature);

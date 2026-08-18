@@ -63,6 +63,17 @@ const erraContexts = [
 if(nasContexts.length!==50 || hacContexts.length!==50 || erraContexts.length!==50) throw new Error("Cada bloc contextual ha de contenir exactament 50 frases");
 
 function wrongForms(word,key){
+  if(key==="accent"){
+    const plain=word.normalize("NFD").replace(/\p{Diacritic}/gu,"");
+    const accentedIndex=[...word].findIndex(char=>/[àèéíòóú]/i.test(char));
+    const plainChars=[...plain],vowels=[];
+    plainChars.forEach((char,index)=>{if(/[aeiou]/i.test(char))vowels.push(index)});
+    const originalPlainIndex=word.slice(0,accentedIndex).normalize("NFD").replace(/\p{Diacritic}/gu,"").length;
+    const target=vowels.find(index=>index!==originalPlainIndex)??vowels.at(-1);
+    const marks={a:"à",e:"è",i:"í",o:"ò",u:"ú",A:"À",E:"È",I:"Í",O:"Ò",U:"Ú"};
+    const displaced=[...plainChars]; displaced[target]=marks[displaced[target]];
+    return [plain,displaced.join("")];
+  }
   const candidates=[];
   for(const [from,to] of replacements[key]){
     if(word.includes(from)) candidates.push(word.replace(from,to));
@@ -72,12 +83,34 @@ function wrongForms(word,key){
   if(plain!==word) candidates.push(plain);
   if(key==="hac" && !word.startsWith("h")) candidates.push(`h${word}`);
   if(key==="guionet" && !word.includes("-")) candidates.push(word.replace(/^(.{3,7})/,"$1-"));
-  const accented=word.replace(/[aeiou]/,v=>({a:"à",e:"è",i:"í",o:"ò",u:"ú"})[v]);
+  const accented=/[àèéíòóú]/i.test(word)?word:word.replace(/[aeiou]/,v=>({a:"à",e:"è",i:"í",o:"ò",u:"ú"})[v]);
   if(accented!==word) candidates.push(accented);
   const shortened=word.replace(/[mnrx]/,"");
   if(shortened!==word) candidates.push(shortened);
   candidates.push(`${word}h`);
   return [...new Set(candidates)].filter(candidate=>candidate!==word).slice(0,2);
+}
+
+const agudes=new Set("camió cançó cafè perquè després també arròs jardí matí ningú comú avió camí Berlín interès comprèn depèn això allò".split(" "));
+const esdruixoles=new Set("màquina música pàgina història ciència família església memòria política pràctica pública ràpida última ànima brúixola fórmula període quilòmetre número víctima".split(" "));
+function explanationFor(word,key){
+  if(key==="accent"){
+    if(agudes.has(word))return `«${word}» és aguda i porta accent perquè acaba en vocal, vocal + s, -en o -in.`;
+    if(esdruixoles.has(word))return `«${word}» és esdrúixola; totes les paraules esdrúixoles s'accentuen.`;
+    return `«${word}» és plana i porta accent perquè no acaba en vocal, vocal + s, -en o -in.`;
+  }
+  if(key==="nas"){
+    if(/mm/.test(word))return `«${word}» s'escriu amb mm; la doble consonant conserva la grafia del mot o del prefix que la forma.`;
+    if(/nn/.test(word))return `«${word}» s'escriu amb nn; en aquests mots, la doble ena forma part de la grafia normativa.`;
+    if(/mp|mpt|mb/.test(word))return `«${word}» s'escriu amb m: davant de b i p, generalment fem servir m i no n.`;
+    return `«${word}» conserva aquesta grafia nasal; cal distingir-hi m i n segons la forma normativa del mot.`;
+  }
+  if(key==="hac")return `«${word}» té aquesta grafia normativa. La hac és muda en català i no es pot deduir de la pronunciació.`;
+  if(key==="erra"){
+    if(/rr/.test(word))return `«${word}» s'escriu amb rr entre vocals per representar el so vibrant fort.`;
+    if(/r/.test(word))return `«${word}» s'escriu amb una sola r en aquesta posició; rr només apareix entre vocals.`;
+  }
+  return `«${word}» és la grafia normativa; les altres opcions alteren una consonant o un signe ortogràfic.`;
 }
 
 const questions=[];
@@ -95,7 +128,7 @@ for(const block of blocks){
       id:`c1-${block.key}-${String(651+questions.length).padStart(3,"0")}`,
       level:"C1", topic:"ortografia", status:"published", prompt,
       options, answer,
-      explanation:`La forma normativa és «${word}». Aquest exercici treballa ${block.label}.`,
+      explanation:explanationFor(word,block.key),
       source:{url:block.url,locator:block.locator}, reviewedAt:"2026-08-18",
       reviewedBy:"Codex; contrast CPNL i revisió automàtica de consistència"
     });
