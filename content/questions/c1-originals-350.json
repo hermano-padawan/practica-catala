@@ -4,7 +4,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina és la grafia normativa?",
+    "prompt": "Completa amb la forma correcta: «La masia conserva una ___ amb volta de pedra.»",
     "options": [
       "cambra",
       "canbra",
@@ -24,7 +24,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Tria el mot ben escrit.",
+    "prompt": "Completa amb la forma correcta: «Van passejar per la ___ fins al mar.»",
     "options": [
       "ranbla",
       "ràmbla",
@@ -44,7 +44,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina forma admet la normativa?",
+    "prompt": "Completa amb la forma correcta: «L'___ desprenia una olor intensa.»",
     "options": [
       "anbre",
       "ambre",
@@ -64,7 +64,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Assenyala l'opció ortogràficament correcta.",
+    "prompt": "Completa amb la forma correcta: «Treballa amb un ___ de la universitat.»",
     "options": [
       "company",
       "conpany",
@@ -84,7 +84,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina forma conservaries en una revisió professional?",
+    "prompt": "Completa amb la forma correcta: «La ___ de material es farà abans de divendres.»",
     "options": [
       "conpra",
       "còmpra",
@@ -104,7 +104,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Tria l'única opció sense errors.",
+    "prompt": "Completa amb la forma correcta: «Volen ___ la biblioteca municipal.»",
     "options": [
       "anpliar",
       "ampliar",
@@ -124,7 +124,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina grafia és adequada en un text formal?",
+    "prompt": "Completa amb la forma correcta: «L'orquestra interpretarà una ___ de Mozart.»",
     "options": [
       "simfonia",
       "sinfonia",
@@ -144,7 +144,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina és la grafia normativa?",
+    "prompt": "Completa amb la forma correcta: «L'___ va presentar l'espectacle.»",
     "options": [
       "anfitrió",
       "amfitrio",
@@ -164,7 +164,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Tria el mot ben escrit.",
+    "prompt": "Completa amb la forma correcta: «La victòria va ser un gran ___.»",
     "options": [
       "trionf",
       "triomf",
@@ -184,7 +184,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina forma admet la normativa?",
+    "prompt": "Completa amb la forma correcta: «Cal ___ els documents en un lloc segur.»",
     "options": [
       "emmagatzemar",
       "emagatzemar",
@@ -204,7 +204,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Assenyala l'opció ortogràficament correcta.",
+    "prompt": "Completa amb la forma correcta: «L'edifici continua ___ malgrat les obres.»",
     "options": [
       "imòbil",
       "inmòbil",
@@ -224,7 +224,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina forma conservaries en una revisió professional?",
+    "prompt": "Completa amb la forma correcta: «El verí podria ___ l'aigua del pou.»",
     "options": [
       "emetzinar",
       "emmetzinar",
@@ -244,7 +244,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Tria l'única opció sense errors.",
+    "prompt": "Completa amb la forma correcta: «El mirall permet ___ el paisatge.»",
     "options": [
       "emmirallar",
       "emirallar",
@@ -264,7 +264,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina grafia és adequada en un text formal?",
+    "prompt": "Completa amb la forma correcta: «Han ___ tot el recinte.»",
     "options": [
       "emurallat",
       "enmurallat",
@@ -284,7 +284,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina és la grafia normativa?",
+    "prompt": "Completa amb la forma correcta: «La lletra grega ___ apareix en la fórmula.»",
     "options": [
       "gama",
       "gamma",
@@ -304,7 +304,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Tria el mot ben escrit.",
+    "prompt": "Completa amb la forma correcta: «La joiera va encastar una ___ al penjoll.»",
     "options": [
       "gemma",
       "gema",
@@ -324,7 +324,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina forma admet la normativa?",
+    "prompt": "Completa amb la forma correcta: «El laboratori ha de romandre ___.»",
     "options": [
       "imaculat",
       "inmaculat",
@@ -344,7 +344,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Assenyala l'opció ortogràficament correcta.",
+    "prompt": "Completa amb la forma correcta: «La ___ en aigua freda va durar pocs segons.»",
     "options": [
       "imersió",
       "immersió",
@@ -364,7 +364,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina forma conservaries en una revisió professional?",
+    "prompt": "Completa amb la forma correcta: «El sistema permet ___ dues línies telefòniques.»",
     "options": [
       "commutar",
       "comutar",
@@ -384,7 +384,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Tria l'única opció sense errors.",
+    "prompt": "Completa amb la forma correcta: «La llegenda parla d'un heroi ___.»",
     "options": [
       "imortal",
       "inmortal",
@@ -404,7 +404,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina grafia és adequada en un text formal?",
+    "prompt": "Completa amb la forma correcta: «Va respondre amb un gest ___.»",
     "options": [
       "sonrís",
       "somrís",
@@ -424,7 +424,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina és la grafia normativa?",
+    "prompt": "Completa amb la forma correcta: «La ___ va publicar un comunicat.»",
     "options": [
       "premsa",
       "prensa",
@@ -444,7 +444,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Tria el mot ben escrit.",
+    "prompt": "Completa amb la forma correcta: «Celebren l'___ de la Mare de Déu.»",
     "options": [
       "Assunpció",
       "Assumpcio",
@@ -464,7 +464,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina forma admet la normativa?",
+    "prompt": "Completa amb la forma correcta: «La indemnització forma part de la ___.»",
     "options": [
       "redenpció",
       "redempció",
@@ -484,7 +484,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Assenyala l'opció ortogràficament correcta.",
+    "prompt": "Completa amb la forma correcta: «Encara queda un ___ per resoldre.»",
     "options": [
       "assumpte",
       "assunpte",
@@ -504,7 +504,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina forma conservaries en una revisió professional?",
+    "prompt": "Completa amb la forma correcta: «L'explosió va ser un ___ contra la població.»",
     "options": [
       "atenptat",
       "àtemptat",
@@ -524,7 +524,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Tria l'única opció sense errors.",
+    "prompt": "Completa amb la forma correcta: «El personatge busca el seu ___.»",
     "options": [
       "redenptor",
       "redemptor",
@@ -544,7 +544,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina grafia és adequada en un text formal?",
+    "prompt": "Completa amb la forma correcta: «El diàmetre divideix la ___ en dues parts.»",
     "options": [
       "circumferència",
       "circunferència",
@@ -564,7 +564,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina és la grafia normativa?",
+    "prompt": "Completa amb la forma correcta: «Actuarem segons aquesta ___.»",
     "options": [
       "circunstància",
       "circumstàmcia",
@@ -584,7 +584,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Tria el mot ben escrit.",
+    "prompt": "Completa amb la forma correcta: «Ens volen ___ a participar en el projecte.»",
     "options": [
       "comvidar",
       "convidar",
@@ -604,7 +604,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina forma admet la normativa?",
+    "prompt": "Completa amb la forma correcta: «L'enginyer va presentar un nou ___.»",
     "options": [
       "invent",
       "imvent",
@@ -624,7 +624,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Assenyala l'opció ortogràficament correcta.",
+    "prompt": "Completa amb la forma correcta: «El ple ha aprovat el ___ pressupostari.»",
     "options": [
       "camvi",
       "cànvi",
@@ -644,7 +644,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina forma conservaries en una revisió professional?",
+    "prompt": "Completa amb la forma correcta: «El centre estudia cada proposta de ___.»",
     "options": [
       "tranvia",
       "tramvia",
@@ -664,7 +664,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Tria l'única opció sense errors.",
+    "prompt": "Completa amb la forma correcta: «Roma fou governada per un ___.»",
     "options": [
       "triumvirat",
       "triunvirat",
@@ -684,7 +684,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina grafia és adequada en un text formal?",
+    "prompt": "Completa amb la forma correcta: «L'actriu es diu ___.»",
     "options": [
       "Ana",
       "Amna",
@@ -704,7 +704,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina és la grafia normativa?",
+    "prompt": "Completa amb la forma correcta: «És un talent ___.»",
     "options": [
       "inat",
       "innat",
@@ -724,7 +724,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Tria el mot ben escrit.",
+    "prompt": "Completa amb la forma correcta: «El contracte inclou un document ___.»",
     "options": [
       "annex",
       "anex",
@@ -744,7 +744,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina forma admet la normativa?",
+    "prompt": "Completa amb la forma correcta: «Aquest mot funciona com a ___.»",
     "options": [
       "conector",
       "comnector",
@@ -764,7 +764,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Assenyala l'opció ortogràficament correcta.",
+    "prompt": "Completa amb la forma correcta: «L'acusat es declara ___.»",
     "options": [
       "inocent",
       "innocent",
@@ -784,7 +784,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina forma conservaries en una revisió professional?",
+    "prompt": "Completa amb la forma correcta: «La fulla és ___.»",
     "options": [
       "perenne",
       "perene",
@@ -804,7 +804,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Tria l'única opció sense errors.",
+    "prompt": "Completa amb la forma correcta: «Revisa el ___ abans de pagar.»",
     "options": [
       "conpte",
       "còmpte",
@@ -824,7 +824,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina grafia és adequada en un text formal?",
+    "prompt": "Completa amb la forma correcta: «El diari sortirà de la ___.»",
     "options": [
       "inpremta",
       "impremta",
@@ -844,7 +844,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina és la grafia normativa?",
+    "prompt": "Completa amb la forma correcta: «La policia va trobar una ___ a la porta.»",
     "options": [
       "empremta",
       "enpremta",
@@ -864,7 +864,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Tria el mot ben escrit.",
+    "prompt": "Completa amb la forma correcta: «El nadó va començar a ___.»",
     "options": [
       "sonriure",
       "sòmriure",
@@ -884,7 +884,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina forma admet la normativa?",
+    "prompt": "Completa amb la forma correcta: «El protagonista caminava ___.»",
     "options": [
       "somnànbul",
       "somnàmbul",
@@ -904,7 +904,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Assenyala l'opció ortogràficament correcta.",
+    "prompt": "Completa amb la forma correcta: «Aquesta regla és fàcil de recordar amb un recurs ___.»",
     "options": [
       "mnemotècnic",
       "nnemotècnic",
@@ -924,7 +924,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina forma conservaries en una revisió professional?",
+    "prompt": "Completa amb la forma correcta: «El tràmit gaudeix d'una ___ fiscal.»",
     "options": [
       "exenpció",
       "exempcio",
@@ -944,7 +944,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Tria l'única opció sense errors.",
+    "prompt": "Completa amb la forma correcta: «El candidat està ___ de fer la prova.»",
     "options": [
       "exenpt",
       "exempt",
@@ -964,7 +964,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina grafia és adequada en un text formal?",
+    "prompt": "Completa amb la forma correcta: «La resposta té un caràcter ___.»",
     "options": [
       "peremptori",
       "perenptori",
@@ -984,7 +984,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Quina és la grafia normativa?",
+    "prompt": "Completa amb la forma correcta: «La febre pot ser un ___ de la infecció.»",
     "options": [
       "sínptoma",
       "simptoma",
