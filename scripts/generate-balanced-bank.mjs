@@ -135,7 +135,7 @@ for(const group of connectorGroups) for(const [left,right] of group.items){
 const lexPairs=[
 ["abertura","obertura"],["garantitzar","garantir"],["aconteixement","esdeveniment"],["acostumbrar","acostumar"],["adelantar","avançar"],
 ["ademés","a més"],["agotar","esgotar"],["agravar","agreujar"],["albedrío","albir"],["alcançar","assolir"],
-["algo","alguna cosa"],["ambos","ambdós"],["amparo","empara"],["àngul","angle"],["aplaçar","ajornar"],
+["algo","alguna cosa"],["ambos","ambdós"],["amparo","empara"],["àngul","angle"],["lograr","aconseguir"],
 ["apoiar","donar suport"],["arrepentir-se","penedir-se"],["retràs","retard"],["hassanya","proesa"],["bisagra","frontissa"],
 ["búsqueda","recerca"],["calificar","qualificar"],["calitat","qualitat"],["cantitat","quantitat"],["casi","gairebé"],
 ["ganader","ramader"],["humillar","humiliar"],["crusar","creuar"],["cuidadós","acurat"],["demés","la resta"],
@@ -144,8 +144,21 @@ const lexPairs=[
 ["enchufe","endoll"],["enfermetat","malaltia"],["en ves de","en lloc de"],["extranger","estranger"],["extrany","estrany"],
 ["fallo","errada"],["fetxa","data"],["financiar","finançar"],["fronterís","fronterer"],["fulla de paper","full de paper"]
 ];
+const lexContexts=[
+"L'obertura oficial apareix com a «abertura».","El text fa servir «garantitzar» la qualitat.","La notícia parla d'un «aconteixement» inesperat.","Diu que cal «acostumbrar» l'equip al canvi.","L'informe proposa «adelantar» la reunió.",
+"La frase afegeix «ademés» al començament.","El dipòsit es podria «agotar» aviat.","La mesura pot «agravar» el conflicte.","Va actuar segons el seu «albedrío».","L'equip espera «alcançar» l'objectiu.",
+"Ens han comunicat «algo» important.","«Ambos» candidats han acceptat.","Va quedar sota el seu «amparo».","Cal mesurar cada «àngul» del polígon.","Esperen «lograr» un bon resultat.",
+"L'entitat vol «apoiar» el projecte.","Podria «arrepentir-se» de la decisió.","El tren acumula un «retràs» considerable.","La crònica descriu aquella «hassanya».","La porta necessita una «bisagra» nova.",
+"La policia ha iniciat una «búsqueda».","El tribunal haurà de «calificar» la prova.","El servei promet més «calitat».","Han reduït la «cantitat» prevista.","La sala és «casi» plena.",
+"El sector «ganader» reclama ajuts.","No s'ha de «humillar» ningú.","Van «crusar» el carrer corrent.","És un professional molt «cuidadós».","Els «demés» esperen a fora.",
+"Volen «derribar» l'edifici antic.","No podem «derrotxar» els recursos.","Cal «desarrollar» el projecte.","«Desde luego», hi assistirem.","El cas arribarà al «jusgat».",
+"Van «desetxar» la proposta.","Cal «despejar» tots els dubtes.","L'empresa encara té «deuda».","Va «donar-se compte» de l'error.","Han d'«insertar» una imatge.",
+"L'ordinador no arriba a l'«enchufe».","Aquesta «enfermetat» requereix repòs.","Ho farem «en ves de» cancel·lar-ho.","L'estudiant és «extranger».","El resultat sembla «extrany».",
+"El sistema ha detectat un «fallo».","Comprova la «fetxa» del document.","El banc podria «financiar» l'obra.","És un municipi «fronterís».","Escriu-ho en una «fulla de paper»."
+];
+if(lexPairs.length!==50 || lexContexts.length!==50) throw new Error("El bloc lèxic necessita 50 correspondències i 50 contextos");
 for(let i=0;i<50;i++){const [w,c]=lexPairs[i],n=lexPairs[(i+17)%50];
- add("lexic","Quina és l'alternativa catalana normativa a «"+w+"»?",[c,w,n[1]],0,"La forma adequada és «"+c+"».",lexSource,"barbarismes");
+ add("lexic","Revisa aquesta frase: "+lexContexts[i]+" Quina forma ha de substituir «"+w+"»?",[c,w,n[1]],0,"La forma adequada és «"+c+"».",lexSource,"barbarismes");
  add("lexic","Quina correspondència és íntegrament correcta?",[w+" → "+c,n[0]+" → "+n[0],w+" → "+n[1]],0,
   "La correspondència normativa és «"+w+" → "+c+"».",lexSource,"revisió lèxica");
 }
