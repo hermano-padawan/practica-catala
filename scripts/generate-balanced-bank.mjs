@@ -31,12 +31,12 @@ for(let i=0;i<25;i++){
 // 75 d'apostrofació: aplicació, correcció i contrast de 25 regles documentades.
 const apost=core.slice(25,50);
 for(const [i,q] of apost.entries()){
-  add("apostrofacio","Nou context d'aplicació. "+q.prompt,q.options,q.answer,q.explanation,apostSource,"aplicació contextual");
+  add("apostrofacio",q.prompt,q.options,q.answer,q.explanation,apostSource,"aplicació contextual");
   const c=q.options[q.answer],w=q.options[(q.answer+1)%q.options.length];
-  add("apostrofacio","En una revisió apareix «"+w+"». Quina substitució és correcta?",[w,c,q.options[(q.answer+2)%q.options.length]],1,
+  add("apostrofacio","Revisa aquest cas: "+q.prompt+" S'hi ha proposat «"+w+"». Quina opció l'ha de substituir?",[w,c,q.options[(q.answer+2)%q.options.length]],1,
     "La forma que cal emprar és «"+c+"». "+q.explanation,apostSource,"correcció");
   const n=apost[(i+7)%25],cn=n.options[n.answer];
-  add("apostrofacio","Quina opció resol correctament tots dos casos?",[c+" · "+cn,w+" · "+cn,c+" · "+n.options[(n.answer+1)%3]],0,
+  add("apostrofacio","Resol els dos casos en el mateix ordre: 1) "+q.prompt+" 2) "+n.prompt,[c+" · "+cn,w+" · "+cn,c+" · "+n.options[(n.answer+1)%3]],0,
     "Les dues formes correctes són «"+c+"» i «"+cn+"».",apostSource,"contrast doble");
 }
 
