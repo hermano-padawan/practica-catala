@@ -8,7 +8,7 @@
     "options": [
       "cambra",
       "canbra",
-      "cambrah"
+      "càmbra"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «cambra». Aquest exercici treballa les consonants nasals.",
@@ -27,7 +27,7 @@
     "prompt": "Tria el mot ben escrit.",
     "options": [
       "ranbla",
-      "ramblah",
+      "ràmbla",
       "rambla"
     ],
     "answer": 2,
@@ -48,7 +48,7 @@
     "options": [
       "anbre",
       "ambre",
-      "ambreh"
+      "àmbre"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «ambre». Aquest exercici treballa les consonants nasals.",
@@ -68,7 +68,7 @@
     "options": [
       "company",
       "conpany",
-      "companyh"
+      "còmpany"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «company». Aquest exercici treballa les consonants nasals.",
@@ -87,7 +87,7 @@
     "prompt": "Quina forma conservaries en una revisió professional?",
     "options": [
       "conpra",
-      "comprah",
+      "còmpra",
       "compra"
     ],
     "answer": 2,
@@ -108,7 +108,7 @@
     "options": [
       "anpliar",
       "ampliar",
-      "ampliarh"
+      "àmpliar"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «ampliar». Aquest exercici treballa les consonants nasals.",
@@ -168,7 +168,7 @@
     "options": [
       "trionf",
       "triomf",
-      "triomfh"
+      "tríomf"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «triomf». Aquest exercici treballa les consonants nasals.",
@@ -428,7 +428,7 @@
     "options": [
       "premsa",
       "prensa",
-      "premsah"
+      "prèmsa"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «premsa». Aquest exercici treballa les consonants nasals.",
@@ -488,7 +488,7 @@
     "options": [
       "assumpte",
       "assunpte",
-      "assumpteh"
+      "àssumpte"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «assumpte». Aquest exercici treballa les consonants nasals.",
@@ -507,7 +507,7 @@
     "prompt": "Quina forma conservaries en una revisió professional?",
     "options": [
       "atenptat",
-      "atemptath",
+      "àtemptat",
       "atemptat"
     ],
     "answer": 2,
@@ -528,7 +528,7 @@
     "options": [
       "redenptor",
       "redemptor",
-      "redemptorh"
+      "rèdemptor"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «redemptor». Aquest exercici treballa les consonants nasals.",
@@ -588,7 +588,7 @@
     "options": [
       "comvidar",
       "convidar",
-      "convidarh"
+      "cònvidar"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «convidar». Aquest exercici treballa les consonants nasals.",
@@ -608,7 +608,7 @@
     "options": [
       "invent",
       "imvent",
-      "inventh"
+      "ínvent"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «invent». Aquest exercici treballa les consonants nasals.",
@@ -627,7 +627,7 @@
     "prompt": "Assenyala l'opció ortogràficament correcta.",
     "options": [
       "camvi",
-      "canvih",
+      "cànvi",
       "canvi"
     ],
     "answer": 2,
@@ -648,7 +648,7 @@
     "options": [
       "tranvia",
       "tramvia",
-      "tramviah"
+      "tràmvia"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «tramvia». Aquest exercici treballa les consonants nasals.",
@@ -668,7 +668,7 @@
     "options": [
       "triumvirat",
       "triunvirat",
-      "triumvirath"
+      "tríumvirat"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «triumvirat». Aquest exercici treballa les consonants nasals.",
@@ -807,7 +807,7 @@
     "prompt": "Tria l'única opció sense errors.",
     "options": [
       "conpte",
-      "compteh",
+      "còmpte",
       "compte"
     ],
     "answer": 2,
@@ -828,7 +828,7 @@
     "options": [
       "inpremta",
       "impremta",
-      "impremtah"
+      "ímpremta"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «impremta». Aquest exercici treballa les consonants nasals.",
@@ -848,7 +848,7 @@
     "options": [
       "empremta",
       "enpremta",
-      "empremtah"
+      "èmpremta"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «empremta». Aquest exercici treballa les consonants nasals.",
@@ -867,7 +867,7 @@
     "prompt": "Tria el mot ben escrit.",
     "options": [
       "sonriure",
-      "somriureh",
+      "sòmriure",
       "somriure"
     ],
     "answer": 2,
@@ -948,7 +948,7 @@
     "options": [
       "exenpt",
       "exempt",
-      "exempth"
+      "èxempt"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «exempt». Aquest exercici treballa les consonants nasals.",
@@ -968,7 +968,7 @@
     "options": [
       "peremptori",
       "perenptori",
-      "peremptorih"
+      "pèremptori"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «peremptori». Aquest exercici treballa les consonants nasals.",
@@ -2008,7 +2008,7 @@
     "options": [
       "marre",
       "mare",
-      "mareh"
+      "mae"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «mare». Aquest exercici treballa la r i la rr.",
@@ -2028,7 +2028,7 @@
     "options": [
       "cara",
       "carra",
-      "carah"
+      "caa"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «cara». Aquest exercici treballa la r i la rr.",
@@ -2047,7 +2047,7 @@
     "prompt": "Quina forma admet la normativa?",
     "options": [
       "perra",
-      "perah",
+      "pea",
       "pera"
     ],
     "answer": 2,
@@ -2068,7 +2068,7 @@
     "options": [
       "arritmètica",
       "aritmètica",
-      "aritmetica"
+      "aitmètica"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «aritmètica». Aquest exercici treballa la r i la rr.",
@@ -2088,7 +2088,7 @@
     "options": [
       "poruga",
       "porruga",
-      "porugah"
+      "pouga"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «poruga». Aquest exercici treballa la r i la rr.",
@@ -2107,7 +2107,7 @@
     "prompt": "Tria l'única opció sense errors.",
     "options": [
       "rrata",
-      "ratah",
+      "ata",
       "rata"
     ],
     "answer": 2,
@@ -2126,9 +2126,9 @@
     "status": "published",
     "prompt": "Quina grafia és adequada en un text formal?",
     "options": [
-      "Ramonh",
+      "Ràmon",
       "Ramon",
-      "Ramon·"
+      "Raon"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «Ramon». Aquest exercici treballa la r i la rr.",
@@ -2208,7 +2208,7 @@
     "options": [
       "parlar",
       "parrlar",
-      "parlarh"
+      "palar"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «parlar». Aquest exercici treballa la r i la rr.",
@@ -2227,7 +2227,7 @@
     "prompt": "Quina forma conservaries en una revisió professional?",
     "options": [
       "mirrar",
-      "mirarh",
+      "miar",
       "mirar"
     ],
     "answer": 2,
@@ -2248,7 +2248,7 @@
     "options": [
       "cantarr",
       "cantar",
-      "cantarh"
+      "canta"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «cantar». Aquest exercici treballa la r i la rr.",
@@ -2287,7 +2287,7 @@
     "prompt": "Quina és la grafia normativa?",
     "options": [
       "témerr",
-      "temer",
+      "téme",
       "témer"
     ],
     "answer": 2,
@@ -2308,7 +2308,7 @@
     "options": [
       "crréixer",
       "créixer",
-      "creixer"
+      "céixer"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «créixer». Aquest exercici treballa la r i la rr.",
@@ -2328,7 +2328,7 @@
     "options": [
       "dormir",
       "dorrmir",
-      "dormirh"
+      "domir"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «dormir». Aquest exercici treballa la r i la rr.",
@@ -2347,7 +2347,7 @@
     "prompt": "Assenyala l'opció ortogràficament correcta.",
     "options": [
       "patirr",
-      "patirh",
+      "pati",
       "patir"
     ],
     "answer": 2,
@@ -2368,7 +2368,7 @@
     "options": [
       "rrepartir",
       "repartir",
-      "repartirh"
+      "epartir"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «repartir». Aquest exercici treballa la r i la rr.",
@@ -2388,7 +2388,7 @@
     "options": [
       "blavor",
       "blavorr",
-      "blavorh"
+      "blavo"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «blavor». Aquest exercici treballa la r i la rr.",
@@ -2407,7 +2407,7 @@
     "prompt": "Quina grafia és adequada en un text formal?",
     "options": [
       "colomarr",
-      "colomarh",
+      "coloma",
       "colomar"
     ],
     "answer": 2,
@@ -2428,7 +2428,7 @@
     "options": [
       "grrisor",
       "grisor",
-      "grisorh"
+      "gisor"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «grisor». Aquest exercici treballa la r i la rr.",
@@ -2448,7 +2448,7 @@
     "options": [
       "fuster",
       "fusterr",
-      "fusterh"
+      "fuste"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «fuster». Aquest exercici treballa la r i la rr.",
@@ -2467,7 +2467,7 @@
     "prompt": "Quina forma admet la normativa?",
     "options": [
       "mocadorr",
-      "mocadorh",
+      "mocado",
       "mocador"
     ],
     "answer": 2,
@@ -2488,7 +2488,7 @@
     "options": [
       "corr",
       "cor",
-      "corh"
+      "co"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «cor». Aquest exercici treballa la r i la rr.",
@@ -2508,7 +2508,7 @@
     "options": [
       "amor",
       "amorr",
-      "amorh"
+      "amo"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «amor». Aquest exercici treballa la r i la rr.",
@@ -2527,7 +2527,7 @@
     "prompt": "Tria l'única opció sense errors.",
     "options": [
       "marr",
-      "marh",
+      "ma",
       "mar"
     ],
     "answer": 2,
@@ -2548,7 +2548,7 @@
     "options": [
       "farr",
       "far",
-      "farh"
+      "fa"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «far». Aquest exercici treballa la r i la rr.",
@@ -2568,7 +2568,7 @@
     "options": [
       "futur",
       "futurr",
-      "futurh"
+      "futu"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «futur». Aquest exercici treballa la r i la rr.",
@@ -2587,7 +2587,7 @@
     "prompt": "Tria el mot ben escrit.",
     "options": [
       "familiarr",
-      "familiarh",
+      "familia",
       "familiar"
     ],
     "answer": 2,
@@ -2608,7 +2608,7 @@
     "options": [
       "honorr",
       "honor",
-      "honorh"
+      "hono"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «honor». Aquest exercici treballa la r i la rr.",
@@ -2628,7 +2628,7 @@
     "options": [
       "valor",
       "valorr",
-      "valorh"
+      "valo"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «valor». Aquest exercici treballa la r i la rr.",
@@ -2647,7 +2647,7 @@
     "prompt": "Quina forma conservaries en una revisió professional?",
     "options": [
       "aturr",
-      "aturh",
+      "atu",
       "atur"
     ],
     "answer": 2,
@@ -2668,7 +2668,7 @@
     "options": [
       "rradar",
       "radar",
-      "radarh"
+      "adar"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «radar». Aquest exercici treballa la r i la rr.",
@@ -2688,7 +2688,7 @@
     "options": [
       "favor",
       "favorr",
-      "favorh"
+      "favo"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «favor». Aquest exercici treballa la r i la rr.",
@@ -2707,7 +2707,7 @@
     "prompt": "Quina és la grafia normativa?",
     "options": [
       "rraig",
-      "raigh",
+      "aig",
       "raig"
     ],
     "answer": 2,
@@ -2728,7 +2728,7 @@
     "options": [
       "rracó",
       "racó",
-      "raco"
+      "acó"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «racó». Aquest exercici treballa la r i la rr.",
@@ -2748,7 +2748,7 @@
     "options": [
       "rumiar",
       "rrumiar",
-      "rumiarh"
+      "umiar"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «rumiar». Aquest exercici treballa la r i la rr.",
@@ -2767,7 +2767,7 @@
     "prompt": "Assenyala l'opció ortogràficament correcta.",
     "options": [
       "rrondinar",
-      "rondinarh",
+      "ondinar",
       "rondinar"
     ],
     "answer": 2,
@@ -2788,7 +2788,7 @@
     "options": [
       "conrreu",
       "conreu",
-      "conreuh"
+      "coneu"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «conreu». Aquest exercici treballa la r i la rr.",
@@ -2808,7 +2808,7 @@
     "options": [
       "enraonar",
       "enrraonar",
-      "enraonarh"
+      "enaonar"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «enraonar». Aquest exercici treballa la r i la rr.",
@@ -2827,7 +2827,7 @@
     "prompt": "Quina grafia és adequada en un text formal?",
     "options": [
       "enrrojolar",
-      "enrojolarh",
+      "enojolar",
       "enrojolar"
     ],
     "answer": 2,
@@ -2848,7 +2848,7 @@
     "options": [
       "antirracisme",
       "antiracisme",
-      "antiracismeh"
+      "antiacisme"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «antiracisme». Aquest exercici treballa la r i la rr.",
@@ -2868,7 +2868,7 @@
     "options": [
       "autoretrat",
       "autorretrat",
-      "autoretrath"
+      "autoetrat"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «autoretrat». Aquest exercici treballa la r i la rr.",
@@ -2887,7 +2887,7 @@
     "prompt": "Quina forma admet la normativa?",
     "options": [
       "contrrareforma",
-      "contrareformah",
+      "contareforma",
       "contrareforma"
     ],
     "answer": 2,
@@ -2908,7 +2908,7 @@
     "options": [
       "contrrarellotge",
       "contrarellotge",
-      "contrarellotgeh"
+      "contarellotge"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «contrarellotge». Aquest exercici treballa la r i la rr.",
@@ -2928,7 +2928,7 @@
     "options": [
       "contrarestar",
       "contrrarestar",
-      "contrarestarh"
+      "contarestar"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «contrarestar». Aquest exercici treballa la r i la rr.",
@@ -2947,7 +2947,7 @@
     "prompt": "Tria l'única opció sense errors.",
     "options": [
       "contrrarevolució",
-      "contrarevolucio",
+      "contarevolució",
       "contrarevolució"
     ],
     "answer": 2,
@@ -2968,7 +2968,7 @@
     "options": [
       "extrraradi",
       "extraradi",
-      "extraradih"
+      "extaradi"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «extraradi». Aquest exercici treballa la r i la rr.",
@@ -2988,7 +2988,7 @@
     "options": [
       "infraroig",
       "infrraroig",
-      "infraroigh"
+      "infaroig"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «infraroig». Aquest exercici treballa la r i la rr.",
@@ -3008,7 +3008,7 @@
     "options": [
       "xop",
       "ixop",
-      "xoph"
+      "chop"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «xop». Aquest exercici treballa la x i el dígraf ix.",
@@ -3027,7 +3027,7 @@
     "prompt": "Tria el mot ben escrit.",
     "options": [
       "rexa",
-      "reiixa",
+      "reja",
       "reixa"
     ],
     "answer": 2,
@@ -3048,7 +3048,7 @@
     "options": [
       "panixa",
       "panxa",
-      "panxah"
+      "pancha"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «panxa». Aquest exercici treballa la x i el dígraf ix.",
@@ -3068,7 +3068,7 @@
     "options": [
       "peix",
       "pex",
-      "peiix"
+      "pej"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «peix». Aquest exercici treballa la x i el dígraf ix.",
@@ -3087,7 +3087,7 @@
     "prompt": "Quina forma conservaries en una revisió professional?",
     "options": [
       "calax",
-      "calaiix",
+      "calaj",
       "calaix"
     ],
     "answer": 2,
@@ -3108,7 +3108,7 @@
     "options": [
       "fex",
       "feix",
-      "feiix"
+      "fej"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «feix». Aquest exercici treballa la x i el dígraf ix.",
@@ -3128,7 +3128,7 @@
     "options": [
       "coix",
       "cox",
-      "coiix"
+      "coj"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «coix». Aquest exercici treballa la x i el dígraf ix.",
@@ -3147,7 +3147,7 @@
     "prompt": "Quina és la grafia normativa?",
     "options": [
       "flux",
-      "fluiix",
+      "fluj",
       "fluix"
     ],
     "answer": 2,
@@ -3168,7 +3168,7 @@
     "options": [
       "ixarop",
       "xarop",
-      "xaroph"
+      "charop"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «xarop». Aquest exercici treballa la x i el dígraf ix.",
@@ -3188,7 +3188,7 @@
     "options": [
       "xeringa",
       "ixeringa",
-      "xeringah"
+      "cheringa"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «xeringa». Aquest exercici treballa la x i el dígraf ix.",
@@ -3207,7 +3207,7 @@
     "prompt": "Assenyala l'opció ortogràficament correcta.",
     "options": [
       "ixarampió",
-      "xarampio",
+      "charampió",
       "xarampió"
     ],
     "answer": 2,
@@ -3228,7 +3228,7 @@
     "options": [
       "punixar",
       "punxar",
-      "punxarh"
+      "punchar"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «punxar». Aquest exercici treballa la x i el dígraf ix.",
@@ -3248,7 +3248,7 @@
     "options": [
       "enguixar",
       "enguxar",
-      "enguiixar"
+      "engujar"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «enguixar». Aquest exercici treballa la x i el dígraf ix.",
@@ -3267,7 +3267,7 @@
     "prompt": "Quina grafia és adequada en un text formal?",
     "options": [
       "rauixa",
-      "rauxah",
+      "raucha",
       "rauxa"
     ],
     "answer": 2,
@@ -3288,7 +3288,7 @@
     "options": [
       "axeta",
       "aixeta",
-      "aiixeta"
+      "ajeta"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «aixeta». Aquest exercici treballa la x i el dígraf ix.",
@@ -3308,7 +3308,7 @@
     "options": [
       "baixar",
       "baxar",
-      "baiixar"
+      "bajar"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «baixar». Aquest exercici treballa la x i el dígraf ix.",
@@ -3327,7 +3327,7 @@
     "prompt": "Quina forma admet la normativa?",
     "options": [
       "caxa",
-      "caiixa",
+      "caja",
       "caixa"
     ],
     "answer": 2,
@@ -3348,7 +3348,7 @@
     "options": [
       "faxa",
       "faixa",
-      "faiixa"
+      "faja"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «faixa». Aquest exercici treballa la x i el dígraf ix.",
@@ -3368,7 +3368,7 @@
     "options": [
       "maduixa",
       "maduxa",
-      "maduiixa"
+      "maduja"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «maduixa». Aquest exercici treballa la x i el dígraf ix.",
@@ -3387,7 +3387,7 @@
     "prompt": "Tria l'única opció sense errors.",
     "options": [
       "quexal",
-      "queiixal",
+      "quejal",
       "queixal"
     ],
     "answer": 2,
@@ -3408,7 +3408,7 @@
     "options": [
       "vaxell",
       "vaixell",
-      "vaiixell"
+      "vajell"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «vaixell». Aquest exercici treballa la x i el dígraf ix.",
@@ -3428,7 +3428,7 @@
     "options": [
       "créixer",
       "créxer",
-      "créiixer"
+      "créjer"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «créixer». Aquest exercici treballa la x i el dígraf ix.",
@@ -3447,7 +3447,7 @@
     "prompt": "Tria el mot ben escrit.",
     "options": [
       "conèxer",
-      "conèiixer",
+      "conèjer",
       "conèixer"
     ],
     "answer": 2,
@@ -3468,7 +3468,7 @@
     "options": [
       "néxer",
       "néixer",
-      "néiixer"
+      "néjer"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «néixer». Aquest exercici treballa la x i el dígraf ix.",
@@ -3488,7 +3488,7 @@
     "options": [
       "aparèixer",
       "aparèxer",
-      "aparèiixer"
+      "aparèjer"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «aparèixer». Aquest exercici treballa la x i el dígraf ix.",
@@ -3507,7 +3507,7 @@
     "prompt": "Quina forma conservaries en una revisió professional?",
     "options": [
       "merèxer",
-      "merèiixer",
+      "merèjer",
       "merèixer"
     ],
     "answer": 2,
@@ -3528,7 +3528,7 @@
     "options": [
       "texir",
       "teixir",
-      "teiixir"
+      "tejir"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «teixir». Aquest exercici treballa la x i el dígraf ix.",
@@ -3548,7 +3548,7 @@
     "options": [
       "afegix",
       "afegx",
-      "afegiix"
+      "afegj"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «afegix». Aquest exercici treballa la x i el dígraf ix.",
@@ -3567,7 +3567,7 @@
     "prompt": "Quina és la grafia normativa?",
     "options": [
       "ixicot",
-      "xicoth",
+      "chicot",
       "xicot"
     ],
     "answer": 2,
@@ -3588,7 +3588,7 @@
     "options": [
       "ixemeneia",
       "xemeneia",
-      "xemeneiah"
+      "chemeneia"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «xemeneia». Aquest exercici treballa la x i el dígraf ix.",
@@ -3608,7 +3608,7 @@
     "options": [
       "xifra",
       "ixifra",
-      "xifrah"
+      "chifra"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «xifra». Aquest exercici treballa la x i el dígraf ix.",
@@ -3627,7 +3627,7 @@
     "prompt": "Assenyala l'opció ortogràficament correcta.",
     "options": [
       "iximple",
-      "ximpleh",
+      "chimple",
       "ximple"
     ],
     "answer": 2,
@@ -3648,7 +3648,7 @@
     "options": [
       "ixiular",
       "xiular",
-      "xiularh"
+      "chiular"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «xiular». Aquest exercici treballa la x i el dígraf ix.",
@@ -3668,7 +3668,7 @@
     "options": [
       "xocolata",
       "ixocolata",
-      "xocolatah"
+      "chocolata"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «xocolata». Aquest exercici treballa la x i el dígraf ix.",
@@ -3687,7 +3687,7 @@
     "prompt": "Quina grafia és adequada en un text formal?",
     "options": [
       "ixoriço",
-      "xorico",
+      "choriço",
       "xoriço"
     ],
     "answer": 2,
@@ -3708,7 +3708,7 @@
     "options": [
       "ixàfec",
       "xàfec",
-      "xafec"
+      "chàfec"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «xàfec». Aquest exercici treballa la x i el dígraf ix.",
@@ -3728,7 +3728,7 @@
     "options": [
       "xampú",
       "ixampú",
-      "xampu"
+      "champú"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «xampú». Aquest exercici treballa la x i el dígraf ix.",
@@ -3747,7 +3747,7 @@
     "prompt": "Quina forma admet la normativa?",
     "options": [
       "ixalet",
-      "xaleth",
+      "chalet",
       "xalet"
     ],
     "answer": 2,
@@ -3768,7 +3768,7 @@
     "options": [
       "ixapa",
       "xapa",
-      "xapah"
+      "chapa"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «xapa». Aquest exercici treballa la x i el dígraf ix.",
@@ -3788,7 +3788,7 @@
     "options": [
       "xerrada",
       "ixerrada",
-      "xerradah"
+      "cherrada"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «xerrada». Aquest exercici treballa la x i el dígraf ix.",
@@ -3807,7 +3807,7 @@
     "prompt": "Tria l'única opció sense errors.",
     "options": [
       "ixerrac",
-      "xerrach",
+      "cherrac",
       "xerrac"
     ],
     "answer": 2,
@@ -3828,7 +3828,7 @@
     "options": [
       "ixiulet",
       "xiulet",
-      "xiuleth"
+      "chiulet"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «xiulet». Aquest exercici treballa la x i el dígraf ix.",
@@ -3848,7 +3848,7 @@
     "options": [
       "xiclet",
       "ixiclet",
-      "xicleth"
+      "chiclet"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «xiclet». Aquest exercici treballa la x i el dígraf ix.",
@@ -3867,7 +3867,7 @@
     "prompt": "Tria el mot ben escrit.",
     "options": [
       "ixinxeta",
-      "xinxetah",
+      "chinxeta",
       "xinxeta"
     ],
     "answer": 2,
@@ -3888,7 +3888,7 @@
     "options": [
       "anixova",
       "anxova",
-      "anxovah"
+      "anchova"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «anxova». Aquest exercici treballa la x i el dígraf ix.",
@@ -3908,7 +3908,7 @@
     "options": [
       "butxaca",
       "butixaca",
-      "butxacah"
+      "butchaca"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «butxaca». Aquest exercici treballa la x i el dígraf ix.",
@@ -3927,7 +3927,7 @@
     "prompt": "Quina forma conservaries en una revisió professional?",
     "options": [
       "carixofa",
-      "carxofah",
+      "carchofa",
       "carxofa"
     ],
     "answer": 2,
@@ -3948,7 +3948,7 @@
     "options": [
       "clxé",
       "clixé",
-      "cliixé"
+      "cljé"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «clixé». Aquest exercici treballa la x i el dígraf ix.",
@@ -3968,7 +3968,7 @@
     "options": [
       "disbauxa",
       "disbauixa",
-      "disbauxah"
+      "disbaucha"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «disbauxa». Aquest exercici treballa la x i el dígraf ix.",
@@ -3987,7 +3987,7 @@
     "prompt": "Quina és la grafia normativa?",
     "options": [
       "exam",
-      "eiixam",
+      "ejam",
       "eixam"
     ],
     "answer": 2,
@@ -4007,7 +4007,7 @@
     "prompt": "Quina és la grafia normativa?",
     "options": [
       "coige",
-      "cotxeh",
+      "coche",
       "cotxe"
     ],
     "answer": 2,
@@ -4028,7 +4028,7 @@
     "options": [
       "duiga",
       "dutxa",
-      "dutxah"
+      "ducha"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «dutxa». Aquest exercici treballa les grafies tx i ig.",
@@ -4048,7 +4048,7 @@
     "options": [
       "fletxa",
       "fleiga",
-      "fletxah"
+      "flecha"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «fletxa». Aquest exercici treballa les grafies tx i ig.",
@@ -4067,7 +4067,7 @@
     "prompt": "Assenyala l'opció ortogràficament correcta.",
     "options": [
       "meiga",
-      "metxah",
+      "mecha",
       "metxa"
     ],
     "answer": 2,
@@ -4088,7 +4088,7 @@
     "options": [
       "peigina",
       "petxina",
-      "petxinah"
+      "pechina"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «petxina». Aquest exercici treballa les grafies tx i ig.",
@@ -4108,7 +4108,7 @@
     "options": [
       "caputxa",
       "capuiga",
-      "caputxah"
+      "capucha"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «caputxa». Aquest exercici treballa les grafies tx i ig.",
@@ -4127,7 +4127,7 @@
     "prompt": "Quina grafia és adequada en un text formal?",
     "options": [
       "buigaca",
-      "butxacah",
+      "buchaca",
       "butxaca"
     ],
     "answer": 2,
@@ -4148,7 +4148,7 @@
     "options": [
       "despaig",
       "despatx",
-      "despatxh"
+      "despach"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «despatx». Aquest exercici treballa les grafies tx i ig.",
@@ -4168,7 +4168,7 @@
     "options": [
       "escabetx",
       "escabeig",
-      "escabetxh"
+      "escabech"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «escabetx». Aquest exercici treballa les grafies tx i ig.",
@@ -4187,7 +4187,7 @@
     "prompt": "Quina forma admet la normativa?",
     "options": [
       "empaig",
-      "empatxh",
+      "empach",
       "empatx"
     ],
     "answer": 2,
@@ -4208,7 +4208,7 @@
     "options": [
       "cartuig",
       "cartutx",
-      "cartutxh"
+      "cartuch"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «cartutx». Aquest exercici treballa les grafies tx i ig.",
@@ -4228,7 +4228,7 @@
     "options": [
       "sandvitx",
       "sandviig",
-      "sandvitxh"
+      "sandvich"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «sandvitx». Aquest exercici treballa les grafies tx i ig.",
@@ -4247,7 +4247,7 @@
     "prompt": "Tria l'única opció sense errors.",
     "options": [
       "esquiigat",
-      "esquitxath",
+      "esquichat",
       "esquitxat"
     ],
     "answer": 2,
@@ -4268,7 +4268,7 @@
     "options": [
       "fiiga",
       "fitxa",
-      "fitxah"
+      "ficha"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «fitxa». Aquest exercici treballa les grafies tx i ig.",
@@ -4288,7 +4288,7 @@
     "options": [
       "panotxa",
       "panoiga",
-      "panotxah"
+      "panocha"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «panotxa». Aquest exercici treballa les grafies tx i ig.",
@@ -4307,7 +4307,7 @@
     "prompt": "Tria el mot ben escrit.",
     "options": [
       "toigo",
-      "totxoh",
+      "tocho",
       "totxo"
     ],
     "answer": 2,
@@ -4326,9 +4326,9 @@
     "status": "published",
     "prompt": "Quina forma admet la normativa?",
     "options": [
-      "desitjarh",
+      "desigar",
       "desitjar",
-      "desitjar·"
+      "desitgar"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «desitjar». Aquest exercici treballa les grafies tx i ig.",
@@ -4348,7 +4348,7 @@
     "options": [
       "desig",
       "destx",
-      "desitx"
+      "desg"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «desig». Aquest exercici treballa les grafies tx i ig.",
@@ -4366,8 +4366,8 @@
     "status": "published",
     "prompt": "Quina forma conservaries en una revisió professional?",
     "options": [
-      "bojah",
-      "boja·",
+      "boga",
+      "botxa",
       "boja"
     ],
     "answer": 2,
@@ -4388,7 +4388,7 @@
     "options": [
       "botx",
       "boig",
-      "boitx"
+      "bog"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «boig». Aquest exercici treballa les grafies tx i ig.",
@@ -4407,8 +4407,8 @@
     "prompt": "Quina grafia és adequada en un text formal?",
     "options": [
       "lletja",
-      "lletjah",
-      "lletja·"
+      "llega",
+      "lletga"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «lletja». Aquest exercici treballa les grafies tx i ig.",
@@ -4427,7 +4427,7 @@
     "prompt": "Quina és la grafia normativa?",
     "options": [
       "lletx",
-      "lleitx",
+      "lleg",
       "lleig"
     ],
     "answer": 2,
@@ -4446,9 +4446,9 @@
     "status": "published",
     "prompt": "Tria el mot ben escrit.",
     "options": [
-      "mitjanah",
+      "migana",
       "mitjana",
-      "mitjana·"
+      "mitgana"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «mitjana». Aquest exercici treballa les grafies tx i ig.",
@@ -4468,7 +4468,7 @@
     "options": [
       "mig",
       "mtx",
-      "mitx"
+      "mg"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «mig». Aquest exercici treballa les grafies tx i ig.",
@@ -4486,8 +4486,8 @@
     "status": "published",
     "prompt": "Assenyala l'opció ortogràficament correcta.",
     "options": [
-      "rojah",
-      "roja·",
+      "roga",
+      "rotxa",
       "roja"
     ],
     "answer": 2,
@@ -4508,7 +4508,7 @@
     "options": [
       "rotx",
       "roig",
-      "roitx"
+      "rog"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «roig». Aquest exercici treballa les grafies tx i ig.",
@@ -4527,8 +4527,8 @@
     "prompt": "Tria l'única opció sense errors.",
     "options": [
       "bogeria",
-      "botxeria",
-      "bogeriah"
+      "bojeria",
+      "bògeria"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «bogeria». Aquest exercici treballa les grafies tx i ig.",
@@ -4547,7 +4547,7 @@
     "prompt": "Quina grafia és adequada en un text formal?",
     "options": [
       "maretx",
-      "mareitx",
+      "mareg",
       "mareig"
     ],
     "answer": 2,
@@ -4568,7 +4568,7 @@
     "options": [
       "passetx",
       "passeig",
-      "passeitx"
+      "passeg"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «passeig». Aquest exercici treballa les grafies tx i ig.",
@@ -4588,7 +4588,7 @@
     "options": [
       "sorteig",
       "sortetx",
-      "sorteitx"
+      "sorteg"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «sorteig». Aquest exercici treballa les grafies tx i ig.",
@@ -4607,7 +4607,7 @@
     "prompt": "Quina forma admet la normativa?",
     "options": [
       "batetx",
-      "bateitx",
+      "bateg",
       "bateig"
     ],
     "answer": 2,
@@ -4628,7 +4628,7 @@
     "options": [
       "assatx",
       "assaig",
-      "assaitx"
+      "assag"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «assaig». Aquest exercici treballa les grafies tx i ig.",
@@ -4648,7 +4648,7 @@
     "options": [
       "raig",
       "ratx",
-      "raitx"
+      "rag"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «raig». Aquest exercici treballa les grafies tx i ig.",
@@ -4667,7 +4667,7 @@
     "prompt": "Tria l'única opció sense errors.",
     "options": [
       "fatx",
-      "faitx",
+      "fag",
       "faig"
     ],
     "answer": 2,
@@ -4688,7 +4688,7 @@
     "options": [
       "matx",
       "maig",
-      "maitx"
+      "mag"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «maig». Aquest exercici treballa les grafies tx i ig.",
@@ -4708,7 +4708,7 @@
     "options": [
       "safareig",
       "safaretx",
-      "safareitx"
+      "safareg"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «safareig». Aquest exercici treballa les grafies tx i ig.",
@@ -4727,7 +4727,7 @@
     "prompt": "Tria el mot ben escrit.",
     "options": [
       "estotx",
-      "estoitx",
+      "estog",
       "estoig"
     ],
     "answer": 2,
@@ -4748,7 +4748,7 @@
     "options": [
       "enutx",
       "enuig",
-      "enuitx"
+      "enug"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «enuig». Aquest exercici treballa les grafies tx i ig.",
@@ -4768,7 +4768,7 @@
     "options": [
       "rebuig",
       "rebutx",
-      "rebuitx"
+      "rebug"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «rebuig». Aquest exercici treballa les grafies tx i ig.",
@@ -4787,7 +4787,7 @@
     "prompt": "Quina forma conservaries en una revisió professional?",
     "options": [
       "putx",
-      "puitx",
+      "pug",
       "puig"
     ],
     "answer": 2,
@@ -4808,7 +4808,7 @@
     "options": [
       "llebetx",
       "llebeig",
-      "llebeitx"
+      "llebeg"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «llebeig». Aquest exercici treballa les grafies tx i ig.",
@@ -4828,7 +4828,7 @@
     "options": [
       "roineig",
       "roinetx",
-      "roineitx"
+      "roineg"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «roineig». Aquest exercici treballa les grafies tx i ig.",
@@ -4847,7 +4847,7 @@
     "prompt": "Quina és la grafia normativa?",
     "options": [
       "esquiig",
-      "esquitxh",
+      "esquich",
       "esquitx"
     ],
     "answer": 2,
@@ -4868,7 +4868,7 @@
     "options": [
       "esquiigar",
       "esquitxar",
-      "esquitxarh"
+      "esquichar"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «esquitxar». Aquest exercici treballa les grafies tx i ig.",
@@ -4888,7 +4888,7 @@
     "options": [
       "despatxar",
       "despaigar",
-      "despatxarh"
+      "despachar"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «despatxar». Aquest exercici treballa les grafies tx i ig.",
@@ -4907,7 +4907,7 @@
     "prompt": "Assenyala l'opció ortogràficament correcta.",
     "options": [
       "empaigar",
-      "empatxarh",
+      "empachar",
       "empatxar"
     ],
     "answer": 2,
@@ -4928,7 +4928,7 @@
     "options": [
       "fiigar",
       "fitxar",
-      "fitxarh"
+      "fichar"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «fitxar». Aquest exercici treballa les grafies tx i ig.",
@@ -4948,7 +4948,7 @@
     "options": [
       "cartutxera",
       "cartuigera",
-      "cartutxerah"
+      "cartuchera"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «cartutxera». Aquest exercici treballa les grafies tx i ig.",
@@ -4967,7 +4967,7 @@
     "prompt": "Quina grafia és adequada en un text formal?",
     "options": [
       "gavaig",
-      "txavatx",
+      "gavach",
       "gavatx"
     ],
     "answer": 2,
@@ -4988,7 +4988,7 @@
     "options": [
       "capriig",
       "capritx",
-      "capritxh"
+      "caprich"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «capritx». Aquest exercici treballa les grafies tx i ig.",
@@ -5148,7 +5148,7 @@
     "options": [
       "jardí",
       "jardi",
-      "jardíh"
+      "jàrdí"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «jardí». Aquest exercici treballa l'accentuació gràfica.",
@@ -5167,7 +5167,7 @@
     "prompt": "Tria el mot ben escrit.",
     "options": [
       "mati",
-      "matíh",
+      "màtí",
       "matí"
     ],
     "answer": 2,
@@ -5188,7 +5188,7 @@
     "options": [
       "ningu",
       "ningú",
-      "ningúh"
+      "níngú"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «ningú». Aquest exercici treballa l'accentuació gràfica.",
@@ -5208,7 +5208,7 @@
     "options": [
       "comú",
       "comu",
-      "comúh"
+      "còmú"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «comú». Aquest exercici treballa l'accentuació gràfica.",
@@ -5227,7 +5227,7 @@
     "prompt": "Quina forma conservaries en una revisió professional?",
     "options": [
       "timid",
-      "tímidh",
+      "tímíd",
       "tímid"
     ],
     "answer": 2,
@@ -5347,7 +5347,7 @@
     "prompt": "Assenyala l'opció ortogràficament correcta.",
     "options": [
       "origens",
-      "orígensh",
+      "òrígens",
       "orígens"
     ],
     "answer": 2,
@@ -5448,7 +5448,7 @@
     "options": [
       "música",
       "musica",
-      "músicah"
+      "músíca"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «música». Aquest exercici treballa l'accentuació gràfica.",
@@ -5527,7 +5527,7 @@
     "prompt": "Tria l'única opció sense errors.",
     "options": [
       "familia",
-      "famíliah",
+      "fàmília",
       "família"
     ],
     "answer": 2,
@@ -5587,7 +5587,7 @@
     "prompt": "Tria el mot ben escrit.",
     "options": [
       "politica",
-      "políticah",
+      "pòlítica",
       "política"
     ],
     "answer": 2,
@@ -5628,7 +5628,7 @@
     "options": [
       "pública",
       "publica",
-      "públicah"
+      "públíca"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «pública». Aquest exercici treballa l'accentuació gràfica.",
@@ -5668,7 +5668,7 @@
     "options": [
       "ultima",
       "última",
-      "últimah"
+      "últíma"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «última». Aquest exercici treballa l'accentuació gràfica.",
@@ -5707,7 +5707,7 @@
     "prompt": "Quina és la grafia normativa?",
     "options": [
       "bruixola",
-      "brúixolah",
+      "brúíxola",
       "brúixola"
     ],
     "answer": 2,
@@ -5748,7 +5748,7 @@
     "options": [
       "període",
       "periode",
-      "períodeh"
+      "pèríode"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «període». Aquest exercici treballa l'accentuació gràfica.",
@@ -5788,7 +5788,7 @@
     "options": [
       "numero",
       "número",
-      "númeroh"
+      "númèro"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «número». Aquest exercici treballa l'accentuació gràfica.",
@@ -5808,7 +5808,7 @@
     "options": [
       "víctima",
       "victima",
-      "víctimah"
+      "víctíma"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «víctima». Aquest exercici treballa l'accentuació gràfica.",
@@ -5848,7 +5848,7 @@
     "options": [
       "cami",
       "camí",
-      "camíh"
+      "càmí"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «camí». Aquest exercici treballa l'accentuació gràfica.",
@@ -5868,7 +5868,7 @@
     "options": [
       "Berlín",
       "Berlin",
-      "Berlính"
+      "Bèrlín"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «Berlín». Aquest exercici treballa l'accentuació gràfica.",
@@ -6008,7 +6008,7 @@
     "options": [
       "compravenda",
       "comprav-enda",
-      "compravendah"
+      "còmpravenda"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «compravenda». Aquest exercici treballa l'ús del guionet.",
@@ -6027,7 +6027,7 @@
     "prompt": "Tria el mot ben escrit.",
     "options": [
       "blaugra-na",
-      "blaugranah",
+      "blàugrana",
       "blaugrana"
     ],
     "answer": 2,
@@ -6048,7 +6048,7 @@
     "options": [
       "sordmut-",
       "sordmut",
-      "sordmuth"
+      "sòrdmut"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «sordmut». Aquest exercici treballa l'ús del guionet.",
@@ -6068,7 +6068,7 @@
     "options": [
       "pocavergonya",
       "pocaver-gonya",
-      "pocavergonyah"
+      "pòcavergonya"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «pocavergonya». Aquest exercici treballa l'ús del guionet.",
@@ -6087,7 +6087,7 @@
     "prompt": "Quina forma conservaries en una revisió professional?",
     "options": [
       "maldeca-p",
-      "maldecaph",
+      "màldecap",
       "maldecap"
     ],
     "answer": 2,
@@ -6128,7 +6128,7 @@
     "options": [
       "politicosocial",
       "politic-osocial",
-      "politicosocialh"
+      "pòliticosocial"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «politicosocial». Aquest exercici treballa l'ús del guionet.",
@@ -6608,7 +6608,7 @@
     "options": [
       "obreampolles",
       "obreamp-olles",
-      "obreampollesh"
+      "òbreampolles"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «obreampolles». Aquest exercici treballa l'ús del guionet.",
@@ -6627,7 +6627,7 @@
     "prompt": "Assenyala l'opció ortogràficament correcta.",
     "options": [
       "llevata-ps",
-      "llevatapsh",
+      "llèvataps",
       "llevataps"
     ],
     "answer": 2,
@@ -6648,7 +6648,7 @@
     "options": [
       "trencac-losques",
       "trencaclosques",
-      "trencaclosquesh"
+      "trèncaclosques"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «trencaclosques». Aquest exercici treballa l'ús del guionet.",
@@ -6668,7 +6668,7 @@
     "options": [
       "escuradents",
       "escurad-ents",
-      "escuradentsh"
+      "èscuradents"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «escuradents». Aquest exercici treballa l'ús del guionet.",
@@ -6687,7 +6687,7 @@
     "prompt": "Quina grafia és adequada en un text formal?",
     "options": [
       "comptag-otes",
-      "comptagotesh",
+      "còmptagotes",
       "comptagotes"
     ],
     "answer": 2,
@@ -6708,7 +6708,7 @@
     "options": [
       "paralla-mps",
       "parallamps",
-      "parallampsh"
+      "pàrallamps"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «parallamps». Aquest exercici treballa l'ús del guionet.",
@@ -6728,7 +6728,7 @@
     "options": [
       "gratacel",
       "gratace-l",
-      "gratacelh"
+      "gràtacel"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «gratacel». Aquest exercici treballa l'ús del guionet.",
@@ -6747,7 +6747,7 @@
     "prompt": "Quina forma admet la normativa?",
     "options": [
       "bocamol-l",
-      "bocamollh",
+      "bòcamoll",
       "bocamoll"
     ],
     "answer": 2,
@@ -6927,7 +6927,7 @@
     "prompt": "Quina forma conservaries en una revisió professional?",
     "options": [
       "allioli-",
-      "alliolih",
+      "àllioli",
       "allioli"
     ],
     "answer": 2,
@@ -6948,7 +6948,7 @@
     "options": [
       "coliflo-r",
       "coliflor",
-      "coliflorh"
+      "còliflor"
     ],
     "answer": 1,
     "explanation": "La forma normativa és «coliflor». Aquest exercici treballa l'ús del guionet.",
@@ -6968,7 +6968,7 @@
     "options": [
       "filferro",
       "filferr-o",
-      "filferroh"
+      "fílferro"
     ],
     "answer": 0,
     "explanation": "La forma normativa és «filferro». Aquest exercici treballa l'ús del guionet.",
@@ -6987,7 +6987,7 @@
     "prompt": "Quina és la grafia normativa?",
     "options": [
       "capicua-",
-      "capicuah",
+      "càpicua",
       "capicua"
     ],
     "answer": 2,
