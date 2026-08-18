@@ -10,7 +10,7 @@ const sources = {
 
 const sib = [
  ["supressió","supresió","supreçió","El comitè va demanar la ___ d'aquell apartat.","Supressió s'escriu amb ss entre vocals."],
- ["ciència","siència","ciènçia","La divulgació acosta la ___ a tothom.","Ciència s'escriu amb c davant de i i de e."],
+ ["ciència","siència","ciènçia","La divulgació acosta la ___ a tothom.","Ciència s'escriu amb c tant a l'inici com abans de la terminació -ència."],
  ["confiança","confiansa","confianssa","La mediadora inspira ___.","Confiança acaba amb el sufix -ança, que s'escriu amb ç."],
  ["casa","cassa","caza","Han rehabilitat una ___ antiga.","Casa s'escriu amb una sola s entre vocals perquè el so és sonor."],
  ["zebra","sebra","çebra","Al documental apareix una ___.","Zebra s'escriu amb z inicial."],
@@ -45,7 +45,7 @@ const bv = [
  ["saber","saver","zaber","Per respondre cal ___ la norma.","Saber s'escriu amb b; la b alterna amb la p de sap."],
  ["rebre","revre","rever","Esperem ___ una resposta avui.","Rebre s'escriu amb b; la b alterna amb la p de rep."],
  ["blavor","blabor","vlavor","La ___ del cel era intensa.","Blavor s'escriu amb v perquè alterna amb la u de blau."],
- ["haver","haber","aver","Podria ___ arribat abans.","Haver s'escriu amb v; la v alterna amb la u de hauré."],
+ ["haver","haber","aver","Podria ___ arribat abans.","Haver s'escriu amb v, igual que havia i havent."],
  ["visitaves","visitabes","visitàves","Abans ___ sovint els avis.","L'imperfet dels verbs de la primera conjugació s'escriu amb v."],
  ["calvície","calbície","calvíssie","El tractament no evita la ___.","Calvície és un pseudoderivat de calb i s'escriu amb v."],
  ["cerebral","ceravral","cerevral","L'estudi analitza l'activitat ___.","Cerebral és un pseudoderivat de cervell i s'escriu amb b."],
@@ -59,7 +59,7 @@ const bv = [
  ["probabilitat","provabilitat","probavilitat","Hi ha poca ___ de pluja.","Probabilitat és un pseudoderivat de provar i s'escriu amb b."],
  ["arribar","arrivar","aribar","Esperen ___ abans de les nou.","Arribar figura entre els mots que s'escriuen amb b."],
  ["gavardina","gabardina","gavadina","S'ha posat la ___ perquè plou.","Gavardina s'escriu amb v."],
- ["pavelló","pabelló","pavel·ló","El partit es juga al ___.","Pavelló s'escriu amb v i amb ela simple."],
+ ["pavelló","pabelló","pavel·ló","El partit es juga al ___.","Pavelló s'escriu amb v i amb el dígraf ll."],
  ["sivella","sibella","civella","S'ha trencat la ___ del cinturó.","Sivella s'escriu amb v."],
  ["trèvol","trébol","trèbol","Va trobar un ___ de quatre fulles.","Trèvol s'escriu amb v i accent obert."],
 ];
@@ -87,7 +87,7 @@ const gj = [
  ["jeure","geure","jèure","El gos es va ___ a l'ombra.","Jeure és una excepció que s'escriu amb j davant de e."],
  ["Jerusalem","Gerusalem","Jerussalem","El reportatge parla de ___.","Jerusalem s'escriu amb j inicial."],
  ["Jeroni","Geroni","Jerroni","El protagonista es diu ___.","Jeroni s'escriu amb j inicial."],
- ["majestat","magestat","majestad","El tractament protocol·lari és «Sa ___».","Majestat s'escriu amb j davant de e."],
+ ["majestat","magestat","majestad","El paisatge impressionava per la seva ___.","Majestat s'escriu amb j davant de e."],
  ["jersei","gersei","jerssei","S'ha posat un ___ de llana.","Jersei s'escriu amb j inicial."],
  ["jerarquia","gerarquia","jerarquía","L'organigrama representa la ___.","Jerarquia s'escriu amb j inicial."],
 ];
