@@ -16,5 +16,6 @@ test("exports a GitHub Pages-ready home page", async () => {
   for (const page of ["avis-legal", "privacitat", "cookies"]) {
     const legalHtml = await readFile(new URL(`../out/${page}/index.html`, import.meta.url), "utf8");
     assert.match(legalHtml, /practicacatala@atomicmail\.io/);
+    if (page !== "cookies") assert.match(legalHtml, /\[posa aquí nom i cognom\]/);
   }
 });
