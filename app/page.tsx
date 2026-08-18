@@ -5,6 +5,7 @@ import { useMemo, useState } from "react";
 import questionBank from "../content/questions/c1.json";
 import orthographyBank from "../content/questions/c1-ortografia.json";
 import reinforcementBank from "../content/questions/c1-reforc-500.json";
+import originalBank from "../content/questions/c1-originals-350.json";
 
 type Question = { id:string|number; topic:string; text:string; options:string[]; answer:number; why:string };
 const topicMeta = [
@@ -43,7 +44,7 @@ const quarantinedQuestions: Question[] = [
   {id:24,topic:"lexic",text:"Quina frase expressa obligació correctament?",options:["Hi ha que estudiar.","S'ha d'estudiar.","És precís estudiar."],answer:1,why:"S'ha de és una perífrasi normativa d'obligació."},
 ];
 void quarantinedQuestions;
-const questions: Question[] = [...questionBank, ...orthographyBank, ...reinforcementBank]
+const questions: Question[] = [...questionBank, ...orthographyBank, ...reinforcementBank, ...originalBank]
   .filter((question) => question.status === "published")
   .map((question) => ({
     id: question.id,
