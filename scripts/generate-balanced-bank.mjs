@@ -52,15 +52,17 @@ for(let i=0;i<50;i++) add("pronoms","Substitueix l'oració: «Diu "+clauses[i]+"
   "«Ho» substitueix un complement directe neutre o una oració sencera.",pronSource,"pronom HO");
 // 50 combinacions, amb objectes i destinataris diferents.
 const objects="el llibre la carta els informes les claus el paquet la notícia els resultats la fotografia els documents el regal la proposta les entrades el contracte les dades el missatge les factures el plànol les instruccions el certificat les mostres el rebut les fotografies el dossier les notes el pressupost".match(/(?:els|les|el|la) [^ ]+/g);
-const recipients=["a la responsable","al coordinador","a la directora","a l'encarregada","al secretari","a la tècnica","al professor","a la clienta","al president","a l'administradora"];
+const recipientsSingular=["a la responsable","al coordinador","a la directora","a l'encarregada","al secretari"];
+const recipientsPlural=["a les responsables","als coordinadors","a les directores","als encarregats","a les tècniques"];
 for(let i=0;i<50;i++){
   const obj=objects[i%objects.length],plural=/^(els|les)/.test(obj),fem=/^(la|les)/.test(obj);
-  const recipient=recipients[Math.floor(i/5)%recipients.length];
+  const recipientPlural=i>=25;
+  const recipient=(recipientPlural?recipientsPlural:recipientsSingular)[i%5];
   const cd=plural?(fem?"les":"els"):(fem?"la":"el");
-  const correct=cd==="el"?"Dona-l'hi.":cd==="els"?"Dona'ls-hi.":"Dona-"+cd+"-hi.";
+  const correct=recipientPlural?"Dona'ls-"+cd+".":cd==="el"?"Dona-l'hi.":cd==="els"?"Dona'ls-hi.":"Dona-"+cd+"-hi.";
   add("pronoms","Substitueix «"+obj+"» i «"+recipient+"»: «Dona "+obj+" "+recipient+".»",
-    [correct,"Dona-hi-"+cd+".","Li "+cd+" dona."],0,
-    "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",combSource,"combinació pronominal");
+    [correct,recipientPlural?"Dona-"+cd+"-hi.":"Dona-hi-"+cd+".",recipientPlural?"Dona'ls-hi.":"Li "+cd+" dona."],0,
+    recipientPlural?"Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.":"Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",combSource,"combinació pronominal");
 }
 
 // 50 haver-hi en cinc temps i 100 formes verbals de subjuntiu/irregulars.
@@ -118,15 +120,16 @@ for(const group of connectorGroups) for(const [left,right] of group.items){
 }
 
 const lexPairs=[
-["puesto","lloc"],["demés","resta"],["pàrraf","paràgraf"],["plaç","termini"],["rato","estona"],["sèrio","seriós"],
-["almeja","cloïssa"],["barco","vaixell"],["tablet","tauleta"],["tonto","ximple"],["link","enllaç"],["jefe","cap"],
-["buzón","bústia"],["acera","vorera"],["apellido","cognom"],["basura","escombraries"],["bocadillo","entrepà"],["bolso","bossa"],
-["camarero","cambrer"],["cenicero","cendrer"],["despedir","acomiadar"],["disfrutar","gaudir"],["entonces","aleshores"],
-["entrega","lliurament"],["gasto","despesa"],["grifo","aixeta"],["jabalí","senglar"],["lejía","lleixiu"],["llamada","trucada"],
-["logro","assoliment"],["peatón","vianant"],["peluquería","perruqueria"],["sello","segell"],["tenedor","forquilla"],
-["tobillo","turmell"],["ventana","finestra"],["vivienda","habitatge"],["atasco","embús"],["avería","avaria"],
-["calcetín","mitjó"],["charco","bassal"],["enchufe","endoll"],["esquina","cantonada"],["extranjero","estranger"],
-["flequillo","serrell"],["gafas","ulleres"],["huelga","vaga"],["ladrillo","maó"],["mantequilla","mantega"],["suceso","esdeveniment"]
+["abertura","obertura"],["garantitzar","garantir"],["aconteixement","esdeveniment"],["acostumbrar","acostumar"],["adelantar","avançar"],
+["ademés","a més"],["agotar","esgotar"],["agravar","agreujar"],["albedrío","albir"],["alcançar","assolir"],
+["algo","alguna cosa"],["ambos","ambdós"],["amparo","empara"],["àngul","angle"],["aplaçar","ajornar"],
+["apoiar","donar suport"],["arrepentir-se","penedir-se"],["retràs","retard"],["hassanya","proesa"],["bisagra","frontissa"],
+["búsqueda","recerca"],["calificar","qualificar"],["calitat","qualitat"],["cantitat","quantitat"],["casi","gairebé"],
+["ganader","ramader"],["humillar","humiliar"],["crusar","creuar"],["cuidadós","acurat"],["demés","la resta"],
+["derribar","enderrocar"],["derrotxar","malbaratar"],["desarrollar","desenvolupar"],["desde luego","per descomptat"],["jusgat","jutjat"],
+["desetxar","rebutjar"],["despejar","aclarir"],["deuda","deute"],["donar-se compte","adonar-se"],["insertar","inserir"],
+["enchufe","endoll"],["enfermetat","malaltia"],["en ves de","en lloc de"],["extranger","estranger"],["extrany","estrany"],
+["fallo","errada"],["fetxa","data"],["financiar","finançar"],["fronterís","fronterer"],["fulla de paper","full de paper"]
 ];
 for(let i=0;i<50;i++){const [w,c]=lexPairs[i],n=lexPairs[(i+17)%50];
  add("lexic","Quina és l'alternativa catalana normativa a «"+w+"»?",[c,w,n[1]],0,"La forma adequada és «"+c+"».",lexSource,"barbarismes");
