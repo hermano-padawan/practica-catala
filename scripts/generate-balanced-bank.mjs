@@ -65,7 +65,8 @@ for(let i=0;i<50;i++){
 
 // 50 haver-hi en cinc temps i 100 formes verbals de subjuntiu/irregulars.
 const times=[["Avui","hi ha"],["Abans","hi havia"],["Demà","hi haurà"],["Ahir","hi va haver"],["D'aquí a un any","hi haurà"]];
-for(let i=0;i<50;i++){const [t,c]=times[i%5];add("verbs",t+" ___ "+(i+2)+" incidències registrades.",[c,c.replace("ha","han"),"ha"],0,
+const existents=["tres incidències registrades","moltes sol·licituds pendents","dues places disponibles","prou cadires per a tothom","diversos errors al document","massa vehicles al carrer","cinc persones esperant","noves proves a l'expedient","algunes qüestions per resoldre","més opcions que abans","poques entrades a la venda","molts canvis al programa","dos avisos urgents","diverses causes possibles","més alumnes matriculats","quatre reunions previstes","moltes dades duplicades","noves mesures de seguretat","tres testimonis citats","alguns obstacles imprevistos","prou recursos disponibles","moltes botigues obertes","dos accessos alternatius","diverses activitats gratuïtes","cinc documents sense signar","més arbres a la plaça","poques habitacions lliures","algunes diferències importants","moltes consultes acumulades","tres factures incorrectes","nous criteris d'avaluació","diverses rutes senyalitzades","quatre candidats finalistes","moltes famílies interessades","dos ordinadors espatllats","alguns dubtes raonables","més serveis al barri","poques queixes formals","tres cursos intensius","diverses obres en marxa","moltes carpetes arxivades","dos terminis simultanis","algunes excepcions a la regla","més controls fronterers","quatre propostes viables","moltes persones voluntàries","tres informes contradictoris","alguns seients buits","dues sortides d'emergència","més oportunitats laborals"];
+for(let i=0;i<50;i++){const [t,c]=times[i%5];add("verbs",t+" ___ "+existents[i]+".",[c,c.replace("ha","han"),"ha"],0,
   "«Haver-hi» és impersonal i, en registre formal, es manté en singular.",haverSource,"haver-hi");}
 const verbRows=[
 ["No crec que ella ___ avui.","vingui","ve","vindrà"],["Volien que nosaltres ___ abans.","arribéssim","arribàvem","arribarem"],
@@ -79,29 +80,42 @@ const verbRows=[
 ["Abans que ___, truca'm.","marxis","marxes","marxaràs"],["És millor que no ___.","condueixis","condueixes","conduiràs"],
 ["Desitjo que tot ___ bé.","vagi","va","anirà"],["Negava que ho ___.","hagués fet","havia fet","ha fet"],["M'agradaria que ___.","vinguéssiu","veníeu","vindreu"],
 ["Sense que ningú ho ___.","notés","notava","notarà"],["Si ___ més temps, viatjaria.","tingués","tindria","tinc"]
+,
+["No permetran que hi ___.","entrem","entrem-hi","entrarem"],["Procurava que no se'n ___.","adonessin","adonaven","adonaran"],
+["És probable que el preu ___.","pugi","puja","pujarà"],["Volia que m'ho ___.","expliquessis","explicaves","explicaràs"],
+["Quan ho ___, podrem continuar.","hàgiu acabat","heu acabat","acabareu"],["No acceptava que el ___.","contradiguessin","contradeien","contradiran"],
+["Convé que la porta romangui ___.","tancada","tancarà","tancava"],["Si no ___ tant, dormiries millor.","treballessis","treballaràs","treballaves"],
+["Ens sorprèn que encara no ___.","hagin arribat","han arribat","arribaran"],["Demanava que li ___ una còpia.","enviessin","enviaven","enviaran"],
+["No era segur que el pont ___.","resistís","resistia","resistirà"],["Tant de bo ___ la beca.","obtinguis","obtens","obtindràs"],
+["Encara que no hi ___, comptarem amb tu.","assisteixis","assisteixes","assistiràs"],["Calia que els tècnics ho ___.","verifiquessin","verificaven","verificaran"],
+["No pensava que la coneguessis tan ___.","bé","bona","milloraria"],["Si m'ho ___, ho entendria.","demostressis","demostraràs","demostraves"],
+["Esperarem fins que ens ___.","atenguin","atenen","atendran"],["Era improbable que se'n ___.","recordés","recordava","recordarà"],
+["Necessitem una persona que ___ alemany.","parli","parla","parlarà"],["No marxis sense que t'ho ___.","confirmin","confirmen","confirmaran"],
+["Potser convindria que ho ___.","ajornéssim","ajornàvem","ajornarem"],["Em molestava que sempre ___.","interrompessis","interrompies","interrompràs"],
+["Sigui com ___, acabarem la feina.","sigui","és","serà"],["No trobaràs ningú que t'ho ___.","garanteixi","garanteix","garantirà"],
+["Hauríem preferit que ens ho ___ abans.","comuniquessin","comunicaven","comunicaran"]
 ];
-for(let i=0;i<100;i++){const r=verbRows[i%verbRows.length],suffix=i<50?" Cas "+(i+1)+".":" Situació "+(i+1)+".";
- add("verbs",r[0]+suffix,[r[2],r[1],r[3]],1,"El context exigeix la forma «"+r[1]+"».",verbSource,"subjuntiu en context");}
+for(let i=0;i<100;i++){const r=verbRows[i%50],correction=i>=50;
+ const prompt=correction?"Corregeix la forma verbal de «"+r[0].replace("___",r[2])+"»":r[0];
+ add("verbs",prompt,[r[2],r[1],r[3]],1,"El context exigeix la forma «"+r[1]+"».",verbSource,correction?"correcció verbal":"subjuntiu en context");}
 
-const relations=[
- ["causa","perquè","per tant","tanmateix"],["conseqüència","per tant","perquè","en canvi"],
- ["contrast","tanmateix","a més","per tant"],["addició","a més","malgrat això","perquè"],
- ["exemplificació","per exemple","en conseqüència","en canvi"]
+const connectorGroups=[
+ {rel:"causa",c:"perquè",d:["per tant","tanmateix"],items:[
+ ["Vam ajornar l'excursió","plovia intensament"],["No ha vingut a la reunió","està malalt"],["Han tancat la carretera","hi ha hagut una esllavissada"],["He apagat l'ordinador","ja no el necessitava"],["No podem publicar l'informe","encara conté errors"],["La planta s'ha assecat","ningú no l'ha regada"],["Hem canviat de sala","l'anterior era massa petita"],["Porta l'abric","fa molt de fred"],["No li han concedit l'ajut","faltava documentació"],["El tren acumula retard","hi ha una avaria"],["Han suspès el concert","el cantant ha perdut la veu"],["No contestava el telèfon","era en una entrevista"],["Cal repetir la prova","els resultats no són concloents"],["La botiga avui no obre","és festa local"],["Hem reduït la despesa","el pressupost era insuficient"],["No travessis el riu","baixa molt ple"],["Han reforçat el servei","ha augmentat la demanda"],["Va acceptar l'oferta","les condicions eren bones"],["No han admès el recurs","es va presentar fora de termini"],["Obre la finestra","aquí dins fa calor"]]},
+ {rel:"conseqüència",c:"per tant",d:["perquè","tanmateix"],items:[
+ ["S'ha acabat el termini","no admetran més sol·licituds"],["La carretera està tallada","haurem de buscar una altra ruta"],["Ha superat totes les proves","obtindrà el certificat"],["No queda cap entrada","no podrem assistir al concert"],["El document no està signat","no té validesa"],["Plou molt","el partit s'ajornarà"],["Han augmentat els costos","caldrà revisar el pressupost"],["La sala és plena","obrirem l'espai annex"],["No ha presentat els justificants","haurà de retornar l'ajut"],["El sistema ha fallat","activarem el protocol manual"],["L'equip ha complert els objectius","rebrà una gratificació"],["La demanda ha crescut","ampliarem l'horari"],["El pont és inestable","restarà tancat"],["La prova ha estat negativa","no caldrà repetir el tractament"],["No hi ha prou quòrum","la votació no es pot fer"],["La informació era falsa","han rectificat la notícia"],["S'ha espatllat la calefacció","treballarem en una altra planta"],["Tots hi estan d'acord","aprovarem la proposta"],["El pagament s'ha duplicat","en reclamarem la devolució"],["La previsió és favorable","mantindrem l'activitat"]]},
+ {rel:"contrast",c:"tanmateix",d:["a més","per tant"],items:[
+ ["La proposta és cara","és la més completa"],["Plovia intensament","vam sortir a caminar"],["El local és petit","està molt ben distribuït"],["No tenia experiència","va resoldre el problema"],["La prova era difícil","la majoria la va superar"],["El termini era molt curt","vam lliurar la feina a temps"],["El cotxe és antic","funciona perfectament"],["Havia estudiat molt","no va aprovar"],["El servei rebia crítiques","va renovar el contracte"],["La ruta és llarga","no presenta gaire desnivell"],["L'informe és breu","conté totes les dades necessàries"],["El producte és econòmic","ofereix una bona qualitat"],["Estava molt cansada","va acabar la cursa"],["La norma sembla clara","genera interpretacions diferents"],["No compartim el diagnòstic","acceptarem la decisió"],["La sala era sorollosa","la presentació es va entendre bé"],["El projecte comporta riscos","pot generar molts beneficis"],["L'accés és complicat","el paisatge compensa l'esforç"],["Les vendes han baixat","l'empresa contractarà personal"],["No és una solució definitiva","permet guanyar temps"]]},
+ {rel:"addició",c:"a més",d:["malgrat això","perquè"],items:[
+ ["Ha redactat l'informe","hi ha incorporat tots els annexos"],["El curs és gratuït","ofereix material en línia"],["La mesura redueix el consum","millora la seguretat"],["Domina l'anglès","parla alemany amb fluïdesa"],["Han renovat la façana","han reparat la teulada"],["El programa és intuïtiu","funciona en dispositius mòbils"],["La biblioteca amplia l'horari","obrirà els diumenges"],["Ha obtingut la millor nota","ha rebut una menció especial"],["El barri disposa de metro","té diverses línies d'autobús"],["L'acord millora els salaris","redueix la jornada laboral"],["La reforma crea més espai","aprofita millor la llum natural"],["L'estudi aporta dades noves","proposa mesures concretes"],["El museu ha renovat l'exposició","ha creat una visita virtual"],["La convocatòria ofereix cent places","inclou una borsa de reserva"],["El vehicle consumeix poc","emet menys contaminants"],["Han netejat el bosc","han senyalitzat els camins"],["La plataforma permet fer tràmits","envia avisos automàtics"],["La dieta és equilibrada","resulta fàcil de seguir"],["L'equip ha reduït els errors","ha accelerat els lliuraments"],["El pla protegeix el patrimoni","promou el comerç local"]]},
+ {rel:"exemplificació",c:"per exemple",d:["en conseqüència","en canvi"],items:[
+ ["Algunes mesures permeten estalviar energia","apagar els llums innecessaris"],["Hi ha fruites riques en vitamina C","la taronja"],["Diversos oficis requereixen precisió manual","la rellotgeria"],["Alguns tràmits es poden fer en línia","demanar un certificat"],["Moltes aus migren a la tardor","les orenetes"],["Certs materials són bons aïllants","el suro"],["Algunes activitats milloren la resistència","nedar"],["Hi ha fonts d'energia renovable","la solar"],["Diversos connectors expressen contrast","tanmateix"],["Alguns residus s'han de dur a la deixalleria","les piles"],["Moltes plantes aromàtiques són mediterrànies","la farigola"],["Certes dades són especialment sensibles","les mèdiques"],["Hi ha mesures per reduir el trànsit","ampliar el transport públic"],["Algunes paraules porten dièresi","veïna"],["Diversos mamífers hibernen","la marmota"],["Hi ha documents que exigeixen signatura","el contracte"],["Alguns aliments contenen molt de ferro","les llenties"],["Certes despeses són deduïbles","les vinculades a l'activitat"],["Hi ha eines per comprovar l'ortografia","els diccionaris normatius"],["Alguns espais naturals tenen protecció especial","els parcs nacionals"]]}
 ];
-const halves=[
- ["No vam sortir","plovia intensament"],["El termini s'ha acabat","no admetran més sol·licituds"],
- ["La proposta és cara","resol millor el problema"],["Ha presentat l'informe","hi ha adjuntat els annexos"],
- ["Algunes mesures estalvien energia","apagar els llums innecessaris"],["No trobava les claus","va arribar tard"],
- ["L'equip ha assolit els objectius","rebrà el reconeixement"],["El local és petit","està molt ben distribuït"],
- ["La recerca aporta dades noves","obre noves línies d'estudi"],["El servei era lent","ara respon de seguida"],
- ["No hi havia places","vam buscar una alternativa"],["La norma és complexa","cal explicar-la amb exemples"],
- ["El pressupost ha disminuït","el projecte continuarà"],["La reunió s'ha ajornat","la convocaran la setmana vinent"],
- ["La prova era difícil","la majoria la va superar"],["Hem revisat les dades","hem corregit les errades"],
- ["La carretera estava tallada","vam canviar de ruta"],["El document és incomplet","l'hem retornat"],["La mesura és temporal","s'avaluarà al desembre"],["El sistema és segur","cal renovar les contrasenyes"]
-];
-for(let i=0;i<100;i++){const rel=relations[i%5],h=halves[Math.floor(i/5)%20];
- add("connectors",h[0]+"; ___, "+h[1]+". Relació: "+rel[0]+".",[rel[2],rel[1],rel[3]],1,
-  "«"+rel[1]+"» introdueix una relació de "+rel[0]+".",connSource,"cohesió textual");}
+for(const group of connectorGroups) for(const [left,right] of group.items){
+ const prompt=group.rel==="causa"?left+" ___ "+right+".":group.rel==="exemplificació"?left+", ___, "+right+".":left+"; ___, "+right+".";
+ add("connectors",prompt,[group.d[0],group.c,group.d[1]],1,
+  "«"+group.c+"» introdueix una relació de "+group.rel+".",connSource,"cohesió textual");
+}
 
 const lexPairs=[
 ["puesto","lloc"],["demés","resta"],["pàrraf","paràgraf"],["plaç","termini"],["rato","estona"],["sèrio","seriós"],
