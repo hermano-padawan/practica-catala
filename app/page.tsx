@@ -48,10 +48,10 @@ const questions: Question[] = [...questionBank, ...orthographyBank, ...balancedB
   .map((question) => ({
     id: question.id,
     topic: question.topic === "dieresi" ? "accentuacio" : question.topic,
-    text: question.prompt,
+    text: question.id === "c1-ortbal-197" ? "Completa amb la forma correcta: «El servei d'urgències funciona ___.»" : question.prompt,
     options: question.options,
     answer: question.answer,
-    why: question.explanation,
+    why: question.id === "c1-ortbal-197" ? "«Tothora», escrit en un sol mot i amb hac, és un adverbi que significa ‘sempre’." : question.explanation,
   }));
 function sample(pool: Question[], count=10){
   const shuffled=[...pool];

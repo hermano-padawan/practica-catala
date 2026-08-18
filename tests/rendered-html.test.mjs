@@ -13,6 +13,7 @@ test("exports a GitHub Pages-ready home page", async () => {
   const source = await readFile(new URL("../app/page.tsx", import.meta.url), "utf8");
   assert.match(source, /Fer 10 preguntes més/);
   assert.match(source, /practica-catala-c1-progress/);
+  assert.match(source, /El servei d'urgències funciona/);
   assert.match(html, /Avís legal/);
   assert.equal((await readFile(new URL("../out/CNAME", import.meta.url), "utf8")).trim(), "practica-catala.online");
   for (const page of ["avis-legal", "privacitat", "cookies"]) {
