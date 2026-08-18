@@ -12,10 +12,10 @@ const blocks = [
 
 const replacements = {
   nas:[["mm","m"],["nn","n"],["mp","np"],["mb","nb"],["m","n"],["n","m"]],
-  hac:[["h",""],["h","j"]],
-  erra:[["rr","r"],["r","rr"]],
-  ixe:[["ix","x"],["x","ix"]],
-  txig:[["tx","ig"],["ig","tx"],["g","tx"]],
+  hac:[["h",""],["h","j"],["h","g"]],
+  erra:[["rr","r"],["r","rr"],["r",""]],
+  ixe:[["ix","x"],["ix","j"],["x","ix"],["x","ch"]],
+  txig:[["tx","ig"],["tx","ch"],["ig","tx"],["ig","g"],["tj","g"],["j","g"],["j","tx"],["g","j"]],
   accent:[["à","á"],["è","é"],["é","è"],["í","i"],["ó","ò"],["ò","ó"],["ú","u"],["ç","c"]],
   guionet:[["-",""],["-"," "]],
 };
@@ -35,7 +35,11 @@ function wrongForms(word,key){
   if(plain!==word) candidates.push(plain);
   if(key==="hac" && !word.startsWith("h")) candidates.push(`h${word}`);
   if(key==="guionet" && !word.includes("-")) candidates.push(word.replace(/^(.{3,7})/,"$1-"));
-  candidates.push(`${word}h`,`${word}·`);
+  const accented=word.replace(/[aeiou]/,v=>({a:"à",e:"è",i:"í",o:"ò",u:"ú"})[v]);
+  if(accented!==word) candidates.push(accented);
+  const shortened=word.replace(/[mnrx]/,"");
+  if(shortened!==word) candidates.push(shortened);
+  candidates.push(`${word}h`);
   return [...new Set(candidates)].filter(candidate=>candidate!==word).slice(0,2);
 }
 
