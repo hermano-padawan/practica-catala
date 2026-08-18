@@ -3,6 +3,7 @@ const dir=new URL("../content/questions/",import.meta.url);
 const files=["c1.json","c1-ortografia.json","c1-equilibrat-850.json"];
 const questions=(await Promise.all(files.map(async f=>JSON.parse(await readFile(new URL(f,dir),"utf8"))))).flat();
 const signatures=new Set(),ids=new Set(),types=new Map(),answers=[0,0,0],errors=[];
+const genericStem=/^(Quina és la grafia normativa\?|Tria el mot ben escrit\.|Quina forma admet la normativa\?|Assenyala l'opció ortogràficament correcta\.|Quina forma conservaries|Tria l'única opció|Quina grafia és adequada)/;
 for(const q of questions){
   const signature=JSON.stringify([q.prompt,q.options]);
   if(signatures.has(signature)) errors.push("Duplicat exacte: "+q.id);
@@ -11,6 +12,9 @@ for(const q of questions){
   const type=q.exerciseType??"pregunta contextual";
   types.set(type,(types.get(type)??0)+1);
   answers[q.answer]=(answers[q.answer]??0)+1;
+  if(q.options.length!==3) errors.push("Nombre d'opcions inesperat: "+q.id);
+  if(!q.source?.url?.startsWith("https://www.cpnl.cat/")) errors.push("Font no oficial o inesperada: "+q.id);
+  if(genericStem.test(q.prompt)) errors.push("Enunciat mecànic sense context: "+q.id);
 }
 if(questions.length!==1000) errors.push("Total inesperat: "+questions.length);
 const expected={accentuacio:100,apostrofacio:100,ortografia:250,pronoms:200,verbs:150,connectors:100,lexic:100};
