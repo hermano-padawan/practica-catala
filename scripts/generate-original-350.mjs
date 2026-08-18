@@ -24,6 +24,18 @@ const frames = [
   "Assenyala l'opció ortogràficament correcta.", "Quina forma conservaries en una revisió professional?",
   "Tria l'única opció sense errors.", "Quina grafia és adequada en un text formal?",
 ];
+const nasContexts = [
+  "La masia conserva una ___ amb volta de pedra.","Van passejar per la ___ fins al mar.","L'___ desprenia una olor intensa.","Treballa amb un ___ de la universitat.","La ___ de material es farà abans de divendres.",
+  "Volen ___ la biblioteca municipal.","L'orquestra interpretarà una ___ de Mozart.","L'___ va presentar l'espectacle.","La victòria va ser un gran ___.","Cal ___ els documents en un lloc segur.",
+  "L'edifici continua ___ malgrat les obres.","El verí podria ___ l'aigua del pou.","El mirall permet ___ el paisatge.","Han ___ tot el recinte.","La lletra grega ___ apareix en la fórmula.",
+  "La joiera va encastar una ___ al penjoll.","El laboratori ha de romandre ___.","La ___ en aigua freda va durar pocs segons.","El sistema permet ___ dues línies telefòniques.","La llegenda parla d'un heroi ___.",
+  "Va respondre amb un gest ___.","La ___ va publicar un comunicat.","Celebren l'___ de la Mare de Déu.","La indemnització forma part de la ___.","Encara queda un ___ per resoldre.",
+  "L'explosió va ser un ___ contra la població.","El personatge busca el seu ___.","El diàmetre divideix la ___ en dues parts.","Actuarem segons aquesta ___.","Ens volen ___ a participar en el projecte.",
+  "L'enginyer va presentar un nou ___.","El ple ha aprovat el ___ pressupostari.","El centre estudia cada proposta de ___.","Roma fou governada per un ___.","L'actriu es diu ___.",
+  "És un talent ___.","El contracte inclou un document ___.","Aquest mot funciona com a ___.","L'acusat es declara ___.","La fulla és ___.",
+  "Revisa el ___ abans de pagar.","El diari sortirà de la ___.","La policia va trobar una ___ a la porta.","El nadó va començar a ___.","El protagonista caminava ___.",
+  "Aquesta regla és fàcil de recordar amb un recurs ___.","El tràmit gaudeix d'una ___ fiscal.","El candidat està ___ de fer la prova.","La resposta té un caràcter ___.","La febre pot ser un ___ de la infecció."
+];
 const erraContexts = [
   "La seva ___ treballava a l'hospital.","La capsa té una ___ transparent.","Va menjar una ___ per postres.","L'exercici d'___ era força complex.","La gata és tímida i ___.",
   "Una ___ travessava el camí.","En ___ presentarà la ponència.","Hem preparat ___ amb verdures.","Aprèn a tocar la ___.","Des de la ___ es veu tota la vall.",
@@ -36,6 +48,7 @@ const erraContexts = [
   "Prefereixo ___ abans de respondre.","La vergonya la va fer ___.","La campanya combat l'___.","El museu exposa un ___ de l'artista.","El moviment impulsava la ___.",
   "Va guanyar la prova ___.","L'equip intenta ___ l'ofensiva rival.","La ___ va transformar el país.","Viuen en un barri de l'___.","La càmera detecta radiació d'___."
 ];
+if(nasContexts.length!==50 || erraContexts.length!==50) throw new Error("Cada bloc contextual ha de contenir exactament 50 frases");
 
 function wrongForms(word,key){
   const candidates=[];
@@ -64,7 +77,8 @@ for(const block of blocks){
     if(wrong.length!==2) throw new Error(`${block.key}/${word}: no hi ha dos distractors`);
     const answer=(questions.length+index)%3;
     const options=[...wrong]; options.splice(answer,0,word);
-    const prompt=block.key==="erra"?`Completa amb la forma correcta: «${erraContexts[index].replace(word,"___") }»`:frames[index%frames.length];
+    const contexts=block.key==="nas"?nasContexts:block.key==="erra"?erraContexts:null;
+    const prompt=contexts?`Completa amb la forma correcta: «${contexts[index]}»`:frames[index%frames.length];
     questions.push({
       id:`c1-${block.key}-${String(651+questions.length).padStart(3,"0")}`,
       level:"C1", topic:"ortografia", status:"published", prompt,
