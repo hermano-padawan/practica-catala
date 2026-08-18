@@ -31,7 +31,7 @@
       "ciènçia"
     ],
     "answer": 1,
-    "explanation": "Ciència s'escriu amb c davant de i i de e.",
+    "explanation": "Ciència s'escriu amb c tant a l'inici com abans de la terminació -ència.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
@@ -671,7 +671,7 @@
       "aver"
     ],
     "answer": 0,
-    "explanation": "Haver s'escriu amb v; la v alterna amb la u de hauré.",
+    "explanation": "Haver s'escriu amb v, igual que havia i havent.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
       "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
@@ -951,7 +951,7 @@
       "pavelló"
     ],
     "answer": 2,
-    "explanation": "Pavelló s'escriu amb v i amb ela simple.",
+    "explanation": "Pavelló s'escriu amb v i amb el dígraf ll.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
       "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
@@ -1444,7 +1444,7 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «El tractament protocol·lari és «Sa ___».»",
+    "prompt": "Completa amb la forma correcta: «El paisatge impressionava per la seva ___.»",
     "options": [
       "majestat",
       "magestat",
