@@ -46,7 +46,7 @@ const hacContexts = [
   "Sentia un fort ___ de llibertat.","L'exèrcit pretenia ___ tota resistència.","La notícia li va causar una gran ___.","La mediació facilita la ___ entre les parts.","La pressió social el podia ___.",
   "Les seves paraules van ser un gran ___.","L'activitat ajudava a ___ els participants.","La planta comença a ___ una olor intensa.","Hem d'___ totes les places disponibles.","El manifest vol ___ la ciutadania a actuar.",
   "L'orquestra interpretarà un repertori ___.","La contradicció és ___ al plantejament.","El tractament redueix la ___.","El documental explica la vida d'un ___.","El monument és un antic ___.",
-  "La campanya s'adreça a ___.","El servei funciona a tota ___.","La població ___ viu al Sàhara Occidental.","Estudia la llengua ___.","La finca es vendrà en ___."
+  "La campanya s'adreça a ___.","El servei d'urgències funciona ___.","La població ___ viu al Sàhara Occidental.","Estudia la llengua ___.","La finca es vendrà en ___."
 ];
 const erraContexts = [
   "La seva ___ treballava a l'hospital.","La capsa té una ___ transparent.","Va menjar una ___ per postres.","L'exercici d'___ era força complex.","La gata és tímida i ___.",
