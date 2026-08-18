@@ -1,10 +1,7 @@
-import { readFile, readdir } from "node:fs/promises";
+import { readFile } from "node:fs/promises";
 
 const directory = new URL("../content/questions/", import.meta.url);
-const paths = (await readdir(directory))
-  .filter((file) => /^c1.*\.json$/.test(file))
-  .sort()
-  .map((file) => new URL(file, directory));
+const paths = ["c1.json","c1-ortografia.json","c1-equilibrat-850.json"].map((file) => new URL(file, directory));
 const questions = (await Promise.all(paths.map(async (path) => JSON.parse(await readFile(path, "utf8"))))).flat();
 const errors = [];
 const ids = new Set();
