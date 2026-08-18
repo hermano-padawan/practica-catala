@@ -15604,7 +15604,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «abertura»?",
+    "prompt": "Revisa aquesta frase: L'obertura oficial apareix com a «abertura». Quina forma ha de substituir «abertura»?",
     "options": [
       "retard",
       "obertura",
@@ -15646,7 +15646,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «garantitzar»?",
+    "prompt": "Revisa aquesta frase: El text fa servir «garantitzar» la qualitat. Quina forma ha de substituir «garantitzar»?",
     "options": [
       "garantitzar",
       "proesa",
@@ -15688,7 +15688,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «aconteixement»?",
+    "prompt": "Revisa aquesta frase: La notícia parla d'un «aconteixement» inesperat. Quina forma ha de substituir «aconteixement»?",
     "options": [
       "esdeveniment",
       "aconteixement",
@@ -15730,7 +15730,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «acostumbrar»?",
+    "prompt": "Revisa aquesta frase: Diu que cal «acostumbrar» l'equip al canvi. Quina forma ha de substituir «acostumbrar»?",
     "options": [
       "recerca",
       "acostumar",
@@ -15772,7 +15772,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «adelantar»?",
+    "prompt": "Revisa aquesta frase: L'informe proposa «adelantar» la reunió. Quina forma ha de substituir «adelantar»?",
     "options": [
       "adelantar",
       "qualificar",
@@ -15814,7 +15814,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «ademés»?",
+    "prompt": "Revisa aquesta frase: La frase afegeix «ademés» al començament. Quina forma ha de substituir «ademés»?",
     "options": [
       "a més",
       "ademés",
@@ -15856,7 +15856,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «agotar»?",
+    "prompt": "Revisa aquesta frase: El dipòsit es podria «agotar» aviat. Quina forma ha de substituir «agotar»?",
     "options": [
       "quantitat",
       "esgotar",
@@ -15898,7 +15898,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «agravar»?",
+    "prompt": "Revisa aquesta frase: La mesura pot «agravar» el conflicte. Quina forma ha de substituir «agravar»?",
     "options": [
       "agravar",
       "gairebé",
@@ -15940,7 +15940,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «albedrío»?",
+    "prompt": "Revisa aquesta frase: Va actuar segons el seu «albedrío». Quina forma ha de substituir «albedrío»?",
     "options": [
       "albir",
       "albedrío",
@@ -15982,7 +15982,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «alcançar»?",
+    "prompt": "Revisa aquesta frase: L'equip espera «alcançar» l'objectiu. Quina forma ha de substituir «alcançar»?",
     "options": [
       "humiliar",
       "assolir",
@@ -16024,7 +16024,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «algo»?",
+    "prompt": "Revisa aquesta frase: Ens han comunicat «algo» important. Quina forma ha de substituir «algo»?",
     "options": [
       "algo",
       "creuar",
@@ -16066,7 +16066,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «ambos»?",
+    "prompt": "Revisa aquesta frase: «Ambos» candidats han acceptat. Quina forma ha de substituir «ambos»?",
     "options": [
       "ambdós",
       "ambos",
@@ -16108,7 +16108,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «amparo»?",
+    "prompt": "Revisa aquesta frase: Va quedar sota el seu «amparo». Quina forma ha de substituir «amparo»?",
     "options": [
       "la resta",
       "empara",
@@ -16150,7 +16150,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «àngul»?",
+    "prompt": "Revisa aquesta frase: Cal mesurar cada «àngul» del polígon. Quina forma ha de substituir «àngul»?",
     "options": [
       "àngul",
       "enderrocar",
@@ -16192,14 +16192,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «aplaçar»?",
+    "prompt": "Revisa aquesta frase: Esperen «lograr» un bon resultat. Quina forma ha de substituir «lograr»?",
     "options": [
-      "ajornar",
-      "aplaçar",
+      "aconseguir",
+      "lograr",
       "malbaratar"
     ],
     "answer": 0,
-    "explanation": "La forma adequada és «ajornar».",
+    "explanation": "La forma adequada és «aconseguir».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16216,11 +16216,11 @@
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
       "derrotxar → derrotxar",
-      "aplaçar → malbaratar",
-      "aplaçar → ajornar"
+      "lograr → malbaratar",
+      "lograr → aconseguir"
     ],
     "answer": 2,
-    "explanation": "La correspondència normativa és «aplaçar → ajornar».",
+    "explanation": "La correspondència normativa és «lograr → aconseguir».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16234,7 +16234,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «apoiar»?",
+    "prompt": "Revisa aquesta frase: L'entitat vol «apoiar» el projecte. Quina forma ha de substituir «apoiar»?",
     "options": [
       "desenvolupar",
       "donar suport",
@@ -16276,7 +16276,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «arrepentir-se»?",
+    "prompt": "Revisa aquesta frase: Podria «arrepentir-se» de la decisió. Quina forma ha de substituir «arrepentir-se»?",
     "options": [
       "arrepentir-se",
       "per descomptat",
@@ -16318,7 +16318,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «retràs»?",
+    "prompt": "Revisa aquesta frase: El tren acumula un «retràs» considerable. Quina forma ha de substituir «retràs»?",
     "options": [
       "retard",
       "retràs",
@@ -16360,7 +16360,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «hassanya»?",
+    "prompt": "Revisa aquesta frase: La crònica descriu aquella «hassanya». Quina forma ha de substituir «hassanya»?",
     "options": [
       "rebutjar",
       "proesa",
@@ -16402,7 +16402,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «bisagra»?",
+    "prompt": "Revisa aquesta frase: La porta necessita una «bisagra» nova. Quina forma ha de substituir «bisagra»?",
     "options": [
       "bisagra",
       "aclarir",
@@ -16444,7 +16444,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «búsqueda»?",
+    "prompt": "Revisa aquesta frase: La policia ha iniciat una «búsqueda». Quina forma ha de substituir «búsqueda»?",
     "options": [
       "recerca",
       "búsqueda",
@@ -16486,7 +16486,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «calificar»?",
+    "prompt": "Revisa aquesta frase: El tribunal haurà de «calificar» la prova. Quina forma ha de substituir «calificar»?",
     "options": [
       "adonar-se",
       "qualificar",
@@ -16528,7 +16528,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «calitat»?",
+    "prompt": "Revisa aquesta frase: El servei promet més «calitat». Quina forma ha de substituir «calitat»?",
     "options": [
       "calitat",
       "inserir",
@@ -16570,7 +16570,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «cantitat»?",
+    "prompt": "Revisa aquesta frase: Han reduït la «cantitat» prevista. Quina forma ha de substituir «cantitat»?",
     "options": [
       "quantitat",
       "cantitat",
@@ -16612,7 +16612,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «casi»?",
+    "prompt": "Revisa aquesta frase: La sala és «casi» plena. Quina forma ha de substituir «casi»?",
     "options": [
       "malaltia",
       "gairebé",
@@ -16654,7 +16654,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «ganader»?",
+    "prompt": "Revisa aquesta frase: El sector «ganader» reclama ajuts. Quina forma ha de substituir «ganader»?",
     "options": [
       "ganader",
       "en lloc de",
@@ -16696,7 +16696,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «humillar»?",
+    "prompt": "Revisa aquesta frase: No s'ha de «humillar» ningú. Quina forma ha de substituir «humillar»?",
     "options": [
       "humiliar",
       "humillar",
@@ -16738,7 +16738,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «crusar»?",
+    "prompt": "Revisa aquesta frase: Van «crusar» el carrer corrent. Quina forma ha de substituir «crusar»?",
     "options": [
       "estrany",
       "creuar",
@@ -16780,7 +16780,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «cuidadós»?",
+    "prompt": "Revisa aquesta frase: És un professional molt «cuidadós». Quina forma ha de substituir «cuidadós»?",
     "options": [
       "cuidadós",
       "errada",
@@ -16822,7 +16822,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «demés»?",
+    "prompt": "Revisa aquesta frase: Els «demés» esperen a fora. Quina forma ha de substituir «demés»?",
     "options": [
       "la resta",
       "demés",
@@ -16864,7 +16864,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «derribar»?",
+    "prompt": "Revisa aquesta frase: Volen «derribar» l'edifici antic. Quina forma ha de substituir «derribar»?",
     "options": [
       "finançar",
       "enderrocar",
@@ -16906,7 +16906,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «derrotxar»?",
+    "prompt": "Revisa aquesta frase: No podem «derrotxar» els recursos. Quina forma ha de substituir «derrotxar»?",
     "options": [
       "derrotxar",
       "fronterer",
@@ -16948,7 +16948,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «desarrollar»?",
+    "prompt": "Revisa aquesta frase: Cal «desarrollar» el projecte. Quina forma ha de substituir «desarrollar»?",
     "options": [
       "desenvolupar",
       "desarrollar",
@@ -16990,7 +16990,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «desde luego»?",
+    "prompt": "Revisa aquesta frase: «Desde luego», hi assistirem. Quina forma ha de substituir «desde luego»?",
     "options": [
       "obertura",
       "per descomptat",
@@ -17032,7 +17032,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «jusgat»?",
+    "prompt": "Revisa aquesta frase: El cas arribarà al «jusgat». Quina forma ha de substituir «jusgat»?",
     "options": [
       "jusgat",
       "garantir",
@@ -17074,7 +17074,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «desetxar»?",
+    "prompt": "Revisa aquesta frase: Van «desetxar» la proposta. Quina forma ha de substituir «desetxar»?",
     "options": [
       "rebutjar",
       "desetxar",
@@ -17116,7 +17116,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «despejar»?",
+    "prompt": "Revisa aquesta frase: Cal «despejar» tots els dubtes. Quina forma ha de substituir «despejar»?",
     "options": [
       "acostumar",
       "aclarir",
@@ -17158,7 +17158,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «deuda»?",
+    "prompt": "Revisa aquesta frase: L'empresa encara té «deuda». Quina forma ha de substituir «deuda»?",
     "options": [
       "deuda",
       "avançar",
@@ -17200,7 +17200,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «donar-se compte»?",
+    "prompt": "Revisa aquesta frase: Va «donar-se compte» de l'error. Quina forma ha de substituir «donar-se compte»?",
     "options": [
       "adonar-se",
       "donar-se compte",
@@ -17242,7 +17242,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «insertar»?",
+    "prompt": "Revisa aquesta frase: Han d'«insertar» una imatge. Quina forma ha de substituir «insertar»?",
     "options": [
       "esgotar",
       "inserir",
@@ -17284,7 +17284,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «enchufe»?",
+    "prompt": "Revisa aquesta frase: L'ordinador no arriba a l'«enchufe». Quina forma ha de substituir «enchufe»?",
     "options": [
       "enchufe",
       "agreujar",
@@ -17326,7 +17326,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «enfermetat»?",
+    "prompt": "Revisa aquesta frase: Aquesta «enfermetat» requereix repòs. Quina forma ha de substituir «enfermetat»?",
     "options": [
       "malaltia",
       "enfermetat",
@@ -17368,7 +17368,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «en ves de»?",
+    "prompt": "Revisa aquesta frase: Ho farem «en ves de» cancel·lar-ho. Quina forma ha de substituir «en ves de»?",
     "options": [
       "assolir",
       "en lloc de",
@@ -17410,7 +17410,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «extranger»?",
+    "prompt": "Revisa aquesta frase: L'estudiant és «extranger». Quina forma ha de substituir «extranger»?",
     "options": [
       "extranger",
       "alguna cosa",
@@ -17452,7 +17452,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «extrany»?",
+    "prompt": "Revisa aquesta frase: El resultat sembla «extrany». Quina forma ha de substituir «extrany»?",
     "options": [
       "estrany",
       "extrany",
@@ -17494,7 +17494,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «fallo»?",
+    "prompt": "Revisa aquesta frase: El sistema ha detectat un «fallo». Quina forma ha de substituir «fallo»?",
     "options": [
       "empara",
       "errada",
@@ -17536,7 +17536,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «fetxa»?",
+    "prompt": "Revisa aquesta frase: Comprova la «fetxa» del document. Quina forma ha de substituir «fetxa»?",
     "options": [
       "fetxa",
       "angle",
@@ -17578,11 +17578,11 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «financiar»?",
+    "prompt": "Revisa aquesta frase: El banc podria «financiar» l'obra. Quina forma ha de substituir «financiar»?",
     "options": [
       "finançar",
       "financiar",
-      "ajornar"
+      "aconseguir"
     ],
     "answer": 0,
     "explanation": "La forma adequada és «finançar».",
@@ -17601,8 +17601,8 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "aplaçar → aplaçar",
-      "financiar → ajornar",
+      "lograr → lograr",
+      "financiar → aconseguir",
       "financiar → finançar"
     ],
     "answer": 2,
@@ -17620,7 +17620,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «fronterís»?",
+    "prompt": "Revisa aquesta frase: És un municipi «fronterís». Quina forma ha de substituir «fronterís»?",
     "options": [
       "donar suport",
       "fronterer",
@@ -17662,7 +17662,7 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «fulla de paper»?",
+    "prompt": "Revisa aquesta frase: Escriu-ho en una «fulla de paper». Quina forma ha de substituir «fulla de paper»?",
     "options": [
       "fulla de paper",
       "penedir-se",
