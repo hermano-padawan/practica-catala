@@ -293,7 +293,7 @@
     "prompt": "Quina paraula està escrita correctament?",
     "options": ["suicidi", "suïcidi", "süicidi"],
     "answer": 1,
-    "explanation": "Suïcidi porta dièresi per raons etimològiques.",
+    "explanation": "Suïcidi porta dièresi perquè la u i la i es pronuncien en síl·labes diferents.",
     "source": {"url": "https://www.cpnl.cat/gramatica/12/19-la-dieresi", "locator": "Mots amb dièresi per raons etimològiques, línies 160-163"},
     "reviewedAt": "2026-08-17",
     "reviewedBy": "Codex; contrast CPNL"
