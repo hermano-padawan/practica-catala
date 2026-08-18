@@ -9311,7 +9311,7 @@
       "Dona-hi-el."
     ],
     "answer": 1,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9325,14 +9325,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «la carta» i «a la responsable»: «Dona la carta a la responsable.»",
+    "prompt": "Substitueix «la carta» i «al coordinador»: «Dona la carta al coordinador.»",
     "options": [
       "Dona-la-hi.",
       "Dona-hi-la.",
       "Li la dona."
     ],
     "answer": 0,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9346,14 +9346,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «els informes» i «a la responsable»: «Dona els informes a la responsable.»",
+    "prompt": "Substitueix «els informes» i «a la directora»: «Dona els informes a la directora.»",
     "options": [
       "Dona-hi-els.",
       "Li els dona.",
       "Dona'ls-hi."
     ],
     "answer": 2,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9367,14 +9367,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «les claus» i «a la responsable»: «Dona les claus a la responsable.»",
+    "prompt": "Substitueix «les claus» i «a l'encarregada»: «Dona les claus a l'encarregada.»",
     "options": [
       "Li les dona.",
       "Dona-les-hi.",
       "Dona-hi-les."
     ],
     "answer": 1,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9388,14 +9388,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «el paquet» i «a la responsable»: «Dona el paquet a la responsable.»",
+    "prompt": "Substitueix «el paquet» i «al secretari»: «Dona el paquet al secretari.»",
     "options": [
       "Dona-l'hi.",
       "Dona-hi-el.",
       "Li el dona."
     ],
     "answer": 0,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9409,14 +9409,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «la notícia» i «al coordinador»: «Dona la notícia al coordinador.»",
+    "prompt": "Substitueix «la notícia» i «a la responsable»: «Dona la notícia a la responsable.»",
     "options": [
       "Dona-hi-la.",
       "Li la dona.",
       "Dona-la-hi."
     ],
     "answer": 2,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9437,7 +9437,7 @@
       "Dona-hi-els."
     ],
     "answer": 1,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9451,14 +9451,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «la fotografia» i «al coordinador»: «Dona la fotografia al coordinador.»",
+    "prompt": "Substitueix «la fotografia» i «a la directora»: «Dona la fotografia a la directora.»",
     "options": [
       "Dona-la-hi.",
       "Dona-hi-la.",
       "Li la dona."
     ],
     "answer": 0,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9472,14 +9472,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «els documents» i «al coordinador»: «Dona els documents al coordinador.»",
+    "prompt": "Substitueix «els documents» i «a l'encarregada»: «Dona els documents a l'encarregada.»",
     "options": [
       "Dona-hi-els.",
       "Li els dona.",
       "Dona'ls-hi."
     ],
     "answer": 2,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9493,14 +9493,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «el regal» i «al coordinador»: «Dona el regal al coordinador.»",
+    "prompt": "Substitueix «el regal» i «al secretari»: «Dona el regal al secretari.»",
     "options": [
       "Li el dona.",
       "Dona-l'hi.",
       "Dona-hi-el."
     ],
     "answer": 1,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9514,14 +9514,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «la proposta» i «a la directora»: «Dona la proposta a la directora.»",
+    "prompt": "Substitueix «la proposta» i «a la responsable»: «Dona la proposta a la responsable.»",
     "options": [
       "Dona-la-hi.",
       "Dona-hi-la.",
       "Li la dona."
     ],
     "answer": 0,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9535,14 +9535,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «les entrades» i «a la directora»: «Dona les entrades a la directora.»",
+    "prompt": "Substitueix «les entrades» i «al coordinador»: «Dona les entrades al coordinador.»",
     "options": [
       "Dona-hi-les.",
       "Li les dona.",
       "Dona-les-hi."
     ],
     "answer": 2,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9563,7 +9563,7 @@
       "Dona-hi-el."
     ],
     "answer": 1,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9577,14 +9577,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «les dades» i «a la directora»: «Dona les dades a la directora.»",
+    "prompt": "Substitueix «les dades» i «a l'encarregada»: «Dona les dades a l'encarregada.»",
     "options": [
       "Dona-les-hi.",
       "Dona-hi-les.",
       "Li les dona."
     ],
     "answer": 0,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9598,14 +9598,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «el missatge» i «a la directora»: «Dona el missatge a la directora.»",
+    "prompt": "Substitueix «el missatge» i «al secretari»: «Dona el missatge al secretari.»",
     "options": [
       "Dona-hi-el.",
       "Li el dona.",
       "Dona-l'hi."
     ],
     "answer": 2,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9619,14 +9619,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «les factures» i «a l'encarregada»: «Dona les factures a l'encarregada.»",
+    "prompt": "Substitueix «les factures» i «a la responsable»: «Dona les factures a la responsable.»",
     "options": [
       "Li les dona.",
       "Dona-les-hi.",
       "Dona-hi-les."
     ],
     "answer": 1,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9640,14 +9640,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «el plànol» i «a l'encarregada»: «Dona el plànol a l'encarregada.»",
+    "prompt": "Substitueix «el plànol» i «al coordinador»: «Dona el plànol al coordinador.»",
     "options": [
       "Dona-l'hi.",
       "Dona-hi-el.",
       "Li el dona."
     ],
     "answer": 0,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9661,14 +9661,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «les instruccions» i «a l'encarregada»: «Dona les instruccions a l'encarregada.»",
+    "prompt": "Substitueix «les instruccions» i «a la directora»: «Dona les instruccions a la directora.»",
     "options": [
       "Dona-hi-les.",
       "Li les dona.",
       "Dona-les-hi."
     ],
     "answer": 2,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9689,7 +9689,7 @@
       "Dona-hi-el."
     ],
     "answer": 1,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9703,14 +9703,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «les mostres» i «a l'encarregada»: «Dona les mostres a l'encarregada.»",
+    "prompt": "Substitueix «les mostres» i «al secretari»: «Dona les mostres al secretari.»",
     "options": [
       "Dona-les-hi.",
       "Dona-hi-les.",
       "Li les dona."
     ],
     "answer": 0,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9724,14 +9724,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «el rebut» i «al secretari»: «Dona el rebut al secretari.»",
+    "prompt": "Substitueix «el rebut» i «a la responsable»: «Dona el rebut a la responsable.»",
     "options": [
       "Dona-hi-el.",
       "Li el dona.",
       "Dona-l'hi."
     ],
     "answer": 2,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9745,14 +9745,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «les fotografies» i «al secretari»: «Dona les fotografies al secretari.»",
+    "prompt": "Substitueix «les fotografies» i «al coordinador»: «Dona les fotografies al coordinador.»",
     "options": [
       "Li les dona.",
       "Dona-les-hi.",
       "Dona-hi-les."
     ],
     "answer": 1,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9766,14 +9766,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «el dossier» i «al secretari»: «Dona el dossier al secretari.»",
+    "prompt": "Substitueix «el dossier» i «a la directora»: «Dona el dossier a la directora.»",
     "options": [
       "Dona-l'hi.",
       "Dona-hi-el.",
       "Li el dona."
     ],
     "answer": 0,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9787,14 +9787,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «les notes» i «al secretari»: «Dona les notes al secretari.»",
+    "prompt": "Substitueix «les notes» i «a l'encarregada»: «Dona les notes a l'encarregada.»",
     "options": [
       "Dona-hi-les.",
       "Li les dona.",
       "Dona-les-hi."
     ],
     "answer": 2,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9815,7 +9815,7 @@
       "Dona-hi-el."
     ],
     "answer": 1,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9829,14 +9829,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «el llibre» i «a la tècnica»: «Dona el llibre a la tècnica.»",
+    "prompt": "Substitueix «el llibre» i «a les responsables»: «Dona el llibre a les responsables.»",
     "options": [
-      "Dona-l'hi.",
-      "Dona-hi-el.",
-      "Li el dona."
+      "Dona'ls-el.",
+      "Dona-el-hi.",
+      "Dona'ls-hi."
     ],
     "answer": 0,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9850,14 +9850,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «la carta» i «a la tècnica»: «Dona la carta a la tècnica.»",
+    "prompt": "Substitueix «la carta» i «als coordinadors»: «Dona la carta als coordinadors.»",
     "options": [
-      "Dona-hi-la.",
-      "Li la dona.",
-      "Dona-la-hi."
+      "Dona-la-hi.",
+      "Dona'ls-hi.",
+      "Dona'ls-la."
     ],
     "answer": 2,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9871,14 +9871,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «els informes» i «a la tècnica»: «Dona els informes a la tècnica.»",
+    "prompt": "Substitueix «els informes» i «a les directores»: «Dona els informes a les directores.»",
     "options": [
-      "Li els dona.",
       "Dona'ls-hi.",
-      "Dona-hi-els."
+      "Dona'ls-els.",
+      "Dona-els-hi."
     ],
     "answer": 1,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9892,14 +9892,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «les claus» i «a la tècnica»: «Dona les claus a la tècnica.»",
+    "prompt": "Substitueix «les claus» i «als encarregats»: «Dona les claus als encarregats.»",
     "options": [
+      "Dona'ls-les.",
       "Dona-les-hi.",
-      "Dona-hi-les.",
-      "Li les dona."
+      "Dona'ls-hi."
     ],
     "answer": 0,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9913,14 +9913,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «el paquet» i «a la tècnica»: «Dona el paquet a la tècnica.»",
+    "prompt": "Substitueix «el paquet» i «a les tècniques»: «Dona el paquet a les tècniques.»",
     "options": [
-      "Dona-hi-el.",
-      "Li el dona.",
-      "Dona-l'hi."
+      "Dona-el-hi.",
+      "Dona'ls-hi.",
+      "Dona'ls-el."
     ],
     "answer": 2,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9934,14 +9934,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «la notícia» i «al professor»: «Dona la notícia al professor.»",
+    "prompt": "Substitueix «la notícia» i «a les responsables»: «Dona la notícia a les responsables.»",
     "options": [
-      "Li la dona.",
-      "Dona-la-hi.",
-      "Dona-hi-la."
+      "Dona'ls-hi.",
+      "Dona'ls-la.",
+      "Dona-la-hi."
     ],
     "answer": 1,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9955,14 +9955,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «els resultats» i «al professor»: «Dona els resultats al professor.»",
+    "prompt": "Substitueix «els resultats» i «als coordinadors»: «Dona els resultats als coordinadors.»",
     "options": [
-      "Dona'ls-hi.",
-      "Dona-hi-els.",
-      "Li els dona."
+      "Dona'ls-els.",
+      "Dona-els-hi.",
+      "Dona'ls-hi."
     ],
     "answer": 0,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9976,14 +9976,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «la fotografia» i «al professor»: «Dona la fotografia al professor.»",
+    "prompt": "Substitueix «la fotografia» i «a les directores»: «Dona la fotografia a les directores.»",
     "options": [
-      "Dona-hi-la.",
-      "Li la dona.",
-      "Dona-la-hi."
+      "Dona-la-hi.",
+      "Dona'ls-hi.",
+      "Dona'ls-la."
     ],
     "answer": 2,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -9997,14 +9997,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «els documents» i «al professor»: «Dona els documents al professor.»",
+    "prompt": "Substitueix «els documents» i «als encarregats»: «Dona els documents als encarregats.»",
     "options": [
-      "Li els dona.",
       "Dona'ls-hi.",
-      "Dona-hi-els."
+      "Dona'ls-els.",
+      "Dona-els-hi."
     ],
     "answer": 1,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -10018,14 +10018,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «el regal» i «al professor»: «Dona el regal al professor.»",
+    "prompt": "Substitueix «el regal» i «a les tècniques»: «Dona el regal a les tècniques.»",
     "options": [
-      "Dona-l'hi.",
-      "Dona-hi-el.",
-      "Li el dona."
+      "Dona'ls-el.",
+      "Dona-el-hi.",
+      "Dona'ls-hi."
     ],
     "answer": 0,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -10039,14 +10039,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «la proposta» i «a la clienta»: «Dona la proposta a la clienta.»",
+    "prompt": "Substitueix «la proposta» i «a les responsables»: «Dona la proposta a les responsables.»",
     "options": [
-      "Dona-hi-la.",
-      "Li la dona.",
-      "Dona-la-hi."
+      "Dona-la-hi.",
+      "Dona'ls-hi.",
+      "Dona'ls-la."
     ],
     "answer": 2,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -10060,14 +10060,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «les entrades» i «a la clienta»: «Dona les entrades a la clienta.»",
+    "prompt": "Substitueix «les entrades» i «als coordinadors»: «Dona les entrades als coordinadors.»",
     "options": [
-      "Li les dona.",
-      "Dona-les-hi.",
-      "Dona-hi-les."
+      "Dona'ls-hi.",
+      "Dona'ls-les.",
+      "Dona-les-hi."
     ],
     "answer": 1,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -10081,14 +10081,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «el contracte» i «a la clienta»: «Dona el contracte a la clienta.»",
+    "prompt": "Substitueix «el contracte» i «a les directores»: «Dona el contracte a les directores.»",
     "options": [
-      "Dona-l'hi.",
-      "Dona-hi-el.",
-      "Li el dona."
+      "Dona'ls-el.",
+      "Dona-el-hi.",
+      "Dona'ls-hi."
     ],
     "answer": 0,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -10102,14 +10102,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «les dades» i «a la clienta»: «Dona les dades a la clienta.»",
+    "prompt": "Substitueix «les dades» i «als encarregats»: «Dona les dades als encarregats.»",
     "options": [
-      "Dona-hi-les.",
-      "Li les dona.",
-      "Dona-les-hi."
+      "Dona-les-hi.",
+      "Dona'ls-hi.",
+      "Dona'ls-les."
     ],
     "answer": 2,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -10123,14 +10123,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «el missatge» i «a la clienta»: «Dona el missatge a la clienta.»",
+    "prompt": "Substitueix «el missatge» i «a les tècniques»: «Dona el missatge a les tècniques.»",
     "options": [
-      "Li el dona.",
-      "Dona-l'hi.",
-      "Dona-hi-el."
+      "Dona'ls-hi.",
+      "Dona'ls-el.",
+      "Dona-el-hi."
     ],
     "answer": 1,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -10144,14 +10144,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «les factures» i «al president»: «Dona les factures al president.»",
+    "prompt": "Substitueix «les factures» i «a les responsables»: «Dona les factures a les responsables.»",
     "options": [
+      "Dona'ls-les.",
       "Dona-les-hi.",
-      "Dona-hi-les.",
-      "Li les dona."
+      "Dona'ls-hi."
     ],
     "answer": 0,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -10165,14 +10165,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «el plànol» i «al president»: «Dona el plànol al president.»",
+    "prompt": "Substitueix «el plànol» i «als coordinadors»: «Dona el plànol als coordinadors.»",
     "options": [
-      "Dona-hi-el.",
-      "Li el dona.",
-      "Dona-l'hi."
+      "Dona-el-hi.",
+      "Dona'ls-hi.",
+      "Dona'ls-el."
     ],
     "answer": 2,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -10186,14 +10186,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «les instruccions» i «al president»: «Dona les instruccions al president.»",
+    "prompt": "Substitueix «les instruccions» i «a les directores»: «Dona les instruccions a les directores.»",
     "options": [
-      "Li les dona.",
-      "Dona-les-hi.",
-      "Dona-hi-les."
+      "Dona'ls-hi.",
+      "Dona'ls-les.",
+      "Dona-les-hi."
     ],
     "answer": 1,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -10207,14 +10207,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «el certificat» i «al president»: «Dona el certificat al president.»",
+    "prompt": "Substitueix «el certificat» i «als encarregats»: «Dona el certificat als encarregats.»",
     "options": [
-      "Dona-l'hi.",
-      "Dona-hi-el.",
-      "Li el dona."
+      "Dona'ls-el.",
+      "Dona-el-hi.",
+      "Dona'ls-hi."
     ],
     "answer": 0,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -10228,14 +10228,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «les mostres» i «al president»: «Dona les mostres al president.»",
+    "prompt": "Substitueix «les mostres» i «a les tècniques»: «Dona les mostres a les tècniques.»",
     "options": [
-      "Dona-hi-les.",
-      "Li les dona.",
-      "Dona-les-hi."
+      "Dona-les-hi.",
+      "Dona'ls-hi.",
+      "Dona'ls-les."
     ],
     "answer": 2,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -10249,14 +10249,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «el rebut» i «a l'administradora»: «Dona el rebut a l'administradora.»",
+    "prompt": "Substitueix «el rebut» i «a les responsables»: «Dona el rebut a les responsables.»",
     "options": [
-      "Li el dona.",
-      "Dona-l'hi.",
-      "Dona-hi-el."
+      "Dona'ls-hi.",
+      "Dona'ls-el.",
+      "Dona-el-hi."
     ],
     "answer": 1,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -10270,14 +10270,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «les fotografies» i «a l'administradora»: «Dona les fotografies a l'administradora.»",
+    "prompt": "Substitueix «les fotografies» i «als coordinadors»: «Dona les fotografies als coordinadors.»",
     "options": [
+      "Dona'ls-les.",
       "Dona-les-hi.",
-      "Dona-hi-les.",
-      "Li les dona."
+      "Dona'ls-hi."
     ],
     "answer": 0,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -10291,14 +10291,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «el dossier» i «a l'administradora»: «Dona el dossier a l'administradora.»",
+    "prompt": "Substitueix «el dossier» i «a les directores»: «Dona el dossier a les directores.»",
     "options": [
-      "Dona-hi-el.",
-      "Li el dona.",
-      "Dona-l'hi."
+      "Dona-el-hi.",
+      "Dona'ls-hi.",
+      "Dona'ls-el."
     ],
     "answer": 2,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -10312,14 +10312,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «les notes» i «a l'administradora»: «Dona les notes a l'administradora.»",
+    "prompt": "Substitueix «les notes» i «als encarregats»: «Dona les notes als encarregats.»",
     "options": [
-      "Li les dona.",
-      "Dona-les-hi.",
-      "Dona-hi-les."
+      "Dona'ls-hi.",
+      "Dona'ls-les.",
+      "Dona-les-hi."
     ],
     "answer": 1,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -10333,14 +10333,14 @@
     "level": "C1",
     "topic": "pronoms",
     "status": "published",
-    "prompt": "Substitueix «el pressupost» i «a l'administradora»: «Dona el pressupost a l'administradora.»",
+    "prompt": "Substitueix «el pressupost» i «a les tècniques»: «Dona el pressupost a les tècniques.»",
     "options": [
-      "Dona-l'hi.",
-      "Dona-hi-el.",
-      "Li el dona."
+      "Dona'ls-el.",
+      "Dona-el-hi.",
+      "Dona'ls-hi."
     ],
     "answer": 0,
-    "explanation": "En la combinació del complement directe amb «hi», el pronom de complement directe va davant.",
+    "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",
       "locator": "Combinacions de pronoms febles"
@@ -15604,14 +15604,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «puesto»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «abertura»?",
     "options": [
-      "bossa",
-      "lloc",
-      "puesto"
+      "retard",
+      "obertura",
+      "abertura"
     ],
     "answer": 1,
-    "explanation": "La forma adequada és «lloc».",
+    "explanation": "La forma adequada és «obertura».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -15627,12 +15627,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "puesto → lloc",
-      "bolso → bolso",
-      "puesto → bossa"
+      "abertura → obertura",
+      "retràs → retràs",
+      "abertura → retard"
     ],
     "answer": 0,
-    "explanation": "La correspondència normativa és «puesto → lloc».",
+    "explanation": "La correspondència normativa és «abertura → obertura».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -15646,14 +15646,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «demés»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «garantitzar»?",
     "options": [
-      "demés",
-      "cambrer",
-      "resta"
+      "garantitzar",
+      "proesa",
+      "garantir"
     ],
     "answer": 2,
-    "explanation": "La forma adequada és «resta».",
+    "explanation": "La forma adequada és «garantir».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -15669,12 +15669,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "demés → cambrer",
-      "demés → resta",
-      "camarero → camarero"
+      "garantitzar → proesa",
+      "garantitzar → garantir",
+      "hassanya → hassanya"
     ],
     "answer": 1,
-    "explanation": "La correspondència normativa és «demés → resta».",
+    "explanation": "La correspondència normativa és «garantitzar → garantir».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -15688,14 +15688,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «pàrraf»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «aconteixement»?",
     "options": [
-      "paràgraf",
-      "pàrraf",
-      "cendrer"
+      "esdeveniment",
+      "aconteixement",
+      "frontissa"
     ],
     "answer": 0,
-    "explanation": "La forma adequada és «paràgraf».",
+    "explanation": "La forma adequada és «esdeveniment».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -15711,12 +15711,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "cenicero → cenicero",
-      "pàrraf → cendrer",
-      "pàrraf → paràgraf"
+      "bisagra → bisagra",
+      "aconteixement → frontissa",
+      "aconteixement → esdeveniment"
     ],
     "answer": 2,
-    "explanation": "La correspondència normativa és «pàrraf → paràgraf».",
+    "explanation": "La correspondència normativa és «aconteixement → esdeveniment».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -15730,14 +15730,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «plaç»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «acostumbrar»?",
     "options": [
-      "acomiadar",
-      "termini",
-      "plaç"
+      "recerca",
+      "acostumar",
+      "acostumbrar"
     ],
     "answer": 1,
-    "explanation": "La forma adequada és «termini».",
+    "explanation": "La forma adequada és «acostumar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -15753,12 +15753,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "plaç → termini",
-      "despedir → despedir",
-      "plaç → acomiadar"
+      "acostumbrar → acostumar",
+      "búsqueda → búsqueda",
+      "acostumbrar → recerca"
     ],
     "answer": 0,
-    "explanation": "La correspondència normativa és «plaç → termini».",
+    "explanation": "La correspondència normativa és «acostumbrar → acostumar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -15772,14 +15772,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «rato»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «adelantar»?",
     "options": [
-      "rato",
-      "gaudir",
-      "estona"
+      "adelantar",
+      "qualificar",
+      "avançar"
     ],
     "answer": 2,
-    "explanation": "La forma adequada és «estona».",
+    "explanation": "La forma adequada és «avançar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -15795,12 +15795,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "rato → gaudir",
-      "rato → estona",
-      "disfrutar → disfrutar"
+      "adelantar → qualificar",
+      "adelantar → avançar",
+      "calificar → calificar"
     ],
     "answer": 1,
-    "explanation": "La correspondència normativa és «rato → estona».",
+    "explanation": "La correspondència normativa és «adelantar → avançar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -15814,14 +15814,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «sèrio»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «ademés»?",
     "options": [
-      "seriós",
-      "sèrio",
-      "aleshores"
+      "a més",
+      "ademés",
+      "qualitat"
     ],
     "answer": 0,
-    "explanation": "La forma adequada és «seriós».",
+    "explanation": "La forma adequada és «a més».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -15837,12 +15837,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "entonces → entonces",
-      "sèrio → aleshores",
-      "sèrio → seriós"
+      "calitat → calitat",
+      "ademés → qualitat",
+      "ademés → a més"
     ],
     "answer": 2,
-    "explanation": "La correspondència normativa és «sèrio → seriós».",
+    "explanation": "La correspondència normativa és «ademés → a més».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -15856,14 +15856,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «almeja»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «agotar»?",
     "options": [
-      "lliurament",
-      "cloïssa",
-      "almeja"
+      "quantitat",
+      "esgotar",
+      "agotar"
     ],
     "answer": 1,
-    "explanation": "La forma adequada és «cloïssa».",
+    "explanation": "La forma adequada és «esgotar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -15879,12 +15879,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "almeja → cloïssa",
-      "entrega → entrega",
-      "almeja → lliurament"
+      "agotar → esgotar",
+      "cantitat → cantitat",
+      "agotar → quantitat"
     ],
     "answer": 0,
-    "explanation": "La correspondència normativa és «almeja → cloïssa».",
+    "explanation": "La correspondència normativa és «agotar → esgotar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -15898,14 +15898,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «barco»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «agravar»?",
     "options": [
-      "barco",
-      "despesa",
-      "vaixell"
+      "agravar",
+      "gairebé",
+      "agreujar"
     ],
     "answer": 2,
-    "explanation": "La forma adequada és «vaixell».",
+    "explanation": "La forma adequada és «agreujar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -15921,12 +15921,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "barco → despesa",
-      "barco → vaixell",
-      "gasto → gasto"
+      "agravar → gairebé",
+      "agravar → agreujar",
+      "casi → casi"
     ],
     "answer": 1,
-    "explanation": "La correspondència normativa és «barco → vaixell».",
+    "explanation": "La correspondència normativa és «agravar → agreujar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -15940,14 +15940,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «tablet»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «albedrío»?",
     "options": [
-      "tauleta",
-      "tablet",
-      "aixeta"
+      "albir",
+      "albedrío",
+      "ramader"
     ],
     "answer": 0,
-    "explanation": "La forma adequada és «tauleta».",
+    "explanation": "La forma adequada és «albir».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -15963,12 +15963,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "grifo → grifo",
-      "tablet → aixeta",
-      "tablet → tauleta"
+      "ganader → ganader",
+      "albedrío → ramader",
+      "albedrío → albir"
     ],
     "answer": 2,
-    "explanation": "La correspondència normativa és «tablet → tauleta».",
+    "explanation": "La correspondència normativa és «albedrío → albir».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -15982,14 +15982,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «tonto»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «alcançar»?",
     "options": [
-      "senglar",
-      "ximple",
-      "tonto"
+      "humiliar",
+      "assolir",
+      "alcançar"
     ],
     "answer": 1,
-    "explanation": "La forma adequada és «ximple».",
+    "explanation": "La forma adequada és «assolir».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16005,12 +16005,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "tonto → ximple",
-      "jabalí → jabalí",
-      "tonto → senglar"
+      "alcançar → assolir",
+      "humillar → humillar",
+      "alcançar → humiliar"
     ],
     "answer": 0,
-    "explanation": "La correspondència normativa és «tonto → ximple».",
+    "explanation": "La correspondència normativa és «alcançar → assolir».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16024,14 +16024,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «link»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «algo»?",
     "options": [
-      "link",
-      "lleixiu",
-      "enllaç"
+      "algo",
+      "creuar",
+      "alguna cosa"
     ],
     "answer": 2,
-    "explanation": "La forma adequada és «enllaç».",
+    "explanation": "La forma adequada és «alguna cosa».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16047,12 +16047,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "link → lleixiu",
-      "link → enllaç",
-      "lejía → lejía"
+      "algo → creuar",
+      "algo → alguna cosa",
+      "crusar → crusar"
     ],
     "answer": 1,
-    "explanation": "La correspondència normativa és «link → enllaç».",
+    "explanation": "La correspondència normativa és «algo → alguna cosa».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16066,14 +16066,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «jefe»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «ambos»?",
     "options": [
-      "cap",
-      "jefe",
-      "trucada"
+      "ambdós",
+      "ambos",
+      "acurat"
     ],
     "answer": 0,
-    "explanation": "La forma adequada és «cap».",
+    "explanation": "La forma adequada és «ambdós».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16089,12 +16089,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "llamada → llamada",
-      "jefe → trucada",
-      "jefe → cap"
+      "cuidadós → cuidadós",
+      "ambos → acurat",
+      "ambos → ambdós"
     ],
     "answer": 2,
-    "explanation": "La correspondència normativa és «jefe → cap».",
+    "explanation": "La correspondència normativa és «ambos → ambdós».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16108,14 +16108,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «buzón»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «amparo»?",
     "options": [
-      "assoliment",
-      "bústia",
-      "buzón"
+      "la resta",
+      "empara",
+      "amparo"
     ],
     "answer": 1,
-    "explanation": "La forma adequada és «bústia».",
+    "explanation": "La forma adequada és «empara».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16131,12 +16131,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "buzón → bústia",
-      "logro → logro",
-      "buzón → assoliment"
+      "amparo → empara",
+      "demés → demés",
+      "amparo → la resta"
     ],
     "answer": 0,
-    "explanation": "La correspondència normativa és «buzón → bústia».",
+    "explanation": "La correspondència normativa és «amparo → empara».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16150,14 +16150,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «acera»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «àngul»?",
     "options": [
-      "acera",
-      "vianant",
-      "vorera"
+      "àngul",
+      "enderrocar",
+      "angle"
     ],
     "answer": 2,
-    "explanation": "La forma adequada és «vorera».",
+    "explanation": "La forma adequada és «angle».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16173,12 +16173,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "acera → vianant",
-      "acera → vorera",
-      "peatón → peatón"
+      "àngul → enderrocar",
+      "àngul → angle",
+      "derribar → derribar"
     ],
     "answer": 1,
-    "explanation": "La correspondència normativa és «acera → vorera».",
+    "explanation": "La correspondència normativa és «àngul → angle».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16192,14 +16192,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «apellido»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «aplaçar»?",
     "options": [
-      "cognom",
-      "apellido",
-      "perruqueria"
+      "ajornar",
+      "aplaçar",
+      "malbaratar"
     ],
     "answer": 0,
-    "explanation": "La forma adequada és «cognom».",
+    "explanation": "La forma adequada és «ajornar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16215,12 +16215,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "peluquería → peluquería",
-      "apellido → perruqueria",
-      "apellido → cognom"
+      "derrotxar → derrotxar",
+      "aplaçar → malbaratar",
+      "aplaçar → ajornar"
     ],
     "answer": 2,
-    "explanation": "La correspondència normativa és «apellido → cognom».",
+    "explanation": "La correspondència normativa és «aplaçar → ajornar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16234,14 +16234,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «basura»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «apoiar»?",
     "options": [
-      "segell",
-      "escombraries",
-      "basura"
+      "desenvolupar",
+      "donar suport",
+      "apoiar"
     ],
     "answer": 1,
-    "explanation": "La forma adequada és «escombraries».",
+    "explanation": "La forma adequada és «donar suport».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16257,12 +16257,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "basura → escombraries",
-      "sello → sello",
-      "basura → segell"
+      "apoiar → donar suport",
+      "desarrollar → desarrollar",
+      "apoiar → desenvolupar"
     ],
     "answer": 0,
-    "explanation": "La correspondència normativa és «basura → escombraries».",
+    "explanation": "La correspondència normativa és «apoiar → donar suport».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16276,14 +16276,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «bocadillo»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «arrepentir-se»?",
     "options": [
-      "bocadillo",
-      "forquilla",
-      "entrepà"
+      "arrepentir-se",
+      "per descomptat",
+      "penedir-se"
     ],
     "answer": 2,
-    "explanation": "La forma adequada és «entrepà».",
+    "explanation": "La forma adequada és «penedir-se».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16299,12 +16299,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "bocadillo → forquilla",
-      "bocadillo → entrepà",
-      "tenedor → tenedor"
+      "arrepentir-se → per descomptat",
+      "arrepentir-se → penedir-se",
+      "desde luego → desde luego"
     ],
     "answer": 1,
-    "explanation": "La correspondència normativa és «bocadillo → entrepà».",
+    "explanation": "La correspondència normativa és «arrepentir-se → penedir-se».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16318,14 +16318,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «bolso»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «retràs»?",
     "options": [
-      "bossa",
-      "bolso",
-      "turmell"
+      "retard",
+      "retràs",
+      "jutjat"
     ],
     "answer": 0,
-    "explanation": "La forma adequada és «bossa».",
+    "explanation": "La forma adequada és «retard».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16341,12 +16341,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "tobillo → tobillo",
-      "bolso → turmell",
-      "bolso → bossa"
+      "jusgat → jusgat",
+      "retràs → jutjat",
+      "retràs → retard"
     ],
     "answer": 2,
-    "explanation": "La correspondència normativa és «bolso → bossa».",
+    "explanation": "La correspondència normativa és «retràs → retard».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16360,14 +16360,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «camarero»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «hassanya»?",
     "options": [
-      "finestra",
-      "cambrer",
-      "camarero"
+      "rebutjar",
+      "proesa",
+      "hassanya"
     ],
     "answer": 1,
-    "explanation": "La forma adequada és «cambrer».",
+    "explanation": "La forma adequada és «proesa».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16383,12 +16383,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "camarero → cambrer",
-      "ventana → ventana",
-      "camarero → finestra"
+      "hassanya → proesa",
+      "desetxar → desetxar",
+      "hassanya → rebutjar"
     ],
     "answer": 0,
-    "explanation": "La correspondència normativa és «camarero → cambrer».",
+    "explanation": "La correspondència normativa és «hassanya → proesa».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16402,14 +16402,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «cenicero»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «bisagra»?",
     "options": [
-      "cenicero",
-      "habitatge",
-      "cendrer"
+      "bisagra",
+      "aclarir",
+      "frontissa"
     ],
     "answer": 2,
-    "explanation": "La forma adequada és «cendrer».",
+    "explanation": "La forma adequada és «frontissa».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16425,12 +16425,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "cenicero → habitatge",
-      "cenicero → cendrer",
-      "vivienda → vivienda"
+      "bisagra → aclarir",
+      "bisagra → frontissa",
+      "despejar → despejar"
     ],
     "answer": 1,
-    "explanation": "La correspondència normativa és «cenicero → cendrer».",
+    "explanation": "La correspondència normativa és «bisagra → frontissa».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16444,14 +16444,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «despedir»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «búsqueda»?",
     "options": [
-      "acomiadar",
-      "despedir",
-      "embús"
+      "recerca",
+      "búsqueda",
+      "deute"
     ],
     "answer": 0,
-    "explanation": "La forma adequada és «acomiadar».",
+    "explanation": "La forma adequada és «recerca».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16467,12 +16467,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "atasco → atasco",
-      "despedir → embús",
-      "despedir → acomiadar"
+      "deuda → deuda",
+      "búsqueda → deute",
+      "búsqueda → recerca"
     ],
     "answer": 2,
-    "explanation": "La correspondència normativa és «despedir → acomiadar».",
+    "explanation": "La correspondència normativa és «búsqueda → recerca».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16486,14 +16486,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «disfrutar»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «calificar»?",
     "options": [
-      "avaria",
-      "gaudir",
-      "disfrutar"
+      "adonar-se",
+      "qualificar",
+      "calificar"
     ],
     "answer": 1,
-    "explanation": "La forma adequada és «gaudir».",
+    "explanation": "La forma adequada és «qualificar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16509,12 +16509,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "disfrutar → gaudir",
-      "avería → avería",
-      "disfrutar → avaria"
+      "calificar → qualificar",
+      "donar-se compte → donar-se compte",
+      "calificar → adonar-se"
     ],
     "answer": 0,
-    "explanation": "La correspondència normativa és «disfrutar → gaudir».",
+    "explanation": "La correspondència normativa és «calificar → qualificar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16528,14 +16528,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «entonces»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «calitat»?",
     "options": [
-      "entonces",
-      "mitjó",
-      "aleshores"
+      "calitat",
+      "inserir",
+      "qualitat"
     ],
     "answer": 2,
-    "explanation": "La forma adequada és «aleshores».",
+    "explanation": "La forma adequada és «qualitat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16551,12 +16551,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "entonces → mitjó",
-      "entonces → aleshores",
-      "calcetín → calcetín"
+      "calitat → inserir",
+      "calitat → qualitat",
+      "insertar → insertar"
     ],
     "answer": 1,
-    "explanation": "La correspondència normativa és «entonces → aleshores».",
+    "explanation": "La correspondència normativa és «calitat → qualitat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16570,14 +16570,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «entrega»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «cantitat»?",
     "options": [
-      "lliurament",
-      "entrega",
-      "bassal"
+      "quantitat",
+      "cantitat",
+      "endoll"
     ],
     "answer": 0,
-    "explanation": "La forma adequada és «lliurament».",
+    "explanation": "La forma adequada és «quantitat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16593,12 +16593,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "charco → charco",
-      "entrega → bassal",
-      "entrega → lliurament"
+      "enchufe → enchufe",
+      "cantitat → endoll",
+      "cantitat → quantitat"
     ],
     "answer": 2,
-    "explanation": "La correspondència normativa és «entrega → lliurament».",
+    "explanation": "La correspondència normativa és «cantitat → quantitat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16612,14 +16612,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «gasto»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «casi»?",
     "options": [
-      "endoll",
-      "despesa",
-      "gasto"
+      "malaltia",
+      "gairebé",
+      "casi"
     ],
     "answer": 1,
-    "explanation": "La forma adequada és «despesa».",
+    "explanation": "La forma adequada és «gairebé».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16635,12 +16635,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "gasto → despesa",
-      "enchufe → enchufe",
-      "gasto → endoll"
+      "casi → gairebé",
+      "enfermetat → enfermetat",
+      "casi → malaltia"
     ],
     "answer": 0,
-    "explanation": "La correspondència normativa és «gasto → despesa».",
+    "explanation": "La correspondència normativa és «casi → gairebé».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16654,14 +16654,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «grifo»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «ganader»?",
     "options": [
-      "grifo",
-      "cantonada",
-      "aixeta"
+      "ganader",
+      "en lloc de",
+      "ramader"
     ],
     "answer": 2,
-    "explanation": "La forma adequada és «aixeta».",
+    "explanation": "La forma adequada és «ramader».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16677,12 +16677,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "grifo → cantonada",
-      "grifo → aixeta",
-      "esquina → esquina"
+      "ganader → en lloc de",
+      "ganader → ramader",
+      "en ves de → en ves de"
     ],
     "answer": 1,
-    "explanation": "La correspondència normativa és «grifo → aixeta».",
+    "explanation": "La correspondència normativa és «ganader → ramader».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16696,14 +16696,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «jabalí»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «humillar»?",
     "options": [
-      "senglar",
-      "jabalí",
+      "humiliar",
+      "humillar",
       "estranger"
     ],
     "answer": 0,
-    "explanation": "La forma adequada és «senglar».",
+    "explanation": "La forma adequada és «humiliar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16719,12 +16719,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "extranjero → extranjero",
-      "jabalí → estranger",
-      "jabalí → senglar"
+      "extranger → extranger",
+      "humillar → estranger",
+      "humillar → humiliar"
     ],
     "answer": 2,
-    "explanation": "La correspondència normativa és «jabalí → senglar».",
+    "explanation": "La correspondència normativa és «humillar → humiliar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16738,14 +16738,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «lejía»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «crusar»?",
     "options": [
-      "serrell",
-      "lleixiu",
-      "lejía"
+      "estrany",
+      "creuar",
+      "crusar"
     ],
     "answer": 1,
-    "explanation": "La forma adequada és «lleixiu».",
+    "explanation": "La forma adequada és «creuar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16761,12 +16761,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "lejía → lleixiu",
-      "flequillo → flequillo",
-      "lejía → serrell"
+      "crusar → creuar",
+      "extrany → extrany",
+      "crusar → estrany"
     ],
     "answer": 0,
-    "explanation": "La correspondència normativa és «lejía → lleixiu».",
+    "explanation": "La correspondència normativa és «crusar → creuar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16780,14 +16780,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «llamada»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «cuidadós»?",
     "options": [
-      "llamada",
-      "ulleres",
-      "trucada"
+      "cuidadós",
+      "errada",
+      "acurat"
     ],
     "answer": 2,
-    "explanation": "La forma adequada és «trucada».",
+    "explanation": "La forma adequada és «acurat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16803,12 +16803,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "llamada → ulleres",
-      "llamada → trucada",
-      "gafas → gafas"
+      "cuidadós → errada",
+      "cuidadós → acurat",
+      "fallo → fallo"
     ],
     "answer": 1,
-    "explanation": "La correspondència normativa és «llamada → trucada».",
+    "explanation": "La correspondència normativa és «cuidadós → acurat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16822,14 +16822,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «logro»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «demés»?",
     "options": [
-      "assoliment",
-      "logro",
-      "vaga"
+      "la resta",
+      "demés",
+      "data"
     ],
     "answer": 0,
-    "explanation": "La forma adequada és «assoliment».",
+    "explanation": "La forma adequada és «la resta».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16845,12 +16845,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "huelga → huelga",
-      "logro → vaga",
-      "logro → assoliment"
+      "fetxa → fetxa",
+      "demés → data",
+      "demés → la resta"
     ],
     "answer": 2,
-    "explanation": "La correspondència normativa és «logro → assoliment».",
+    "explanation": "La correspondència normativa és «demés → la resta».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16864,14 +16864,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «peatón»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «derribar»?",
     "options": [
-      "maó",
-      "vianant",
-      "peatón"
+      "finançar",
+      "enderrocar",
+      "derribar"
     ],
     "answer": 1,
-    "explanation": "La forma adequada és «vianant».",
+    "explanation": "La forma adequada és «enderrocar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16887,12 +16887,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "peatón → vianant",
-      "ladrillo → ladrillo",
-      "peatón → maó"
+      "derribar → enderrocar",
+      "financiar → financiar",
+      "derribar → finançar"
     ],
     "answer": 0,
-    "explanation": "La correspondència normativa és «peatón → vianant».",
+    "explanation": "La correspondència normativa és «derribar → enderrocar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16906,14 +16906,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «peluquería»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «derrotxar»?",
     "options": [
-      "peluquería",
-      "mantega",
-      "perruqueria"
+      "derrotxar",
+      "fronterer",
+      "malbaratar"
     ],
     "answer": 2,
-    "explanation": "La forma adequada és «perruqueria».",
+    "explanation": "La forma adequada és «malbaratar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16929,12 +16929,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "peluquería → mantega",
-      "peluquería → perruqueria",
-      "mantequilla → mantequilla"
+      "derrotxar → fronterer",
+      "derrotxar → malbaratar",
+      "fronterís → fronterís"
     ],
     "answer": 1,
-    "explanation": "La correspondència normativa és «peluquería → perruqueria».",
+    "explanation": "La correspondència normativa és «derrotxar → malbaratar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16948,14 +16948,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «sello»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «desarrollar»?",
     "options": [
-      "segell",
-      "sello",
-      "esdeveniment"
+      "desenvolupar",
+      "desarrollar",
+      "full de paper"
     ],
     "answer": 0,
-    "explanation": "La forma adequada és «segell».",
+    "explanation": "La forma adequada és «desenvolupar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16971,12 +16971,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "suceso → suceso",
-      "sello → esdeveniment",
-      "sello → segell"
+      "fulla de paper → fulla de paper",
+      "desarrollar → full de paper",
+      "desarrollar → desenvolupar"
     ],
     "answer": 2,
-    "explanation": "La correspondència normativa és «sello → segell».",
+    "explanation": "La correspondència normativa és «desarrollar → desenvolupar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -16990,14 +16990,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «tenedor»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «desde luego»?",
     "options": [
-      "lloc",
-      "forquilla",
-      "tenedor"
+      "obertura",
+      "per descomptat",
+      "desde luego"
     ],
     "answer": 1,
-    "explanation": "La forma adequada és «forquilla».",
+    "explanation": "La forma adequada és «per descomptat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17013,12 +17013,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "tenedor → forquilla",
-      "puesto → puesto",
-      "tenedor → lloc"
+      "desde luego → per descomptat",
+      "abertura → abertura",
+      "desde luego → obertura"
     ],
     "answer": 0,
-    "explanation": "La correspondència normativa és «tenedor → forquilla».",
+    "explanation": "La correspondència normativa és «desde luego → per descomptat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17032,14 +17032,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «tobillo»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «jusgat»?",
     "options": [
-      "tobillo",
-      "resta",
-      "turmell"
+      "jusgat",
+      "garantir",
+      "jutjat"
     ],
     "answer": 2,
-    "explanation": "La forma adequada és «turmell».",
+    "explanation": "La forma adequada és «jutjat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17055,12 +17055,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "tobillo → resta",
-      "tobillo → turmell",
-      "demés → demés"
+      "jusgat → garantir",
+      "jusgat → jutjat",
+      "garantitzar → garantitzar"
     ],
     "answer": 1,
-    "explanation": "La correspondència normativa és «tobillo → turmell».",
+    "explanation": "La correspondència normativa és «jusgat → jutjat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17074,14 +17074,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «ventana»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «desetxar»?",
     "options": [
-      "finestra",
-      "ventana",
-      "paràgraf"
+      "rebutjar",
+      "desetxar",
+      "esdeveniment"
     ],
     "answer": 0,
-    "explanation": "La forma adequada és «finestra».",
+    "explanation": "La forma adequada és «rebutjar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17097,12 +17097,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "pàrraf → pàrraf",
-      "ventana → paràgraf",
-      "ventana → finestra"
+      "aconteixement → aconteixement",
+      "desetxar → esdeveniment",
+      "desetxar → rebutjar"
     ],
     "answer": 2,
-    "explanation": "La correspondència normativa és «ventana → finestra».",
+    "explanation": "La correspondència normativa és «desetxar → rebutjar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17116,14 +17116,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «vivienda»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «despejar»?",
     "options": [
-      "termini",
-      "habitatge",
-      "vivienda"
+      "acostumar",
+      "aclarir",
+      "despejar"
     ],
     "answer": 1,
-    "explanation": "La forma adequada és «habitatge».",
+    "explanation": "La forma adequada és «aclarir».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17139,12 +17139,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "vivienda → habitatge",
-      "plaç → plaç",
-      "vivienda → termini"
+      "despejar → aclarir",
+      "acostumbrar → acostumbrar",
+      "despejar → acostumar"
     ],
     "answer": 0,
-    "explanation": "La correspondència normativa és «vivienda → habitatge».",
+    "explanation": "La correspondència normativa és «despejar → aclarir».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17158,14 +17158,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «atasco»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «deuda»?",
     "options": [
-      "atasco",
-      "estona",
-      "embús"
+      "deuda",
+      "avançar",
+      "deute"
     ],
     "answer": 2,
-    "explanation": "La forma adequada és «embús».",
+    "explanation": "La forma adequada és «deute».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17181,12 +17181,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "atasco → estona",
-      "atasco → embús",
-      "rato → rato"
+      "deuda → avançar",
+      "deuda → deute",
+      "adelantar → adelantar"
     ],
     "answer": 1,
-    "explanation": "La correspondència normativa és «atasco → embús».",
+    "explanation": "La correspondència normativa és «deuda → deute».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17200,14 +17200,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «avería»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «donar-se compte»?",
     "options": [
-      "avaria",
-      "avería",
-      "seriós"
+      "adonar-se",
+      "donar-se compte",
+      "a més"
     ],
     "answer": 0,
-    "explanation": "La forma adequada és «avaria».",
+    "explanation": "La forma adequada és «adonar-se».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17223,12 +17223,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "sèrio → sèrio",
-      "avería → seriós",
-      "avería → avaria"
+      "ademés → ademés",
+      "donar-se compte → a més",
+      "donar-se compte → adonar-se"
     ],
     "answer": 2,
-    "explanation": "La correspondència normativa és «avería → avaria».",
+    "explanation": "La correspondència normativa és «donar-se compte → adonar-se».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17242,14 +17242,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «calcetín»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «insertar»?",
     "options": [
-      "cloïssa",
-      "mitjó",
-      "calcetín"
+      "esgotar",
+      "inserir",
+      "insertar"
     ],
     "answer": 1,
-    "explanation": "La forma adequada és «mitjó».",
+    "explanation": "La forma adequada és «inserir».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17265,12 +17265,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "calcetín → mitjó",
-      "almeja → almeja",
-      "calcetín → cloïssa"
+      "insertar → inserir",
+      "agotar → agotar",
+      "insertar → esgotar"
     ],
     "answer": 0,
-    "explanation": "La correspondència normativa és «calcetín → mitjó».",
+    "explanation": "La correspondència normativa és «insertar → inserir».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17284,14 +17284,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «charco»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «enchufe»?",
     "options": [
-      "charco",
-      "vaixell",
-      "bassal"
+      "enchufe",
+      "agreujar",
+      "endoll"
     ],
     "answer": 2,
-    "explanation": "La forma adequada és «bassal».",
+    "explanation": "La forma adequada és «endoll».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17307,12 +17307,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "charco → vaixell",
-      "charco → bassal",
-      "barco → barco"
+      "enchufe → agreujar",
+      "enchufe → endoll",
+      "agravar → agravar"
     ],
     "answer": 1,
-    "explanation": "La correspondència normativa és «charco → bassal».",
+    "explanation": "La correspondència normativa és «enchufe → endoll».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17326,14 +17326,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «enchufe»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «enfermetat»?",
     "options": [
-      "endoll",
-      "enchufe",
-      "tauleta"
+      "malaltia",
+      "enfermetat",
+      "albir"
     ],
     "answer": 0,
-    "explanation": "La forma adequada és «endoll».",
+    "explanation": "La forma adequada és «malaltia».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17349,12 +17349,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "tablet → tablet",
-      "enchufe → tauleta",
-      "enchufe → endoll"
+      "albedrío → albedrío",
+      "enfermetat → albir",
+      "enfermetat → malaltia"
     ],
     "answer": 2,
-    "explanation": "La correspondència normativa és «enchufe → endoll».",
+    "explanation": "La correspondència normativa és «enfermetat → malaltia».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17368,14 +17368,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «esquina»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «en ves de»?",
     "options": [
-      "ximple",
-      "cantonada",
-      "esquina"
+      "assolir",
+      "en lloc de",
+      "en ves de"
     ],
     "answer": 1,
-    "explanation": "La forma adequada és «cantonada».",
+    "explanation": "La forma adequada és «en lloc de».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17391,12 +17391,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "esquina → cantonada",
-      "tonto → tonto",
-      "esquina → ximple"
+      "en ves de → en lloc de",
+      "alcançar → alcançar",
+      "en ves de → assolir"
     ],
     "answer": 0,
-    "explanation": "La correspondència normativa és «esquina → cantonada».",
+    "explanation": "La correspondència normativa és «en ves de → en lloc de».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17410,10 +17410,10 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «extranjero»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «extranger»?",
     "options": [
-      "extranjero",
-      "enllaç",
+      "extranger",
+      "alguna cosa",
       "estranger"
     ],
     "answer": 2,
@@ -17433,12 +17433,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "extranjero → enllaç",
-      "extranjero → estranger",
-      "link → link"
+      "extranger → alguna cosa",
+      "extranger → estranger",
+      "algo → algo"
     ],
     "answer": 1,
-    "explanation": "La correspondència normativa és «extranjero → estranger».",
+    "explanation": "La correspondència normativa és «extranger → estranger».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17452,14 +17452,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «flequillo»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «extrany»?",
     "options": [
-      "serrell",
-      "flequillo",
-      "cap"
+      "estrany",
+      "extrany",
+      "ambdós"
     ],
     "answer": 0,
-    "explanation": "La forma adequada és «serrell».",
+    "explanation": "La forma adequada és «estrany».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17475,12 +17475,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "jefe → jefe",
-      "flequillo → cap",
-      "flequillo → serrell"
+      "ambos → ambos",
+      "extrany → ambdós",
+      "extrany → estrany"
     ],
     "answer": 2,
-    "explanation": "La correspondència normativa és «flequillo → serrell».",
+    "explanation": "La correspondència normativa és «extrany → estrany».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17494,14 +17494,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «gafas»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «fallo»?",
     "options": [
-      "bústia",
-      "ulleres",
-      "gafas"
+      "empara",
+      "errada",
+      "fallo"
     ],
     "answer": 1,
-    "explanation": "La forma adequada és «ulleres».",
+    "explanation": "La forma adequada és «errada».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17517,12 +17517,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "gafas → ulleres",
-      "buzón → buzón",
-      "gafas → bústia"
+      "fallo → errada",
+      "amparo → amparo",
+      "fallo → empara"
     ],
     "answer": 0,
-    "explanation": "La correspondència normativa és «gafas → ulleres».",
+    "explanation": "La correspondència normativa és «fallo → errada».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17536,14 +17536,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «huelga»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «fetxa»?",
     "options": [
-      "huelga",
-      "vorera",
-      "vaga"
+      "fetxa",
+      "angle",
+      "data"
     ],
     "answer": 2,
-    "explanation": "La forma adequada és «vaga».",
+    "explanation": "La forma adequada és «data».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17559,12 +17559,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "huelga → vorera",
-      "huelga → vaga",
-      "acera → acera"
+      "fetxa → angle",
+      "fetxa → data",
+      "àngul → àngul"
     ],
     "answer": 1,
-    "explanation": "La correspondència normativa és «huelga → vaga».",
+    "explanation": "La correspondència normativa és «fetxa → data».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17578,14 +17578,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «ladrillo»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «financiar»?",
     "options": [
-      "maó",
-      "ladrillo",
-      "cognom"
+      "finançar",
+      "financiar",
+      "ajornar"
     ],
     "answer": 0,
-    "explanation": "La forma adequada és «maó».",
+    "explanation": "La forma adequada és «finançar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17601,12 +17601,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "apellido → apellido",
-      "ladrillo → cognom",
-      "ladrillo → maó"
+      "aplaçar → aplaçar",
+      "financiar → ajornar",
+      "financiar → finançar"
     ],
     "answer": 2,
-    "explanation": "La correspondència normativa és «ladrillo → maó».",
+    "explanation": "La correspondència normativa és «financiar → finançar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17620,14 +17620,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «mantequilla»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «fronterís»?",
     "options": [
-      "escombraries",
-      "mantega",
-      "mantequilla"
+      "donar suport",
+      "fronterer",
+      "fronterís"
     ],
     "answer": 1,
-    "explanation": "La forma adequada és «mantega».",
+    "explanation": "La forma adequada és «fronterer».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17643,12 +17643,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "mantequilla → mantega",
-      "basura → basura",
-      "mantequilla → escombraries"
+      "fronterís → fronterer",
+      "apoiar → apoiar",
+      "fronterís → donar suport"
     ],
     "answer": 0,
-    "explanation": "La correspondència normativa és «mantequilla → mantega».",
+    "explanation": "La correspondència normativa és «fronterís → fronterer».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17662,14 +17662,14 @@
     "level": "C1",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Quina és l'alternativa catalana normativa a «suceso»?",
+    "prompt": "Quina és l'alternativa catalana normativa a «fulla de paper»?",
     "options": [
-      "suceso",
-      "entrepà",
-      "esdeveniment"
+      "fulla de paper",
+      "penedir-se",
+      "full de paper"
     ],
     "answer": 2,
-    "explanation": "La forma adequada és «esdeveniment».",
+    "explanation": "La forma adequada és «full de paper».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -17685,12 +17685,12 @@
     "status": "published",
     "prompt": "Quina correspondència és íntegrament correcta?",
     "options": [
-      "suceso → entrepà",
-      "suceso → esdeveniment",
-      "bocadillo → bocadillo"
+      "fulla de paper → penedir-se",
+      "fulla de paper → full de paper",
+      "arrepentir-se → arrepentir-se"
     ],
     "answer": 1,
-    "explanation": "La correspondència normativa és «suceso → esdeveniment».",
+    "explanation": "La correspondència normativa és «fulla de paper → full de paper».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
