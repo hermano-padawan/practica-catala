@@ -18,6 +18,15 @@ const verbSource={url:"https://www.cpnl.cat/gramatica/46/13-els-verbs",locator:"
 const haverSource={url:"https://www.cpnl.cat/gramatica/91/29-verbs-amb-pronom",locator:"Ús impersonal d'haver-hi"};
 const connSource={url:"https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",locator:"Relacions de causa, conseqüència, contrast, addició i ordre"};
 const lexSource={url:"https://www.cpnl.cat/gramatica/135/6-els-barbarismes",locator:"Barbarismes i alternatives normatives"};
+function correctionPrompt(question,wrong){
+  const quoted=question.prompt.match(/«([^»]*___[^»]*)»/);
+  if(quoted){
+    const replacement=wrong.endsWith("'")?wrong:wrong+" ";
+    const sentence=quoted[1].replace(/___\s*/,replacement);
+    return `Corregeix aquesta frase: «${sentence}»`;
+  }
+  return `Quina és la forma correcta en lloc de «${wrong}»?`;
+}
 function verbExplanation(prompt,correct){
   if(/No crec|Dubto|No sembla|Negava|No pensava|No era segur|improbable/.test(prompt))return `La negació o el dubte introdueixen el subjuntiu: «${correct}».`;
   if(/\bSi\b/.test(prompt))return `En una condició hipotètica amb condicional, usem l'imperfet de subjuntiu: «${correct}».`;
@@ -53,11 +62,12 @@ const apost=core.slice(25,50);
 for(const [i,q] of apost.entries()){
   add("apostrofacio",q.prompt,q.options,q.answer,q.explanation,apostSource,"aplicació contextual");
   const c=q.options[q.answer],w=q.options[(q.answer+1)%q.options.length];
-  add("apostrofacio","Revisa aquest cas: "+q.prompt+" S'hi ha proposat «"+w+"». Quina opció l'ha de substituir?",[w,c,q.options[(q.answer+2)%q.options.length]],1,
+  add("apostrofacio",correctionPrompt(q,w),[w,c,q.options[(q.answer+2)%q.options.length]],1,
     q.explanation,apostSource,"correcció");
   const n=apost[(i+7)%25],cn=n.options[n.answer];
-  add("apostrofacio","Resol els dos casos en el mateix ordre: 1) "+q.prompt+" 2) "+n.prompt,[c+" · "+cn,w+" · "+cn,c+" · "+n.options[(n.answer+1)%3]],0,
-    q.explanation+" "+n.explanation,apostSource,"contrast doble");
+  const nw=n.options[(n.answer+2)%n.options.length];
+  add("apostrofacio",correctionPrompt(n,nw),[nw,cn,n.options[(n.answer+1)%n.options.length]],1,
+    n.explanation,apostSource,"correcció individual");
 }
 
 const nouns="pa pomes llibres cafè arròs entrades temps paciència diners informació fotografies preguntes feina experiència sucre farina aigua vi oli notícies proves documents informes exemples idees propostes solucions dubtes records ganes por fred calor pressa sort cura material roba música energia espai ajuda suport permís responsabilitat confiança interès costum oportunitats recursos".split(" ");
@@ -166,7 +176,7 @@ const lexContexts=[
 if(lexPairs.length!==50 || lexContexts.length!==50) throw new Error("El bloc lèxic necessita 50 correspondències i 50 contextos");
 for(let i=0;i<50;i++){const [w,c]=lexPairs[i],n=lexPairs[(i+17)%50];
  add("lexic","Revisa aquesta frase: "+lexContexts[i]+" Quina forma ha de substituir «"+w+"»?",[c,w,n[1]],0,`«${w}» no és normatiu en aquest sentit; cal substituir-lo per «${c}».`,lexSource,"barbarismes");
- add("lexic","Quina correspondència és íntegrament correcta?",[w+" → "+c,n[0]+" → "+n[0],w+" → "+n[1]],0,
+ add("lexic","Quina és la forma normativa de «"+w+"»?",[c,w,n[1]],0,
   `«${w}» no és normatiu en aquest sentit; l'alternativa adequada és «${c}».`,lexSource,"revisió lèxica");
 }
 
