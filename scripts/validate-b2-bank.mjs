@@ -8,8 +8,8 @@ for (const [index, q] of questions.entries()) {
   if (q.level !== "B2") errors.push(`${at}: el nivell ha de ser B2`);
   if (!["draft","reviewed","published","rejected"].includes(q.status)) errors.push(`${at}: estat no vàlid`);
   if (!q.prompt?.trim()) errors.push(`${at}: falta l'enunciat`);
-  if (!Array.isArray(q.options) || q.options.length !== 3 || new Set(q.options).size !== 3) errors.push(`${at}: calen tres opcions diferents`);
-  if (!Number.isInteger(q.answer) || q.answer < 0 || q.answer > 2) errors.push(`${at}: resposta fora de rang`);
+  if (!Array.isArray(q.options) || q.options.length < 2 || q.options.length > 3 || new Set(q.options).size !== q.options.length) errors.push(`${at}: calen dues o tres opcions diferents`);
+  if (!Number.isInteger(q.answer) || q.answer < 0 || q.answer >= q.options.length) errors.push(`${at}: resposta fora de rang`);
   if (!q.explanation?.trim() || q.explanation.length > 180 || q.explanation.split("\n").length > 3) errors.push(`${at}: explicació absent o massa llarga`);
   if (!q.source?.url?.startsWith("https://www.cpnl.cat/") || !q.source?.locator) errors.push(`${at}: falta una font oficial localitzada`);
   if (!q.reviewedAt || !q.reviewedBy) errors.push(`${at}: falta documentar la revisió`);
