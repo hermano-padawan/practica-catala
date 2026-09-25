@@ -18,7 +18,6 @@ type Progress = { sessions: number; answered: number; correct: number };
 const emptyProgress: Progress = { sessions: 0, answered: 0, correct: 0 };
 const topics = [
   { slug: "accentuacio", icon: "À", title: "Accentuació", description: "Accents i dièresi" },
-  { slug: "ortografia", icon: "TX", title: "Ortografia", description: "Grafies i consonantisme" },
   { slug: "apostrofacio", icon: "L’", title: "Apostrofació", description: "Articles i contraccions" },
   { slug: "ortografia", icon: "Ç", title: "Ortografia", description: "Consonants i grafies conflictives" },
   { slug: "pronoms", icon: "EN", title: "Pronoms febles", description: "Substitució pronominal" },
