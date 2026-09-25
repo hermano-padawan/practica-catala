@@ -17,7 +17,12 @@ for (const [index, q] of questions.entries()) {
   topics.set(q.topic,(topics.get(q.topic)??0)+1);
 }
 for (const topic of ["accentuacio","apostrofacio","pronoms","verbs","connectors","lexic"]) if (!topics.has(topic)) errors.push(`Falta el tema ${topic}`);
+const threeOptionQuestions = questions.filter((q) => q.options.length === 3);
+const answerDistribution = [0, 1, 2].map((answer) => threeOptionQuestions.filter((q) => q.answer === answer).length);
+if (threeOptionQuestions.length >= 3 && answerDistribution.some((total) => total === 0)) errors.push("Les preguntes amb tres opcions han d'incloure solucions A, B i C");
+if (Math.max(...answerDistribution) - Math.min(...answerDistribution) > 1) errors.push("Les solucions A, B i C de les preguntes amb tres opcions han d'estar equilibrades");
 if (questions.some(q=>q.status === "published")) errors.push("El lot pilot B2 encara no es pot publicar");
 if (errors.length) { console.error(errors.join("\n")); process.exit(1); }
 console.log(`Pilot B2 vàlid: ${questions.length} exercicis revisables; cap de publicat.`);
 console.log(`Distribució: ${[...topics].map(([topic,total])=>`${topic}=${total}`).join(", ")}.`);
+console.log(`Solucions en preguntes de tres opcions: A=${answerDistribution[0]}, B=${answerDistribution[1]}, C=${answerDistribution[2]}.`);
