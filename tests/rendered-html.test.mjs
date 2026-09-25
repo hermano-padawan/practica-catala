@@ -7,7 +7,8 @@ test("exports a GitHub Pages-ready home page", async () => {
   assert.match(html, /<html[^>]+lang=["']ca["']/i);
   assert.match(html, /Practica Català/);
   assert.match(html, /1000(?:<!-- -->)? preguntes publicades/);
-  assert.match(html, /B1 i B2 arribaran després/);
+  assert.match(html, /Practicar B2/);
+  assert.match(html, /href=["']\/b2\/["']/);
   assert.match(html, /(?:href|src)=["']\/_next\//);
   assert.match(html, /https:\/\/practica-catala\.online\//);
   assert.match(html, /property="og:image" content="https:\/\/practica-catala\.online\/social-card\.png"/);
@@ -25,6 +26,21 @@ test("exports a GitHub Pages-ready home page", async () => {
   for (const page of ["avis-legal", "privacitat", "cookies"]) {
     const legalHtml = await readFile(new URL(`../out/${page}/index.html`, import.meta.url), "utf8");
     assert.match(legalHtml, /practicacatala@atomicmail\.io/);
-    if (page !== "cookies") assert.match(legalHtml, /\[posa aquí nom i cognom\]/);
+    if (page !== "cookies") assert.match(legalHtml, /Lluís Jané Viles/);
   }
+});
+
+test("exports the complete B2 experience", async () => {
+  const html = await readFile(new URL("../out/b2/index.html", import.meta.url), "utf8");
+  assert.match(html, /Practica català/);
+  assert.match(html, /1000(?:<!-- -->)?<\/strong><span>exercicis B2 revisats/);
+  assert.match(html, /canonical[^>]+https:\/\/practica-catala\.online\/b2\//);
+  const source = await readFile(new URL("../app/b2/practice.tsx", import.meta.url), "utf8");
+  assert.match(source, /practica-catala-b2-progress/);
+  for (const topic of ["Accentuació", "Ortografia", "Apostrofació", "Pronoms febles", "Verbs", "Connectors", "Lèxic"]) {
+    assert.match(html, new RegExp(topic));
+  }
+  assert.match(html, /LearningResource/);
+  const sitemap = await readFile(new URL("../out/sitemap.xml", import.meta.url), "utf8");
+  assert.match(sitemap, /https:\/\/practica-catala\.online\/b2\//);
 });

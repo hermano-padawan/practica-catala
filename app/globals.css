@@ -13,3 +13,11 @@
 .level-card.muted-card{opacity:.58;background:#f5f5f1}.level-card.featured{box-shadow:0 14px 40px rgba(27,71,58,.1)}
 .topic-card{font:inherit;text-align:left;cursor:pointer;color:inherit}.topic-card:hover{box-shadow:0 8px 22px rgba(27,71,58,.08)}.topic-card p{line-height:1.4}
 .result-actions{display:flex;justify-content:center;gap:10px;flex-wrap:wrap}.result .secondary{background:white;color:var(--green);border:1px solid var(--green)}
+
+/* Independent B2 landing page */
+.b2-hero{padding:78px max(7vw,28px);display:grid;grid-template-columns:1.25fr .75fr;align-items:center;gap:8vw;background:radial-gradient(circle at 82% 22%,#dff26e66,transparent 30%),var(--cream)}
+.b2-hero h1{font-size:clamp(52px,7vw,88px);line-height:.96;letter-spacing:-.065em;margin:20px 0 25px}.b2-hero h1 em{font-family:Georgia,serif;font-weight:400;color:var(--green)}
+.b2-hero p{max-width:650px;color:#52645e;font-size:18px;line-height:1.65;margin:0 0 30px}.b2-summary{background:var(--green);color:white;border-radius:18px;padding:38px;box-shadow:0 24px 60px rgba(27,71,58,.16)}
+.b2-summary strong{display:block;font-size:64px;color:var(--lime);letter-spacing:-.06em}.b2-summary span{display:block;font-size:18px;font-weight:800}.b2-summary small{display:block;margin-top:22px;color:#c9ddd7;line-height:1.6}
+@media(max-width:900px){.b2-hero{grid-template-columns:1fr}.b2-summary{max-width:520px}}
+@media(max-width:560px){.b2-page{display:flex;flex-direction:column}.b2-page .header{order:1}.b2-hero{order:2;padding:30px 18px 22px;display:block}.b2-hero h1{font-size:42px;margin:12px 0}.b2-hero p{font-size:14px;line-height:1.45}.b2-summary{margin-top:18px;padding:18px;display:flex;align-items:baseline;gap:8px}.b2-summary strong{font-size:34px}.b2-summary span{font-size:13px}.b2-summary small{display:none}.b2-page .topics{order:3}.b2-page .practice{order:4}.b2-page footer{order:5}}
