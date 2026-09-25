@@ -21,7 +21,7 @@ const quarantinedQuestions: Question[] = [
   {id:2,topic:"accentuacio",text:"Completa: «No sé ___ vindrà demà.»",options:["si","sí","s'hi"],answer:0,why:"Si introdueix una interrogativa indirecta i no porta accent."},
   {id:3,topic:"accentuacio",text:"Quina opció és correcta?",options:["Això depén de tu.","Això depèn de tu.","Aixo depèn de tu."],answer:1,why:"En català central, depèn porta accent obert i això també s'accentua."},
   {id:4,topic:"accentuacio",text:"Tria la forma normativa.",options:["conseqüència","consequència","conseqüéncia"],answer:0,why:"Conseqüència porta dièresi a la u i accent obert a la e."},
-  {id:5,topic:"apostrofacio",text:"Tria l'opció correcta.",options:["la universitat","l'universitat","l’ universitat"],answer:1,why:"L'article femení s'apostrofa davant d'una vocal àtona."},
+  {id:5,topic:"apostrofacio",text:"Tria l'opció correcta.",options:["la universitat","l'universitat"],answer:0,why:"L'article femení no s'apostrofa davant de i o u àtones: la universitat."},
   {id:6,topic:"apostrofacio",text:"Com s'escriu correctament?",options:["la història","l'història","l’historia"],answer:1,why:"L'article femení s'apostrofa davant d'h muda; història porta accent."},
   {id:7,topic:"apostrofacio",text:"Completa: «És professora ___ UAB.»",options:["de la","de l'","d'"],answer:1,why:"La sigla UAB es llegeix començant per vocal: de l'UAB."},
   {id:8,topic:"apostrofacio",text:"Quina forma és correcta?",options:["la una del migdia","l'una del migdia","la 1 del migdia"],answer:1,why:"Quan indica l'hora, una duu article apostrofat: l'una."},

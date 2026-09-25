@@ -6,11 +6,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El comitè va demanar la ___ d'aquell apartat.»",
     "options": [
-      "supressió",
       "supresió",
-      "supreçió"
+      "supreçió",
+      "supressió"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Supressió s'escriu amb ss entre vocals.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -26,11 +26,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «La divulgació acosta la ___ a tothom.»",
     "options": [
-      "siència",
       "ciència",
-      "ciènçia"
+      "ciènçia",
+      "siència"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Ciència s'escriu amb c tant a l'inici com abans de la terminació -ència.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -46,11 +46,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «La mediadora inspira ___.»",
     "options": [
-      "confiansa",
       "confianssa",
-      "confiança"
+      "confiança",
+      "confiansa"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Confiança acaba amb el sufix -ança, que s'escriu amb ç.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -66,11 +66,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Han rehabilitat una ___ antiga.»",
     "options": [
-      "casa",
       "cassa",
-      "caza"
+      "caza",
+      "casa"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Casa s'escriu amb una sola s entre vocals perquè el so és sonor.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -86,11 +86,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Al documental apareix una ___.»",
     "options": [
-      "sebra",
       "zebra",
-      "çebra"
+      "çebra",
+      "sebra"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Zebra s'escriu amb z inicial.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -106,11 +106,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Al jardí hi ha una ___ de fusta.»",
     "options": [
-      "casseta",
       "cazeta",
-      "caseta"
+      "caseta",
+      "casseta"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Caseta conserva la s de la família de casa.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -126,11 +126,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Han ampliat la ___ municipal.»",
     "options": [
-      "gossera",
       "gosera",
-      "goçera"
+      "goçera",
+      "gossera"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Gossera conserva la ss de la família de gos.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -146,11 +146,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Va embolicar el paquet amb una ___.»",
     "options": [
-      "llasada",
       "llaçada",
-      "llassada"
+      "llassada",
+      "llasada"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Llaçada conserva la ç de la família de llaç.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -166,11 +166,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Cada ___ té la seva història.»",
     "options": [
-      "nasió",
       "naçió",
-      "nació"
+      "nació",
+      "nasió"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Nació s'escriu amb c davant de i.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -186,11 +186,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «No cal empènyer amb tanta ___.»",
     "options": [
-      "força",
       "forsa",
-      "forssa"
+      "forssa",
+      "força"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Força s'escriu amb ç davant de a.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -206,11 +206,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «La ___ publicarà l'informe demà.»",
     "options": [
-      "comisió",
       "comissió",
-      "comició"
+      "comició",
+      "comisió"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Comissió s'escriu amb ss entre vocals.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -226,11 +226,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El curs acabarà al ___.»",
     "options": [
-      "dezembre",
       "dessembre",
-      "desembre"
+      "desembre",
+      "dezembre"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Desembre s'escriu amb s, encara que en alguns parlars es pugui ensordir.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -246,11 +246,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «L'informe descriu una conducta ___.»",
     "options": [
-      "antisocial",
       "antissocial",
-      "antiçocial"
+      "antiçocial",
+      "antisocial"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Antisocial porta una sola s després del prefix anti-.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -266,11 +266,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Canvia la ___ cada sis mesos.»",
     "options": [
-      "contrassenya",
       "contrasenya",
-      "contracenya"
+      "contracenya",
+      "contrassenya"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Contrasenya s'escriu amb una sola s en aquest mot prefixat.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -286,11 +286,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Pa és un mot ___.»",
     "options": [
-      "monossíl·lab",
       "monoçíl·lab",
-      "monosíl·lab"
+      "monosíl·lab",
+      "monossíl·lab"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Monosíl·lab s'escriu amb una sola s després del formant mono-.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -306,11 +306,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «La prova inclou una fase de ___.»",
     "options": [
-      "preselecció",
       "presselecció",
-      "preçelecció"
+      "preçelecció",
+      "preselecció"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Preselecció porta una sola s després del prefix pre-.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -326,11 +326,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «La notícia va tenir molt de ___.»",
     "options": [
-      "resò",
       "ressò",
-      "reçò"
+      "reçò",
+      "resò"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Ressò és una excepció prefixada que s'escriu amb ss.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -346,11 +346,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Cal protegir aquest ___.»",
     "options": [
-      "ecossistema",
       "ecozistema",
-      "ecosistema"
+      "ecosistema",
+      "ecossistema"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Ecosistema s'escriu amb una sola s en el compost.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -366,11 +366,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «La ___ atendrà les urgències.»",
     "options": [
-      "metgessa",
       "metgesa",
-      "metgeça"
+      "metgeça",
+      "metgessa"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Metgessa s'escriu amb ss entre vocals.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -386,11 +386,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El protocol rebutja qualsevol ___.»",
     "options": [
-      "agresió",
       "agressió",
-      "agreció"
+      "agreció",
+      "agresió"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Agressió s'escriu amb ss entre vocals.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -406,11 +406,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El museu documenta l'ascens del ___.»",
     "options": [
-      "nasisme",
       "nacisme",
-      "nazisme"
+      "nazisme",
+      "nasisme"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Nazisme s'escriu amb z.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -426,11 +426,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Van visitar l'antic ___.»",
     "options": [
-      "alcàsser",
       "alcàser",
-      "alcàçer"
+      "alcàçer",
+      "alcàsser"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Alcàsser s'escriu amb ss.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -446,11 +446,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «La protagonista està ___.»",
     "options": [
-      "embarasssada",
       "embarassada",
-      "embarazada"
+      "embarazada",
+      "embarasssada"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Embarassada s'escriu amb ss.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -466,11 +466,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «L'___ dona ombra a la plaça.»",
     "options": [
-      "alsina",
       "alçina",
-      "alzina"
+      "alzina",
+      "alsina"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Alzina s'escriu amb z.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -486,11 +486,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El procediment és ben ___.»",
     "options": [
-      "senzill",
       "sensill",
-      "sençill"
+      "sençill",
+      "senzill"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Senzill s'escriu amb z.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -506,11 +506,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «La infermera va ___ el turmell.»",
     "options": [
-      "envenar",
       "embenar",
-      "emvenar"
+      "emvenar",
+      "envenar"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Embenar s'escriu amb b darrere de m.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -526,11 +526,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El músic toca el ___.»",
     "options": [
-      "timval",
       "tinbal",
-      "timbal"
+      "timbal",
+      "timval"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Timbal s'escriu amb b darrere de m.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -546,11 +546,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El projecte necessita un ___.»",
     "options": [
-      "canvi",
       "canbi",
-      "cambi"
+      "cambi",
+      "canvi"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Canvi s'escriu amb v darrere de n.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -566,11 +566,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El tribunal va declarar ___ el document.»",
     "options": [
-      "inbàlid",
       "invàlid",
-      "imbàlid"
+      "imbàlid",
+      "inbàlid"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Invàlid s'escriu amb v darrere de n.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -586,11 +586,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Anirem al centre amb ___.»",
     "options": [
-      "tranvia",
       "trambia",
-      "tramvia"
+      "tramvia",
+      "tranvia"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Tramvia és una excepció: s'escriu amb v darrere de m.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -606,11 +606,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Per respondre cal ___ la norma.»",
     "options": [
-      "saber",
       "saver",
-      "zaber"
+      "zaber",
+      "saber"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Saber s'escriu amb b; la b alterna amb la p de sap.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -626,11 +626,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Esperem ___ una resposta avui.»",
     "options": [
-      "revre",
       "rebre",
-      "rever"
+      "rever",
+      "revre"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Rebre s'escriu amb b; la b alterna amb la p de rep.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -646,11 +646,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «La ___ del cel era intensa.»",
     "options": [
-      "blabor",
       "vlavor",
-      "blavor"
+      "blavor",
+      "blabor"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Blavor s'escriu amb v perquè alterna amb la u de blau.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -666,11 +666,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Podria ___ arribat abans.»",
     "options": [
-      "haver",
       "haber",
-      "aver"
+      "aver",
+      "haver"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Haver s'escriu amb v, igual que havia i havent.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -686,11 +686,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Abans ___ sovint els avis.»",
     "options": [
-      "visitabes",
       "visitaves",
-      "visitàves"
+      "visitàves",
+      "visitabes"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "L'imperfet dels verbs de la primera conjugació s'escriu amb v.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -706,11 +706,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El tractament no evita la ___.»",
     "options": [
-      "calbície",
       "calvíssie",
-      "calvície"
+      "calvície",
+      "calbície"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Calvície és un pseudoderivat de calb i s'escriu amb v.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -726,11 +726,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «L'estudi analitza l'activitat ___.»",
     "options": [
-      "cerebral",
       "ceravral",
-      "cerevral"
+      "cerevral",
+      "cerebral"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Cerebral és un pseudoderivat de cervell i s'escriu amb b.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -746,11 +746,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «La carretera té molta ___.»",
     "options": [
-      "corbatura",
       "curvatura",
-      "curvattura"
+      "curvattura",
+      "corbatura"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Curvatura és un pseudoderivat de corb i s'escriu amb v.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -766,11 +766,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El compte presenta un ___.»",
     "options": [
-      "dèvit",
       "débit",
-      "dèbit"
+      "dèbit",
+      "dèvit"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Dèbit és un pseudoderivat relacionat amb deure i s'escriu amb b.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -786,11 +786,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «L'___ copiava manuscrits.»",
     "options": [
-      "escriba",
       "escriva",
-      "escribà"
+      "escribà",
+      "escriba"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Escriba és un pseudoderivat d'escriure i s'escriu amb b.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -806,11 +806,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «És una consonant ___.»",
     "options": [
-      "lavial",
       "labial",
-      "llabial"
+      "llabial",
+      "lavial"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Labial és un pseudoderivat de llavi i s'escriu amb b.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -826,11 +826,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «La premsa defensa la ___.»",
     "options": [
-      "llivertat",
       "libertat",
-      "llibertat"
+      "llibertat",
+      "llivertat"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Llibertat és un pseudoderivat de lliure i s'escriu amb b.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -846,11 +846,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «He silenciat el telèfon ___.»",
     "options": [
-      "mòbil",
       "mòvil",
-      "móbil"
+      "móbil",
+      "mòbil"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Mòbil és un pseudoderivat de moure i s'escriu amb b.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -866,11 +866,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «La previsió anuncia ___.»",
     "options": [
-      "nebulossitat",
       "nebulositat",
-      "nevulositat"
+      "nevulositat",
+      "nebulossitat"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Nebulositat és un pseudoderivat de núvol i s'escriu amb b.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -886,11 +886,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Hi ha poca ___ de pluja.»",
     "options": [
-      "provabilitat",
       "probavilitat",
-      "probabilitat"
+      "probabilitat",
+      "provabilitat"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Probabilitat és un pseudoderivat de provar i s'escriu amb b.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -906,11 +906,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Esperen ___ abans de les nou.»",
     "options": [
-      "arribar",
       "arrivar",
-      "aribar"
+      "aribar",
+      "arribar"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Arribar figura entre els mots que s'escriuen amb b.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -926,11 +926,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «S'ha posat la ___ perquè plou.»",
     "options": [
-      "gabardina",
       "gavardina",
-      "gavadina"
+      "gavadina",
+      "gabardina"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Gavardina s'escriu amb v.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -946,11 +946,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El partit es juga al ___.»",
     "options": [
-      "pabelló",
       "pavel·ló",
-      "pavelló"
+      "pavelló",
+      "pabelló"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Pavelló s'escriu amb v i amb el dígraf ll.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -966,11 +966,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «S'ha trencat la ___ del cinturó.»",
     "options": [
-      "sivella",
       "sibella",
-      "civella"
+      "civella",
+      "sivella"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Sivella s'escriu amb v.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -986,11 +986,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Va trobar un ___ de quatre fulles.»",
     "options": [
-      "trébol",
       "trèvol",
-      "trèbol"
+      "trèbol",
+      "trébol"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Trèvol s'escriu amb v i accent obert.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
@@ -1006,11 +1006,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El dentista li ha revisat la ___.»",
     "options": [
-      "jeniva",
       "geniba",
-      "geniva"
+      "geniva",
+      "jeniva"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Geniva s'escriu amb g davant de e.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1026,11 +1026,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «A la tardor passejarem per la ___.»",
     "options": [
-      "fageda",
       "fajeda",
-      "fagueda"
+      "fagueda",
+      "fageda"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Fageda s'escriu amb g davant de e.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1046,11 +1046,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «La ___ floreix a la primavera.»",
     "options": [
-      "jinesta",
       "ginesta",
-      "guinesta"
+      "guinesta",
+      "jinesta"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Ginesta s'escriu amb g davant de i.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1066,11 +1066,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Cal ___ una nota al final.»",
     "options": [
-      "afejir",
       "afeguir",
-      "afegir"
+      "afegir",
+      "afejir"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Afegir s'escriu amb g davant de i.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1086,11 +1086,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Els infants juguen al ___.»",
     "options": [
-      "jardí",
       "gardí",
-      "jardín"
+      "jardín",
+      "jardí"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Jardí s'escriu amb j davant de a.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1106,11 +1106,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Haurem de ___ per l'escala.»",
     "options": [
-      "pugar",
       "pujar",
-      "putjar"
+      "putjar",
+      "pugar"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Pujar s'escriu amb j davant de a.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1126,11 +1126,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «La biblioteca promou activitats per a la ___.»",
     "options": [
-      "goventut",
       "jobentut",
-      "joventut"
+      "joventut",
+      "goventut"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Joventut s'escriu amb j davant de o.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1146,11 +1146,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Han substituït una ___ del terra.»",
     "options": [
-      "rajola",
       "ragola",
-      "ratjola"
+      "ratjola",
+      "rajola"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Rajola s'escriu amb j davant de o.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1166,11 +1166,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El festival se celebrarà al ___.»",
     "options": [
-      "guliol",
       "juliol",
-      "julliol"
+      "julliol",
+      "guliol"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Juliol s'escriu amb j davant de u.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1186,11 +1186,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «L'entitat ha rebut un ___.»",
     "options": [
-      "agut",
       "atjut",
-      "ajut"
+      "ajut",
+      "agut"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Ajut s'escriu amb j davant de u.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1206,11 +1206,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «La ___ és gairebé buida.»",
     "options": [
-      "platja",
       "plaja",
-      "platga"
+      "platga",
+      "platja"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Platja s'escriu amb el grup tj.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1226,11 +1226,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El ___ compleix funcions essencials.»",
     "options": [
-      "fege",
       "fetge",
-      "fetja"
+      "fetja",
+      "fege"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Fetge s'escriu amb el grup tg.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1246,11 +1246,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El tribunal el va acusar d'___.»",
     "options": [
-      "heretjia",
       "eretgia",
-      "heretgia"
+      "heretgia",
+      "heretjia"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Heretgia s'escriu amb el grup tg.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1266,11 +1266,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «La situació podria ___.»",
     "options": [
-      "empitjorar",
       "empijorar",
-      "empitxorar"
+      "empitxorar",
+      "empitjorar"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Empitjorar s'escriu amb tj.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1286,11 +1286,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Cal ___ el comprovant.»",
     "options": [
-      "atjuntar",
       "adjuntar",
-      "adguntar"
+      "adguntar",
+      "atjuntar"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Adjuntar s'escriu amb el grup dj.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1306,11 +1306,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Li han administrat una ___.»",
     "options": [
-      "ingecció",
       "injeccióo",
-      "injecció"
+      "injecció",
+      "ingecció"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Injecció manté la j davant de e en el grup -jecc-.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1326,11 +1326,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El tècnic va ___ el producte.»",
     "options": [
-      "injectar",
       "ingectar",
-      "injeptar"
+      "injeptar",
+      "injectar"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Injectar manté la j en el formant -ject-.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1346,11 +1346,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Cal triar un ___ precís.»",
     "options": [
-      "adgetiu",
       "adjectiu",
-      "adjectíu"
+      "adjectíu",
+      "adgetiu"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Adjectiu manté la j en el formant -ject-.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1366,11 +1366,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Han trobat un ___ antic.»",
     "options": [
-      "obgecte",
       "objecta",
-      "objecte"
+      "objecte",
+      "obgecte"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Objecte manté la j en el formant -ject-.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1386,11 +1386,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El gos es va ___ a l'ombra.»",
     "options": [
-      "jeure",
       "geure",
-      "jèure"
+      "jèure",
+      "jeure"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Jeure és una excepció que s'escriu amb j davant de e.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1406,11 +1406,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El reportatge parla de ___.»",
     "options": [
-      "Gerusalem",
       "Jerusalem",
-      "Jerussalem"
+      "Jerussalem",
+      "Gerusalem"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Jerusalem s'escriu amb j inicial.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1426,11 +1426,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El protagonista es diu ___.»",
     "options": [
-      "Geroni",
       "Jerroni",
-      "Jeroni"
+      "Jeroni",
+      "Geroni"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Jeroni s'escriu amb j inicial.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1446,11 +1446,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El paisatge impressionava per la seva ___.»",
     "options": [
-      "majestat",
       "magestat",
-      "majestad"
+      "majestad",
+      "majestat"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Majestat s'escriu amb j davant de e.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1466,11 +1466,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «S'ha posat un ___ de llana.»",
     "options": [
-      "gersei",
       "jersei",
-      "jerssei"
+      "jerssei",
+      "gersei"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Jersei s'escriu amb j inicial.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1486,11 +1486,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «L'organigrama representa la ___.»",
     "options": [
-      "gerarquia",
       "jerarquía",
-      "jerarquia"
+      "jerarquia",
+      "gerarquia"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Jerarquia s'escriu amb j inicial.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
@@ -1506,11 +1506,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Cada setmana ___ una carta.»",
     "options": [
-      "rep",
       "reb",
-      "repp"
+      "repp",
+      "rep"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Rep acaba en p, com mostra l'alternança amb rebre.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1526,11 +1526,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Ella ja ___ la resposta.»",
     "options": [
-      "sab",
       "sap",
-      "sapp"
+      "sapp",
+      "sab"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Sap acaba en p, tot i que alterna amb la b de saber.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1546,11 +1546,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El conte parla d'un ___.»",
     "options": [
-      "llob",
       "llopp",
-      "llop"
+      "llop",
+      "llob"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Llop acaba en p, tot i que el femení és lloba.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1566,11 +1566,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «L'activitat física millora la ___.»",
     "options": [
-      "salut",
       "salud",
-      "salutt"
+      "salutt",
+      "salut"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Salut acaba en t, tot i que el derivat saludable porta d.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1586,11 +1586,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El dipòsit és ___.»",
     "options": [
-      "buid",
       "buit",
-      "buït"
+      "buït",
+      "buid"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Buit acaba en t, tot i que el derivat buidor porta d.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1606,11 +1606,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El detall és molt ___.»",
     "options": [
-      "menud",
       "menutt",
-      "menut"
+      "menut",
+      "menud"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Menut acaba en t, tot i que menudesa porta d.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1626,11 +1626,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «És un vell ___.»",
     "options": [
-      "amic",
       "amig",
-      "amiq"
+      "amiq",
+      "amic"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Amic acaba en c, tot i que el femení és amiga.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1646,11 +1646,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Guarda el document dins del ___.»",
     "options": [
-      "pleg",
       "plec",
-      "pleck"
+      "pleck",
+      "pleg"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Plec acaba en c, tot i que el verb plegar porta g.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1666,11 +1666,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Agafa l'___ abans de sortir.»",
     "options": [
-      "abrig",
       "abrit",
-      "abric"
+      "abric",
+      "abrig"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Abric acaba en c, tot i que abrigar porta g.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1686,11 +1686,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «S'ha inscrit al ___ de lectura.»",
     "options": [
-      "club",
       "clup",
-      "cluv"
+      "cluv",
+      "club"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Club és una excepció que acaba en b.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1706,11 +1706,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El líquid passa per un ___.»",
     "options": [
-      "tup",
       "tub",
-      "tuv"
+      "tuv",
+      "tup"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Tub és una excepció que acaba en b.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1726,11 +1726,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Avui fa molt de ___.»",
     "options": [
-      "fret",
       "fredd",
-      "fred"
+      "fred",
+      "fret"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Fred és una excepció que acaba en d.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1746,11 +1746,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El vent bufa del ___.»",
     "options": [
-      "sud",
       "sut",
-      "sudd"
+      "sudd",
+      "sud"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Sud és una excepció que acaba en d.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1766,11 +1766,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El conte té un ___ savi.»",
     "options": [
-      "mac",
       "mag",
-      "magg"
+      "magg",
+      "mac"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Mag és una excepció que acaba en g.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1786,11 +1786,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El centre ha contractat un ___.»",
     "options": [
-      "pedagoc",
       "pedàgog",
-      "pedagog"
+      "pedagog",
+      "pedagoc"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Pedagog és una excepció que acaba en g.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1806,11 +1806,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Han travessat el ___.»",
     "options": [
-      "camp",
       "camb",
-      "cam"
+      "cam",
+      "camp"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Camp conserva la p que apareix en camperol.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1826,11 +1826,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Un ___ s'ha aturat a la branca.»",
     "options": [
-      "corp",
       "corb",
-      "corv"
+      "corv",
+      "corp"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Corb conserva la b que apareix en corba.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1846,11 +1846,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Han excavat un pou ___.»",
     "options": [
-      "profunt",
       "profún",
-      "profund"
+      "profund",
+      "profunt"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Profund conserva la d que apareix en profunditat.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1866,11 +1866,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Seieu en aquell ___.»",
     "options": [
-      "banc",
       "bang",
-      "bank"
+      "bank",
+      "banc"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Banc conserva la c que apareix en banca.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1886,11 +1886,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Les botes són plenes de ___.»",
     "options": [
-      "fanc",
       "fang",
-      "fan"
+      "fan",
+      "fanc"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Fang conserva la g que apareix en fangueig.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1906,11 +1906,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Un ___ neda a l'estany.»",
     "options": [
-      "àneg",
       "ánec",
-      "ànec"
+      "ànec",
+      "àneg"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Ànec acaba en c, encara que el diminutiu és aneguet.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1926,11 +1926,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Ha renunciat al ___.»",
     "options": [
-      "càrrec",
       "càrreg",
-      "càrrech"
+      "càrrech",
+      "càrrec"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Càrrec acaba en c, encara que carregar porta g.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1946,11 +1946,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Aquella olor em fa ___.»",
     "options": [
-      "fàstig",
       "fàstic",
-      "fástic"
+      "fástic",
+      "fàstig"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Fàstic acaba en c, encara que fastigós porta g.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1966,11 +1966,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El ___ de la paella crema.»",
     "options": [
-      "màneg",
       "mánec",
-      "mànec"
+      "mànec",
+      "màneg"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Mànec acaba en c, encara que manegar porta g.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",
@@ -1986,11 +1986,11 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Ha menjat un ___.»",
     "options": [
-      "préssec",
       "présseg",
-      "prèsec"
+      "prèsec",
+      "préssec"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Préssec acaba en c, encara que presseguer porta g.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/17/6-les-oclusives-p-b-t-d-c-g",

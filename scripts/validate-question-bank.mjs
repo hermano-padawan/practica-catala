@@ -6,6 +6,7 @@ const questions = (await Promise.all(paths.map(async (path) => JSON.parse(await 
 const errors = [];
 const ids = new Set();
 const exactExercises = new Set();
+const semanticExercises = new Set();
 
 for (const [index, q] of questions.entries()) {
   const at = `questions[${index}]`;
@@ -14,7 +15,7 @@ for (const [index, q] of questions.entries()) {
   if (!['draft', 'reviewed', 'published', 'rejected'].includes(q.status)) errors.push(`${at}: estat no vàlid`);
   if (!q.prompt?.trim()) errors.push(`${at}: falta l'enunciat`);
   if (q.level !== "C1") errors.push(`${at}: nivell inesperat`);
-  if (!Array.isArray(q.options) || q.options.length < 2) errors.push(`${at}: calen almenys dues opcions`);
+  if (!Array.isArray(q.options) || q.options.length < 2 || q.options.length > 3) errors.push(`${at}: calen dues o tres opcions`);
   if (!Number.isInteger(q.answer) || q.answer < 0 || q.answer >= (q.options?.length ?? 0)) errors.push(`${at}: resposta fora de rang`);
   if (new Set(q.options).size !== q.options.length) errors.push(`${at}: opcions duplicades`);
   if (q.options?.some((option) => option !== option.trim())) errors.push(`${at}: espais sobrers en una opció`);
@@ -31,6 +32,11 @@ for (const [index, q] of questions.entries()) {
   const signature = JSON.stringify([q.prompt, q.options]);
   if (exactExercises.has(signature)) errors.push(`${at}: exercici exactament duplicat`);
   exactExercises.add(signature);
+  const semanticSignature = JSON.stringify([q.prompt,[...q.options].sort()]);
+  if (semanticExercises.has(semanticSignature)) errors.push(`${at}: exercici repetit amb les opcions reordenades`);
+  semanticExercises.add(semanticSignature);
+  if (/hanur|hanvia|hanver|una l'|launiversitat|la'història|la'iaia|la'Imma|la'UEFA|el'hiat|la'una|la'o/iu.test(q.options.join(" "))) errors.push(`${at}: distractor artificial detectat`);
+  if (q.prompt.includes("→") || q.options.some(option=>option.includes("→"))) errors.push(`${at}: formulació amb fletxa substituïda per una instrucció explícita`);
   if (q.status === 'published') {
     if (!q.source?.url || !q.source?.locator) errors.push(`${at}: una pregunta publicada necessita font i localitzador`);
     if (!q.reviewedAt || !q.reviewedBy) errors.push(`${at}: una pregunta publicada necessita revisió documentada`);

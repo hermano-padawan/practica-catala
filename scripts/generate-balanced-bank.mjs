@@ -4,7 +4,7 @@ const core=await load("c1.json"), originals=await load("c1-originals-350.json");
 const out=originals.slice(0,150).map((q,i)=>({...q,id:"c1-ortbal-"+String(i+101).padStart(3,"0")}));
 let serial=251;
 const add=(topic,prompt,options,answer,explanation,source,type)=>{
-  const current=serial++,correct=options[answer],shift=current%3;
+  const current=serial++,correct=options[answer],shift=current%options.length;
   const rotated=options.map((_,i)=>options[(i+shift)%options.length]);
   out.push({id:"c1-bal-"+String(current).padStart(3,"0"),level:"C1",topic,status:"published",prompt,
     options:rotated,answer:rotated.indexOf(correct),explanation,source,reviewedAt:"2026-08-18",
@@ -14,10 +14,17 @@ const accentSource={url:"https://www.cpnl.cat/gramatica/35/17-l-accentuacio-graf
 const apostSource={url:"https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions",locator:"Apostrofació, excepcions i contraccions"};
 const pronSource={url:"https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",locator:"CD determinat, indeterminat i neutre"};
 const combSource={url:"https://www.cpnl.cat/gramatica/59/38-la-combinacio-de-pronoms",locator:"Combinacions de pronoms febles"};
+const relativeSource={url:"https://www.cpnl.cat/gramatica/60/39-els-pronoms-relatius",locator:"Relatius forts, compostos, adverbials i neutres"};
 const verbSource={url:"https://www.cpnl.cat/gramatica/46/13-els-verbs",locator:"Indicatiu i subjuntiu en context"};
 const haverSource={url:"https://www.cpnl.cat/gramatica/91/29-verbs-amb-pronom",locator:"Ús impersonal d'haver-hi"};
 const connSource={url:"https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",locator:"Relacions de causa, conseqüència, contrast, addició i ordre"};
 const lexSource={url:"https://www.cpnl.cat/gramatica/135/6-els-barbarismes",locator:"Barbarismes i alternatives normatives"};
+const artificialOption=(option)=>/hanur|hanvia|hanver|una l'|launiversitat|la'història|la'iaia|^[ln] [A-ZÀ-Ü]|['’]\s/iu.test(option);
+const usefulOptions=(question)=>{
+  const correct=question.options[question.answer];
+  const incorrect=question.options.filter((option,index)=>index!==question.answer&&!artificialOption(option));
+  return [correct,...incorrect.slice(0,2)];
+};
 function correctionPrompt(question,wrong){
   const quoted=question.prompt.match(/«([^»]*___[^»]*)»/);
   if(quoted){
@@ -26,6 +33,17 @@ function correctionPrompt(question,wrong){
     return `Corregeix aquesta frase: «${sentence}»`;
   }
   return `Quina és la forma correcta en lloc de «${wrong}»?`;
+}
+function applicationPrompt(prompt){
+  if(/^Completa:/i.test(prompt)) return prompt.replace(/^Completa:/i,"Tria la forma que completa correctament:");
+  if(/^Quina /i.test(prompt)) return prompt.replace(/^Quina /i,"Indica quina ");
+  if(/^Quin /i.test(prompt)) return prompt.replace(/^Quin /i,"Indica quin ");
+  if(/^Com s'escriu/i.test(prompt)) return prompt.replace(/^Com s'escriu/i,"Selecciona com s'escriu");
+  return `Aplica la regla en aquest cas: ${prompt}`;
+}
+function contrastPrompt(question,wrong){
+  const base=correctionPrompt(question,wrong);
+  return `En una revisió formal, ${base.charAt(0).toLocaleLowerCase("ca")}${base.slice(1)}`;
 }
 function verbExplanation(prompt,correct){
   if(/No crec|Dubto|No sembla|Negava|No pensava|No era segur|improbable/.test(prompt))return `La negació o el dubte introdueixen el subjuntiu: «${correct}».`;
@@ -60,26 +78,58 @@ for(let i=0;i<25;i++){
 // 75 d'apostrofació: aplicació, correcció i contrast de 25 regles documentades.
 const apost=core.slice(25,50);
 for(const [i,q] of apost.entries()){
-  add("apostrofacio",q.prompt,q.options,q.answer,q.explanation,apostSource,"aplicació contextual");
-  const c=q.options[q.answer],w=q.options[(q.answer+1)%q.options.length];
-  add("apostrofacio",correctionPrompt(q,w),[w,c,q.options[(q.answer+2)%q.options.length]],1,
+  const applicable=usefulOptions(q);
+  add("apostrofacio",applicationPrompt(q.prompt),applicable,0,q.explanation,apostSource,"aplicació contextual");
+  const c=q.options[q.answer],w=q.options.find((option,index)=>index!==q.answer&&!artificialOption(option));
+  const third=q.options.find(option=>option!==w&&option!==c&&!artificialOption(option));
+  add("apostrofacio",correctionPrompt(q,w),[w,c,third].filter(Boolean),1,
     q.explanation,apostSource,"correcció");
   const n=apost[(i+7)%25],cn=n.options[n.answer];
-  const nw=n.options[(n.answer+2)%n.options.length];
-  add("apostrofacio",correctionPrompt(n,nw),[nw,cn,n.options[(n.answer+1)%n.options.length]],1,
+  const nw=n.options.find((option,index)=>index!==n.answer&&!artificialOption(option));
+  const nthird=n.options.find(option=>option!==nw&&option!==cn&&!artificialOption(option));
+  add("apostrofacio",contrastPrompt(n,nw),[nw,cn,nthird].filter(Boolean),1,
     n.explanation,apostSource,"correcció individual");
 }
 
 const nouns="pa pomes llibres cafè arròs entrades temps paciència diners informació fotografies preguntes feina experiència sucre farina aigua vi oli notícies proves documents informes exemples idees propostes solucions dubtes records ganes por fred calor pressa sort cura material roba música energia espai ajuda suport permís responsabilitat confiança interès costum oportunitats recursos".split(" ");
 const places=["a la biblioteca","al mercat","a Girona","a la reunió","al despatx","a classe","a la platja","al teatre","a l'arxiu","a la cuina","al laboratori","a l'estació","al jardí","a la plaça","a l'hospital","a la universitat","al taller","a la conferència","al museu","a la muntanya","a l'oficina","a casa","al menjador","a la farmàcia","a l'aeroport","a la piscina","al concert","al jutjat","a la fàbrica","a l'hotel","a la llibreria","al poble","a la ciutat","al magatzem","a recepció","a secretaria","al banc","a la parada","a la sala","al curs","al cinema","a l'exposició","al congrés","a la consulta","al port","a l'escola","al parc","a la botiga","al restaurant","a l'assaig"];
-const clauses=["que vindrà demà","que no hi ha places","que el termini s'acaba","que ja ho sabíem","que cal revisar-ho","que la proposta és viable","que arribarà tard","que tot ha canviat","que no és possible","que ens ajudaran","que la reunió s'ajorna","que el projecte continua","que falta documentació","que l'acord és definitiu","que plourà","que no cal patir","que ja han respost","que el resultat és correcte","que convé esperar","que ningú no hi anirà","que el tren surt aviat","que la porta és oberta","que podem començar","que la feina està feta","que no tenen temps","que l'informe és incomplet","que ens equivocàvem","que la decisió és ferma","que el pla funcionarà","que caldrà tornar","que l'acte serà públic","que la dada és falsa","que el pressupost augmenta","que el servei millorarà","que no ho acceptaran","que la visita s'ha cancel·lat","que el problema persisteix","que l'equip està preparat","que el local és buit","que el document ja és signat","que la norma ha canviat","que la resposta arribarà","que l'avís era urgent","que la prova serà difícil","que no ens esperaran","que el sistema funciona","que la notícia és certa","que l'accés és gratuït","que demà fan festa","que l'expedient està resolt"];
 // 150 pronoms simples: en, hi i ho.
 for(let i=0;i<50;i++) add("pronoms","«Tens "+nouns[i]+"?» Substitueix el complement en la resposta: «Sí, ___ tinc.»",["en","hi","ho"],0,
   "«En» substitueix un complement directe indeterminat o quantitatiu.",pronSource,"pronom EN");
 for(let i=0;i<50;i++) add("pronoms","«Vas "+places[i]+"?» Completa: «Sí, ___ vaig.»",["en","ho","hi"],2,
   "«Hi» substitueix un complement de lloc introduït per una preposició.",pronSource,"pronom HI");
-for(let i=0;i<50;i++) add("pronoms","Substitueix l'oració: «Diu "+clauses[i]+".» → «___ diu.»",["En","Hi","Ho"],2,
-  "«Ho» substitueix un complement directe neutre o una oració sencera.",pronSource,"pronom HO");
+const relativeRows=[
+ ["El projecte ___ treballem entrarà aviat en la fase final.","en què","en que","que hi","«En què» introdueix un complement preposicional referit a una cosa."],
+ ["La persona ___ vaig preparar l'informe assistirà a la reunió.","amb qui","amb que","que amb ella","Amb antecedent de persona i preposició, fem servir «qui» o el relatiu compost."],
+ ["Aquest és el motiu ___ van ajornar l'acte.","pel qual","per què","per el que","«Pel qual» concorda amb l'antecedent masculí i expressa causa."],
+ ["La biblioteca ___ estudiava ha ampliat l'horari.","on","en què hi","que hi","«On» és el relatiu adverbial adequat per referir-se a un lloc físic."],
+ ["Van cancel·lar la sessió, ___ ens va obligar a canviar els plans.","cosa que","lo qual","el que això","«Cosa que» reprèn tota l'oració anterior amb valor neutre."],
+ ["La investigadora, l'article ___ ha rebut un premi, farà la conferència.","de la qual","de qui el","que el seu","El complement del nom s'expressa amb «de la qual», concordant amb l'antecedent."],
+ ["Al jardí hi ha arbres l'alçada ___ supera els vint metres.","dels quals","dels que","de què","«Dels quals» substitueix el complement del nom i concorda en masculí plural."],
+ ["Aquesta és la proposta ___ ens vam oposar.","a la qual","a la que","que ens hi","El verb «oposar-se» regeix «a»; cal mantenir-la davant del relatiu compost."],
+ ["Recordo perfectament les circumstàncies ___ ens vam conèixer.","en què","en que","on hi","«En què» relaciona l'antecedent amb una circumstància no estrictament local."],
+ ["Els companys ___ col·laboro viuen a Girona.","amb qui","amb els que","que hi","Amb persones i preposició, el relatiu fort adequat és «qui»."],
+ ["És una autora ___ s'ha parlat molt aquest any.","de qui","de la que","que se n'","«De qui» substitueix un complement preposicional amb antecedent de persona."],
+ ["Aquestes són les eines ___ hem reparat la màquina.","amb què","amb que","que amb elles","«Amb què» substitueix un complement instrumental referit a coses."],
+ ["El tema ___ debatrem demà és especialment complex.","sobre el qual","sobre el que","què el","«Sobre el qual» introdueix el complement temàtic i concorda amb l'antecedent."],
+ ["La sala ___ ens reunirem disposa de projector.","on","a on hi","que ens hi","«On» introdueix una relativa amb antecedent de lloc físic."],
+ ["Han aprovat una norma segons ___ totes les entitats s'han de registrar.","la qual","la que","què","Després de «segons», el relatiu compost concorda amb l'antecedent femení."],
+ ["Ens han fixat un termini dins ___ cal presentar les al·legacions.","del qual","del que","de què el","La locució prepositiva exigeix el relatiu compost «dins del qual»."],
+ ["No entenem la causa per ___ s'ha anul·lat la convocatòria.","la qual","la que","què","«Per la qual» és el relatiu compost que concorda amb «causa»."],
+ ["L'estudi, els resultats ___ es publicaran demà, confirma la hipòtesi.","del qual","del que","de què","«Del qual» introdueix el complement del nom «els resultats»."],
+ ["L'entitat ___ treballa gestiona diversos projectes europeus.","per a la qual","per la que","que per ella","La destinació o benefici s'expressa amb «per a» davant del relatiu compost."],
+ ["Aquest és el document sense ___ no podem tramitar la sol·licitud.","el qual","el que","què","Després d'una preposició composta, és adequada la forma «sense el qual»."],
+ ["Han aplicat mesures gràcies ___ s'ha reduït el consum.","a les quals","a les que","que gràcies a elles","«Gràcies a» es manté davant del relatiu compost, que concorda en femení plural."],
+ ["L'acord contra ___ van presentar el recurs continua vigent.","el qual","el que","què","La preposició «contra» precedeix el relatiu compost «el qual»."],
+ ["És un problema sobre ___ encara no hi ha consens.","el qual","el que","què el","«Sobre el qual» és una construcció relativa formal i concorda amb l'antecedent."],
+ ["Els ciutadans ___ s'adreça la campanya rebran una carta.","als quals","als que","que els","El verb «adreçar-se» regeix «a»; el relatiu compost concorda en plural."],
+ ["Va rebutjar l'oferta, decisió ___ després es va penedir.","de la qual","de la que","que se'n","«Penedit de» exigeix la preposició «de» davant del relatiu compost."],
+];
+for(let i=0;i<50;i++){
+ const [sentence,correct,wrong1,wrong2,explanation]=relativeRows[i%relativeRows.length];
+ const prompt=i<25?sentence:`En un registre formal, tria el relatiu adequat: «${sentence}»`;
+ add("pronoms",prompt,[correct,wrong1,wrong2],0,explanation,relativeSource,"pronoms relatius");
+}
 // 50 combinacions, amb objectes i destinataris diferents.
 const objects="el llibre la carta els informes les claus el paquet la notícia els resultats la fotografia els documents el regal la proposta les entrades el contracte les dades el missatge les factures el plànol les instruccions el certificat les mostres el rebut les fotografies el dossier les notes el pressupost".match(/(?:els|les|el|la) [^ ]+/g);
 const recipientsSingular=["a la responsable","al coordinador","a la directora","a l'encarregada","al secretari"];
@@ -96,9 +146,9 @@ for(let i=0;i<50;i++){
 }
 
 // 50 haver-hi en cinc temps i 100 formes verbals de subjuntiu/irregulars.
-const times=[["Avui","hi ha"],["Abans","hi havia"],["Demà","hi haurà"],["Ahir","hi va haver"],["D'aquí a un any","hi haurà"]];
+const times=[["Avui","hi ha",["hi han","ha"]],["Abans","hi havia",["hi havien","havia"]],["Demà","hi haurà",["hi hauran","haurà"]],["Ahir","hi va haver",["hi van haver","va haver"]],["D'aquí a un any","hi haurà",["hi hauran","haurà"]]];
 const existents=["tres incidències registrades","moltes sol·licituds pendents","dues places disponibles","prou cadires per a tothom","diversos errors al document","massa vehicles al carrer","cinc persones esperant","noves proves a l'expedient","algunes qüestions per resoldre","més opcions que abans","poques entrades a la venda","molts canvis al programa","dos avisos urgents","diverses causes possibles","més alumnes matriculats","quatre reunions previstes","moltes dades duplicades","noves mesures de seguretat","tres testimonis citats","alguns obstacles imprevistos","prou recursos disponibles","moltes botigues obertes","dos accessos alternatius","diverses activitats gratuïtes","cinc documents sense signar","més arbres a la plaça","poques habitacions lliures","algunes diferències importants","moltes consultes acumulades","tres factures incorrectes","nous criteris d'avaluació","diverses rutes senyalitzades","quatre candidats finalistes","moltes famílies interessades","dos ordinadors espatllats","alguns dubtes raonables","més serveis al barri","poques queixes formals","tres cursos intensius","diverses obres en marxa","moltes carpetes arxivades","dos terminis simultanis","algunes excepcions a la regla","més controls fronterers","quatre propostes viables","moltes persones voluntàries","tres informes contradictoris","alguns seients buits","dues sortides d'emergència","més oportunitats laborals"];
-for(let i=0;i<50;i++){const [t,c]=times[i%5];add("verbs",t+" ___ "+existents[i]+".",[c,c.replace("ha","han"),"ha"],0,
+for(let i=0;i<50;i++){const [t,c,distractors]=times[i%5];add("verbs",t+" ___ "+existents[i]+".",[c,...distractors],0,
   "«Haver-hi» és impersonal i, en registre formal, es manté en singular.",haverSource,"haver-hi");}
 const verbRows=[
 ["No crec que ella ___ avui.","vingui","ve","vindrà"],["Volien que nosaltres ___ abans.","arribéssim","arribàvem","arribarem"],
@@ -146,7 +196,7 @@ const connectorGroups=[
 for(const group of connectorGroups) for(const [left,right] of group.items){
  const prompt=group.rel==="causa"?left+" ___ "+right+".":group.rel==="exemplificació"?left+", ___, "+right+".":left+"; ___, "+right+".";
  add("connectors",prompt,[group.d[0],group.c,group.d[1]],1,
-  "«"+group.c+"» introdueix una relació de "+group.rel+".",connSource,"cohesió textual");
+  "«"+group.c+"» introdueix una relació "+(group.rel==="addició"||group.rel==="exemplificació"?"d'":"de ")+group.rel+".",connSource,"cohesió textual");
 }
 
 const lexPairs=[
@@ -174,9 +224,9 @@ const lexContexts=[
 "El sistema ha detectat un «fallo».","Comprova la «fetxa» del document.","El banc podria «financiar» l'obra.","És un municipi «fronterís».","Escriu-ho en una «fulla de paper»."
 ];
 if(lexPairs.length!==50 || lexContexts.length!==50) throw new Error("El bloc lèxic necessita 50 correspondències i 50 contextos");
-for(let i=0;i<50;i++){const [w,c]=lexPairs[i],n=lexPairs[(i+17)%50];
- add("lexic","Revisa aquesta frase: "+lexContexts[i]+" Quina forma ha de substituir «"+w+"»?",[c,w,n[1]],0,`«${w}» no és normatiu en aquest sentit; cal substituir-lo per «${c}».`,lexSource,"barbarismes");
- add("lexic","Quina és la forma normativa de «"+w+"»?",[c,w,n[1]],0,
+for(let i=0;i<50;i++){const [w,c]=lexPairs[i];
+ add("lexic","Revisa aquesta frase: "+lexContexts[i]+" Quina forma ha de substituir «"+w+"»?",[c,w],0,`«${w}» no és normatiu en aquest sentit; cal substituir-lo per «${c}».`,lexSource,"barbarismes");
+ add("lexic","Quina és la forma normativa de «"+w+"»?",[c,w],0,
   `«${w}» no és normatiu en aquest sentit; l'alternativa adequada és «${c}».`,lexSource,"revisió lèxica");
 }
 

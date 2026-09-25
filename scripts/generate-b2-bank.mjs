@@ -39,8 +39,8 @@ function transformedPrompt(question) {
     return prompt.replace(/^Completa(?: amb la forma correcta)?:/i, "Tria l'opció adequada per completar:");
   }
   if (/^Quina paraula està escrita correctament\?/i.test(prompt)) return prompt.replace(/^Quina paraula està escrita correctament\?/i, "Selecciona la paraula ben escrita.");
-  if (/^Quina (?:és|forma|frase|expressió|parella|opció)/i.test(prompt)) return prompt.replace(/^Quina/i, "Indica quina");
-  if (/^Quin /i.test(prompt)) return prompt.replace(/^Quin /i, "Indica quin ");
+  if (/^Quina (?:és|forma|frase|expressió|parella|opció)/i.test(prompt)) return prompt.replace(/^Quina/i, "Selecciona quina");
+  if (/^Quin /i.test(prompt)) return prompt.replace(/^Quin /i, "Selecciona quin ");
   if (/^Tria /i.test(prompt)) return prompt.replace(/^Tria /i, "Escull ");
   if (/^Substitueix /i.test(prompt)) return prompt.replace(/^Substitueix /i, "Fes la substitució de ");
   if (/^Corregeix la forma verbal de/i.test(prompt)) return prompt.replace(/^Corregeix la forma verbal de/i, "Quina forma verbal corregeix");
