@@ -33,7 +33,7 @@ test("exports a GitHub Pages-ready home page", async () => {
 test("exports the complete B2 experience", async () => {
   const html = await readFile(new URL("../out/b2/index.html", import.meta.url), "utf8");
   assert.match(html, /Practica català/);
-  assert.match(html, /1000(?:<!-- -->)?<\/strong><span>exercicis B2 revisats/);
+  assert.doesNotMatch(html, /exercicis B2 revisats/);
   assert.match(html, /canonical[^>]+https:\/\/practica-catala\.online\/b2\//);
   const source = await readFile(new URL("../app/b2/practice.tsx", import.meta.url), "utf8");
   assert.match(source, /practica-catala-b2-progress/);

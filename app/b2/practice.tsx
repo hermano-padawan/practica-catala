@@ -123,7 +123,6 @@ export default function B2Practice() {
         <p>Sessions breus amb correcció immediata. Tria un tema o combina’ls tots i consolida el nivell al teu ritme.</p>
         <button className="main-cta" onClick={() => start("tots")}>Comença una sessió <b>→</b></button>
       </div>
-      <div className="b2-summary"><strong>{questions.length}</strong><span>exercicis B2 revisats</span><small>Sense registre · Progrés local · Gratuït</small></div>
     </section>
     <section className="topics section" id="temes">
       <div className="section-heading"><div><span className="kicker">TRIA QUÈ VOLS REFORÇAR</span><h2>Temes de català B2</h2></div><p>Pots practicar un bloc concret o fer una sessió variada.</p></div>
