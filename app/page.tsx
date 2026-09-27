@@ -69,7 +69,7 @@ export default function Home(){
   const [savedProgress,setSavedProgress]=useState<Progress>(emptyProgress);
   const current=session[index],score=answers.filter(a=>a.correct).length;
   const progress=useMemo(()=>((index+(selected!==null?1:0))/session.length)*100,[index,selected,session.length]);
-  useEffect(()=>{const timer=window.setTimeout(()=>{try{const saved=localStorage.getItem("practica-catala-c1-progress");if(saved)setSavedProgress(JSON.parse(saved))}catch{}},0);return()=>window.clearTimeout(timer)},[]);
+  useEffect(()=>{const timer=window.setTimeout(()=>{setSession(sample(questions));try{const saved=localStorage.getItem("practica-catala-c1-progress");if(saved)setSavedProgress(JSON.parse(saved))}catch{}},0);return()=>window.clearTimeout(timer)},[]);
   function start(topic:string){const pool=topic==="tots"?questions:questions.filter(q=>q.topic===topic);if(!pool.length)return;setActiveTopic(topic);setSession(sample(pool));setIndex(0);setSelected(null);setAnswers([]);setFinished(false);setTimeout(()=>document.querySelector("#practica")?.scrollIntoView({behavior:"smooth"}),0)}
   function choose(option:number){if(selected!==null)return;setSelected(option);setAnswers([...answers,{id:current.id,correct:option===current.answer}])}
   function next(){if(index===session.length-1){const updated={sessions:savedProgress.sessions+1,answered:savedProgress.answered+answers.length,correct:savedProgress.correct+score};setSavedProgress(updated);try{localStorage.setItem("practica-catala-c1-progress",JSON.stringify(updated))}catch{}setFinished(true)}else{setIndex(index+1);setSelected(null)}}

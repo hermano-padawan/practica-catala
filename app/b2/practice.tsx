@@ -55,6 +55,7 @@ export default function B2Practice() {
 
   useEffect(() => {
     const timer = window.setTimeout(() => {
+      setSession(sample(questions));
       try {
         const saved = localStorage.getItem("practica-catala-b2-progress");
         if (saved) setSavedProgress(JSON.parse(saved));

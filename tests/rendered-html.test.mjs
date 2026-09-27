@@ -20,6 +20,7 @@ test("exports a GitHub Pages-ready home page", async () => {
   const source = await readFile(new URL("../app/page.tsx", import.meta.url), "utf8");
   assert.match(source, /Fer 10 preguntes més/);
   assert.match(source, /practica-catala-c1-progress/);
+  assert.match(source, /setSession\(sample\(questions\)\)/);
   assert.match(source, /El servei d'urgències funciona/);
   assert.match(html, /Avís legal/);
   assert.equal((await readFile(new URL("../out/CNAME", import.meta.url), "utf8")).trim(), "practica-catala.online");
@@ -37,6 +38,7 @@ test("exports the complete B2 experience", async () => {
   assert.match(html, /canonical[^>]+https:\/\/practica-catala\.online\/b2\//);
   const source = await readFile(new URL("../app/b2/practice.tsx", import.meta.url), "utf8");
   assert.match(source, /practica-catala-b2-progress/);
+  assert.match(source, /setSession\(sample\(questions\)\)/);
   for (const topic of ["Accentuació", "Ortografia", "Apostrofació", "Pronoms febles", "Verbs", "Connectors", "Lèxic"]) {
     assert.match(html, new RegExp(topic));
   }
