@@ -975,7 +975,7 @@
     "level": "C1",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Completa: «Aquesta carta és ___ director».",
+    "prompt": "Completa: «Aquesta carta és ___ director» (el director n'és el destinatari).",
     "options": [
       "pel",
       "per al",

@@ -30,7 +30,8 @@ function correctionPrompt(question,wrong){
   if(quoted){
     const replacement=wrong.endsWith("'")?wrong:wrong+" ";
     const sentence=quoted[1].replace(/___\s*/,replacement);
-    return `Corregeix aquesta frase: «${sentence}»`;
+    const recipientContext=/director n'és el destinatari/i.test(question.prompt)?" (el director n'és el destinatari)":"";
+    return `Corregeix aquesta frase: «${sentence}»${recipientContext}`;
   }
   return `Quina és la forma correcta en lloc de «${wrong}»?`;
 }
@@ -128,7 +129,8 @@ const relativeRows=[
 for(let i=0;i<50;i++){
  const [sentence,correct,wrong1,wrong2,explanation]=relativeRows[i%relativeRows.length];
  const prompt=i<25?sentence:`En un registre formal, tria el relatiu adequat: «${sentence}»`;
- add("pronoms",prompt,[correct,wrong1,wrong2],0,explanation,relativeSource,"pronoms relatius");
+ const options=sentence.startsWith("Aquest és el motiu ")?[correct,wrong2]:[correct,wrong1,wrong2];
+ add("pronoms",prompt,options,0,explanation,relativeSource,"pronoms relatius");
 }
 // 50 combinacions, amb objectes i destinataris diferents.
 const objects="el llibre la carta els informes les claus el paquet la notícia els resultats la fotografia els documents el regal la proposta les entrades el contracte les dades el missatge les factures el plànol les instruccions el certificat les mostres el rebut les fotografies el dossier les notes el pressupost".match(/(?:els|les|el|la) [^ ]+/g);
