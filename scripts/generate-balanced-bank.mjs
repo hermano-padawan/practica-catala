@@ -225,9 +225,19 @@ const lexContexts=[
 ];
 if(lexPairs.length!==50 || lexContexts.length!==50) throw new Error("El bloc lèxic necessita 50 correspondències i 50 contextos");
 for(let i=0;i<50;i++){const [w,c]=lexPairs[i];
- add("lexic","Revisa aquesta frase: "+lexContexts[i]+" Quina forma ha de substituir «"+w+"»?",[c,w],0,`«${w}» no és normatiu en aquest sentit; cal substituir-lo per «${c}».`,lexSource,"barbarismes");
- add("lexic","Quina és la forma normativa de «"+w+"»?",[c,w],0,
-  `«${w}» no és normatiu en aquest sentit; l'alternativa adequada és «${c}».`,lexSource,"revisió lèxica");
+ const isPaperSheet=w==="fulla de paper";
+ const contextPrompt=isPaperSheet
+  ? "En la frase «Escriu-ho en una fulla de paper», quin nom és adequat per referir-se a una làmina rectangular de paper?"
+  : "Revisa aquesta frase: "+lexContexts[i]+" Quina forma ha de substituir «"+w+"»?";
+ const reviewPrompt=isPaperSheet
+  ? "Com s'anomena normativament una làmina rectangular de paper?"
+  : "Quina és la forma normativa de «"+w+"»?";
+ const explanation=isPaperSheet
+  ? "Una làmina rectangular de paper és un «full de paper»; «fulla» designa principalment l'òrgan d'una planta o una peça prima semblant."
+  : `«${w}» no és normatiu en aquest sentit; cal substituir-lo per «${c}».`;
+ add("lexic",contextPrompt,[c,w],0,explanation,lexSource,"barbarismes");
+ add("lexic",reviewPrompt,[c,w],0,
+  isPaperSheet?explanation:`«${w}» no és normatiu en aquest sentit; l'alternativa adequada és «${c}».`,lexSource,"revisió lèxica");
 }
 
 if(out.length!==850) throw new Error("El banc equilibrat ha de tenir 850 registres i en té "+out.length);
