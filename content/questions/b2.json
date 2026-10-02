@@ -320,7 +320,8 @@
     "prompt": "Completa: «El tren ha arribat amb vint minuts de ___.»",
     "options": [
       "retard",
-      "retràs"
+      "retràs",
+      "demora"
     ],
     "answer": 0,
     "explanation": "Retard és la forma habitual i normativa per indicar que alguna cosa arriba tard.",
@@ -1495,7 +1496,7 @@
     "level": "B2",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Tria l'opció adequada per completar: «Aquesta carta és ___ director» (el director n'és el destinatari).",
+    "prompt": "Tria l'opció adequada per completar: «Aquesta carta és ___ director».",
     "options": [
       "pel",
       "per el",
@@ -6120,7 +6121,7 @@
     "status": "published",
     "prompt": "Tria l'opció adequada per completar: «La seva ___ treballava a l'hospital.»",
     "options": [
-      "marre",
+      "mara",
       "mae",
       "mare"
     ],
@@ -6443,11 +6444,10 @@
     "prompt": "Tria l'opció adequada per completar: «No has de ___ cap conseqüència.»",
     "options": [
       "témer",
-      "témerr",
-      "téme"
+      "porir"
     ],
     "answer": 0,
-    "explanation": "«témer» s'escriu amb una sola r en aquesta posició; rr només apareix entre vocals.",
+    "explanation": "«Témer» és el verb normatiu per expressar que alguna cosa fa por; «porir» és una forma inventada.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/25/11-els-sons-de-la-erra-r-i-rr",
       "locator": "Grafia de r/rr i erra final, línies 69-151"
@@ -8533,7 +8533,7 @@
     "level": "B2",
     "topic": "accentuacio",
     "status": "published",
-    "prompt": "Selecciona quina parella està ben accentuada?",
+    "prompt": "Quina parella està ben escrita?",
     "options": [
       "pingüí · agraír",
       "píngüi · agrair",
@@ -10184,7 +10184,7 @@
     "level": "B2",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Resol el cas següent: En una revisió formal, corregeix aquesta frase: «Aquesta carta és pel director» (el director n'és el destinatari)",
+    "prompt": "Resol el cas següent: En una revisió formal, corregeix aquesta frase: «Aquesta carta és pel director»",
     "options": [
       "per el",
       "per al",
@@ -10617,7 +10617,7 @@
     "level": "B2",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Escull la forma que completa correctament: «Aquesta carta és ___ director» (el director n'és el destinatari).",
+    "prompt": "Escull la forma que completa correctament: «Aquesta carta és ___ director».",
     "options": [
       "per al",
       "pel",
@@ -10640,7 +10640,7 @@
     "level": "B2",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Selecciona la forma que corregeix la frase: «Aquesta carta és pel director» (el director n'és el destinatari)",
+    "prompt": "Selecciona la forma que corregeix la frase: «Aquesta carta és pel director»",
     "options": [
       "pel",
       "per el",
@@ -13035,6 +13035,7 @@
     "prompt": "Tria l'opció que completa correctament: «Aquest és el motiu ___ van ajornar l'acte.»",
     "options": [
       "pel qual",
+      "per què",
       "per el que"
     ],
     "answer": 0,
@@ -13056,8 +13057,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «La biblioteca ___ estudiava ha ampliat l'horari.»",
     "options": [
-      "en què hi",
       "que hi",
+      "en què hi",
       "on"
     ],
     "answer": 2,
@@ -13079,9 +13080,9 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Van cancel·lar la sessió, ___ ens va obligar a canviar els plans.»",
     "options": [
-      "lo qual",
+      "el que això",
       "cosa que",
-      "el que això"
+      "lo qual"
     ],
     "answer": 1,
     "explanation": "«Cosa que» reprèn tota l'oració anterior amb valor neutre.",
@@ -13125,8 +13126,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Al jardí hi ha arbres l'alçada ___ supera els vint metres.»",
     "options": [
-      "dels que",
       "de què",
+      "dels que",
       "dels quals"
     ],
     "answer": 2,
@@ -13148,9 +13149,9 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Aquesta és la proposta ___ ens vam oposar.»",
     "options": [
-      "a la que",
+      "que ens hi",
       "a la qual",
-      "que ens hi"
+      "a la que"
     ],
     "answer": 1,
     "explanation": "El verb «oposar-se» regeix «a»; cal mantenir-la davant del relatiu compost.",
@@ -13194,8 +13195,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Els companys ___ col·laboro viuen a Girona.»",
     "options": [
-      "amb els que",
       "que hi",
+      "amb els que",
       "amb qui"
     ],
     "answer": 2,
@@ -13217,9 +13218,9 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «És una autora ___ s'ha parlat molt aquest any.»",
     "options": [
-      "de la que",
+      "que se n'",
       "de qui",
-      "que se n'"
+      "de la que"
     ],
     "answer": 1,
     "explanation": "«De qui» substitueix un complement preposicional amb antecedent de persona.",
@@ -13263,8 +13264,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «El tema ___ debatrem demà és especialment complex.»",
     "options": [
-      "sobre el que",
       "què el",
+      "sobre el que",
       "sobre el qual"
     ],
     "answer": 2,
@@ -13286,9 +13287,9 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «La sala ___ ens reunirem disposa de projector.»",
     "options": [
-      "a on hi",
+      "que ens hi",
       "on",
-      "que ens hi"
+      "a on hi"
     ],
     "answer": 1,
     "explanation": "«On» introdueix una relativa amb antecedent de lloc físic.",
@@ -13332,8 +13333,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Ens han fixat un termini dins ___ cal presentar les al·legacions.»",
     "options": [
-      "del que",
       "de què el",
+      "del que",
       "del qual"
     ],
     "answer": 2,
@@ -13355,9 +13356,9 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «No entenem la causa per ___ s'ha anul·lat la convocatòria.»",
     "options": [
-      "la que",
+      "què",
       "la qual",
-      "què"
+      "la que"
     ],
     "answer": 1,
     "explanation": "«Per la qual» és el relatiu compost que concorda amb «causa».",
@@ -13401,8 +13402,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «L'entitat ___ treballa gestiona diversos projectes europeus.»",
     "options": [
-      "per la que",
       "que per ella",
+      "per la que",
       "per a la qual"
     ],
     "answer": 2,
@@ -13424,9 +13425,9 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Aquest és el document sense ___ no podem tramitar la sol·licitud.»",
     "options": [
-      "el que",
+      "què",
       "el qual",
-      "què"
+      "el que"
     ],
     "answer": 1,
     "explanation": "Després d'una preposició composta, és adequada la forma «sense el qual».",
@@ -13470,8 +13471,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «L'acord contra ___ van presentar el recurs continua vigent.»",
     "options": [
-      "el que",
       "què",
+      "el que",
       "el qual"
     ],
     "answer": 2,
@@ -13493,9 +13494,9 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «És un problema sobre ___ encara no hi ha consens.»",
     "options": [
-      "el que",
+      "què el",
       "el qual",
-      "què el"
+      "el que"
     ],
     "answer": 1,
     "explanation": "«Sobre el qual» és una construcció relativa formal i concorda amb l'antecedent.",
@@ -13539,8 +13540,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Va rebutjar l'oferta, decisió ___ després es va penedir.»",
     "options": [
-      "de la que",
       "que se'n",
+      "de la que",
       "de la qual"
     ],
     "answer": 2,
@@ -13562,9 +13563,9 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «En un registre formal, tria el relatiu adequat: «El projecte ___ treballem entrarà aviat en la fase final.»»",
     "options": [
-      "en que",
+      "que hi",
       "en què",
-      "que hi"
+      "en que"
     ],
     "answer": 1,
     "explanation": "«En què» introdueix un complement preposicional referit a una cosa.",
@@ -13609,9 +13610,10 @@
     "prompt": "Tria l'opció que completa correctament: «En un registre formal, tria el relatiu adequat: «Aquest és el motiu ___ van ajornar l'acte.»»",
     "options": [
       "per el que",
+      "per què",
       "pel qual"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "«Pel qual» concorda amb l'antecedent masculí i expressa causa.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/60/39-els-pronoms-relatius",
@@ -13654,8 +13656,8 @@
     "prompt": "Tria l'opció que completa correctament: «En un registre formal, tria el relatiu adequat: «Van cancel·lar la sessió, ___ ens va obligar a canviar els plans.»»",
     "options": [
       "cosa que",
-      "el que això",
-      "lo qual"
+      "lo qual",
+      "el que això"
     ],
     "answer": 0,
     "explanation": "«Cosa que» reprèn tota l'oració anterior amb valor neutre.",
@@ -13676,8 +13678,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «En un registre formal, tria el relatiu adequat: «La investigadora, l'article ___ ha rebut un premi, farà la conferència.»»",
     "options": [
-      "de qui el",
       "que el seu",
+      "de qui el",
       "de la qual"
     ],
     "answer": 2,
@@ -13723,8 +13725,8 @@
     "prompt": "Tria l'opció que completa correctament: «En un registre formal, tria el relatiu adequat: «Aquesta és la proposta ___ ens vam oposar.»»",
     "options": [
       "a la qual",
-      "que ens hi",
-      "a la que"
+      "a la que",
+      "que ens hi"
     ],
     "answer": 0,
     "explanation": "El verb «oposar-se» regeix «a»; cal mantenir-la davant del relatiu compost.",
@@ -13745,8 +13747,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «En un registre formal, tria el relatiu adequat: «Recordo perfectament les circumstàncies ___ ens vam conèixer.»»",
     "options": [
-      "en que",
       "on hi",
+      "en que",
       "en què"
     ],
     "answer": 2,
@@ -13792,8 +13794,8 @@
     "prompt": "Tria l'opció que completa correctament: «En un registre formal, tria el relatiu adequat: «És una autora ___ s'ha parlat molt aquest any.»»",
     "options": [
       "de qui",
-      "que se n'",
-      "de la que"
+      "de la que",
+      "que se n'"
     ],
     "answer": 0,
     "explanation": "«De qui» substitueix un complement preposicional amb antecedent de persona.",
@@ -13814,8 +13816,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «En un registre formal, tria el relatiu adequat: «Aquestes són les eines ___ hem reparat la màquina.»»",
     "options": [
-      "amb que",
       "que amb elles",
+      "amb que",
       "amb què"
     ],
     "answer": 2,
@@ -13861,8 +13863,8 @@
     "prompt": "Tria l'opció que completa correctament: «En un registre formal, tria el relatiu adequat: «La sala ___ ens reunirem disposa de projector.»»",
     "options": [
       "on",
-      "que ens hi",
-      "a on hi"
+      "a on hi",
+      "que ens hi"
     ],
     "answer": 0,
     "explanation": "«On» introdueix una relativa amb antecedent de lloc físic.",
@@ -13883,8 +13885,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «En un registre formal, tria el relatiu adequat: «Han aprovat una norma segons ___ totes les entitats s'han de registrar.»»",
     "options": [
-      "la que",
       "què",
+      "la que",
       "la qual"
     ],
     "answer": 2,
@@ -13930,8 +13932,8 @@
     "prompt": "Tria l'opció que completa correctament: «En un registre formal, tria el relatiu adequat: «No entenem la causa per ___ s'ha anul·lat la convocatòria.»»",
     "options": [
       "la qual",
-      "què",
-      "la que"
+      "la que",
+      "què"
     ],
     "answer": 0,
     "explanation": "«Per la qual» és el relatiu compost que concorda amb «causa».",
@@ -13952,8 +13954,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «En un registre formal, tria el relatiu adequat: «L'estudi, els resultats ___ es publicaran demà, confirma la hipòtesi.»»",
     "options": [
-      "del que",
       "de què",
+      "del que",
       "del qual"
     ],
     "answer": 2,
@@ -13999,8 +14001,8 @@
     "prompt": "Tria l'opció que completa correctament: «En un registre formal, tria el relatiu adequat: «Aquest és el document sense ___ no podem tramitar la sol·licitud.»»",
     "options": [
       "el qual",
-      "què",
-      "el que"
+      "el que",
+      "què"
     ],
     "answer": 0,
     "explanation": "Després d'una preposició composta, és adequada la forma «sense el qual».",
@@ -14021,8 +14023,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «En un registre formal, tria el relatiu adequat: «Han aplicat mesures gràcies ___ s'ha reduït el consum.»»",
     "options": [
-      "a les que",
       "que gràcies a elles",
+      "a les que",
       "a les quals"
     ],
     "answer": 2,
@@ -14068,8 +14070,8 @@
     "prompt": "Tria l'opció que completa correctament: «En un registre formal, tria el relatiu adequat: «És un problema sobre ___ encara no hi ha consens.»»",
     "options": [
       "el qual",
-      "què el",
-      "el que"
+      "el que",
+      "què el"
     ],
     "answer": 0,
     "explanation": "«Sobre el qual» és una construcció relativa formal i concorda amb l'antecedent.",
@@ -14090,8 +14092,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «En un registre formal, tria el relatiu adequat: «Els ciutadans ___ s'adreça la campanya rebran una carta.»»",
     "options": [
-      "als que",
       "que els",
+      "als que",
       "als quals"
     ],
     "answer": 2,
@@ -14137,8 +14139,8 @@
     "prompt": "Fes la substitució de «el llibre» i «a la responsable»: «Dona el llibre a la responsable.»",
     "options": [
       "Dona-l'hi.",
-      "Li el dona.",
-      "Dona-hi-el."
+      "Dona-hi-el.",
+      "Li el dona."
     ],
     "answer": 0,
     "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
@@ -14159,8 +14161,8 @@
     "status": "published",
     "prompt": "Fes la substitució de «la carta» i «al coordinador»: «Dona la carta al coordinador.»",
     "options": [
-      "Dona-hi-la.",
       "Li la dona.",
+      "Dona-hi-la.",
       "Dona-la-hi."
     ],
     "answer": 2,
@@ -14206,8 +14208,8 @@
     "prompt": "Fes la substitució de «les claus» i «a l'encarregada»: «Dona les claus a l'encarregada.»",
     "options": [
       "Dona-les-hi.",
-      "Li les dona.",
-      "Dona-hi-les."
+      "Dona-hi-les.",
+      "Li les dona."
     ],
     "answer": 0,
     "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
@@ -14228,8 +14230,8 @@
     "status": "published",
     "prompt": "Fes la substitució de «el paquet» i «al secretari»: «Dona el paquet al secretari.»",
     "options": [
-      "Dona-hi-el.",
       "Li el dona.",
+      "Dona-hi-el.",
       "Dona-l'hi."
     ],
     "answer": 2,
@@ -14275,8 +14277,8 @@
     "prompt": "Fes la substitució de «els resultats» i «al coordinador»: «Dona els resultats al coordinador.»",
     "options": [
       "Dona'ls-hi.",
-      "Li els dona.",
-      "Dona-hi-els."
+      "Dona-hi-els.",
+      "Li els dona."
     ],
     "answer": 0,
     "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
@@ -14297,8 +14299,8 @@
     "status": "published",
     "prompt": "Fes la substitució de «la fotografia» i «a la directora»: «Dona la fotografia a la directora.»",
     "options": [
-      "Dona-hi-la.",
       "Li la dona.",
+      "Dona-hi-la.",
       "Dona-la-hi."
     ],
     "answer": 2,
@@ -14344,8 +14346,8 @@
     "prompt": "Fes la substitució de «el regal» i «al secretari»: «Dona el regal al secretari.»",
     "options": [
       "Dona-l'hi.",
-      "Li el dona.",
-      "Dona-hi-el."
+      "Dona-hi-el.",
+      "Li el dona."
     ],
     "answer": 0,
     "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
@@ -14366,8 +14368,8 @@
     "status": "published",
     "prompt": "Fes la substitució de «la proposta» i «a la responsable»: «Dona la proposta a la responsable.»",
     "options": [
-      "Dona-hi-la.",
       "Li la dona.",
+      "Dona-hi-la.",
       "Dona-la-hi."
     ],
     "answer": 2,
@@ -14413,8 +14415,8 @@
     "prompt": "Fes la substitució de «el contracte» i «a la directora»: «Dona el contracte a la directora.»",
     "options": [
       "Dona-l'hi.",
-      "Li el dona.",
-      "Dona-hi-el."
+      "Dona-hi-el.",
+      "Li el dona."
     ],
     "answer": 0,
     "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
@@ -14435,8 +14437,8 @@
     "status": "published",
     "prompt": "Fes la substitució de «les dades» i «a l'encarregada»: «Dona les dades a l'encarregada.»",
     "options": [
-      "Dona-hi-les.",
       "Li les dona.",
+      "Dona-hi-les.",
       "Dona-les-hi."
     ],
     "answer": 2,
@@ -14482,8 +14484,8 @@
     "prompt": "Fes la substitució de «les factures» i «a la responsable»: «Dona les factures a la responsable.»",
     "options": [
       "Dona-les-hi.",
-      "Li les dona.",
-      "Dona-hi-les."
+      "Dona-hi-les.",
+      "Li les dona."
     ],
     "answer": 0,
     "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
@@ -14504,8 +14506,8 @@
     "status": "published",
     "prompt": "Fes la substitució de «el plànol» i «al coordinador»: «Dona el plànol al coordinador.»",
     "options": [
-      "Dona-hi-el.",
       "Li el dona.",
+      "Dona-hi-el.",
       "Dona-l'hi."
     ],
     "answer": 2,
@@ -14551,8 +14553,8 @@
     "prompt": "Fes la substitució de «el certificat» i «a l'encarregada»: «Dona el certificat a l'encarregada.»",
     "options": [
       "Dona-l'hi.",
-      "Li el dona.",
-      "Dona-hi-el."
+      "Dona-hi-el.",
+      "Li el dona."
     ],
     "answer": 0,
     "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
@@ -14573,8 +14575,8 @@
     "status": "published",
     "prompt": "Fes la substitució de «les mostres» i «al secretari»: «Dona les mostres al secretari.»",
     "options": [
-      "Dona-hi-les.",
       "Li les dona.",
+      "Dona-hi-les.",
       "Dona-les-hi."
     ],
     "answer": 2,
@@ -14620,8 +14622,8 @@
     "prompt": "Fes la substitució de «les fotografies» i «al coordinador»: «Dona les fotografies al coordinador.»",
     "options": [
       "Dona-les-hi.",
-      "Li les dona.",
-      "Dona-hi-les."
+      "Dona-hi-les.",
+      "Li les dona."
     ],
     "answer": 0,
     "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
@@ -14642,8 +14644,8 @@
     "status": "published",
     "prompt": "Fes la substitució de «el dossier» i «a la directora»: «Dona el dossier a la directora.»",
     "options": [
-      "Dona-hi-el.",
       "Li el dona.",
+      "Dona-hi-el.",
       "Dona-l'hi."
     ],
     "answer": 2,
@@ -14689,8 +14691,8 @@
     "prompt": "Fes la substitució de «el pressupost» i «al secretari»: «Dona el pressupost al secretari.»",
     "options": [
       "Dona-l'hi.",
-      "Li el dona.",
-      "Dona-hi-el."
+      "Dona-hi-el.",
+      "Li el dona."
     ],
     "answer": 0,
     "explanation": "Amb un complement indirecte singular, «li» es transforma en «hi» i va darrere del pronom de complement directe.",
@@ -14711,8 +14713,8 @@
     "status": "published",
     "prompt": "Fes la substitució de «el llibre» i «a les responsables»: «Dona el llibre a les responsables.»",
     "options": [
-      "Dona-el-hi.",
       "Dona'ls-hi.",
+      "Dona-el-hi.",
       "Dona'ls-el."
     ],
     "answer": 2,
@@ -14758,8 +14760,8 @@
     "prompt": "Fes la substitució de «els informes» i «a les directores»: «Dona els informes a les directores.»",
     "options": [
       "Dona'ls-els.",
-      "Dona'ls-hi.",
-      "Dona-els-hi."
+      "Dona-els-hi.",
+      "Dona'ls-hi."
     ],
     "answer": 0,
     "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
@@ -14780,8 +14782,8 @@
     "status": "published",
     "prompt": "Fes la substitució de «les claus» i «als encarregats»: «Dona les claus als encarregats.»",
     "options": [
-      "Dona-les-hi.",
       "Dona'ls-hi.",
+      "Dona-les-hi.",
       "Dona'ls-les."
     ],
     "answer": 2,
@@ -14827,8 +14829,8 @@
     "prompt": "Fes la substitució de «la notícia» i «a les responsables»: «Dona la notícia a les responsables.»",
     "options": [
       "Dona'ls-la.",
-      "Dona'ls-hi.",
-      "Dona-la-hi."
+      "Dona-la-hi.",
+      "Dona'ls-hi."
     ],
     "answer": 0,
     "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
@@ -14849,8 +14851,8 @@
     "status": "published",
     "prompt": "Fes la substitució de «els resultats» i «als coordinadors»: «Dona els resultats als coordinadors.»",
     "options": [
-      "Dona-els-hi.",
       "Dona'ls-hi.",
+      "Dona-els-hi.",
       "Dona'ls-els."
     ],
     "answer": 2,
@@ -14896,8 +14898,8 @@
     "prompt": "Fes la substitució de «els documents» i «als encarregats»: «Dona els documents als encarregats.»",
     "options": [
       "Dona'ls-els.",
-      "Dona'ls-hi.",
-      "Dona-els-hi."
+      "Dona-els-hi.",
+      "Dona'ls-hi."
     ],
     "answer": 0,
     "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
@@ -14918,8 +14920,8 @@
     "status": "published",
     "prompt": "Fes la substitució de «el regal» i «a les tècniques»: «Dona el regal a les tècniques.»",
     "options": [
-      "Dona-el-hi.",
       "Dona'ls-hi.",
+      "Dona-el-hi.",
       "Dona'ls-el."
     ],
     "answer": 2,
@@ -14965,8 +14967,8 @@
     "prompt": "Fes la substitució de «les entrades» i «als coordinadors»: «Dona les entrades als coordinadors.»",
     "options": [
       "Dona'ls-les.",
-      "Dona'ls-hi.",
-      "Dona-les-hi."
+      "Dona-les-hi.",
+      "Dona'ls-hi."
     ],
     "answer": 0,
     "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
@@ -14987,8 +14989,8 @@
     "status": "published",
     "prompt": "Fes la substitució de «el contracte» i «a les directores»: «Dona el contracte a les directores.»",
     "options": [
-      "Dona-el-hi.",
       "Dona'ls-hi.",
+      "Dona-el-hi.",
       "Dona'ls-el."
     ],
     "answer": 2,
@@ -15034,8 +15036,8 @@
     "prompt": "Fes la substitució de «el missatge» i «a les tècniques»: «Dona el missatge a les tècniques.»",
     "options": [
       "Dona'ls-el.",
-      "Dona'ls-hi.",
-      "Dona-el-hi."
+      "Dona-el-hi.",
+      "Dona'ls-hi."
     ],
     "answer": 0,
     "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
@@ -15056,8 +15058,8 @@
     "status": "published",
     "prompt": "Fes la substitució de «les factures» i «a les responsables»: «Dona les factures a les responsables.»",
     "options": [
-      "Dona-les-hi.",
       "Dona'ls-hi.",
+      "Dona-les-hi.",
       "Dona'ls-les."
     ],
     "answer": 2,
@@ -15103,8 +15105,8 @@
     "prompt": "Fes la substitució de «les instruccions» i «a les directores»: «Dona les instruccions a les directores.»",
     "options": [
       "Dona'ls-les.",
-      "Dona'ls-hi.",
-      "Dona-les-hi."
+      "Dona-les-hi.",
+      "Dona'ls-hi."
     ],
     "answer": 0,
     "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
@@ -15125,8 +15127,8 @@
     "status": "published",
     "prompt": "Fes la substitució de «el certificat» i «als encarregats»: «Dona el certificat als encarregats.»",
     "options": [
-      "Dona-el-hi.",
       "Dona'ls-hi.",
+      "Dona-el-hi.",
       "Dona'ls-el."
     ],
     "answer": 2,
@@ -15172,8 +15174,8 @@
     "prompt": "Fes la substitució de «el rebut» i «a les responsables»: «Dona el rebut a les responsables.»",
     "options": [
       "Dona'ls-el.",
-      "Dona'ls-hi.",
-      "Dona-el-hi."
+      "Dona-el-hi.",
+      "Dona'ls-hi."
     ],
     "answer": 0,
     "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
@@ -15194,8 +15196,8 @@
     "status": "published",
     "prompt": "Fes la substitució de «les fotografies» i «als coordinadors»: «Dona les fotografies als coordinadors.»",
     "options": [
-      "Dona-les-hi.",
       "Dona'ls-hi.",
+      "Dona-les-hi.",
       "Dona'ls-les."
     ],
     "answer": 2,
@@ -15241,8 +15243,8 @@
     "prompt": "Fes la substitució de «les notes» i «als encarregats»: «Dona les notes als encarregats.»",
     "options": [
       "Dona'ls-les.",
-      "Dona'ls-hi.",
-      "Dona-les-hi."
+      "Dona-les-hi.",
+      "Dona'ls-hi."
     ],
     "answer": 0,
     "explanation": "Amb un complement indirecte plural, mantenim «els» davant del pronom de complement directe.",
@@ -15263,8 +15265,8 @@
     "status": "published",
     "prompt": "Fes la substitució de «el pressupost» i «a les tècniques»: «Dona el pressupost a les tècniques.»",
     "options": [
-      "Dona-el-hi.",
       "Dona'ls-hi.",
+      "Dona-el-hi.",
       "Dona'ls-el."
     ],
     "answer": 2,
@@ -16436,8 +16438,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «No crec que ella ___ avui.»",
     "options": [
-      "vindrà",
       "ve",
+      "vindrà",
       "vingui"
     ],
     "answer": 2,
@@ -16483,8 +16485,8 @@
     "prompt": "Tria l'opció que completa correctament: «Cal que tu ho ___.»",
     "options": [
       "facis",
-      "fas",
-      "faràs"
+      "faràs",
+      "fas"
     ],
     "answer": 0,
     "explanation": "El fet es presenta com a possible, desitjat o no confirmat; per això usem el subjuntiu: «facis».",
@@ -16505,8 +16507,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Si ho ___, t'ho diria.»",
     "options": [
-      "sàpigues",
       "sabria",
+      "sàpigues",
       "sabés"
     ],
     "answer": 2,
@@ -16552,8 +16554,8 @@
     "prompt": "Tria l'opció que completa correctament: «Dubto que ells ho ___.»",
     "options": [
       "acceptin",
-      "accepten",
-      "acceptaran"
+      "acceptaran",
+      "accepten"
     ],
     "answer": 0,
     "explanation": "La negació o el dubte introdueixen el subjuntiu: «acceptin».",
@@ -16574,8 +16576,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «És possible que demà ___.»",
     "options": [
-      "plourà",
       "plou",
+      "plourà",
       "plogui"
     ],
     "answer": 2,
@@ -16621,8 +16623,8 @@
     "prompt": "Tria l'opció que completa correctament: «Convé que ho ___.»",
     "options": [
       "revisem",
-      "revisarem",
-      "revisàvem"
+      "revisàvem",
+      "revisarem"
     ],
     "answer": 0,
     "explanation": "La voluntat, la preferència o la necessitat introdueixen el subjuntiu: «revisem».",
@@ -16643,8 +16645,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «No sembla que ___ prou temps.»",
     "options": [
-      "tindrem",
       "tenim",
+      "tindrem",
       "tinguem"
     ],
     "answer": 2,
@@ -16690,8 +16692,8 @@
     "prompt": "Tria l'opció que completa correctament: «Era necessari que ho ___.»",
     "options": [
       "resolguessin",
-      "resolien",
-      "resoldran"
+      "resoldran",
+      "resolien"
     ],
     "answer": 0,
     "explanation": "La voluntat, la preferència o la necessitat introdueixen el subjuntiu: «resolguessin».",
@@ -16712,8 +16714,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Pot ser que no ___.»",
     "options": [
-      "podrem",
       "podem",
+      "podrem",
       "puguem"
     ],
     "answer": 2,
@@ -16759,8 +16761,8 @@
     "prompt": "Tria l'opció que completa correctament: «Temien que el tren no ___.»",
     "options": [
       "sortís",
-      "sortia",
-      "sortirà"
+      "sortirà",
+      "sortia"
     ],
     "answer": 0,
     "explanation": "El fet es presenta com a possible, desitjat o no confirmat; per això usem el subjuntiu: «sortís».",
@@ -16781,8 +16783,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Encara que ___ fred, sortirem.»",
     "options": [
-      "farà",
       "fa",
+      "farà",
       "faci"
     ],
     "answer": 2,
@@ -16828,8 +16830,8 @@
     "prompt": "Tria l'opció que completa correctament: «No hi ha ningú que ho ___.»",
     "options": [
       "entengui",
-      "entén",
-      "entendrà"
+      "entendrà",
+      "entén"
     ],
     "answer": 0,
     "explanation": "El fet es presenta com a possible, desitjat o no confirmat; per això usem el subjuntiu: «entengui».",
@@ -16850,8 +16852,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Abans que ___, truca'm.»",
     "options": [
-      "marxaràs",
       "marxes",
+      "marxaràs",
       "marxis"
     ],
     "answer": 2,
@@ -16897,8 +16899,8 @@
     "prompt": "Tria l'opció que completa correctament: «Desitjo que tot ___ bé.»",
     "options": [
       "vagi",
-      "va",
-      "anirà"
+      "anirà",
+      "va"
     ],
     "answer": 0,
     "explanation": "La voluntat, la preferència o la necessitat introdueixen el subjuntiu: «vagi».",
@@ -16919,8 +16921,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Negava que ho ___.»",
     "options": [
-      "ha fet",
       "havia fet",
+      "ha fet",
       "hagués fet"
     ],
     "answer": 2,
@@ -16966,8 +16968,8 @@
     "prompt": "Tria l'opció que completa correctament: «Sense que ningú ho ___.»",
     "options": [
       "notés",
-      "notava",
-      "notarà"
+      "notarà",
+      "notava"
     ],
     "answer": 0,
     "explanation": "El fet es presenta com a possible, desitjat o no confirmat; per això usem el subjuntiu: «notés».",
@@ -16988,8 +16990,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Si ___ més temps, viatjaria.»",
     "options": [
-      "tinc",
       "tindria",
+      "tinc",
       "tingués"
     ],
     "answer": 2,
@@ -17035,8 +17037,8 @@
     "prompt": "Tria l'opció que completa correctament: «Procurava que no se'n ___.»",
     "options": [
       "adonessin",
-      "adonaven",
-      "adonaran"
+      "adonaran",
+      "adonaven"
     ],
     "answer": 0,
     "explanation": "El fet es presenta com a possible, desitjat o no confirmat; per això usem el subjuntiu: «adonessin».",
@@ -17057,8 +17059,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «És probable que el preu ___.»",
     "options": [
-      "pujarà",
       "puja",
+      "pujarà",
       "pugi"
     ],
     "answer": 2,
@@ -17104,8 +17106,8 @@
     "prompt": "Tria l'opció que completa correctament: «Quan ho ___, podrem continuar.»",
     "options": [
       "hàgiu acabat",
-      "heu acabat",
-      "acabareu"
+      "acabareu",
+      "heu acabat"
     ],
     "answer": 0,
     "explanation": "Si el fet temporal o modal encara no s'ha realitzat, usem el subjuntiu: «hàgiu acabat».",
@@ -17126,8 +17128,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «No acceptava que el ___.»",
     "options": [
-      "contradiran",
       "contradeien",
+      "contradiran",
       "contradiguessin"
     ],
     "answer": 2,
@@ -17173,8 +17175,8 @@
     "prompt": "Tria l'opció que completa correctament: «Si no ___ tant, dormiries millor.»",
     "options": [
       "treballessis",
-      "treballaràs",
-      "treballaves"
+      "treballaves",
+      "treballaràs"
     ],
     "answer": 0,
     "explanation": "En una condició hipotètica amb condicional, usem l'imperfet de subjuntiu: «treballessis».",
@@ -17195,8 +17197,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Ens sorprèn que encara no ___.»",
     "options": [
-      "arribaran",
       "han arribat",
+      "arribaran",
       "hagin arribat"
     ],
     "answer": 2,
@@ -17242,8 +17244,8 @@
     "prompt": "Tria l'opció que completa correctament: «No era segur que el pont ___.»",
     "options": [
       "resistís",
-      "resistia",
-      "resistirà"
+      "resistirà",
+      "resistia"
     ],
     "answer": 0,
     "explanation": "La negació o el dubte introdueixen el subjuntiu: «resistís».",
@@ -17264,8 +17266,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Tant de bo ___ la beca.»",
     "options": [
-      "obtindràs",
       "obtens",
+      "obtindràs",
       "obtinguis"
     ],
     "answer": 2,
@@ -17311,8 +17313,8 @@
     "prompt": "Tria l'opció que completa correctament: «Calia que els tècnics ho ___.»",
     "options": [
       "verifiquessin",
-      "verificaven",
-      "verificaran"
+      "verificaran",
+      "verificaven"
     ],
     "answer": 0,
     "explanation": "La voluntat, la preferència o la necessitat introdueixen el subjuntiu: «verifiquessin».",
@@ -17333,8 +17335,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «No pensava que la coneguessis tan ___.»",
     "options": [
-      "milloraria",
       "bona",
+      "milloraria",
       "bé"
     ],
     "answer": 2,
@@ -17380,8 +17382,8 @@
     "prompt": "Tria l'opció que completa correctament: «Esperarem fins que ens ___.»",
     "options": [
       "atenguin",
-      "atenen",
-      "atendran"
+      "atendran",
+      "atenen"
     ],
     "answer": 0,
     "explanation": "Si el fet temporal o modal encara no s'ha realitzat, usem el subjuntiu: «atenguin».",
@@ -17402,8 +17404,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Era improbable que se'n ___.»",
     "options": [
-      "recordarà",
       "recordava",
+      "recordarà",
       "recordés"
     ],
     "answer": 2,
@@ -17449,8 +17451,8 @@
     "prompt": "Tria l'opció que completa correctament: «No marxis sense que t'ho ___.»",
     "options": [
       "confirmin",
-      "confirmen",
-      "confirmaran"
+      "confirmaran",
+      "confirmen"
     ],
     "answer": 0,
     "explanation": "Si el fet temporal o modal encara no s'ha realitzat, usem el subjuntiu: «confirmin».",
@@ -17471,8 +17473,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Potser convindria que ho ___.»",
     "options": [
-      "ajornarem",
       "ajornàvem",
+      "ajornarem",
       "ajornéssim"
     ],
     "answer": 2,
@@ -17518,8 +17520,8 @@
     "prompt": "Tria l'opció que completa correctament: «Sigui com ___, acabarem la feina.»",
     "options": [
       "sigui",
-      "és",
-      "serà"
+      "serà",
+      "és"
     ],
     "answer": 0,
     "explanation": "El fet es presenta com a possible, desitjat o no confirmat; per això usem el subjuntiu: «sigui».",
@@ -17540,8 +17542,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «No trobaràs ningú que t'ho ___.»",
     "options": [
-      "garantirà",
       "garanteix",
+      "garantirà",
       "garanteixi"
     ],
     "answer": 2,
@@ -18760,8 +18762,8 @@
     "prompt": "Tria l'opció que completa correctament: «No ha vingut a la reunió ___ està malalt.»",
     "options": [
       "perquè",
-      "per tant",
-      "tanmateix"
+      "tanmateix",
+      "per tant"
     ],
     "answer": 0,
     "explanation": "«perquè» introdueix una relació de causa.",
@@ -18782,8 +18784,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Han tancat la carretera ___ hi ha hagut una esllavissada.»",
     "options": [
-      "tanmateix",
       "per tant",
+      "tanmateix",
       "perquè"
     ],
     "answer": 2,
@@ -18829,8 +18831,8 @@
     "prompt": "Tria l'opció que completa correctament: «No podem publicar l'informe ___ encara conté errors.»",
     "options": [
       "perquè",
-      "per tant",
-      "tanmateix"
+      "tanmateix",
+      "per tant"
     ],
     "answer": 0,
     "explanation": "«perquè» introdueix una relació de causa.",
@@ -18851,8 +18853,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «La planta s'ha assecat ___ ningú no l'ha regada.»",
     "options": [
-      "tanmateix",
       "per tant",
+      "tanmateix",
       "perquè"
     ],
     "answer": 2,
@@ -18898,8 +18900,8 @@
     "prompt": "Tria l'opció que completa correctament: «Porta l'abric ___ fa molt de fred.»",
     "options": [
       "perquè",
-      "per tant",
-      "tanmateix"
+      "tanmateix",
+      "per tant"
     ],
     "answer": 0,
     "explanation": "«perquè» introdueix una relació de causa.",
@@ -18920,8 +18922,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «No li han concedit l'ajut ___ faltava documentació.»",
     "options": [
-      "tanmateix",
       "per tant",
+      "tanmateix",
       "perquè"
     ],
     "answer": 2,
@@ -18967,8 +18969,8 @@
     "prompt": "Tria l'opció que completa correctament: «Han suspès el concert ___ el cantant ha perdut la veu.»",
     "options": [
       "perquè",
-      "per tant",
-      "tanmateix"
+      "tanmateix",
+      "per tant"
     ],
     "answer": 0,
     "explanation": "«perquè» introdueix una relació de causa.",
@@ -18989,8 +18991,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «No contestava el telèfon ___ era en una entrevista.»",
     "options": [
-      "tanmateix",
       "per tant",
+      "tanmateix",
       "perquè"
     ],
     "answer": 2,
@@ -19036,8 +19038,8 @@
     "prompt": "Tria l'opció que completa correctament: «La botiga avui no obre ___ és festa local.»",
     "options": [
       "perquè",
-      "per tant",
-      "tanmateix"
+      "tanmateix",
+      "per tant"
     ],
     "answer": 0,
     "explanation": "«perquè» introdueix una relació de causa.",
@@ -19058,8 +19060,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Hem reduït la despesa ___ el pressupost era insuficient.»",
     "options": [
-      "tanmateix",
       "per tant",
+      "tanmateix",
       "perquè"
     ],
     "answer": 2,
@@ -19105,8 +19107,8 @@
     "prompt": "Tria l'opció que completa correctament: «Han reforçat el servei ___ ha augmentat la demanda.»",
     "options": [
       "perquè",
-      "per tant",
-      "tanmateix"
+      "tanmateix",
+      "per tant"
     ],
     "answer": 0,
     "explanation": "«perquè» introdueix una relació de causa.",
@@ -19127,8 +19129,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Va acceptar l'oferta ___ les condicions eren bones.»",
     "options": [
-      "tanmateix",
       "per tant",
+      "tanmateix",
       "perquè"
     ],
     "answer": 2,
@@ -19174,8 +19176,8 @@
     "prompt": "Tria l'opció que completa correctament: «Obre la finestra ___ aquí dins fa calor.»",
     "options": [
       "perquè",
-      "per tant",
-      "tanmateix"
+      "tanmateix",
+      "per tant"
     ],
     "answer": 0,
     "explanation": "«perquè» introdueix una relació de causa.",
@@ -19196,8 +19198,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «S'ha acabat el termini; ___, no admetran més sol·licituds.»",
     "options": [
-      "tanmateix",
       "perquè",
+      "tanmateix",
       "per tant"
     ],
     "answer": 2,
@@ -19243,8 +19245,8 @@
     "prompt": "Tria l'opció que completa correctament: «Ha superat totes les proves; ___, obtindrà el certificat.»",
     "options": [
       "per tant",
-      "perquè",
-      "tanmateix"
+      "tanmateix",
+      "perquè"
     ],
     "answer": 0,
     "explanation": "«per tant» introdueix una relació de conseqüència.",
@@ -19265,8 +19267,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «No queda cap entrada; ___, no podrem assistir al concert.»",
     "options": [
-      "tanmateix",
       "perquè",
+      "tanmateix",
       "per tant"
     ],
     "answer": 2,
@@ -19312,8 +19314,8 @@
     "prompt": "Tria l'opció que completa correctament: «Plou molt; ___, el partit s'ajornarà.»",
     "options": [
       "per tant",
-      "perquè",
-      "tanmateix"
+      "tanmateix",
+      "perquè"
     ],
     "answer": 0,
     "explanation": "«per tant» introdueix una relació de conseqüència.",
@@ -19334,8 +19336,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Han augmentat els costos; ___, caldrà revisar el pressupost.»",
     "options": [
-      "tanmateix",
       "perquè",
+      "tanmateix",
       "per tant"
     ],
     "answer": 2,
@@ -19381,8 +19383,8 @@
     "prompt": "Tria l'opció que completa correctament: «No ha presentat els justificants; ___, haurà de retornar l'ajut.»",
     "options": [
       "per tant",
-      "perquè",
-      "tanmateix"
+      "tanmateix",
+      "perquè"
     ],
     "answer": 0,
     "explanation": "«per tant» introdueix una relació de conseqüència.",
@@ -19403,8 +19405,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «El sistema ha fallat; ___, activarem el protocol manual.»",
     "options": [
-      "tanmateix",
       "perquè",
+      "tanmateix",
       "per tant"
     ],
     "answer": 2,
@@ -19450,8 +19452,8 @@
     "prompt": "Tria l'opció que completa correctament: «La demanda ha crescut; ___, ampliarem l'horari.»",
     "options": [
       "per tant",
-      "perquè",
-      "tanmateix"
+      "tanmateix",
+      "perquè"
     ],
     "answer": 0,
     "explanation": "«per tant» introdueix una relació de conseqüència.",
@@ -19472,8 +19474,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «El pont és inestable; ___, restarà tancat.»",
     "options": [
-      "tanmateix",
       "perquè",
+      "tanmateix",
       "per tant"
     ],
     "answer": 2,
@@ -19519,8 +19521,8 @@
     "prompt": "Tria l'opció que completa correctament: «No hi ha prou quòrum; ___, la votació no es pot fer.»",
     "options": [
       "per tant",
-      "perquè",
-      "tanmateix"
+      "tanmateix",
+      "perquè"
     ],
     "answer": 0,
     "explanation": "«per tant» introdueix una relació de conseqüència.",
@@ -19541,8 +19543,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «La informació era falsa; ___, han rectificat la notícia.»",
     "options": [
-      "tanmateix",
       "perquè",
+      "tanmateix",
       "per tant"
     ],
     "answer": 2,
@@ -19588,8 +19590,8 @@
     "prompt": "Tria l'opció que completa correctament: «Tots hi estan d'acord; ___, aprovarem la proposta.»",
     "options": [
       "per tant",
-      "perquè",
-      "tanmateix"
+      "tanmateix",
+      "perquè"
     ],
     "answer": 0,
     "explanation": "«per tant» introdueix una relació de conseqüència.",
@@ -19610,8 +19612,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «El pagament s'ha duplicat; ___, en reclamarem la devolució.»",
     "options": [
-      "tanmateix",
       "perquè",
+      "tanmateix",
       "per tant"
     ],
     "answer": 2,
@@ -19679,8 +19681,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Plovia intensament; ___, vam sortir a caminar.»",
     "options": [
-      "per tant",
       "a més",
+      "per tant",
       "tanmateix"
     ],
     "answer": 2,
@@ -19726,8 +19728,8 @@
     "prompt": "Tria l'opció que completa correctament: «No tenia experiència; ___, va resoldre el problema.»",
     "options": [
       "tanmateix",
-      "a més",
-      "per tant"
+      "per tant",
+      "a més"
     ],
     "answer": 0,
     "explanation": "«tanmateix» introdueix una relació de contrast.",
@@ -19748,8 +19750,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «La prova era difícil; ___, la majoria la va superar.»",
     "options": [
-      "per tant",
       "a més",
+      "per tant",
       "tanmateix"
     ],
     "answer": 2,
@@ -19795,8 +19797,8 @@
     "prompt": "Tria l'opció que completa correctament: «El cotxe és antic; ___, funciona perfectament.»",
     "options": [
       "tanmateix",
-      "a més",
-      "per tant"
+      "per tant",
+      "a més"
     ],
     "answer": 0,
     "explanation": "«tanmateix» introdueix una relació de contrast.",
@@ -19817,8 +19819,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Havia estudiat molt; ___, no va aprovar.»",
     "options": [
-      "per tant",
       "a més",
+      "per tant",
       "tanmateix"
     ],
     "answer": 2,
@@ -19864,8 +19866,8 @@
     "prompt": "Tria l'opció que completa correctament: «La ruta és llarga; ___, no presenta gaire desnivell.»",
     "options": [
       "tanmateix",
-      "a més",
-      "per tant"
+      "per tant",
+      "a més"
     ],
     "answer": 0,
     "explanation": "«tanmateix» introdueix una relació de contrast.",
@@ -19886,8 +19888,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «L'informe és breu; ___, conté totes les dades necessàries.»",
     "options": [
-      "per tant",
       "a més",
+      "per tant",
       "tanmateix"
     ],
     "answer": 2,
@@ -19933,8 +19935,8 @@
     "prompt": "Tria l'opció que completa correctament: «Estava molt cansada; ___, va acabar la cursa.»",
     "options": [
       "tanmateix",
-      "a més",
-      "per tant"
+      "per tant",
+      "a més"
     ],
     "answer": 0,
     "explanation": "«tanmateix» introdueix una relació de contrast.",
@@ -19955,8 +19957,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «La norma sembla clara; ___, genera interpretacions diferents.»",
     "options": [
-      "per tant",
       "a més",
+      "per tant",
       "tanmateix"
     ],
     "answer": 2,
@@ -20002,8 +20004,8 @@
     "prompt": "Tria l'opció que completa correctament: «La sala era sorollosa; ___, la presentació es va entendre bé.»",
     "options": [
       "tanmateix",
-      "a més",
-      "per tant"
+      "per tant",
+      "a més"
     ],
     "answer": 0,
     "explanation": "«tanmateix» introdueix una relació de contrast.",
@@ -20024,8 +20026,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «El projecte comporta riscos; ___, pot generar molts beneficis.»",
     "options": [
-      "per tant",
       "a més",
+      "per tant",
       "tanmateix"
     ],
     "answer": 2,
@@ -20071,8 +20073,8 @@
     "prompt": "Tria l'opció que completa correctament: «Les vendes han baixat; ___, l'empresa contractarà personal.»",
     "options": [
       "tanmateix",
-      "a més",
-      "per tant"
+      "per tant",
+      "a més"
     ],
     "answer": 0,
     "explanation": "«tanmateix» introdueix una relació de contrast.",
@@ -20093,8 +20095,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «No és una solució definitiva; ___, permet guanyar temps.»",
     "options": [
-      "per tant",
       "a més",
+      "per tant",
       "tanmateix"
     ],
     "answer": 2,
@@ -20140,8 +20142,8 @@
     "prompt": "Tria l'opció que completa correctament: «El curs és gratuït; ___, ofereix material en línia.»",
     "options": [
       "a més",
-      "malgrat això",
-      "perquè"
+      "perquè",
+      "malgrat això"
     ],
     "answer": 0,
     "explanation": "«a més» introdueix una relació d'addició.",
@@ -20162,8 +20164,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «La mesura redueix el consum; ___, millora la seguretat.»",
     "options": [
-      "perquè",
       "malgrat això",
+      "perquè",
       "a més"
     ],
     "answer": 2,
@@ -20209,8 +20211,8 @@
     "prompt": "Tria l'opció que completa correctament: «Han renovat la façana; ___, han reparat la teulada.»",
     "options": [
       "a més",
-      "malgrat això",
-      "perquè"
+      "perquè",
+      "malgrat això"
     ],
     "answer": 0,
     "explanation": "«a més» introdueix una relació d'addició.",
@@ -20231,8 +20233,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «El programa és intuïtiu; ___, funciona en dispositius mòbils.»",
     "options": [
-      "perquè",
       "malgrat això",
+      "perquè",
       "a més"
     ],
     "answer": 2,
@@ -20278,8 +20280,8 @@
     "prompt": "Tria l'opció que completa correctament: «Ha obtingut la millor nota; ___, ha rebut una menció especial.»",
     "options": [
       "a més",
-      "malgrat això",
-      "perquè"
+      "perquè",
+      "malgrat això"
     ],
     "answer": 0,
     "explanation": "«a més» introdueix una relació d'addició.",
@@ -20300,8 +20302,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «El barri disposa de metro; ___, té diverses línies d'autobús.»",
     "options": [
-      "perquè",
       "malgrat això",
+      "perquè",
       "a més"
     ],
     "answer": 2,
@@ -20347,8 +20349,8 @@
     "prompt": "Tria l'opció que completa correctament: «La reforma crea més espai; ___, aprofita millor la llum natural.»",
     "options": [
       "a més",
-      "malgrat això",
-      "perquè"
+      "perquè",
+      "malgrat això"
     ],
     "answer": 0,
     "explanation": "«a més» introdueix una relació d'addició.",
@@ -20369,8 +20371,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «L'estudi aporta dades noves; ___, proposa mesures concretes.»",
     "options": [
-      "perquè",
       "malgrat això",
+      "perquè",
       "a més"
     ],
     "answer": 2,
@@ -20416,8 +20418,8 @@
     "prompt": "Tria l'opció que completa correctament: «La convocatòria ofereix cent places; ___, inclou una borsa de reserva.»",
     "options": [
       "a més",
-      "malgrat això",
-      "perquè"
+      "perquè",
+      "malgrat això"
     ],
     "answer": 0,
     "explanation": "«a més» introdueix una relació d'addició.",
@@ -20438,8 +20440,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «El vehicle consumeix poc; ___, emet menys contaminants.»",
     "options": [
-      "perquè",
       "malgrat això",
+      "perquè",
       "a més"
     ],
     "answer": 2,
@@ -20485,8 +20487,8 @@
     "prompt": "Tria l'opció que completa correctament: «La plataforma permet fer tràmits; ___, envia avisos automàtics.»",
     "options": [
       "a més",
-      "malgrat això",
-      "perquè"
+      "perquè",
+      "malgrat això"
     ],
     "answer": 0,
     "explanation": "«a més» introdueix una relació d'addició.",
@@ -20507,8 +20509,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «La dieta és equilibrada; ___, resulta fàcil de seguir.»",
     "options": [
-      "perquè",
       "malgrat això",
+      "perquè",
       "a més"
     ],
     "answer": 2,
@@ -20554,8 +20556,8 @@
     "prompt": "Tria l'opció que completa correctament: «El pla protegeix el patrimoni; ___, promou el comerç local.»",
     "options": [
       "a més",
-      "malgrat això",
-      "perquè"
+      "perquè",
+      "malgrat això"
     ],
     "answer": 0,
     "explanation": "«a més» introdueix una relació d'addició.",
@@ -20576,8 +20578,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Algunes mesures permeten estalviar energia, ___, apagar els llums innecessaris.»",
     "options": [
-      "en canvi",
       "en conseqüència",
+      "en canvi",
       "per exemple"
     ],
     "answer": 2,
@@ -20623,8 +20625,8 @@
     "prompt": "Tria l'opció que completa correctament: «Diversos oficis requereixen precisió manual, ___, la rellotgeria.»",
     "options": [
       "per exemple",
-      "en conseqüència",
-      "en canvi"
+      "en canvi",
+      "en conseqüència"
     ],
     "answer": 0,
     "explanation": "«per exemple» introdueix una relació d'exemplificació.",
@@ -20645,8 +20647,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Alguns tràmits es poden fer en línia, ___, demanar un certificat.»",
     "options": [
-      "en canvi",
       "en conseqüència",
+      "en canvi",
       "per exemple"
     ],
     "answer": 2,
@@ -20692,8 +20694,8 @@
     "prompt": "Tria l'opció que completa correctament: «Certs materials són bons aïllants, ___, el suro.»",
     "options": [
       "per exemple",
-      "en conseqüència",
-      "en canvi"
+      "en canvi",
+      "en conseqüència"
     ],
     "answer": 0,
     "explanation": "«per exemple» introdueix una relació d'exemplificació.",
@@ -20714,8 +20716,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Algunes activitats milloren la resistència, ___, nedar.»",
     "options": [
-      "en canvi",
       "en conseqüència",
+      "en canvi",
       "per exemple"
     ],
     "answer": 2,
@@ -20761,8 +20763,8 @@
     "prompt": "Tria l'opció que completa correctament: «Diversos connectors expressen contrast, ___, tanmateix.»",
     "options": [
       "per exemple",
-      "en conseqüència",
-      "en canvi"
+      "en canvi",
+      "en conseqüència"
     ],
     "answer": 0,
     "explanation": "«per exemple» introdueix una relació d'exemplificació.",
@@ -20783,8 +20785,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Alguns residus s'han de dur a la deixalleria, ___, les piles.»",
     "options": [
-      "en canvi",
       "en conseqüència",
+      "en canvi",
       "per exemple"
     ],
     "answer": 2,
@@ -20830,8 +20832,8 @@
     "prompt": "Tria l'opció que completa correctament: «Certes dades són especialment sensibles, ___, les mèdiques.»",
     "options": [
       "per exemple",
-      "en conseqüència",
-      "en canvi"
+      "en canvi",
+      "en conseqüència"
     ],
     "answer": 0,
     "explanation": "«per exemple» introdueix una relació d'exemplificació.",
@@ -20852,8 +20854,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Hi ha mesures per reduir el trànsit, ___, ampliar el transport públic.»",
     "options": [
-      "en canvi",
       "en conseqüència",
+      "en canvi",
       "per exemple"
     ],
     "answer": 2,
@@ -20899,8 +20901,8 @@
     "prompt": "Tria l'opció que completa correctament: «Diversos mamífers hibernen, ___, la marmota.»",
     "options": [
       "per exemple",
-      "en conseqüència",
-      "en canvi"
+      "en canvi",
+      "en conseqüència"
     ],
     "answer": 0,
     "explanation": "«per exemple» introdueix una relació d'exemplificació.",
@@ -20921,8 +20923,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Hi ha documents que exigeixen signatura, ___, el contracte.»",
     "options": [
-      "en canvi",
       "en conseqüència",
+      "en canvi",
       "per exemple"
     ],
     "answer": 2,
@@ -20968,8 +20970,8 @@
     "prompt": "Tria l'opció que completa correctament: «Certes despeses són deduïbles, ___, les vinculades a l'activitat.»",
     "options": [
       "per exemple",
-      "en conseqüència",
-      "en canvi"
+      "en canvi",
+      "en conseqüència"
     ],
     "answer": 0,
     "explanation": "«per exemple» introdueix una relació d'exemplificació.",
@@ -20990,8 +20992,8 @@
     "status": "published",
     "prompt": "Tria l'opció que completa correctament: «Hi ha eines per comprovar l'ortografia, ___, els diccionaris normatius.»",
     "options": [
-      "en canvi",
       "en conseqüència",
+      "en canvi",
       "per exemple"
     ],
     "answer": 2,
@@ -21454,11 +21456,11 @@
     "status": "published",
     "prompt": "Selecciona quina és la forma normativa de «alcançar»?",
     "options": [
-      "alcançar",
+      "lugrar",
       "assolir"
     ],
     "answer": 1,
-    "explanation": "«alcançar» no és normatiu en aquest sentit; l'alternativa adequada és «assolir».",
+    "explanation": "«Assolir» és la forma normativa; «lugrar» no és una paraula catalana.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"

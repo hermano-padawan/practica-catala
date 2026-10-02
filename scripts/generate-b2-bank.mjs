@@ -155,6 +155,27 @@ const output = [...initial, ...generated, ...curatedExtras].map(question => ({
   ...question,
   examSkill: question.examSkill ?? examSkillFor(question),
 }));
+
+const reviewedOverrides = new Map([
+  ["b2-gen-0283", {
+    options: ["témer", "porir"],
+    answer: 0,
+    explanation: "«Témer» és el verb normatiu per expressar que alguna cosa fa por; «porir» és una forma inventada.",
+  }],
+  ["b2-gen-0374", {
+    prompt: "Quina parella està ben escrita?",
+  }],
+  ["b2-gen-0938", {
+    options: ["lugrar", "assolir"],
+    answer: 1,
+    explanation: "«Assolir» és la forma normativa; «lugrar» no és una paraula catalana.",
+  }],
+]);
+for (const question of output) {
+  const override = reviewedOverrides.get(question.id);
+  if (override) Object.assign(question, override);
+}
+
 if (output.length !== 1000) throw new Error(`S'esperaven 1.000 exercicis B2 i se n'han generat ${output.length}.`);
 await writeFile(new URL("b2.json", root), `${JSON.stringify(output, null, 2)}\n`);
 console.log(`Generat banc B2: ${output.length} exercicis.`);

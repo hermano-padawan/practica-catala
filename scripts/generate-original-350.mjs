@@ -118,7 +118,7 @@ for(const block of blocks){
   if(block.words.length<50) throw new Error(`${block.key}: s'esperaven almenys 50 mots i n'hi ha ${block.words.length}`);
   block.words = block.words.slice(0,50);
   for(const [index,word] of block.words.entries()){
-    const wrong=wrongForms(word,block.key);
+    const wrong=word==="mare"&&block.key==="erra"?["mara","mae"]:wrongForms(word,block.key);
     if(wrong.length!==2) throw new Error(`${block.key}/${word}: no hi ha dos distractors`);
     const answer=(questions.length+index)%3;
     const options=[...wrong]; options.splice(answer,0,word);
