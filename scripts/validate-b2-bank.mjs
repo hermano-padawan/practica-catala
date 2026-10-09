@@ -32,6 +32,7 @@ for (const [index, q] of questions.entries()) {
   if (!q.examSkill) errors.push(`${at}: falta vincular l'exercici amb una habilitat de la prova B2`);
   if (/^(En aquest exercici|Per practicar la regla|Ara,|Comprova també aquest cas)/i.test(q.prompt)) errors.push(`${at}: inici mecànic o de farciment`);
   if (q.options.some(option => /hanur|una l'|launiversitat|vëina|^[ldn] [A-ZÀ-Ü]|\b(?:el|la|de|per|a)'|['’]\s/iu.test(option))) errors.push(`${at}: distractor artificial detectat`);
+  if (q.options.some(option => /(?:rr|pp|tt|dd|gg)$/iu.test(option))) errors.push(`${at}: consonant doble final impossible detectada`);
   if (q.options.includes("l'universitat") && q.answer === q.options.indexOf("l'universitat")) errors.push(`${at}: apostrofació incorrecta de la universitat`);
   topics.set(q.topic,(topics.get(q.topic)??0)+1);
   examSkills.set(q.examSkill,(examSkills.get(q.examSkill)??0)+1);

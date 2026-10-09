@@ -77,7 +77,6 @@ function wrongForms(word,key){
   const candidates=[];
   for(const [from,to] of replacements[key]){
     if(word.includes(from)) candidates.push(word.replace(from,to));
-    if(candidates.length===2) break;
   }
   const plain=word.normalize("NFD").replace(/\p{Diacritic}/gu,"").replace("·","");
   if(plain!==word) candidates.push(plain);
@@ -88,7 +87,9 @@ function wrongForms(word,key){
   const shortened=word.replace(/[mnrx]/,"");
   if(shortened!==word) candidates.push(shortened);
   candidates.push(`${word}h`);
-  return [...new Set(candidates)].filter(candidate=>candidate!==word).slice(0,2);
+  return [...new Set(candidates)]
+    .filter(candidate=>candidate!==word&&!/(?:rr|pp|tt|dd|gg)$/iu.test(candidate))
+    .slice(0,2);
 }
 
 const agudes=new Set("camió cançó cafè perquè després també arròs jardí matí ningú comú avió camí Berlín interès comprèn depèn això allò".split(" "));

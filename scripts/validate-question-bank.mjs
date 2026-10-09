@@ -36,6 +36,7 @@ for (const [index, q] of questions.entries()) {
   if (semanticExercises.has(semanticSignature)) errors.push(`${at}: exercici repetit amb les opcions reordenades`);
   semanticExercises.add(semanticSignature);
   if (/hanur|hanvia|hanver|una l'|launiversitat|la'història|la'iaia|la'Imma|la'UEFA|el'hiat|la'una|la'o/iu.test(q.options.join(" "))) errors.push(`${at}: distractor artificial detectat`);
+  if (q.options.some(option => /(?:rr|pp|tt|dd|gg)$/iu.test(option))) errors.push(`${at}: consonant doble final impossible detectada`);
   if (q.prompt.includes("→") || q.options.some(option=>option.includes("→"))) errors.push(`${at}: formulació amb fletxa substituïda per una instrucció explícita`);
   if (q.status === 'published') {
     if (!q.source?.url || !q.source?.locator) errors.push(`${at}: una pregunta publicada necessita font i localitzador`);

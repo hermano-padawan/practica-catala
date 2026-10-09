@@ -165,6 +165,11 @@ const reviewedOverrides = new Map([
   ["b2-gen-0374", {
     prompt: "Quina parella està ben escrita?",
   }],
+  ["b2-gen-0299", {
+    options: ["hunor", "honor", "hunó"],
+    answer: 1,
+    explanation: "«Honor» és la forma correcta en català.",
+  }],
   ["b2-gen-0938", {
     options: ["lugrar", "assolir"],
     answer: 1,

@@ -30,8 +30,7 @@ function correctionPrompt(question,wrong){
   if(quoted){
     const replacement=wrong.endsWith("'")?wrong:wrong+" ";
     const sentence=quoted[1].replace(/___\s*/,replacement);
-    const recipientContext=/director n'és el destinatari/i.test(question.prompt)?" (el director n'és el destinatari)":"";
-    return `Corregeix aquesta frase: «${sentence}»${recipientContext}`;
+    return `Corregeix aquesta frase: «${sentence}»`;
   }
   return `Quina és la forma correcta en lloc de «${wrong}»?`;
 }
@@ -129,8 +128,7 @@ const relativeRows=[
 for(let i=0;i<50;i++){
  const [sentence,correct,wrong1,wrong2,explanation]=relativeRows[i%relativeRows.length];
  const prompt=i<25?sentence:`En un registre formal, tria el relatiu adequat: «${sentence}»`;
- const options=sentence.startsWith("Aquest és el motiu ")?[correct,wrong2]:[correct,wrong1,wrong2];
- add("pronoms",prompt,options,0,explanation,relativeSource,"pronoms relatius");
+ add("pronoms",prompt,[correct,wrong1,wrong2],0,explanation,relativeSource,"pronoms relatius");
 }
 // 50 combinacions, amb objectes i destinataris diferents.
 const objects="el llibre la carta els informes les claus el paquet la notícia els resultats la fotografia els documents el regal la proposta les entrades el contracte les dades el missatge les factures el plànol les instruccions el certificat les mostres el rebut les fotografies el dossier les notes el pressupost".match(/(?:els|les|el|la) [^ ]+/g);
@@ -202,16 +200,16 @@ for(const group of connectorGroups) for(const [left,right] of group.items){
 }
 
 const lexPairs=[
-["abertura","obertura"],["garantitzar","garantir"],["aconteixement","esdeveniment"],["acostumbrar","acostumar"],["adelantar","avançar"],
-["ademés","a més"],["agotar","esgotar"],["agravar","agreujar"],["albedrío","albir"],["alcançar","assolir"],
-["algo","alguna cosa"],["ambos","ambdós"],["amparo","empara"],["àngul","angle"],["lograr","aconseguir"],
-["apoiar","donar suport"],["arrepentir-se","penedir-se"],["retràs","retard"],["hassanya","proesa"],["bisagra","frontissa"],
-["búsqueda","recerca"],["calificar","qualificar"],["calitat","qualitat"],["cantitat","quantitat"],["casi","gairebé"],
-["ganader","ramader"],["humillar","humiliar"],["crusar","creuar"],["cuidadós","acurat"],["demés","la resta"],
-["derribar","enderrocar"],["derrotxar","malbaratar"],["desarrollar","desenvolupar"],["desde luego","per descomptat"],["jusgat","jutjat"],
-["desetxar","rebutjar"],["despejar","aclarir"],["deuda","deute"],["donar-se compte","adonar-se"],["insertar","inserir"],
-["enchufe","endoll"],["enfermetat","malaltia"],["en ves de","en lloc de"],["extranger","estranger"],["extrany","estrany"],
-["fallo","errada"],["fetxa","data"],["financiar","finançar"],["fronterís","fronterer"],["fulla de paper","full de paper"]
+["abertura","obertura","abertura"],["garantitzar","garantir","garantizar"],["aconteixement","esdeveniment","acontecimiento"],["acostumbrar","acostumar","acostumbrar"],["adelantar","avançar","adelantar"],
+["ademés","a més","además"],["agotar","esgotar","agotar"],["agravar","agreujar","agravar"],["albedrío","albir","albedrío"],["alcançar","assolir","alcanzar"],
+["algo","alguna cosa","algo"],["ambos","ambdós","ambos"],["amparo","empara","amparo"],["àngul","angle","ángulo"],["lograr","aconseguir","lograr"],
+["apoiar","donar suport","apoyar"],["arrepentir-se","penedir-se","arrepentirse"],["retràs","retard","retraso"],["hassanya","proesa","hazaña"],["bisagra","frontissa","bisagra"],
+["búsqueda","recerca","búsqueda"],["calificar","qualificar","calificar"],["calitat","qualitat","calidad"],["cantitat","quantitat","cantidad"],["casi","gairebé","casi"],
+["ganader","ramader","ganadero"],["humillar","humiliar","humillar"],["crusar","creuar","cruzar"],["cuidadós","acurat","cuidadoso"],["demés","la resta","demás"],
+["derribar","enderrocar","derribar"],["derrotxar","malbaratar","derrochar"],["desarrollar","desenvolupar","desarrollar"],["desde luego","per descomptat","desde luego"],["jusgat","jutjat","juzgado"],
+["desetxar","rebutjar","desechar"],["despejar","aclarir","despejar"],["deuda","deute","deuda"],["donar-se compte","adonar-se","darse cuenta"],["insertar","inserir","insertar"],
+["enchufe","endoll","enchufe"],["enfermetat","malaltia","enfermedad"],["en ves de","en lloc de","en vez de"],["extranger","estranger","extranjero"],["extrany","estrany","extraño"],
+["fallo","errada","fallo"],["fetxa","data","fecha"],["financiar","finançar","financiar"],["fronterís","fronterer","fronterizo"],["fulla de paper","full de paper","hoja de papel"]
 ];
 const lexContexts=[
 "L'obertura oficial apareix com a «abertura».","El text fa servir «garantitzar» la qualitat.","La notícia parla d'un «aconteixement» inesperat.","Diu que cal «acostumbrar» l'equip al canvi.","L'informe proposa «adelantar» la reunió.",
@@ -226,20 +224,11 @@ const lexContexts=[
 "El sistema ha detectat un «fallo».","Comprova la «fetxa» del document.","El banc podria «financiar» l'obra.","És un municipi «fronterís».","Escriu-ho en una «fulla de paper»."
 ];
 if(lexPairs.length!==50 || lexContexts.length!==50) throw new Error("El bloc lèxic necessita 50 correspondències i 50 contextos");
-for(let i=0;i<50;i++){const [w,c]=lexPairs[i];
- const isPaperSheet=w==="fulla de paper";
- const contextPrompt=isPaperSheet
-  ? "En la frase «Escriu-ho en una fulla de paper», quin nom és adequat per referir-se a una làmina rectangular de paper?"
-  : "Revisa aquesta frase: "+lexContexts[i]+" Quina forma ha de substituir «"+w+"»?";
- const reviewPrompt=isPaperSheet
-  ? "Com s'anomena normativament una làmina rectangular de paper?"
-  : "Quina és la forma normativa de «"+w+"»?";
- const explanation=isPaperSheet
-  ? "Una làmina rectangular de paper és un «full de paper»; «fulla» designa principalment l'òrgan d'una planta o una peça prima semblant."
-  : `«${w}» no és normatiu en aquest sentit; cal substituir-lo per «${c}».`;
- add("lexic",contextPrompt,[c,w],0,explanation,lexSource,"barbarismes");
- add("lexic",reviewPrompt,[c,w],0,
-  isPaperSheet?explanation:`«${w}» no és normatiu en aquest sentit; l'alternativa adequada és «${c}».`,lexSource,"revisió lèxica");
+for(let i=0;i<50;i++){const [w,c,es]=lexPairs[i];
+ const context=lexContexts[i].replace(`«${w}»`,`«${es}»`);
+ add("lexic","Revisa aquesta frase amb un mot castellà: "+context+" Quina forma catalana ha de substituir «"+es+"»?",[c,es],0,`En català, el mot castellà «${es}» es tradueix per «${c}» en aquest context.`,lexSource,"traducció del castellà");
+ add("lexic","Com es tradueix «"+es+"» al català?",[c,es],0,
+  `La traducció catalana de «${es}» és «${c}».`,lexSource,"traducció del castellà");
 }
 
 if(out.length!==850) throw new Error("El banc equilibrat ha de tenir 850 registres i en té "+out.length);

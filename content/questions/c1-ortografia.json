@@ -1507,7 +1507,7 @@
     "prompt": "Completa amb la forma correcta: «Cada setmana ___ una carta.»",
     "options": [
       "reb",
-      "repp",
+      "rép",
       "rep"
     ],
     "answer": 2,
@@ -1527,7 +1527,7 @@
     "prompt": "Completa amb la forma correcta: «Ella ja ___ la resposta.»",
     "options": [
       "sap",
-      "sapp",
+      "sàp",
       "sab"
     ],
     "answer": 0,
@@ -1546,7 +1546,7 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El conte parla d'un ___.»",
     "options": [
-      "llopp",
+      "lòp",
       "llop",
       "llob"
     ],
@@ -1567,7 +1567,7 @@
     "prompt": "Completa amb la forma correcta: «L'activitat física millora la ___.»",
     "options": [
       "salud",
-      "salutt",
+      "salút",
       "salut"
     ],
     "answer": 2,
@@ -1606,7 +1606,7 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «El detall és molt ___.»",
     "options": [
-      "menutt",
+      "menút",
       "menut",
       "menud"
     ],
@@ -1726,7 +1726,7 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Avui fa molt de ___.»",
     "options": [
-      "fredd",
+      "fréd",
       "fred",
       "fret"
     ],
@@ -1747,7 +1747,7 @@
     "prompt": "Completa amb la forma correcta: «El vent bufa del ___.»",
     "options": [
       "sut",
-      "sudd",
+      "súd",
       "sud"
     ],
     "answer": 2,
@@ -1767,7 +1767,7 @@
     "prompt": "Completa amb la forma correcta: «El conte té un ___ savi.»",
     "options": [
       "mag",
-      "magg",
+      "màg",
       "mac"
     ],
     "answer": 0,

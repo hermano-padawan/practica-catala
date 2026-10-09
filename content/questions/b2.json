@@ -3246,7 +3246,7 @@
     "status": "published",
     "prompt": "Tria l'opció adequada per completar: «Cada setmana ___ una carta.»",
     "options": [
-      "repp",
+      "rép",
       "rep",
       "reb"
     ],
@@ -3270,7 +3270,7 @@
     "prompt": "Tria l'opció adequada per completar: «Ella ja ___ la resposta.»",
     "options": [
       "sap",
-      "sapp",
+      "sàp",
       "sab"
     ],
     "answer": 0,
@@ -3292,7 +3292,7 @@
     "status": "published",
     "prompt": "Tria l'opció adequada per completar: «El conte parla d'un ___.»",
     "options": [
-      "llopp",
+      "lòp",
       "llob",
       "llop"
     ],
@@ -3315,7 +3315,7 @@
     "status": "published",
     "prompt": "Tria l'opció adequada per completar: «L'activitat física millora la ___.»",
     "options": [
-      "salutt",
+      "salút",
       "salut",
       "salud"
     ],
@@ -3361,7 +3361,7 @@
     "status": "published",
     "prompt": "Tria l'opció adequada per completar: «El detall és molt ___.»",
     "options": [
-      "menutt",
+      "menút",
       "menud",
       "menut"
     ],
@@ -3499,7 +3499,7 @@
     "status": "published",
     "prompt": "Tria l'opció adequada per completar: «Avui fa molt de ___.»",
     "options": [
-      "fredd",
+      "fréd",
       "fret",
       "fred"
     ],
@@ -3522,7 +3522,7 @@
     "status": "published",
     "prompt": "Tria l'opció adequada per completar: «El vent bufa del ___.»",
     "options": [
-      "sudd",
+      "súd",
       "sud",
       "sut"
     ],
@@ -3546,7 +3546,7 @@
     "prompt": "Tria l'opció adequada per completar: «El conte té un ___ savi.»",
     "options": [
       "mag",
-      "magg",
+      "màg",
       "mac"
     ],
     "answer": 0,
@@ -3892,7 +3892,7 @@
     "options": [
       "company",
       "conpany",
-      "còmpany"
+      "compamy"
     ],
     "answer": 0,
     "explanation": "«company» s'escriu amb m: davant de b i p, generalment fem servir m i no n.",
@@ -6397,8 +6397,8 @@
     "status": "published",
     "prompt": "Tria l'opció adequada per completar: «El cor va començar a ___.»",
     "options": [
-      "cantarr",
       "canta",
+      "càntar",
       "cantar"
     ],
     "answer": 2,
@@ -6512,8 +6512,8 @@
     "prompt": "Tria l'opció adequada per completar: «No podem ___ aquesta injustícia.»",
     "options": [
       "patir",
-      "patirr",
-      "pati"
+      "pati",
+      "pàtir"
     ],
     "answer": 0,
     "explanation": "«patir» s'escriu amb una sola r en aquesta posició; rr només apareix entre vocals.",
@@ -6557,9 +6557,9 @@
     "status": "published",
     "prompt": "Tria l'opció adequada per completar: «La ___ del cel anunciava tempesta.»",
     "options": [
-      "blavo",
+      "blàvor",
       "blavor",
-      "blavorr"
+      "blavo"
     ],
     "answer": 1,
     "explanation": "«blavor» s'escriu amb una sola r en aquesta posició; rr només apareix entre vocals.",
@@ -6581,8 +6581,8 @@
     "prompt": "Tria l'opció adequada per completar: «Han restaurat un ___ abandonat.»",
     "options": [
       "colomar",
-      "colomarr",
-      "coloma"
+      "coloma",
+      "còlomar"
     ],
     "answer": 0,
     "explanation": "«colomar» s'escriu amb una sola r en aquesta posició; rr només apareix entre vocals.",
@@ -6626,9 +6626,9 @@
     "status": "published",
     "prompt": "Tria l'opció adequada per completar: «El ___ va reparar la porta.»",
     "options": [
-      "fuste",
+      "fúster",
       "fuster",
-      "fusterr"
+      "fuste"
     ],
     "answer": 1,
     "explanation": "«fuster» s'escriu amb una sola r en aquesta posició; rr només apareix entre vocals.",
@@ -6650,8 +6650,8 @@
     "prompt": "Tria l'opció adequada per completar: «Duia un ___ de seda.»",
     "options": [
       "mocador",
-      "mocadorr",
-      "mocado"
+      "mocado",
+      "mòcador"
     ],
     "answer": 0,
     "explanation": "«mocador» s'escriu amb una sola r en aquesta posició; rr només apareix entre vocals.",
@@ -6672,8 +6672,8 @@
     "status": "published",
     "prompt": "Tria l'opció adequada per completar: «El metge li va auscultar el ___.»",
     "options": [
-      "corr",
       "co",
+      "còr",
       "cor"
     ],
     "answer": 2,
@@ -6695,9 +6695,9 @@
     "status": "published",
     "prompt": "Tria l'opció adequada per completar: «La novel·la parla d'un ___ impossible.»",
     "options": [
-      "amo",
+      "àmor",
       "amor",
-      "amorr"
+      "amo"
     ],
     "answer": 1,
     "explanation": "«amor» s'escriu amb una sola r en aquesta posició; rr només apareix entre vocals.",
@@ -6720,7 +6720,7 @@
     "options": [
       "mar",
       "ma",
-      "marr"
+      "màr"
     ],
     "answer": 0,
     "explanation": "«mar» s'escriu amb una sola r en aquesta posició; rr només apareix entre vocals.",
@@ -6741,8 +6741,8 @@
     "status": "published",
     "prompt": "Tria l'opció adequada per completar: «La llum del ___ guiava els navegants.»",
     "options": [
-      "farr",
       "fa",
+      "fàr",
       "far"
     ],
     "answer": 2,
@@ -6764,9 +6764,9 @@
     "status": "published",
     "prompt": "Tria l'opció adequada per completar: «El projecte mira cap al ___.»",
     "options": [
-      "futu",
+      "fútur",
       "futur",
-      "futurr"
+      "futu"
     ],
     "answer": 1,
     "explanation": "«futur» s'escriu amb una sola r en aquesta posició; rr només apareix entre vocals.",
@@ -6788,8 +6788,8 @@
     "prompt": "Tria l'opció adequada per completar: «És un parent ___.»",
     "options": [
       "familiar",
-      "familiarr",
-      "familia"
+      "familia",
+      "fàmiliar"
     ],
     "answer": 0,
     "explanation": "«familiar» s'escriu amb una sola r en aquesta posició; rr només apareix entre vocals.",
@@ -6810,12 +6810,12 @@
     "status": "published",
     "prompt": "Tria l'opció adequada per completar: «Va rebre l'acte amb gran ___.»",
     "options": [
-      "honorr",
-      "hono",
-      "honor"
+      "hunor",
+      "honor",
+      "hunó"
     ],
-    "answer": 2,
-    "explanation": "«honor» s'escriu amb una sola r en aquesta posició; rr només apareix entre vocals.",
+    "answer": 1,
+    "explanation": "«Honor» és la forma correcta en català.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/25/11-els-sons-de-la-erra-r-i-rr",
       "locator": "Grafia de r/rr i erra final, línies 69-151"
@@ -6833,9 +6833,9 @@
     "status": "published",
     "prompt": "Tria l'opció adequada per completar: «La proposta aporta molt de ___.»",
     "options": [
-      "valo",
+      "vàlor",
       "valor",
-      "valorr"
+      "valo"
     ],
     "answer": 1,
     "explanation": "«valor» s'escriu amb una sola r en aquesta posició; rr només apareix entre vocals.",
@@ -6857,8 +6857,8 @@
     "prompt": "Tria l'opció adequada per completar: «La taxa d'___ ha disminuït.»",
     "options": [
       "atur",
-      "aturr",
-      "atu"
+      "atu",
+      "àtur"
     ],
     "answer": 0,
     "explanation": "«atur» s'escriu amb una sola r en aquesta posició; rr només apareix entre vocals.",
@@ -6902,9 +6902,9 @@
     "status": "published",
     "prompt": "Tria l'opció adequada per completar: «Em pots fer el ___ d'acostar-m'ho?»",
     "options": [
-      "favo",
+      "fàvor",
       "favor",
-      "favorr"
+      "favo"
     ],
     "answer": 1,
     "explanation": "«favor» s'escriu amb una sola r en aquesta posició; rr només apareix entre vocals.",
@@ -21036,13 +21036,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: L'obertura oficial apareix com a «abertura». Quina forma ha de substituir «abertura»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: L'obertura oficial apareix com a «abertura». Quina forma catalana ha de substituir «abertura»?",
     "options": [
       "obertura",
       "abertura"
     ],
     "answer": 0,
-    "explanation": "«abertura» no és normatiu en aquest sentit; cal substituir-lo per «obertura».",
+    "explanation": "En català, el mot castellà «abertura» es tradueix per «obertura» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21050,7 +21050,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-851",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21058,13 +21058,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «abertura»?",
+    "prompt": "Resol el cas següent: Com es tradueix «abertura» al català?",
     "options": [
       "abertura",
       "obertura"
     ],
     "answer": 1,
-    "explanation": "«abertura» no és normatiu en aquest sentit; l'alternativa adequada és «obertura».",
+    "explanation": "La traducció catalana de «abertura» és «obertura».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21072,7 +21072,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-852",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21080,13 +21080,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: El text fa servir «garantitzar» la qualitat. Quina forma ha de substituir «garantitzar»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: El text fa servir «garantizar» la qualitat. Quina forma catalana ha de substituir «garantizar»?",
     "options": [
       "garantir",
-      "garantitzar"
+      "garantizar"
     ],
     "answer": 0,
-    "explanation": "«garantitzar» no és normatiu en aquest sentit; cal substituir-lo per «garantir».",
+    "explanation": "En català, el mot castellà «garantizar» es tradueix per «garantir» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21094,7 +21094,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-853",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21102,13 +21102,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «garantitzar»?",
+    "prompt": "Resol el cas següent: Com es tradueix «garantizar» al català?",
     "options": [
-      "garantitzar",
+      "garantizar",
       "garantir"
     ],
     "answer": 1,
-    "explanation": "«garantitzar» no és normatiu en aquest sentit; l'alternativa adequada és «garantir».",
+    "explanation": "La traducció catalana de «garantizar» és «garantir».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21116,7 +21116,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-854",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21124,13 +21124,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: La notícia parla d'un «aconteixement» inesperat. Quina forma ha de substituir «aconteixement»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: La notícia parla d'un «acontecimiento» inesperat. Quina forma catalana ha de substituir «acontecimiento»?",
     "options": [
       "esdeveniment",
-      "aconteixement"
+      "acontecimiento"
     ],
     "answer": 0,
-    "explanation": "«aconteixement» no és normatiu en aquest sentit; cal substituir-lo per «esdeveniment».",
+    "explanation": "En català, el mot castellà «acontecimiento» es tradueix per «esdeveniment» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21138,7 +21138,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-855",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21146,13 +21146,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «aconteixement»?",
+    "prompt": "Resol el cas següent: Com es tradueix «acontecimiento» al català?",
     "options": [
-      "aconteixement",
+      "acontecimiento",
       "esdeveniment"
     ],
     "answer": 1,
-    "explanation": "«aconteixement» no és normatiu en aquest sentit; l'alternativa adequada és «esdeveniment».",
+    "explanation": "La traducció catalana de «acontecimiento» és «esdeveniment».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21160,7 +21160,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-856",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21168,13 +21168,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: Diu que cal «acostumbrar» l'equip al canvi. Quina forma ha de substituir «acostumbrar»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: Diu que cal «acostumbrar» l'equip al canvi. Quina forma catalana ha de substituir «acostumbrar»?",
     "options": [
       "acostumar",
       "acostumbrar"
     ],
     "answer": 0,
-    "explanation": "«acostumbrar» no és normatiu en aquest sentit; cal substituir-lo per «acostumar».",
+    "explanation": "En català, el mot castellà «acostumbrar» es tradueix per «acostumar» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21182,7 +21182,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-857",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21190,13 +21190,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «acostumbrar»?",
+    "prompt": "Resol el cas següent: Com es tradueix «acostumbrar» al català?",
     "options": [
       "acostumbrar",
       "acostumar"
     ],
     "answer": 1,
-    "explanation": "«acostumbrar» no és normatiu en aquest sentit; l'alternativa adequada és «acostumar».",
+    "explanation": "La traducció catalana de «acostumbrar» és «acostumar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21204,7 +21204,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-858",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21212,13 +21212,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: L'informe proposa «adelantar» la reunió. Quina forma ha de substituir «adelantar»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: L'informe proposa «adelantar» la reunió. Quina forma catalana ha de substituir «adelantar»?",
     "options": [
       "avançar",
       "adelantar"
     ],
     "answer": 0,
-    "explanation": "«adelantar» no és normatiu en aquest sentit; cal substituir-lo per «avançar».",
+    "explanation": "En català, el mot castellà «adelantar» es tradueix per «avançar» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21226,7 +21226,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-859",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21234,13 +21234,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «adelantar»?",
+    "prompt": "Resol el cas següent: Com es tradueix «adelantar» al català?",
     "options": [
       "adelantar",
       "avançar"
     ],
     "answer": 1,
-    "explanation": "«adelantar» no és normatiu en aquest sentit; l'alternativa adequada és «avançar».",
+    "explanation": "La traducció catalana de «adelantar» és «avançar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21248,7 +21248,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-860",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21256,13 +21256,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: La frase afegeix «ademés» al començament. Quina forma ha de substituir «ademés»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: La frase afegeix «además» al començament. Quina forma catalana ha de substituir «además»?",
     "options": [
       "a més",
-      "ademés"
+      "además"
     ],
     "answer": 0,
-    "explanation": "«ademés» no és normatiu en aquest sentit; cal substituir-lo per «a més».",
+    "explanation": "En català, el mot castellà «además» es tradueix per «a més» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21270,7 +21270,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-861",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21278,13 +21278,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «ademés»?",
+    "prompt": "Resol el cas següent: Com es tradueix «además» al català?",
     "options": [
-      "ademés",
+      "además",
       "a més"
     ],
     "answer": 1,
-    "explanation": "«ademés» no és normatiu en aquest sentit; l'alternativa adequada és «a més».",
+    "explanation": "La traducció catalana de «además» és «a més».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21292,7 +21292,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-862",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21300,13 +21300,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: El dipòsit es podria «agotar» aviat. Quina forma ha de substituir «agotar»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: El dipòsit es podria «agotar» aviat. Quina forma catalana ha de substituir «agotar»?",
     "options": [
       "esgotar",
       "agotar"
     ],
     "answer": 0,
-    "explanation": "«agotar» no és normatiu en aquest sentit; cal substituir-lo per «esgotar».",
+    "explanation": "En català, el mot castellà «agotar» es tradueix per «esgotar» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21314,7 +21314,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-863",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21322,13 +21322,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «agotar»?",
+    "prompt": "Resol el cas següent: Com es tradueix «agotar» al català?",
     "options": [
       "agotar",
       "esgotar"
     ],
     "answer": 1,
-    "explanation": "«agotar» no és normatiu en aquest sentit; l'alternativa adequada és «esgotar».",
+    "explanation": "La traducció catalana de «agotar» és «esgotar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21336,7 +21336,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-864",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21344,13 +21344,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: La mesura pot «agravar» el conflicte. Quina forma ha de substituir «agravar»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: La mesura pot «agravar» el conflicte. Quina forma catalana ha de substituir «agravar»?",
     "options": [
       "agreujar",
       "agravar"
     ],
     "answer": 0,
-    "explanation": "«agravar» no és normatiu en aquest sentit; cal substituir-lo per «agreujar».",
+    "explanation": "En català, el mot castellà «agravar» es tradueix per «agreujar» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21358,7 +21358,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-865",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21366,13 +21366,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «agravar»?",
+    "prompt": "Resol el cas següent: Com es tradueix «agravar» al català?",
     "options": [
       "agravar",
       "agreujar"
     ],
     "answer": 1,
-    "explanation": "«agravar» no és normatiu en aquest sentit; l'alternativa adequada és «agreujar».",
+    "explanation": "La traducció catalana de «agravar» és «agreujar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21380,7 +21380,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-866",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21388,13 +21388,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: Va actuar segons el seu «albedrío». Quina forma ha de substituir «albedrío»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: Va actuar segons el seu «albedrío». Quina forma catalana ha de substituir «albedrío»?",
     "options": [
       "albir",
       "albedrío"
     ],
     "answer": 0,
-    "explanation": "«albedrío» no és normatiu en aquest sentit; cal substituir-lo per «albir».",
+    "explanation": "En català, el mot castellà «albedrío» es tradueix per «albir» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21402,7 +21402,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-867",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21410,13 +21410,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «albedrío»?",
+    "prompt": "Resol el cas següent: Com es tradueix «albedrío» al català?",
     "options": [
       "albedrío",
       "albir"
     ],
     "answer": 1,
-    "explanation": "«albedrío» no és normatiu en aquest sentit; l'alternativa adequada és «albir».",
+    "explanation": "La traducció catalana de «albedrío» és «albir».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21424,7 +21424,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-868",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21432,13 +21432,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: L'equip espera «alcançar» l'objectiu. Quina forma ha de substituir «alcançar»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: L'equip espera «alcanzar» l'objectiu. Quina forma catalana ha de substituir «alcanzar»?",
     "options": [
       "assolir",
-      "alcançar"
+      "alcanzar"
     ],
     "answer": 0,
-    "explanation": "«alcançar» no és normatiu en aquest sentit; cal substituir-lo per «assolir».",
+    "explanation": "En català, el mot castellà «alcanzar» es tradueix per «assolir» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21446,7 +21446,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-869",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21454,7 +21454,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «alcançar»?",
+    "prompt": "Resol el cas següent: Com es tradueix «alcanzar» al català?",
     "options": [
       "lugrar",
       "assolir"
@@ -21468,7 +21468,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-870",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21476,13 +21476,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: Ens han comunicat «algo» important. Quina forma ha de substituir «algo»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: Ens han comunicat «algo» important. Quina forma catalana ha de substituir «algo»?",
     "options": [
       "alguna cosa",
       "algo"
     ],
     "answer": 0,
-    "explanation": "«algo» no és normatiu en aquest sentit; cal substituir-lo per «alguna cosa».",
+    "explanation": "En català, el mot castellà «algo» es tradueix per «alguna cosa» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21490,7 +21490,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-871",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21498,13 +21498,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «algo»?",
+    "prompt": "Resol el cas següent: Com es tradueix «algo» al català?",
     "options": [
       "algo",
       "alguna cosa"
     ],
     "answer": 1,
-    "explanation": "«algo» no és normatiu en aquest sentit; l'alternativa adequada és «alguna cosa».",
+    "explanation": "La traducció catalana de «algo» és «alguna cosa».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21512,7 +21512,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-872",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21520,13 +21520,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: «Ambos» candidats han acceptat. Quina forma ha de substituir «ambos»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: «Ambos» candidats han acceptat. Quina forma catalana ha de substituir «ambos»?",
     "options": [
       "ambdós",
       "ambos"
     ],
     "answer": 0,
-    "explanation": "«ambos» no és normatiu en aquest sentit; cal substituir-lo per «ambdós».",
+    "explanation": "En català, el mot castellà «ambos» es tradueix per «ambdós» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21534,7 +21534,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-873",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21542,13 +21542,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «ambos»?",
+    "prompt": "Resol el cas següent: Com es tradueix «ambos» al català?",
     "options": [
       "ambos",
       "ambdós"
     ],
     "answer": 1,
-    "explanation": "«ambos» no és normatiu en aquest sentit; l'alternativa adequada és «ambdós».",
+    "explanation": "La traducció catalana de «ambos» és «ambdós».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21556,7 +21556,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-874",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21564,13 +21564,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: Va quedar sota el seu «amparo». Quina forma ha de substituir «amparo»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: Va quedar sota el seu «amparo». Quina forma catalana ha de substituir «amparo»?",
     "options": [
       "empara",
       "amparo"
     ],
     "answer": 0,
-    "explanation": "«amparo» no és normatiu en aquest sentit; cal substituir-lo per «empara».",
+    "explanation": "En català, el mot castellà «amparo» es tradueix per «empara» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21578,7 +21578,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-875",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21586,13 +21586,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «amparo»?",
+    "prompt": "Resol el cas següent: Com es tradueix «amparo» al català?",
     "options": [
       "amparo",
       "empara"
     ],
     "answer": 1,
-    "explanation": "«amparo» no és normatiu en aquest sentit; l'alternativa adequada és «empara».",
+    "explanation": "La traducció catalana de «amparo» és «empara».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21600,7 +21600,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-876",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21608,13 +21608,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: Cal mesurar cada «àngul» del polígon. Quina forma ha de substituir «àngul»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: Cal mesurar cada «ángulo» del polígon. Quina forma catalana ha de substituir «ángulo»?",
     "options": [
       "angle",
-      "àngul"
+      "ángulo"
     ],
     "answer": 0,
-    "explanation": "«àngul» no és normatiu en aquest sentit; cal substituir-lo per «angle».",
+    "explanation": "En català, el mot castellà «ángulo» es tradueix per «angle» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21622,7 +21622,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-877",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21630,13 +21630,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «àngul»?",
+    "prompt": "Resol el cas següent: Com es tradueix «ángulo» al català?",
     "options": [
-      "àngul",
+      "ángulo",
       "angle"
     ],
     "answer": 1,
-    "explanation": "«àngul» no és normatiu en aquest sentit; l'alternativa adequada és «angle».",
+    "explanation": "La traducció catalana de «ángulo» és «angle».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21644,7 +21644,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-878",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21652,13 +21652,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: Esperen «lograr» un bon resultat. Quina forma ha de substituir «lograr»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: Esperen «lograr» un bon resultat. Quina forma catalana ha de substituir «lograr»?",
     "options": [
       "aconseguir",
       "lograr"
     ],
     "answer": 0,
-    "explanation": "«lograr» no és normatiu en aquest sentit; cal substituir-lo per «aconseguir».",
+    "explanation": "En català, el mot castellà «lograr» es tradueix per «aconseguir» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21666,7 +21666,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-879",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21674,13 +21674,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «lograr»?",
+    "prompt": "Resol el cas següent: Com es tradueix «lograr» al català?",
     "options": [
       "lograr",
       "aconseguir"
     ],
     "answer": 1,
-    "explanation": "«lograr» no és normatiu en aquest sentit; l'alternativa adequada és «aconseguir».",
+    "explanation": "La traducció catalana de «lograr» és «aconseguir».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21688,7 +21688,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-880",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21696,13 +21696,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: L'entitat vol «apoiar» el projecte. Quina forma ha de substituir «apoiar»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: L'entitat vol «apoyar» el projecte. Quina forma catalana ha de substituir «apoyar»?",
     "options": [
       "donar suport",
-      "apoiar"
+      "apoyar"
     ],
     "answer": 0,
-    "explanation": "«apoiar» no és normatiu en aquest sentit; cal substituir-lo per «donar suport».",
+    "explanation": "En català, el mot castellà «apoyar» es tradueix per «donar suport» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21710,7 +21710,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-881",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21718,13 +21718,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «apoiar»?",
+    "prompt": "Resol el cas següent: Com es tradueix «apoyar» al català?",
     "options": [
-      "apoiar",
+      "apoyar",
       "donar suport"
     ],
     "answer": 1,
-    "explanation": "«apoiar» no és normatiu en aquest sentit; l'alternativa adequada és «donar suport».",
+    "explanation": "La traducció catalana de «apoyar» és «donar suport».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21732,7 +21732,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-882",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21740,13 +21740,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: Podria «arrepentir-se» de la decisió. Quina forma ha de substituir «arrepentir-se»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: Podria «arrepentirse» de la decisió. Quina forma catalana ha de substituir «arrepentirse»?",
     "options": [
       "penedir-se",
-      "arrepentir-se"
+      "arrepentirse"
     ],
     "answer": 0,
-    "explanation": "«arrepentir-se» no és normatiu en aquest sentit; cal substituir-lo per «penedir-se».",
+    "explanation": "En català, el mot castellà «arrepentirse» es tradueix per «penedir-se» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21754,7 +21754,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-883",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21762,13 +21762,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «arrepentir-se»?",
+    "prompt": "Resol el cas següent: Com es tradueix «arrepentirse» al català?",
     "options": [
-      "arrepentir-se",
+      "arrepentirse",
       "penedir-se"
     ],
     "answer": 1,
-    "explanation": "«arrepentir-se» no és normatiu en aquest sentit; l'alternativa adequada és «penedir-se».",
+    "explanation": "La traducció catalana de «arrepentirse» és «penedir-se».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21776,7 +21776,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-884",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21784,13 +21784,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: El tren acumula un «retràs» considerable. Quina forma ha de substituir «retràs»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: El tren acumula un «retraso» considerable. Quina forma catalana ha de substituir «retraso»?",
     "options": [
       "retard",
-      "retràs"
+      "retraso"
     ],
     "answer": 0,
-    "explanation": "«retràs» no és normatiu en aquest sentit; cal substituir-lo per «retard».",
+    "explanation": "En català, el mot castellà «retraso» es tradueix per «retard» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21798,7 +21798,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-885",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21806,13 +21806,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «retràs»?",
+    "prompt": "Resol el cas següent: Com es tradueix «retraso» al català?",
     "options": [
-      "retràs",
+      "retraso",
       "retard"
     ],
     "answer": 1,
-    "explanation": "«retràs» no és normatiu en aquest sentit; l'alternativa adequada és «retard».",
+    "explanation": "La traducció catalana de «retraso» és «retard».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21820,7 +21820,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-886",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21828,13 +21828,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: La crònica descriu aquella «hassanya». Quina forma ha de substituir «hassanya»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: La crònica descriu aquella «hazaña». Quina forma catalana ha de substituir «hazaña»?",
     "options": [
       "proesa",
-      "hassanya"
+      "hazaña"
     ],
     "answer": 0,
-    "explanation": "«hassanya» no és normatiu en aquest sentit; cal substituir-lo per «proesa».",
+    "explanation": "En català, el mot castellà «hazaña» es tradueix per «proesa» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21842,7 +21842,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-887",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21850,13 +21850,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «hassanya»?",
+    "prompt": "Resol el cas següent: Com es tradueix «hazaña» al català?",
     "options": [
-      "hassanya",
+      "hazaña",
       "proesa"
     ],
     "answer": 1,
-    "explanation": "«hassanya» no és normatiu en aquest sentit; l'alternativa adequada és «proesa».",
+    "explanation": "La traducció catalana de «hazaña» és «proesa».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21864,7 +21864,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-888",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21872,13 +21872,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: La porta necessita una «bisagra» nova. Quina forma ha de substituir «bisagra»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: La porta necessita una «bisagra» nova. Quina forma catalana ha de substituir «bisagra»?",
     "options": [
       "frontissa",
       "bisagra"
     ],
     "answer": 0,
-    "explanation": "«bisagra» no és normatiu en aquest sentit; cal substituir-lo per «frontissa».",
+    "explanation": "En català, el mot castellà «bisagra» es tradueix per «frontissa» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21886,7 +21886,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-889",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21894,13 +21894,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «bisagra»?",
+    "prompt": "Resol el cas següent: Com es tradueix «bisagra» al català?",
     "options": [
       "bisagra",
       "frontissa"
     ],
     "answer": 1,
-    "explanation": "«bisagra» no és normatiu en aquest sentit; l'alternativa adequada és «frontissa».",
+    "explanation": "La traducció catalana de «bisagra» és «frontissa».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21908,7 +21908,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-890",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21916,13 +21916,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: La policia ha iniciat una «búsqueda». Quina forma ha de substituir «búsqueda»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: La policia ha iniciat una «búsqueda». Quina forma catalana ha de substituir «búsqueda»?",
     "options": [
       "recerca",
       "búsqueda"
     ],
     "answer": 0,
-    "explanation": "«búsqueda» no és normatiu en aquest sentit; cal substituir-lo per «recerca».",
+    "explanation": "En català, el mot castellà «búsqueda» es tradueix per «recerca» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21930,7 +21930,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-891",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21938,13 +21938,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «búsqueda»?",
+    "prompt": "Resol el cas següent: Com es tradueix «búsqueda» al català?",
     "options": [
       "búsqueda",
       "recerca"
     ],
     "answer": 1,
-    "explanation": "«búsqueda» no és normatiu en aquest sentit; l'alternativa adequada és «recerca».",
+    "explanation": "La traducció catalana de «búsqueda» és «recerca».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21952,7 +21952,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-892",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21960,13 +21960,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: El tribunal haurà de «calificar» la prova. Quina forma ha de substituir «calificar»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: El tribunal haurà de «calificar» la prova. Quina forma catalana ha de substituir «calificar»?",
     "options": [
       "qualificar",
       "calificar"
     ],
     "answer": 0,
-    "explanation": "«calificar» no és normatiu en aquest sentit; cal substituir-lo per «qualificar».",
+    "explanation": "En català, el mot castellà «calificar» es tradueix per «qualificar» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21974,7 +21974,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-893",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -21982,13 +21982,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «calificar»?",
+    "prompt": "Resol el cas següent: Com es tradueix «calificar» al català?",
     "options": [
       "calificar",
       "qualificar"
     ],
     "answer": 1,
-    "explanation": "«calificar» no és normatiu en aquest sentit; l'alternativa adequada és «qualificar».",
+    "explanation": "La traducció catalana de «calificar» és «qualificar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -21996,7 +21996,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-894",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22004,13 +22004,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: El servei promet més «calitat». Quina forma ha de substituir «calitat»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: El servei promet més «calidad». Quina forma catalana ha de substituir «calidad»?",
     "options": [
       "qualitat",
-      "calitat"
+      "calidad"
     ],
     "answer": 0,
-    "explanation": "«calitat» no és normatiu en aquest sentit; cal substituir-lo per «qualitat».",
+    "explanation": "En català, el mot castellà «calidad» es tradueix per «qualitat» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22018,7 +22018,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-895",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22026,13 +22026,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «calitat»?",
+    "prompt": "Resol el cas següent: Com es tradueix «calidad» al català?",
     "options": [
-      "calitat",
+      "calidad",
       "qualitat"
     ],
     "answer": 1,
-    "explanation": "«calitat» no és normatiu en aquest sentit; l'alternativa adequada és «qualitat».",
+    "explanation": "La traducció catalana de «calidad» és «qualitat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22040,7 +22040,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-896",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22048,13 +22048,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: Han reduït la «cantitat» prevista. Quina forma ha de substituir «cantitat»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: Han reduït la «cantidad» prevista. Quina forma catalana ha de substituir «cantidad»?",
     "options": [
       "quantitat",
-      "cantitat"
+      "cantidad"
     ],
     "answer": 0,
-    "explanation": "«cantitat» no és normatiu en aquest sentit; cal substituir-lo per «quantitat».",
+    "explanation": "En català, el mot castellà «cantidad» es tradueix per «quantitat» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22062,7 +22062,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-897",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22070,13 +22070,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «cantitat»?",
+    "prompt": "Resol el cas següent: Com es tradueix «cantidad» al català?",
     "options": [
-      "cantitat",
+      "cantidad",
       "quantitat"
     ],
     "answer": 1,
-    "explanation": "«cantitat» no és normatiu en aquest sentit; l'alternativa adequada és «quantitat».",
+    "explanation": "La traducció catalana de «cantidad» és «quantitat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22084,7 +22084,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-898",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22092,13 +22092,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: La sala és «casi» plena. Quina forma ha de substituir «casi»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: La sala és «casi» plena. Quina forma catalana ha de substituir «casi»?",
     "options": [
       "gairebé",
       "casi"
     ],
     "answer": 0,
-    "explanation": "«casi» no és normatiu en aquest sentit; cal substituir-lo per «gairebé».",
+    "explanation": "En català, el mot castellà «casi» es tradueix per «gairebé» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22106,7 +22106,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-899",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22114,13 +22114,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «casi»?",
+    "prompt": "Resol el cas següent: Com es tradueix «casi» al català?",
     "options": [
       "casi",
       "gairebé"
     ],
     "answer": 1,
-    "explanation": "«casi» no és normatiu en aquest sentit; l'alternativa adequada és «gairebé».",
+    "explanation": "La traducció catalana de «casi» és «gairebé».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22128,7 +22128,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-900",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22136,13 +22136,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: El sector «ganader» reclama ajuts. Quina forma ha de substituir «ganader»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: El sector «ganadero» reclama ajuts. Quina forma catalana ha de substituir «ganadero»?",
     "options": [
       "ramader",
-      "ganader"
+      "ganadero"
     ],
     "answer": 0,
-    "explanation": "«ganader» no és normatiu en aquest sentit; cal substituir-lo per «ramader».",
+    "explanation": "En català, el mot castellà «ganadero» es tradueix per «ramader» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22150,7 +22150,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-901",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22158,13 +22158,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «ganader»?",
+    "prompt": "Resol el cas següent: Com es tradueix «ganadero» al català?",
     "options": [
-      "ganader",
+      "ganadero",
       "ramader"
     ],
     "answer": 1,
-    "explanation": "«ganader» no és normatiu en aquest sentit; l'alternativa adequada és «ramader».",
+    "explanation": "La traducció catalana de «ganadero» és «ramader».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22172,7 +22172,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-902",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22180,13 +22180,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: No s'ha de «humillar» ningú. Quina forma ha de substituir «humillar»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: No s'ha de «humillar» ningú. Quina forma catalana ha de substituir «humillar»?",
     "options": [
       "humiliar",
       "humillar"
     ],
     "answer": 0,
-    "explanation": "«humillar» no és normatiu en aquest sentit; cal substituir-lo per «humiliar».",
+    "explanation": "En català, el mot castellà «humillar» es tradueix per «humiliar» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22194,7 +22194,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-903",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22202,13 +22202,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «humillar»?",
+    "prompt": "Resol el cas següent: Com es tradueix «humillar» al català?",
     "options": [
       "humillar",
       "humiliar"
     ],
     "answer": 1,
-    "explanation": "«humillar» no és normatiu en aquest sentit; l'alternativa adequada és «humiliar».",
+    "explanation": "La traducció catalana de «humillar» és «humiliar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22216,7 +22216,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-904",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22224,13 +22224,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: Van «crusar» el carrer corrent. Quina forma ha de substituir «crusar»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: Van «cruzar» el carrer corrent. Quina forma catalana ha de substituir «cruzar»?",
     "options": [
       "creuar",
-      "crusar"
+      "cruzar"
     ],
     "answer": 0,
-    "explanation": "«crusar» no és normatiu en aquest sentit; cal substituir-lo per «creuar».",
+    "explanation": "En català, el mot castellà «cruzar» es tradueix per «creuar» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22238,7 +22238,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-905",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22246,13 +22246,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «crusar»?",
+    "prompt": "Resol el cas següent: Com es tradueix «cruzar» al català?",
     "options": [
-      "crusar",
+      "cruzar",
       "creuar"
     ],
     "answer": 1,
-    "explanation": "«crusar» no és normatiu en aquest sentit; l'alternativa adequada és «creuar».",
+    "explanation": "La traducció catalana de «cruzar» és «creuar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22260,7 +22260,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-906",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22268,13 +22268,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: És un professional molt «cuidadós». Quina forma ha de substituir «cuidadós»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: És un professional molt «cuidadoso». Quina forma catalana ha de substituir «cuidadoso»?",
     "options": [
       "acurat",
-      "cuidadós"
+      "cuidadoso"
     ],
     "answer": 0,
-    "explanation": "«cuidadós» no és normatiu en aquest sentit; cal substituir-lo per «acurat».",
+    "explanation": "En català, el mot castellà «cuidadoso» es tradueix per «acurat» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22282,7 +22282,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-907",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22290,13 +22290,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «cuidadós»?",
+    "prompt": "Resol el cas següent: Com es tradueix «cuidadoso» al català?",
     "options": [
-      "cuidadós",
+      "cuidadoso",
       "acurat"
     ],
     "answer": 1,
-    "explanation": "«cuidadós» no és normatiu en aquest sentit; l'alternativa adequada és «acurat».",
+    "explanation": "La traducció catalana de «cuidadoso» és «acurat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22304,7 +22304,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-908",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22312,13 +22312,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: Els «demés» esperen a fora. Quina forma ha de substituir «demés»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: Els «demás» esperen a fora. Quina forma catalana ha de substituir «demás»?",
     "options": [
       "la resta",
-      "demés"
+      "demás"
     ],
     "answer": 0,
-    "explanation": "«demés» no és normatiu en aquest sentit; cal substituir-lo per «la resta».",
+    "explanation": "En català, el mot castellà «demás» es tradueix per «la resta» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22326,7 +22326,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-909",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22334,13 +22334,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «demés»?",
+    "prompt": "Resol el cas següent: Com es tradueix «demás» al català?",
     "options": [
-      "demés",
+      "demás",
       "la resta"
     ],
     "answer": 1,
-    "explanation": "«demés» no és normatiu en aquest sentit; l'alternativa adequada és «la resta».",
+    "explanation": "La traducció catalana de «demás» és «la resta».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22348,7 +22348,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-910",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22356,13 +22356,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: Volen «derribar» l'edifici antic. Quina forma ha de substituir «derribar»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: Volen «derribar» l'edifici antic. Quina forma catalana ha de substituir «derribar»?",
     "options": [
       "enderrocar",
       "derribar"
     ],
     "answer": 0,
-    "explanation": "«derribar» no és normatiu en aquest sentit; cal substituir-lo per «enderrocar».",
+    "explanation": "En català, el mot castellà «derribar» es tradueix per «enderrocar» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22370,7 +22370,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-911",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22378,13 +22378,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «derribar»?",
+    "prompt": "Resol el cas següent: Com es tradueix «derribar» al català?",
     "options": [
       "derribar",
       "enderrocar"
     ],
     "answer": 1,
-    "explanation": "«derribar» no és normatiu en aquest sentit; l'alternativa adequada és «enderrocar».",
+    "explanation": "La traducció catalana de «derribar» és «enderrocar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22392,7 +22392,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-912",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22400,13 +22400,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: No podem «derrotxar» els recursos. Quina forma ha de substituir «derrotxar»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: No podem «derrochar» els recursos. Quina forma catalana ha de substituir «derrochar»?",
     "options": [
       "malbaratar",
-      "derrotxar"
+      "derrochar"
     ],
     "answer": 0,
-    "explanation": "«derrotxar» no és normatiu en aquest sentit; cal substituir-lo per «malbaratar».",
+    "explanation": "En català, el mot castellà «derrochar» es tradueix per «malbaratar» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22414,7 +22414,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-913",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22422,13 +22422,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «derrotxar»?",
+    "prompt": "Resol el cas següent: Com es tradueix «derrochar» al català?",
     "options": [
-      "derrotxar",
+      "derrochar",
       "malbaratar"
     ],
     "answer": 1,
-    "explanation": "«derrotxar» no és normatiu en aquest sentit; l'alternativa adequada és «malbaratar».",
+    "explanation": "La traducció catalana de «derrochar» és «malbaratar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22436,7 +22436,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-914",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22444,13 +22444,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: Cal «desarrollar» el projecte. Quina forma ha de substituir «desarrollar»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: Cal «desarrollar» el projecte. Quina forma catalana ha de substituir «desarrollar»?",
     "options": [
       "desenvolupar",
       "desarrollar"
     ],
     "answer": 0,
-    "explanation": "«desarrollar» no és normatiu en aquest sentit; cal substituir-lo per «desenvolupar».",
+    "explanation": "En català, el mot castellà «desarrollar» es tradueix per «desenvolupar» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22458,7 +22458,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-915",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22466,13 +22466,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «desarrollar»?",
+    "prompt": "Resol el cas següent: Com es tradueix «desarrollar» al català?",
     "options": [
       "desarrollar",
       "desenvolupar"
     ],
     "answer": 1,
-    "explanation": "«desarrollar» no és normatiu en aquest sentit; l'alternativa adequada és «desenvolupar».",
+    "explanation": "La traducció catalana de «desarrollar» és «desenvolupar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22480,7 +22480,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-916",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22488,13 +22488,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: «Desde luego», hi assistirem. Quina forma ha de substituir «desde luego»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: «Desde luego», hi assistirem. Quina forma catalana ha de substituir «desde luego»?",
     "options": [
       "per descomptat",
       "desde luego"
     ],
     "answer": 0,
-    "explanation": "«desde luego» no és normatiu en aquest sentit; cal substituir-lo per «per descomptat».",
+    "explanation": "En català, el mot castellà «desde luego» es tradueix per «per descomptat» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22502,7 +22502,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-917",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22510,13 +22510,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «desde luego»?",
+    "prompt": "Resol el cas següent: Com es tradueix «desde luego» al català?",
     "options": [
       "desde luego",
       "per descomptat"
     ],
     "answer": 1,
-    "explanation": "«desde luego» no és normatiu en aquest sentit; l'alternativa adequada és «per descomptat».",
+    "explanation": "La traducció catalana de «desde luego» és «per descomptat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22524,7 +22524,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-918",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22532,13 +22532,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: El cas arribarà al «jusgat». Quina forma ha de substituir «jusgat»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: El cas arribarà al «juzgado». Quina forma catalana ha de substituir «juzgado»?",
     "options": [
       "jutjat",
-      "jusgat"
+      "juzgado"
     ],
     "answer": 0,
-    "explanation": "«jusgat» no és normatiu en aquest sentit; cal substituir-lo per «jutjat».",
+    "explanation": "En català, el mot castellà «juzgado» es tradueix per «jutjat» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22546,7 +22546,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-919",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22554,13 +22554,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «jusgat»?",
+    "prompt": "Resol el cas següent: Com es tradueix «juzgado» al català?",
     "options": [
-      "jusgat",
+      "juzgado",
       "jutjat"
     ],
     "answer": 1,
-    "explanation": "«jusgat» no és normatiu en aquest sentit; l'alternativa adequada és «jutjat».",
+    "explanation": "La traducció catalana de «juzgado» és «jutjat».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22568,7 +22568,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-920",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22576,13 +22576,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: Van «desetxar» la proposta. Quina forma ha de substituir «desetxar»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: Van «desechar» la proposta. Quina forma catalana ha de substituir «desechar»?",
     "options": [
       "rebutjar",
-      "desetxar"
+      "desechar"
     ],
     "answer": 0,
-    "explanation": "«desetxar» no és normatiu en aquest sentit; cal substituir-lo per «rebutjar».",
+    "explanation": "En català, el mot castellà «desechar» es tradueix per «rebutjar» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22590,7 +22590,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-921",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22598,13 +22598,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «desetxar»?",
+    "prompt": "Resol el cas següent: Com es tradueix «desechar» al català?",
     "options": [
-      "desetxar",
+      "desechar",
       "rebutjar"
     ],
     "answer": 1,
-    "explanation": "«desetxar» no és normatiu en aquest sentit; l'alternativa adequada és «rebutjar».",
+    "explanation": "La traducció catalana de «desechar» és «rebutjar».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22612,7 +22612,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-922",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22620,13 +22620,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: Cal «despejar» tots els dubtes. Quina forma ha de substituir «despejar»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: Cal «despejar» tots els dubtes. Quina forma catalana ha de substituir «despejar»?",
     "options": [
       "aclarir",
       "despejar"
     ],
     "answer": 0,
-    "explanation": "«despejar» no és normatiu en aquest sentit; cal substituir-lo per «aclarir».",
+    "explanation": "En català, el mot castellà «despejar» es tradueix per «aclarir» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22634,7 +22634,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-923",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22642,13 +22642,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Selecciona quina és la forma normativa de «despejar»?",
+    "prompt": "Resol el cas següent: Com es tradueix «despejar» al català?",
     "options": [
       "despejar",
       "aclarir"
     ],
     "answer": 1,
-    "explanation": "«despejar» no és normatiu en aquest sentit; l'alternativa adequada és «aclarir».",
+    "explanation": "La traducció catalana de «despejar» és «aclarir».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22656,7 +22656,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-924",
-    "exerciseType": "revisió lèxica",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
@@ -22664,13 +22664,13 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Detecta la forma adequada en la frase: L'empresa encara té «deuda». Quina forma ha de substituir «deuda»?",
+    "prompt": "Resol el cas següent: Revisa aquesta frase amb un mot castellà: L'empresa encara té «deuda». Quina forma catalana ha de substituir «deuda»?",
     "options": [
       "deute",
       "deuda"
     ],
     "answer": 0,
-    "explanation": "«deuda» no és normatiu en aquest sentit; cal substituir-lo per «deute».",
+    "explanation": "En català, el mot castellà «deuda» es tradueix per «deute» en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/135/6-els-barbarismes",
       "locator": "Barbarismes i alternatives normatives"
@@ -22678,7 +22678,7 @@
     "reviewedAt": "2026-09-24",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-bal-925",
-    "exerciseType": "barbarismes",
+    "exerciseType": "traducció del castellà",
     "examSkill": "lèxic contextual"
   },
   {
