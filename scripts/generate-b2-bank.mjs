@@ -157,6 +157,14 @@ const output = [...initial, ...generated, ...curatedExtras].map(question => ({
 }));
 
 const reviewedOverrides = new Map([
+  ["b2-gen-0044", {
+    prompt: "«universitat»: quina opció és correcta?",
+  }],
+  ["b2-gen-0450", {
+    prompt: "«universitat»: quina opció és correcta?",
+    options: ["la", "l'"],
+    answer: 0,
+  }],
   ["b2-gen-0283", {
     options: ["témer", "porir"],
     answer: 0,

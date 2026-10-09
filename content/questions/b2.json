@@ -954,7 +954,7 @@
     "level": "B2",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina forma corregeix l'apostrofació de «Estudia a l'universitat pública.»?",
+    "prompt": "«universitat»: quina opció és correcta?",
     "options": [
       "l'",
       "la"
@@ -10253,12 +10253,12 @@
     "level": "B2",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Quina forma corregeix l'apostrofació de «Han visitat la universitat aquest matí.»?",
+    "prompt": "«universitat»: quina opció és correcta?",
     "options": [
-      "l'",
-      "la"
+      "la",
+      "l'"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "L'article femení no s'apostrofa davant d'una u inicial àtona: la universitat.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions",
