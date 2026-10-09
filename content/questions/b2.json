@@ -10253,12 +10253,12 @@
     "level": "B2",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "«universitat»: quina opció és correcta?",
+    "prompt": "Davant del mot «universitat», quina opció és correcta?",
     "options": [
-      "la",
-      "l'"
+      "l'",
+      "la"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "L'article femení no s'apostrofa davant d'una u inicial àtona: la universitat.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions",

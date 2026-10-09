@@ -161,9 +161,7 @@ const reviewedOverrides = new Map([
     prompt: "«universitat»: quina opció és correcta?",
   }],
   ["b2-gen-0450", {
-    prompt: "«universitat»: quina opció és correcta?",
-    options: ["la", "l'"],
-    answer: 0,
+    prompt: "Davant del mot «universitat», quina opció és correcta?",
   }],
   ["b2-gen-0283", {
     options: ["témer", "porir"],
