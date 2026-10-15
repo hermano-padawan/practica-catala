@@ -264,20 +264,20 @@
     "level": "C1",
     "topic": "accentuacio",
     "status": "published",
-    "prompt": "Quina forma és normativa?",
+    "prompt": "Completa amb la forma correcta: «Primer soparem i ___ mirarem una pel·lícula».",
     "options": [
       "desprès",
       "després",
       "despres"
     ],
     "answer": 1,
-    "explanation": "Després és un dels adverbis aguts que duen accent tancat sobre la e.",
+    "explanation": "En aquesta frase, després és un adverbi de temps i porta accent tancat. Desprès, amb accent obert, és el participi de desprendre i no encaixa en aquest context.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/35/17-l-accentuacio-grafica",
       "locator": "Accentuació de la e, línies 115-124"
     },
-    "reviewedAt": "2026-09-25",
-    "reviewedBy": "Codex; revisió C1 i contrast amb la font CPNL"
+    "reviewedAt": "2026-10-15",
+    "reviewedBy": "Codex; revisió de l'enunciat per eliminar l'ambigüitat amb una frase contextualitzada"
   },
   {
     "id": "c1-ort-015",
