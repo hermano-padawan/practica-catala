@@ -1066,18 +1066,18 @@
     "level": "B2",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Selecciona quina forma és correcta davant del nom Immaculada?",
+    "prompt": "Com escrivim l'article davant d'Immaculada?",
     "options": [
       "la Immaculada",
       "l'Immaculada"
     ],
     "answer": 0,
-    "explanation": "Immaculada comença per una i àtona i l'article femení no s'apostrofa.",
+    "explanation": "Diem Im-ma-cu-LA-da: la i inicial no és tònica, perquè la síl·laba que sona més fort és LA. Per això, l’article femení \"la\" no s’apostrofa: la Immaculada. Compara-ho amb l’Imma, on la i sí que és tònica.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions",
       "locator": "Imma i Immaculada, línies 139-140"
     },
-    "reviewedAt": "2026-09-24",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-apo-031",
     "exerciseType": "ortografia contextual",
