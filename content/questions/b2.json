@@ -21967,7 +21967,7 @@
     "status": "published",
     "prompt": "Completa: «Està llegint una ___ d'aventures.»",
     "options": [
-      "novella",
+      "novela",
       "novel·la"
     ],
     "answer": 1,
