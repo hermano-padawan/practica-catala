@@ -293,7 +293,7 @@ const situations=[
 ];
 for(const [rawPlan,cause,contrast,condition,goal]of situations){
  const plan=rawPlan[0].toUpperCase()+rawPlan.slice(1);
- add("connectors","Expressa la causa: «"+plan+" ___ "+cause+".»","perquè",["tot i que","si"],
+ add("connectors","«"+plan+" ___ "+cause+".»","perquè",["tot i que","si"],
  "El connector perquè introdueix el motiu: "+cause+".","gramàtica en context","causa");
  add("connectors","Tria el connector que expressa contrast: «"+plan+" ___ "+contrast+"».","tot i que",["perquè","si"],
  "Tot i que presenta una dificultat que no impedeix el que diu la primera part.","gramàtica en context","contrast");
