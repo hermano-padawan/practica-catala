@@ -76,7 +76,7 @@ for(const [tense,rows]of verbGroups)for(const [inf,tail,forms]of rows){
  const deInf=/^[aeiouàèéíòóúh]/i.test(inf)?"d\'"+inf:"de "+inf;
  const label={futur:"el futur",condicional:"el condicional",imperfet:"l'imperfet d'indicatiu",subjuntiu:"el present de subjuntiu"}[tense];
  const sentence=tense==="futur"?"La setmana vinent, "+p+" ___ "+tail+".":tense==="condicional"?"Amb les condicions adequades, "+p+" ___ "+tail+".":tense==="imperfet"?"En aquella època, "+p+" ___ "+tail+".":"Cal que "+p+" ___ "+tail+".";
- add("verbs","Completa amb "+label+" "+deInf+": «"+sentence+"»",form,others,
+ add("verbs",sentence,form,others,
  "El subjecte és «"+p+"». La forma "+deInf+" que hi concorda en "+label+" és «"+form+"».","gramàtica en context","verb-"+tense);
  }}
 
