@@ -16320,7 +16320,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«Necessita transportar la collita; ___, la cooperativa compra un vehicle.»",
+    "prompt": "«Necessita transportar la collita; ___, la cooperativa comprarà un vehicle.»",
     "options": [
       "perquè",
       "per tant",
@@ -16560,7 +16560,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«Ha canviat el programa informàtic; ___, l'empresa ofereix formació.»",
+    "prompt": "«Ha canviat el programa informàtic; ___, l'empresa oferirà formació.»",
     "options": [
       "perquè",
       "per tant",
