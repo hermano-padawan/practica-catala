@@ -16344,7 +16344,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «El museu renovarà les sales ___ les instal·lacions han quedat antigues.»",
+    "prompt": "PER EXPRESSAR UN MOTIU",
     "options": [
       "tot i que",
       "perquè",
