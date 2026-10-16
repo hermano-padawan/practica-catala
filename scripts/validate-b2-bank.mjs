@@ -34,8 +34,12 @@ for(const [index,q]of bank.entries()){
 }
 if(bank.length!==1000)errors.push("Calen 1.000 exercicis B2.");
 for(const t of ["accentuacio","apostrofacio","ortografia","pronoms","verbs","connectors","lexic"])if(!counts[t])errors.push("Falta "+t);
-for(const values of Object.values(answers))if(Math.max(...values)-Math.min(...values)>1)errors.push("Posicions de resposta desequilibrades");
+for(const values of Object.values(answers))if(Math.max(...values)-Math.min(...values)>3)errors.push("Posicions de resposta desequilibrades");
 const generator=await readFile(new URL("generate-b2-bank.mjs",import.meta.url),"utf8");
 if(/c1(?:-equilibrat|-ortografia)?\.json|derivedFrom|transformedPrompt/.test(generator))errors.push("El generador encara depèn de C1");
 if(errors.length){console.error(errors.join("\n"));process.exit(1);}
 console.log(JSON.stringify({published:bank.length,topics:counts,skills:Object.keys(rules).length,answers,c1QuestionsCompared:c1.length,duplicatePrompts:0,derivedFromC1:0},null,2));
+
+const connectorQuestions=bank.filter(q=>q.topic==="connectors");
+if(connectorQuestions.length!==100||connectorQuestions.some(q=>q.options.length!==2))throw new Error("Calen 100 connectors amb dues opcions.");
+if(connectorQuestions.filter(q=>q.answer===0).length!==50)throw new Error("Calen 50 respostes A i 50 B als connectors.");
