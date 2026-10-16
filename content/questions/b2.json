@@ -1522,7 +1522,7 @@
     "prompt": "Completa: «El comitè va demanar la ___ d'aquell apartat.»",
     "options": [
       "supresió",
-      "suprecció",
+      "supreció",
       "supressió"
     ],
     "answer": 2,
@@ -1591,7 +1591,7 @@
     "prompt": "Completa: «Han rehabilitat una ___ antiga per viure-hi.»",
     "options": [
       "cassa",
-      "caza",
+      "caça",
       "casa"
     ],
     "answer": 2,
@@ -1614,7 +1614,7 @@
     "prompt": "Completa: «Al documental apareix una ___ amb ratlles blanques i negres.»",
     "options": [
       "zebra",
-      "zèbra",
+      "cebra",
       "sebra"
     ],
     "answer": 0,
@@ -1636,11 +1636,10 @@
     "status": "published",
     "prompt": "Completa: «Al jardí hi ha una ___ de fusta per guardar les eines.»",
     "options": [
-      "cazeta",
       "caseta",
       "casseta"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Caseta vol dir casa petita. Conserva la s de casa: casa → caseta.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
@@ -1866,7 +1865,7 @@
     "status": "published",
     "prompt": "Completa: «Abans de la final, els participants passaran una fase de ___.»",
     "options": [
-      "presselecció",
+      "pre-selecció",
       "preseleció",
       "preselecció"
     ],
@@ -1912,11 +1911,10 @@
     "status": "published",
     "prompt": "Completa: «Cal protegir aquest ___ perquè hi conviuen moltes espècies.»",
     "options": [
-      "ecozistema",
       "ecosistema",
       "ecossistema"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Un ecosistema inclou els éssers vius d'un lloc i el medi on viuen. Escrivim eco- + sistema amb una sola s: ecosistema.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
