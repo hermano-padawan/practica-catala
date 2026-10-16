@@ -22384,7 +22384,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una biblioteca: «La sala d'estudi tanca per obres, però el préstec continua. Per estudiar, podeu anar al casal.» Quina frase resumeix millor l'avís?",
+    "prompt": "COMPRENSIÓ LECTORA: «La sala d'estudi tanca per obres, però el préstec continua. Per estudiar, podeu anar al casal.» Quina frase resumeix millor l'avís?",
     "options": [
       "Una part de la biblioteca tanca, però s'ofereixen alternatives",
       "La biblioteca suspèn tots els serveis sense alternativa",
