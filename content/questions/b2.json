@@ -449,19 +449,19 @@
     "level": "B2",
     "topic": "accentuacio",
     "status": "published",
-    "prompt": "Escull la forma normativa.",
+    "prompt": "Completa amb la forma correcta: «La ___ de rentar s'ha espatllat».",
     "options": [
       "màquina",
       "máquina",
       "maquina"
     ],
     "answer": 0,
-    "explanation": "Màquina és esdrúixola i totes les paraules esdrúixoles s'accentuen.",
+    "explanation": "Aquí parlem d'un aparell, una màquina. Diem MÀ-qui-na: la primera síl·laba sona més fort i porta accent obert. Maquina, sense accent, és del verb maquinar, que vol dir preparar un pla.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/35/17-l-accentuacio-grafica",
       "locator": "Classificació i regles, línies 73-105"
     },
-    "reviewedAt": "2026-09-24",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-ort-004",
     "exerciseType": "ortografia contextual",
