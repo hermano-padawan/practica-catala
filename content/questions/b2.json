@@ -15312,14 +15312,14 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa una condició: «El taller s'ha ajornat ___ hi ha prou persones inscrites».",
+    "prompt": "Expressa un contrast: «El taller s'ha ajornat ___ hi ha prou persones inscrites».",
     "options": [
       "perquè",
       "si",
       "tot i que"
     ],
-    "answer": 1,
-    "explanation": "Si introdueix una condició: perquè passi la primera acció, s'ha de complir aquesta condició.",
+    "answer": 2,
+    "explanation": "Tot i que expressa un contrast: hi ha prou persones inscrites, però el taller s'ha ajornat igualment.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15327,7 +15327,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "condició",
+    "exerciseType": "contrast",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },

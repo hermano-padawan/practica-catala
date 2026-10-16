@@ -737,6 +737,16 @@ let shortReadingIndex=0;
 for(const q of bank){if(q.exerciseType==="lectura-funcional"){q.prompt=q.prompt.replace(/«[^»]+»/,"«"+shortReadingTexts[shortReadingIndex++]+"»");}}
 
 
+
+// El nombre d'inscrits contrasta amb l'ajornament; no n'és una condició.
+{
+ const q=bank.find(q=>q.id==="b2-propi-0643");
+ q.prompt="Expressa un contrast: «El taller s'ha ajornat ___ hi ha prou persones inscrites».";
+ q.answer=q.options.indexOf("tot i que");
+ q.explanation="Tot i que expressa un contrast: hi ha prou persones inscrites, però el taller s'ha ajornat igualment.";
+ q.exerciseType="contrast";
+}
+
 // Posicions equilibrades i barrejades en tot B2, independents del tipus d'exercici.
 {
  let positionState=2026101628;
