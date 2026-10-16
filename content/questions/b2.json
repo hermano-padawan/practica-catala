@@ -976,18 +976,18 @@
     "level": "B2",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Selecciona quina expressió està ben escrita?",
+    "prompt": "Quina expressió és correcta?",
     "options": [
       "la història contemporània",
       "l'història contemporània"
     ],
     "answer": 0,
-    "explanation": "Història comença per una i àtona i l'article femení no s'apostrofa.",
+    "explanation": "La h no sona. A història, la i del començament no és la vocal que sona més fort: diem his-TÒ-ri-a. Davant d’una i o una u que no són tòniques, l’article femení \"la\" no s’apostrofa: la història, la universitat.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions",
       "locator": "Article femení davant i/u àtones, línies 137-140"
     },
-    "reviewedAt": "2026-09-24",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-apo-027",
     "exerciseType": "ortografia contextual",
