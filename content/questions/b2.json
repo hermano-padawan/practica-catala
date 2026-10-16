@@ -15264,7 +15264,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «El taller s'ha ajornat ___ la tallerista està malalta.»",
+    "prompt": "«El taller s'ha ajornat ___ la tallerista està malalta.»",
     "options": [
       "perquè",
       "si",
@@ -15384,7 +15384,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «L'excursió es farà ___ ha deixat de nevar.»",
+    "prompt": "«L'excursió es farà ___ ha deixat de nevar.»",
     "options": [
       "tot i que",
       "perquè",
@@ -15504,7 +15504,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «El servei s'ha reforçat ___ ha augmentat el nombre de viatgers.»",
+    "prompt": "«El servei s'ha reforçat ___ ha augmentat el nombre de viatgers.»",
     "options": [
       "si",
       "perquè",
@@ -15624,7 +15624,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «La biblioteca amplia l'horari ___ s'acosten els exàmens.»",
+    "prompt": "«La biblioteca amplia l'horari ___ s'acosten els exàmens.»",
     "options": [
       "tot i que",
       "si",
@@ -15744,7 +15744,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «La comunitat instal·larà una rampa ___ l'entrada té esglaons.»",
+    "prompt": "«La comunitat instal·larà una rampa ___ l'entrada té esglaons.»",
     "options": [
       "tot i que",
       "si",
@@ -15864,7 +15864,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «El restaurant obrirà una terrassa ___ ha rebut el permís municipal.»",
+    "prompt": "«El restaurant obrirà una terrassa ___ ha rebut el permís municipal.»",
     "options": [
       "tot i que",
       "perquè",
@@ -15984,7 +15984,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «La botiga ofereix repartiment ___ molts clients ho han demanat.»",
+    "prompt": "«La botiga ofereix repartiment ___ molts clients ho han demanat.»",
     "options": [
       "si",
       "tot i que",
@@ -16104,7 +16104,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «L'escola organitza un intercanvi ___ vol fomentar l'aprenentatge de llengües.»",
+    "prompt": "«L'escola organitza un intercanvi ___ vol fomentar l'aprenentatge de llengües.»",
     "options": [
       "tot i que",
       "si",
@@ -16224,7 +16224,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «La cooperativa compra un vehicle ___ necessita transportar la collita.»",
+    "prompt": "«La cooperativa compra un vehicle ___ necessita transportar la collita.»",
     "options": [
       "perquè",
       "si",
@@ -16464,7 +16464,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «L'empresa ofereix formació ___ ha canviat el programa informàtic.»",
+    "prompt": "«L'empresa ofereix formació ___ ha canviat el programa informàtic.»",
     "options": [
       "si",
       "perquè",
@@ -16584,7 +16584,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «El centre mèdic obre més consultes ___ ha crescut la població.»",
+    "prompt": "«El centre mèdic obre més consultes ___ ha crescut la població.»",
     "options": [
       "si",
       "tot i que",
@@ -16704,7 +16704,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «El club canviarà els vestidors ___ hi ha problemes d'humitat.»",
+    "prompt": "«El club canviarà els vestidors ___ hi ha problemes d'humitat.»",
     "options": [
       "si",
       "tot i que",
@@ -16824,7 +16824,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «L'ajuntament planta més arbres ___ vol reduir la calor als carrers.»",
+    "prompt": "«L'ajuntament planta més arbres ___ vol reduir la calor als carrers.»",
     "options": [
       "perquè",
       "tot i que",
@@ -16944,7 +16944,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «La residència prepara activitats ___ les persones usuàries les han sol·licitat.»",
+    "prompt": "«La residència prepara activitats ___ les persones usuàries les han sol·licitat.»",
     "options": [
       "si",
       "tot i que",
@@ -17064,7 +17064,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «La universitat ofereix tutories ___ l'alumnat necessita orientació.»",
+    "prompt": "«La universitat ofereix tutories ___ l'alumnat necessita orientació.»",
     "options": [
       "tot i que",
       "si",
@@ -17184,7 +17184,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «El barri celebrarà una festa ___ l'associació compleix vint anys.»",
+    "prompt": "«El barri celebrarà una festa ___ l'associació compleix vint anys.»",
     "options": [
       "perquè",
       "si",
@@ -17304,7 +17304,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «La piscina allargarà la temporada ___ les temperatures continuen sent altes.»",
+    "prompt": "«La piscina allargarà la temporada ___ les temperatures continuen sent altes.»",
     "options": [
       "si",
       "perquè",
@@ -17424,7 +17424,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «El casal prepara un curs de cuina ___ moltes persones volen aprendre receptes noves.»",
+    "prompt": "«El casal prepara un curs de cuina ___ moltes persones volen aprendre receptes noves.»",
     "options": [
       "si",
       "perquè",
@@ -17544,7 +17544,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Expressa la causa: «El teatre programarà una altra funció ___ s'han venut totes les entrades.»",
+    "prompt": "«El teatre programarà una altra funció ___ s'han venut totes les entrades.»",
     "options": [
       "si",
       "perquè",
