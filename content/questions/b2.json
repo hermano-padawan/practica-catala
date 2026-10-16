@@ -1201,13 +1201,13 @@
     "level": "B2",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Selecciona quina forma és correcta?",
+    "prompt": "Quina forma és correcta?",
     "options": [
       "la UEFA",
       "l'UEFA"
     ],
     "answer": 0,
-    "explanation": "UEFA es pronuncia amb una u consonàntica inicial i l'article femení no s'apostrofa.",
+    "explanation": "En el cas de UEFA, la u inicial s’ajunta amb la e i fa de consonant. Per això, l’article femení \"la\" no s’apostrofa: la UEFA. Passa una cosa semblant amb la iaia.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions",
       "locator": "I/u consonàntiques, línies 168-171"
