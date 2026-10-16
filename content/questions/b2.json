@@ -1156,13 +1156,13 @@
     "level": "B2",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Selecciona quina expressió està ben escrita?",
+    "prompt": "Quina expressió és correcta?",
     "options": [
       "la iaia",
       "l'iaia"
     ],
     "answer": 0,
-    "explanation": "No s'apostrofa davant d'una i consonàntica que forma part d'un diftong: la iaia.",
+    "explanation": "En el cas de iaia, la primera i sona com la de iogurt: s’ajunta amb la vocal següent i fa de consonant. Per això, l’article femení \"la\" no s’apostrofa: la iaia.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions",
       "locator": "I/u consonàntiques, línies 168-171"
