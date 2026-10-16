@@ -747,6 +747,8 @@ for(const q of bank){if(q.exerciseType==="lectura-funcional"){q.prompt=q.prompt.
  q.exerciseType="contrast";
 }
 
+bank.find(q => q.id === "b2-propi-0722").prompt = "PER EXPRESSAR CONTRAST.";
+
 // Posicions equilibrades i barrejades en tot B2, independents del tipus d'exercici.
 {
  let positionState=2026101628;
