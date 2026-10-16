@@ -931,7 +931,7 @@
     "level": "B2",
     "topic": "accentuacio",
     "status": "published",
-    "prompt": "Selecciona quin substantiu derivat està ben escrit?",
+    "prompt": "Quina és la forma correcta?",
     "options": [
       "agraïment",
       "agraíment",
