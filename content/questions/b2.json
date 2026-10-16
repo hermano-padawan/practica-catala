@@ -518,18 +518,18 @@
     "level": "B2",
     "topic": "accentuacio",
     "status": "published",
-    "prompt": "Tria l'opció que completa correctament: «Completa correctament: «Abans vosaltres ___ més sovint».»",
+    "prompt": "Completa: «Abans vosaltres ___ més sovint».",
     "options": [
       "cantàveu",
       "cantaveu"
     ],
     "answer": 0,
-    "explanation": "Cantàveu és plana acabada en diftong; la u final és semivocal i la paraula s'accentua.",
+    "explanation": "Diem can-TÀ-veu: la síl·laba tà sona més fort. Cantàveu és una paraula plana acabada en el diftong eu. Les paraules planes amb aquesta terminació porten accent.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/32/16-la-separacio-de-sil-labes-amb-diftongs-i-hiats",
       "locator": "Diftongs i accentuació, línies 78-83"
     },
-    "reviewedAt": "2026-09-24",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-ort-007",
     "exerciseType": "ortografia contextual",
