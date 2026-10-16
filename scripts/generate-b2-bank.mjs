@@ -513,7 +513,7 @@ const spellingGroups=[
 ["il·lusió","illusió","Li fa molta ___ retrobar els antics companys."],
 ["col·lecció","collecció","Conserva una ___ de postals antigues."],
 ["paral·lel","parallel","Aquest carrer és ___ al passeig."],
-["sol·licitar","sollicitar","Pots ___ el certificat per internet."],
+["sol·licitar","solicitar","Pots ___ el certificat per internet."],
 ["excel·lent","excellent","El servei rebut ha estat ___."],
 ["intel·ligent","intelligent","Han trobat una solució ___ al problema."],
 ["novel·la","novella","Està llegint una ___ d'aventures."],
