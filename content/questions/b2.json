@@ -1290,13 +1290,13 @@
     "level": "B2",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Resol el cas següent: Com s'escriu el nom de la lletra o amb article?",
+    "prompt": "Com escrivim l'article davant de la lletra o?",
     "options": [
       "la o",
       "l'o"
     ],
     "answer": 0,
-    "explanation": "L'article femení no s'apostrofa davant del nom d'una lletra: la o.",
+    "explanation": "Quan parlem del nom d’una lletra, l’article femení \"la\" no s’apostrofa: la o, la a, la essa. Encara que comencin per vocal, mantenim \"la\" sencer.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions",
       "locator": "Noms de lletres, línies 176-177"
