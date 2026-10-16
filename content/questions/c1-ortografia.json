@@ -1306,9 +1306,9 @@
     "status": "published",
     "prompt": "Completa amb la forma correcta: «Li han administrat una ___.»",
     "options": [
-      "injeccióo",
+      "injacció",
       "injecció",
-      "ingecció"
+      "injeccio"
     ],
     "answer": 1,
     "explanation": "Injecció manté la j davant de e en el grup -jecc-.",
@@ -1316,7 +1316,7 @@
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
       "locator": "Regles de g/j i excepcions de Suficiència"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
