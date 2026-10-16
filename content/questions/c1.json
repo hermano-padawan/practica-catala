@@ -958,16 +958,16 @@
     "prompt": "Completa: «Entrarem ___ avinguda principal».",
     "options": [
       "per l'",
-      "pel",
+      "per la",
       "per el"
     ],
     "answer": 0,
-    "explanation": "Davant d'una vocal no es fa la contracció pel: s'escriu per l'avinguda.",
+    "explanation": "Avinguda és una paraula femenina: diem «la avinguda»? No! Com que comença per a, apostrofem l'article: l'avinguda. Per això escrivim «per l'avinguda».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions",
       "locator": "Contraccions per + el davant de vocal, línies 192-196"
     },
-    "reviewedAt": "2026-09-25",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió C1 i contrast amb la font CPNL"
   },
   {
