@@ -4,19 +4,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «El comitè va demanar la ___ d'aquell apartat.»",
+    "prompt": "Completa: «El comitè va demanar la ___ d'aquell apartat.»",
     "options": [
       "supresió",
-      "supreçió",
+      "suprecció",
       "supressió"
     ],
     "answer": 2,
-    "explanation": "Supressió s'escriu amb ss entre vocals.",
+    "explanation": "Supressió vol dir eliminar una cosa. Entre les dues vocals, escrivim ss perquè soni com la s de serp: supressió.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -24,19 +24,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «La divulgació acosta la ___ a tothom.»",
+    "prompt": "Completa: «Llegir sobre experiments ens ajuda a entendre la ___.»",
     "options": [
       "ciència",
-      "ciènçia",
+      "ciéncia",
       "siència"
     ],
     "answer": 0,
-    "explanation": "Ciència s'escriu amb c tant a l'inici com abans de la terminació -ència.",
+    "explanation": "Ciència ens ajuda a entendre com funciona el món. S'escriu amb dues ces i amb accent obert a la e: ciència.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -44,19 +44,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «La mediadora inspira ___.»",
+    "prompt": "Completa: «La mediadora escolta tothom i inspira ___.»",
     "options": [
-      "confianssa",
+      "confiansa",
       "confiança",
-      "confiansa"
+      "confiànça"
     ],
     "answer": 1,
-    "explanation": "Confiança acaba amb el sufix -ança, que s'escriu amb ç.",
+    "explanation": "Tenim confiança en algú quan creiem que podem comptar amb aquella persona. Aquesta paraula acaba en -ança i porta ç, com esperança.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -64,19 +64,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «Han rehabilitat una ___ antiga.»",
+    "prompt": "Completa: «Han rehabilitat una ___ antiga per viure-hi.»",
     "options": [
       "cassa",
       "caza",
       "casa"
     ],
     "answer": 2,
-    "explanation": "Casa s'escriu amb una sola s entre vocals perquè el so és sonor.",
+    "explanation": "Casa porta una sola s entre vocals. Aquesta s sona diferent de la ss de massa: compara casa i massa.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -84,19 +84,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «Al documental apareix una ___.»",
+    "prompt": "Completa: «Al documental apareix una ___ amb ratlles blanques i negres.»",
     "options": [
       "zebra",
-      "çebra",
+      "zèbra",
       "sebra"
     ],
     "answer": 0,
-    "explanation": "Zebra s'escriu amb z inicial.",
+    "explanation": "Zebra s'escriu amb z inicial, com zero. No porta accent: diem ZE-bra i és una paraula plana acabada en vocal.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -104,19 +104,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «Al jardí hi ha una ___ de fusta.»",
+    "prompt": "Completa: «Al jardí hi ha una ___ de fusta per guardar les eines.»",
     "options": [
       "cazeta",
       "caseta",
       "casseta"
     ],
     "answer": 1,
-    "explanation": "Caseta conserva la s de la família de casa.",
+    "explanation": "Caseta vol dir casa petita. Conserva la s de casa: casa → caseta.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -144,19 +144,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «Va embolicar el paquet amb una ___.»",
+    "prompt": "Completa: «Va decorar el paquet amb una ___ de cinta vermella.»",
     "options": [
       "llaçada",
       "llassada",
       "llasada"
     ],
     "answer": 0,
-    "explanation": "Llaçada conserva la ç de la família de llaç.",
+    "explanation": "Llaçada ve de llaç. Quan hi afegim -ada, conservem la ç: llaç → llaçada.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -164,19 +164,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «Cada ___ té la seva història.»",
+    "prompt": "Completa: «Cada ___ té la seva història.»",
     "options": [
       "naçió",
       "nació",
       "nasió"
     ],
     "answer": 1,
-    "explanation": "Nació s'escriu amb c davant de i.",
+    "explanation": "Nació s'escriu amb c davant de la i. La ç no s'escriu davant de e ni de i.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -184,19 +184,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «No cal empènyer amb tanta ___.»",
+    "prompt": "Completa: «No cal empènyer la porta amb tanta ___.»",
     "options": [
       "forsa",
-      "forssa",
+      "fórça",
       "força"
     ],
     "answer": 2,
-    "explanation": "Força s'escriu amb ç davant de a.",
+    "explanation": "Força porta ç davant de la a. La ç fa el so de la s de serp. No hi posem accent: força.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -204,19 +204,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «La ___ publicarà l'informe demà.»",
+    "prompt": "Completa: «La ___ encarregada de revisar el projecte publicarà l'informe demà.»",
     "options": [
       "comissió",
       "comició",
       "comisió"
     ],
     "answer": 0,
-    "explanation": "Comissió s'escriu amb ss entre vocals.",
+    "explanation": "Una comissió és un grup de persones que té una tasca encomanada. Comissió porta ss entre vocals, com missió.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -224,19 +224,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «El curs acabarà al ___.»",
+    "prompt": "Completa: «El curs acabarà al mes de ___.»",
     "options": [
       "dessembre",
       "desembre",
       "dezembre"
     ],
     "answer": 1,
-    "explanation": "Desembre s'escriu amb s, encara que en alguns parlars es pugui ensordir.",
+    "explanation": "Desembre és l'últim mes de l'any. S'escriu amb una sola s: desembre.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -244,19 +244,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «L'informe descriu una conducta ___.»",
+    "prompt": "Completa: «L'informe descriu una conducta ___ que perjudica la convivència.»",
     "options": [
       "antissocial",
       "antiçocial",
       "antisocial"
     ],
     "answer": 2,
-    "explanation": "Antisocial porta una sola s després del prefix anti-.",
+    "explanation": "Antisocial es forma amb el prefix anti- i la paraula social. Els ajuntem sense doblar la s: anti- + social → antisocial.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -264,19 +264,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «Canvia la ___ cada sis mesos.»",
+    "prompt": "Completa: «Canvia la ___ del correu per protegir el compte.»",
     "options": [
       "contrasenya",
       "contracenya",
       "contrassenya"
     ],
     "answer": 0,
-    "explanation": "Contrasenya s'escriu amb una sola s en aquest mot prefixat.",
+    "explanation": "Contrasenya porta una sola s. Pots recordar les dues peces de la paraula: contra- + senya → contrasenya.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -284,19 +284,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «Pa és un mot ___.»",
+    "prompt": "Completa: «La paraula pa té una sola síl·laba: és un mot ___.»",
     "options": [
-      "monoçíl·lab",
+      "monosil·lab",
       "monosíl·lab",
       "monossíl·lab"
     ],
     "answer": 1,
-    "explanation": "Monosíl·lab s'escriu amb una sola s després del formant mono-.",
+    "explanation": "Monosíl·lab vol dir que té una sola síl·laba, com pa o sol. Mono- vol dir un i s'ajunta amb síl·lab sense doblar la s.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -304,19 +304,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «La prova inclou una fase de ___.»",
+    "prompt": "Completa: «Abans de la final, els participants passaran una fase de ___.»",
     "options": [
       "presselecció",
-      "preçelecció",
+      "preseleció",
       "preselecció"
     ],
     "answer": 2,
-    "explanation": "Preselecció porta una sola s després del prefix pre-.",
+    "explanation": "Preselecció és una selecció que es fa abans de la definitiva. El prefix pre- vol dir abans i no fa doblar la s: pre- + selecció.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -324,19 +324,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «La notícia va tenir molt de ___.»",
+    "prompt": "Completa: «La notícia es va comentar pertot arreu i va tenir molt de ___.»",
     "options": [
       "ressò",
-      "reçò",
-      "resò"
+      "resò",
+      "ressó"
     ],
     "answer": 0,
-    "explanation": "Ressò és una excepció prefixada que s'escriu amb ss.",
+    "explanation": "Una notícia té ressò quan se'n parla molt. Ressò s'escriu amb ss entre vocals i amb accent obert a la o: ò.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -344,19 +344,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «Cal protegir aquest ___.»",
+    "prompt": "Completa: «Cal protegir aquest ___ perquè hi conviuen moltes espècies.»",
     "options": [
       "ecozistema",
       "ecosistema",
       "ecossistema"
     ],
     "answer": 1,
-    "explanation": "Ecosistema s'escriu amb una sola s en el compost.",
+    "explanation": "Un ecosistema inclou els éssers vius d'un lloc i el medi on viuen. Escrivim eco- + sistema amb una sola s: ecosistema.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -364,19 +364,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «La ___ atendrà les urgències.»",
+    "prompt": "Completa: «La ___ atendrà els pacients d'urgències.»",
     "options": [
       "metgesa",
-      "metgeça",
+      "metgèssa",
       "metgessa"
     ],
     "answer": 2,
-    "explanation": "Metgessa s'escriu amb ss entre vocals.",
+    "explanation": "Metgessa és el femení de metge. Afegim -essa, amb dues esses: metge → metgessa. Compara-ho amb alcalde → alcaldessa.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -384,19 +384,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «El protocol rebutja qualsevol ___.»",
+    "prompt": "Completa: «El protocol rebutja qualsevol ___ física o verbal.»",
     "options": [
       "agressió",
-      "agreció",
+      "agrecció",
       "agresió"
     ],
     "answer": 0,
-    "explanation": "Agressió s'escriu amb ss entre vocals.",
+    "explanation": "Una agressió és un atac contra algú. Escrivim ss entre vocals perquè soni com la s de serp: agressió.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -404,19 +404,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «El museu documenta l'ascens del ___.»",
+    "prompt": "Completa: «El museu explica l'ascens del ___ a Alemanya.»",
     "options": [
       "nacisme",
       "nazisme",
       "nasisme"
     ],
     "answer": 1,
-    "explanation": "Nazisme s'escriu amb z.",
+    "explanation": "Nazisme s'escriu amb z, igual que nazi. Recordar la paraula nazi t'ajuda a escriure nazisme.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -424,19 +424,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «Van visitar l'antic ___.»",
+    "prompt": "Completa: «Van visitar un antic ___, un palau fortificat.»",
     "options": [
       "alcàser",
-      "alcàçer",
+      "alcasser",
       "alcàsser"
     ],
     "answer": 2,
-    "explanation": "Alcàsser s'escriu amb ss.",
+    "explanation": "Un alcàsser és un palau fortificat. S'escriu amb ss entre vocals i amb accent obert a la a: alcàsser.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -464,19 +464,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «L'___ dona ombra a la plaça.»",
+    "prompt": "Completa: «L'___ és un arbre que dona ombra a la plaça.»",
     "options": [
       "alçina",
       "alzina",
       "alsina"
     ],
     "answer": 1,
-    "explanation": "Alzina s'escriu amb z.",
+    "explanation": "Alzina és el nom d'un arbre i s'escriu amb z. Recorda que la ç no s'escriu davant de i.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -484,19 +484,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «El procediment és ben ___.»",
+    "prompt": "Completa: «El procediment és molt ___ i tothom el pot seguir.»",
     "options": [
       "sensill",
       "sençill",
       "senzill"
     ],
     "answer": 2,
-    "explanation": "Senzill s'escriu amb z.",
+    "explanation": "Senzill vol dir fàcil, sense complicacions. Porta z i acaba en ll: senzill. El femení és senzilla.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -504,19 +504,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «La infermera va ___ el turmell.»",
+    "prompt": "Completa: «La infermera va ___ el turmell amb una bena.»",
     "options": [
       "embenar",
       "emvenar",
       "envenar"
     ],
     "answer": 0,
-    "explanation": "Embenar s'escriu amb b darrere de m.",
+    "explanation": "Embenar vol dir posar una bena. Bena s'escriu amb b i embenar també. A més, davant de b escrivim m.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
       "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
@@ -524,19 +524,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «El músic toca el ___.»",
+    "prompt": "Completa: «El músic toca el ___ amb dues baquetes.»",
     "options": [
       "tinbal",
       "timbal",
       "timval"
     ],
     "answer": 1,
-    "explanation": "Timbal s'escriu amb b darrere de m.",
+    "explanation": "Timbal s'escriu amb m davant de b. Pots recordar la mateixa parella de lletres en també: totes dues porten mb.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
       "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
