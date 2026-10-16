@@ -131,16 +131,16 @@
     "prompt": "Completa: «Tens germans? Sí, ___ tinc dos.»",
     "options": [
       "en",
-      "hi",
+      "∅ (no hi posis res)",
       "ho"
     ],
     "answer": 0,
-    "explanation": "En substitueix un complement directe indeterminat o quantificat: dos germans.",
+    "explanation": "Per no repetir la paraula germans, fem servir el pronom feble en: «Sí, en tinc dos». El nombre dos es queda perquè ens diu quants germans tens.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
       "locator": "Usos del pronom en"
     },
-    "reviewedAt": "2026-09-24",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; contrast CPNL",
     "examSkill": "gramàtica en context"
   },
