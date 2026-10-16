@@ -15887,7 +15887,7 @@
     "status": "published",
     "prompt": "«He trucat tres vegades, ___ ningú no m'ha contestat.»",
     "options": [
-      "per tant",
+      "malgrat",
       "però"
     ],
     "answer": 1,
@@ -16669,7 +16669,7 @@
     "status": "published",
     "prompt": "«La Marta vindrà al sopar i en Joan ___ vindrà.»",
     "options": [
-      "per tant",
+      "malgrat",
       "també"
     ],
     "answer": 1,
@@ -16738,7 +16738,7 @@
     "status": "published",
     "prompt": "«Jo estudio català i la meva germana ___ n'estudia.»",
     "options": [
-      "tanmateix",
+      "malgrat",
       "també"
     ],
     "answer": 1,
@@ -16807,7 +16807,7 @@
     "status": "published",
     "prompt": "«Hem visitat el museu i ___ hem passejat pel centre.»",
     "options": [
-      "per tant",
+      "malgrat",
       "també"
     ],
     "answer": 1,
@@ -17153,7 +17153,7 @@
     "prompt": "«Vam visitar el mercat, vam dinar i, ___, vam tornar a casa.»",
     "options": [
       "finalment",
-      "primer"
+      "mentre"
     ],
     "answer": 0,
     "explanation": "«finalment» indica la posició d'una acció dins d'una seqüència. Cal respectar l'ordre que descriu la frase.",
@@ -17222,7 +17222,7 @@
     "prompt": "«Ja hem barrejat i pastat els ingredients. ___, posem la massa al forn.»",
     "options": [
       "Tot seguit",
-      "Abans"
+      "Mentre"
     ],
     "answer": 0,
     "explanation": "«Tot seguit» indica la posició d'una acció dins d'una seqüència. Cal respectar l'ordre que descriu la frase.",
@@ -17244,7 +17244,7 @@
     "status": "published",
     "prompt": "«Després de tots aquests preparatius, ___ va començar la cerimònia.»",
     "options": [
-      "en primer lloc",
+      "mentre",
       "finalment"
     ],
     "answer": 1,
@@ -17265,7 +17265,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«Primer selecciona el fitxer i, ___, prem el botó «Envia».»",
+    "prompt": "«Primer selecciona el fitxer i, ___, prem el botó “Envia”.»",
     "options": [
       "després",
       "abans"
