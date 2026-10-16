@@ -747,16 +747,16 @@
     "prompt": "Completa amb la forma correcta: «La carretera té molta ___.»",
     "options": [
       "curvatura",
-      "curvattura",
+      "curbatura",
       "corbatura"
     ],
     "answer": 0,
-    "explanation": "Curvatura és un pseudoderivat de corb i s'escriu amb v.",
+    "explanation": "Tot i que corba s'escriu amb b, curvatura s'escriu amb v. Són de la mateixa família, però aquesta lletra canvia.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/18/7-la-b-i-la-v",
       "locator": "Regles, pseudoderivats i vocabulari de Suficiència 2, línies 69-191"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
