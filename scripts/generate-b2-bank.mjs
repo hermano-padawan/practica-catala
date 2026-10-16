@@ -736,6 +736,20 @@ const shortReadingTexts=[
 let shortReadingIndex=0;
 for(const q of bank){if(q.exerciseType==="lectura-funcional"){q.prompt=q.prompt.replace(/«[^»]+»/,"«"+shortReadingTexts[shortReadingIndex++]+"»");}}
 
+
+// Posicions equilibrades i barrejades en tot B2, independents del tipus d'exercici.
+{
+ let positionState=2026101628;
+ const nextRandom=()=>{positionState=(Math.imul(positionState,1664525)+1013904223)>>>0;return positionState/4294967296;};
+ for(const optionCount of [2,3]){
+ const items=bank.filter(q=>q.options.length===optionCount);
+ const positions=items.map((_,i)=>i%optionCount);
+ for(let i=positions.length-1;i>0;i--){const j=Math.floor(nextRandom()*(i+1));[positions[i],positions[j]]=[positions[j],positions[i]];}
+ items.forEach((q,i)=>{const right=q.options[q.answer];const remaining=q.options.filter((_,j)=>j!==q.answer);
+ if(nextRandom()<0.5)remaining.reverse();remaining.splice(positions[i],0,right);q.options=remaining;q.answer=positions[i];});
+ }
+}
+
 if(bank.length!==1000)throw Error("Expected 1000 questions, got "+bank.length);
 await writeFile(new URL("b2.json",root),JSON.stringify(bank,null,2)+"\n");
 console.log(JSON.stringify({count:bank.length,topics:bank.reduce((a,q)=>(a[q.topic]=(a[q.topic]||0)+1,a),{})},null,2));
