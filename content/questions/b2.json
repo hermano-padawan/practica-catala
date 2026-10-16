@@ -15267,8 +15267,8 @@
     "prompt": "«El taller s'ha ajornat ___ la tallerista està malalta.»",
     "options": [
       "perquè",
-      "si",
-      "tot i que"
+      "a més",
+      "per tant"
     ],
     "answer": 0,
     "explanation": "El connector perquè introdueix el motiu: la tallerista està malalta.",
@@ -15386,9 +15386,9 @@
     "status": "published",
     "prompt": "«L'excursió es farà ___ ha deixat de nevar.»",
     "options": [
-      "tot i que",
+      "per tant",
       "perquè",
-      "si"
+      "a més"
     ],
     "answer": 1,
     "explanation": "El connector perquè introdueix el motiu: ha deixat de nevar.",
@@ -15506,9 +15506,9 @@
     "status": "published",
     "prompt": "«El servei s'ha reforçat ___ ha augmentat el nombre de viatgers.»",
     "options": [
-      "si",
+      "a més",
       "perquè",
-      "tot i que"
+      "per tant"
     ],
     "answer": 1,
     "explanation": "El connector perquè introdueix el motiu: ha augmentat el nombre de viatgers.",
@@ -15626,8 +15626,8 @@
     "status": "published",
     "prompt": "«La biblioteca amplia l'horari ___ s'acosten els exàmens.»",
     "options": [
-      "tot i que",
-      "si",
+      "per tant",
+      "a més",
       "perquè"
     ],
     "answer": 2,
@@ -15746,8 +15746,8 @@
     "status": "published",
     "prompt": "«La comunitat instal·larà una rampa ___ l'entrada té esglaons.»",
     "options": [
-      "tot i que",
-      "si",
+      "per tant",
+      "a més",
       "perquè"
     ],
     "answer": 2,
@@ -15866,9 +15866,9 @@
     "status": "published",
     "prompt": "«El restaurant obrirà una terrassa ___ ha rebut el permís municipal.»",
     "options": [
-      "tot i que",
+      "per tant",
       "perquè",
-      "si"
+      "a més"
     ],
     "answer": 1,
     "explanation": "El connector perquè introdueix el motiu: ha rebut el permís municipal.",
@@ -15986,8 +15986,8 @@
     "status": "published",
     "prompt": "«La botiga ofereix repartiment ___ molts clients ho han demanat.»",
     "options": [
-      "si",
-      "tot i que",
+      "a més",
+      "per tant",
       "perquè"
     ],
     "answer": 2,
@@ -16106,8 +16106,8 @@
     "status": "published",
     "prompt": "«L'escola organitza un intercanvi ___ vol fomentar l'aprenentatge de llengües.»",
     "options": [
-      "tot i que",
-      "si",
+      "per tant",
+      "a més",
       "perquè"
     ],
     "answer": 2,
@@ -16227,8 +16227,8 @@
     "prompt": "«La cooperativa compra un vehicle ___ necessita transportar la collita.»",
     "options": [
       "perquè",
-      "si",
-      "tot i que"
+      "a més",
+      "per tant"
     ],
     "answer": 0,
     "explanation": "El connector perquè introdueix el motiu: necessita transportar la collita.",
@@ -16344,11 +16344,11 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "PER EXPRESSAR UN MOTIU",
+    "prompt": "«El museu renovarà les sales ___ les instal·lacions han quedat antigues.»",
     "options": [
-      "tot i que",
+      "per tant",
       "perquè",
-      "si"
+      "a més"
     ],
     "answer": 1,
     "explanation": "El connector perquè introdueix el motiu: les instal·lacions han quedat antigues.",
@@ -16466,9 +16466,9 @@
     "status": "published",
     "prompt": "«L'empresa ofereix formació ___ ha canviat el programa informàtic.»",
     "options": [
-      "si",
+      "a més",
       "perquè",
-      "tot i que"
+      "per tant"
     ],
     "answer": 1,
     "explanation": "El connector perquè introdueix el motiu: ha canviat el programa informàtic.",
@@ -16586,8 +16586,8 @@
     "status": "published",
     "prompt": "«El centre mèdic obre més consultes ___ ha crescut la població.»",
     "options": [
-      "si",
-      "tot i que",
+      "a més",
+      "per tant",
       "perquè"
     ],
     "answer": 2,
@@ -16706,8 +16706,8 @@
     "status": "published",
     "prompt": "«El club canviarà els vestidors ___ hi ha problemes d'humitat.»",
     "options": [
-      "si",
-      "tot i que",
+      "a més",
+      "per tant",
       "perquè"
     ],
     "answer": 2,
@@ -16827,8 +16827,8 @@
     "prompt": "«L'ajuntament planta més arbres ___ vol reduir la calor als carrers.»",
     "options": [
       "perquè",
-      "tot i que",
-      "si"
+      "per tant",
+      "a més"
     ],
     "answer": 0,
     "explanation": "El connector perquè introdueix el motiu: vol reduir la calor als carrers.",
@@ -16946,8 +16946,8 @@
     "status": "published",
     "prompt": "«La residència prepara activitats ___ les persones usuàries les han sol·licitat.»",
     "options": [
-      "si",
-      "tot i que",
+      "a més",
+      "per tant",
       "perquè"
     ],
     "answer": 2,
@@ -17066,8 +17066,8 @@
     "status": "published",
     "prompt": "«La universitat ofereix tutories ___ l'alumnat necessita orientació.»",
     "options": [
-      "tot i que",
-      "si",
+      "per tant",
+      "a més",
       "perquè"
     ],
     "answer": 2,
@@ -17187,8 +17187,8 @@
     "prompt": "«El barri celebrarà una festa ___ l'associació compleix vint anys.»",
     "options": [
       "perquè",
-      "si",
-      "tot i que"
+      "a més",
+      "per tant"
     ],
     "answer": 0,
     "explanation": "El connector perquè introdueix el motiu: l'associació compleix vint anys.",
@@ -17306,9 +17306,9 @@
     "status": "published",
     "prompt": "«La piscina allargarà la temporada ___ les temperatures continuen sent altes.»",
     "options": [
-      "si",
+      "a més",
       "perquè",
-      "tot i que"
+      "per tant"
     ],
     "answer": 1,
     "explanation": "El connector perquè introdueix el motiu: les temperatures continuen sent altes.",
@@ -17426,9 +17426,9 @@
     "status": "published",
     "prompt": "«El casal prepara un curs de cuina ___ moltes persones volen aprendre receptes noves.»",
     "options": [
-      "si",
+      "a més",
       "perquè",
-      "tot i que"
+      "per tant"
     ],
     "answer": 1,
     "explanation": "El connector perquè introdueix el motiu: moltes persones volen aprendre receptes noves.",
@@ -17546,9 +17546,9 @@
     "status": "published",
     "prompt": "«El teatre programarà una altra funció ___ s'han venut totes les entrades.»",
     "options": [
-      "si",
+      "a més",
       "perquè",
-      "tot i que"
+      "per tant"
     ],
     "answer": 1,
     "explanation": "El connector perquè introdueix el motiu: s'han venut totes les entrades.",
