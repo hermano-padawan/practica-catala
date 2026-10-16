@@ -17208,7 +17208,7 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "Tria el connector que expressa contrast: «El barri celebrarà una festa ___ la previsió anuncia pluja».",
+    "prompt": "PER EXPRESSAR CONTRAST.",
     "options": [
       "perquè",
       "tot i que",
