@@ -862,19 +862,19 @@
     "level": "B2",
     "topic": "accentuacio",
     "status": "published",
-    "prompt": "Selecciona quina forma és correcta?",
+    "prompt": "Completa: «Després d'anys de separació, van celebrar la ___ del país».",
     "options": [
       "reunificació",
       "reunificacio",
       "reünificació"
     ],
     "answer": 0,
-    "explanation": "Després del prefix re- no s'escriu dièresi: reunificació.",
+    "explanation": "Reunificació vol dir tornar a unir allò que estava separat. El prefix re- ens indica «tornar a». Després d'aquest prefix no posem dièresi: reunificació. L'accent final sí que cal: -ció.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/12/19-la-dieresi",
       "locator": "Estalvi de la dièresi després de prefixos, línies 176-181"
     },
-    "reviewedAt": "2026-09-24",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-ort-022",
     "exerciseType": "ortografia contextual",
