@@ -15264,14 +15264,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El taller s'ha ajornat ___ la tallerista està malalta.»",
+    "prompt": "«No hem sortit ___ plovia molt.»",
     "options": [
       "perquè",
-      "a més",
       "per tant"
     ],
     "answer": 0,
-    "explanation": "El connector perquè introdueix el motiu: la tallerista està malalta.",
+    "explanation": "«perquè» introdueix el motiu de l'acció. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15288,14 +15287,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El taller es farà ___ només s'hi han inscrit cinc persones.»",
+    "prompt": "«___ la botiga era tancada, hem tornat a casa.»",
     "options": [
-      "per tant",
-      "tot i que",
-      "a més"
+      "Com que",
+      "Per això"
     ],
-    "answer": 1,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "answer": 0,
+    "explanation": "«Com que» introdueix el motiu de l'acció. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15303,7 +15301,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
+    "exerciseType": "causa",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15312,14 +15310,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El taller s'ha ajornat ___ hi ha prou persones inscrites.»",
+    "prompt": "«Pots fer servir el meu ordinador, ___ avui no el necessito.»",
     "options": [
-      "per tant",
       "a més",
-      "tot i que"
+      "ja que"
     ],
-    "answer": 2,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "answer": 1,
+    "explanation": "«ja que» introdueix el motiu de l'acció. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15327,7 +15324,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
+    "exerciseType": "causa",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15336,14 +15333,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El taller s'ha ajornat ___ puguem aprofitar millor la sessió.»",
+    "prompt": "«Hem ajornat el partit ___ el camp està inundat.»",
     "options": [
-      "per tal que",
-      "a més",
-      "per tant"
+      "perquè",
+      "tanmateix"
     ],
     "answer": 0,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
+    "explanation": "«perquè» introdueix el motiu de l'acció. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15351,7 +15347,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "finalitat",
+    "exerciseType": "causa",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15360,14 +15356,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La tallerista està malalta; ___, el taller s'ha ajornat.»",
+    "prompt": "«___ no teníem reserva, ens hem quedat sense taula.»",
     "options": [
-      "per tant",
-      "perquè",
-      "si"
+      "Com que",
+      "Així doncs"
     ],
     "answer": 0,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
+    "explanation": "«Com que» introdueix el motiu de l'acció. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15375,7 +15370,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "conseqüència",
+    "exerciseType": "causa",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15384,14 +15379,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«L'excursió es farà ___ ha deixat de nevar.»",
+    "prompt": "«Tanca la finestra, ___ entra aire fred.»",
     "options": [
       "per tant",
-      "perquè",
-      "a més"
+      "que"
     ],
     "answer": 1,
-    "explanation": "El connector perquè introdueix el motiu: ha deixat de nevar.",
+    "explanation": "«que» introdueix el motiu de l'acció. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15408,110 +15402,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«L'excursió es farà ___ encara fa força fred.»",
+    "prompt": "«La cooperativa comprarà un vehicle ___ necessita transportar la collita.»",
     "options": [
-      "tot i que",
-      "per tant",
-      "a més"
+      "perquè",
+      "en canvi"
     ],
     "answer": 0,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
-    },
-    "reviewedAt": "2026-10-16",
-    "reviewedBy": "Codex; revisió contextual i validació de coherència",
-    "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
-    "origin": "b2-independent-2026-10",
-    "difficulty": "B2"
-  },
-  {
-    "id": "b2-propi-0648",
-    "level": "B2",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "«L'excursió es farà ___ el camí és segur.»",
-    "options": [
-      "en canvi",
-      "si",
-      "tanmateix"
-    ],
-    "answer": 1,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
-    },
-    "reviewedAt": "2026-10-16",
-    "reviewedBy": "Codex; revisió contextual i validació de coherència",
-    "examSkill": "gramàtica en context",
-    "exerciseType": "condició",
-    "origin": "b2-independent-2026-10",
-    "difficulty": "B2"
-  },
-  {
-    "id": "b2-propi-0649",
-    "level": "B2",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "«L'excursió es farà ___ tothom conegui el paisatge.»",
-    "options": [
-      "a més",
-      "per tal que",
-      "per tant"
-    ],
-    "answer": 1,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
-    },
-    "reviewedAt": "2026-10-16",
-    "reviewedBy": "Codex; revisió contextual i validació de coherència",
-    "examSkill": "gramàtica en context",
-    "exerciseType": "finalitat",
-    "origin": "b2-independent-2026-10",
-    "difficulty": "B2"
-  },
-  {
-    "id": "b2-propi-0650",
-    "level": "B2",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "«Ha deixat de nevar; ___, l'excursió es farà.»",
-    "options": [
-      "per tant",
-      "perquè",
-      "si"
-    ],
-    "answer": 0,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
-    },
-    "reviewedAt": "2026-10-16",
-    "reviewedBy": "Codex; revisió contextual i validació de coherència",
-    "examSkill": "gramàtica en context",
-    "exerciseType": "conseqüència",
-    "origin": "b2-independent-2026-10",
-    "difficulty": "B2"
-  },
-  {
-    "id": "b2-propi-0651",
-    "level": "B2",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "«El servei s'ha reforçat ___ ha augmentat el nombre de viatgers.»",
-    "options": [
-      "a més",
-      "perquè",
-      "per tant"
-    ],
-    "answer": 1,
-    "explanation": "El connector perquè introdueix el motiu: ha augmentat el nombre de viatgers.",
+    "explanation": "«perquè» introdueix el motiu de l'acció. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15524,18 +15421,17 @@
     "difficulty": "B2"
   },
   {
-    "id": "b2-propi-0652",
+    "id": "b2-propi-0648",
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El servei s'ha reforçat ___ no hi havia pressupost per contractar més personal.»",
+    "prompt": "«___ has acabat la feina, pots marxar.»",
     "options": [
-      "tot i que",
-      "per tant",
-      "a més"
+      "Per tant",
+      "Com que"
     ],
-    "answer": 0,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "answer": 1,
+    "explanation": "«Com que» introdueix el motiu de l'acció. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15543,7 +15439,99 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
+    "exerciseType": "causa",
+    "origin": "b2-independent-2026-10",
+    "difficulty": "B2"
+  },
+  {
+    "id": "b2-propi-0649",
+    "level": "B2",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "«L'empresa oferirà formació, ___ ha canviat el programa informàtic.»",
+    "options": [
+      "a més",
+      "ja que"
+    ],
+    "answer": 1,
+    "explanation": "«ja que» introdueix el motiu de l'acció. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
+    },
+    "reviewedAt": "2026-10-16",
+    "reviewedBy": "Codex; revisió contextual i validació de coherència",
+    "examSkill": "gramàtica en context",
+    "exerciseType": "causa",
+    "origin": "b2-independent-2026-10",
+    "difficulty": "B2"
+  },
+  {
+    "id": "b2-propi-0650",
+    "level": "B2",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "«No trepitgis el terra, ___ encara és moll.»",
+    "options": [
+      "que",
+      "tanmateix"
+    ],
+    "answer": 0,
+    "explanation": "«que» introdueix el motiu de l'acció. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
+    },
+    "reviewedAt": "2026-10-16",
+    "reviewedBy": "Codex; revisió contextual i validació de coherència",
+    "examSkill": "gramàtica en context",
+    "exerciseType": "causa",
+    "origin": "b2-independent-2026-10",
+    "difficulty": "B2"
+  },
+  {
+    "id": "b2-propi-0651",
+    "level": "B2",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "«El tren s'ha avariat; ___, arribarem tard.»",
+    "options": [
+      "perquè",
+      "per tant"
+    ],
+    "answer": 1,
+    "explanation": "«per tant» presenta el resultat de la informació anterior. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
+    },
+    "reviewedAt": "2026-10-16",
+    "reviewedBy": "Codex; revisió contextual i validació de coherència",
+    "examSkill": "gramàtica en context",
+    "exerciseType": "conseqüència",
+    "origin": "b2-independent-2026-10",
+    "difficulty": "B2"
+  },
+  {
+    "id": "b2-propi-0652",
+    "level": "B2",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "«He perdut les claus. ___ no puc entrar a casa.»",
+    "options": [
+      "Per això",
+      "Com que"
+    ],
+    "answer": 0,
+    "explanation": "«Per això» presenta el resultat de la informació anterior. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
+    },
+    "reviewedAt": "2026-10-16",
+    "reviewedBy": "Codex; revisió contextual i validació de coherència",
+    "examSkill": "gramàtica en context",
+    "exerciseType": "conseqüència",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15552,14 +15540,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El servei s'ha reforçat ___ es manté la demanda.»",
+    "prompt": "«No queda pa; ___, n'haurem de comprar.»",
     "options": [
-      "en canvi",
-      "tanmateix",
-      "si"
+      "així doncs",
+      "ja que"
     ],
-    "answer": 2,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
+    "answer": 0,
+    "explanation": "«així doncs» presenta el resultat de la informació anterior. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15567,7 +15554,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "condició",
+    "exerciseType": "conseqüència",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15576,14 +15563,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El servei s'ha reforçat ___ els passatgers esperin menys.»",
+    "prompt": "«La carretera està tallada; ___, cal buscar una altra ruta.»",
     "options": [
-      "a més",
-      "per tant",
-      "per tal que"
+      "si",
+      "per tant"
     ],
-    "answer": 2,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
+    "answer": 1,
+    "explanation": "«per tant» presenta el resultat de la informació anterior. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15591,7 +15577,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "finalitat",
+    "exerciseType": "conseqüència",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15600,14 +15586,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«Ha augmentat el nombre de viatgers; ___, el servei s'ha reforçat.»",
+    "prompt": "«La impressora no té tinta. ___ no imprimeix.»",
     "options": [
-      "per tant",
-      "perquè",
-      "si"
+      "Per això",
+      "Ja que"
     ],
     "answer": 0,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
+    "explanation": "«Per això» presenta el resultat de la informació anterior. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15624,14 +15609,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La biblioteca amplia l'horari ___ s'acosten els exàmens.»",
+    "prompt": "«Ja hi som tots; ___, podem començar.»",
     "options": [
-      "per tant",
-      "a més",
-      "perquè"
+      "perquè",
+      "així doncs"
     ],
-    "answer": 2,
-    "explanation": "El connector perquè introdueix el motiu: s'acosten els exàmens.",
+    "answer": 1,
+    "explanation": "«així doncs» presenta el resultat de la informació anterior. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15639,7 +15623,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "causa",
+    "exerciseType": "conseqüència",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15648,14 +15632,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La biblioteca amplia l'horari ___ té poc personal.»",
+    "prompt": "«Té febre; ___, avui es quedarà a casa.»",
     "options": [
-      "tot i que",
-      "per tant",
-      "a més"
+      "encara que",
+      "per tant"
     ],
-    "answer": 0,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "answer": 1,
+    "explanation": "«per tant» presenta el resultat de la informació anterior. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15663,7 +15646,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
+    "exerciseType": "conseqüència",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15672,14 +15655,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La biblioteca amplia l'horari ___ hi ha pressupost.»",
+    "prompt": "«La biblioteca és tancada. ___ estudiaré a casa.»",
     "options": [
-      "si",
-      "en canvi",
-      "tanmateix"
+      "Per això",
+      "Com que"
     ],
     "answer": 0,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
+    "explanation": "«Per això» presenta el resultat de la informació anterior. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15687,7 +15669,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "condició",
+    "exerciseType": "conseqüència",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15696,14 +15678,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La biblioteca amplia l'horari ___ els estudiants disposin de més temps.»",
+    "prompt": "«El termini acaba avui; ___, envia la sol·licitud ara.»",
     "options": [
-      "a més",
-      "per tant",
-      "per tal que"
+      "ja que",
+      "així doncs"
     ],
-    "answer": 2,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
+    "answer": 1,
+    "explanation": "«així doncs» presenta el resultat de la informació anterior. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15711,7 +15692,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "finalitat",
+    "exerciseType": "conseqüència",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15720,14 +15701,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«S'acosten els exàmens; ___, la biblioteca amplia l'horari.»",
+    "prompt": "«La tallerista està malalta; ___, el taller s'ha ajornat.»",
     "options": [
-      "perquè",
-      "si",
-      "per tant"
+      "per tant",
+      "si"
     ],
-    "answer": 2,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
+    "answer": 0,
+    "explanation": "«per tant» presenta el resultat de la informació anterior. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15744,14 +15724,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La comunitat instal·larà una rampa ___ l'entrada té esglaons.»",
+    "prompt": "«Jo prefereixo el te; ___, la meva germana prefereix el cafè.»",
     "options": [
-      "per tant",
-      "a més",
+      "en canvi",
       "perquè"
     ],
-    "answer": 2,
-    "explanation": "El connector perquè introdueix el motiu: l'entrada té esglaons.",
+    "answer": 0,
+    "explanation": "«en canvi» contraposa dues idees. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15759,7 +15738,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "causa",
+    "exerciseType": "contrast",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15768,14 +15747,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La comunitat instal·larà una rampa ___ l'obra és costosa.»",
+    "prompt": "«Volia venir, ___ no ha trobat cap tren.»",
     "options": [
       "per tant",
-      "a més",
-      "tot i que"
+      "però"
     ],
-    "answer": 2,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "answer": 1,
+    "explanation": "«però» contraposa dues idees. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15792,14 +15770,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La comunitat instal·larà una rampa ___ s'aprova el pressupost.»",
+    "prompt": "«Aquest pis és petit; ___, té una terrassa molt gran.»",
     "options": [
-      "si",
-      "en canvi",
-      "tanmateix"
+      "tanmateix",
+      "si"
     ],
     "answer": 0,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
+    "explanation": "«tanmateix» contraposa dues idees. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15807,7 +15784,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "condició",
+    "exerciseType": "contrast",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15816,14 +15793,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La comunitat instal·larà una rampa ___ tothom pugui entrar sense dificultats.»",
+    "prompt": "«La Marta treballa de matí; ___, en Pol treballa de nit.»",
     "options": [
-      "per tal que",
-      "a més",
-      "per tant"
+      "tot i que",
+      "en canvi"
     ],
-    "answer": 0,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
+    "answer": 1,
+    "explanation": "«en canvi» contraposa dues idees. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15831,7 +15807,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "finalitat",
+    "exerciseType": "contrast",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15840,14 +15816,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«L'entrada té esglaons; ___, la comunitat instal·larà una rampa.»",
+    "prompt": "«La jaqueta m'agrada, ___ és massa cara.»",
     "options": [
-      "per tant",
-      "perquè",
-      "si"
+      "malgrat",
+      "però"
     ],
-    "answer": 0,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
+    "answer": 1,
+    "explanation": "«però» contraposa dues idees. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15855,7 +15830,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "conseqüència",
+    "exerciseType": "contrast",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15864,14 +15839,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El restaurant obrirà una terrassa ___ ha rebut el permís municipal.»",
+    "prompt": "«L'examen era difícil; ___, l'he aprovat.»",
     "options": [
-      "per tant",
-      "perquè",
-      "a més"
+      "tanmateix",
+      "perquè"
     ],
-    "answer": 1,
-    "explanation": "El connector perquè introdueix el motiu: ha rebut el permís municipal.",
+    "answer": 0,
+    "explanation": "«tanmateix» contraposa dues idees. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15879,7 +15853,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "causa",
+    "exerciseType": "contrast",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15888,14 +15862,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El restaurant obrirà una terrassa ___ l'espai és reduït.»",
+    "prompt": "«L'any passat no plovia gens; ___, enguany plou cada setmana.»",
     "options": [
-      "tot i que",
-      "per tant",
-      "a més"
+      "si",
+      "en canvi"
     ],
-    "answer": 0,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "answer": 1,
+    "explanation": "«en canvi» contraposa dues idees. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15912,14 +15885,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El restaurant obrirà una terrassa ___ fa bon temps.»",
+    "prompt": "«He trucat tres vegades, ___ ningú no m'ha contestat.»",
     "options": [
-      "en canvi",
-      "tanmateix",
-      "si"
+      "per tant",
+      "però"
     ],
-    "answer": 2,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
+    "answer": 1,
+    "explanation": "«però» contraposa dues idees. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15927,7 +15899,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "condició",
+    "exerciseType": "contrast",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15936,14 +15908,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El restaurant obrirà una terrassa ___ els clients puguin seure a fora.»",
+    "prompt": "«No coneixia el camí; ___, ha arribat sense perdre's.»",
     "options": [
-      "a més",
-      "per tal que",
-      "per tant"
+      "tanmateix",
+      "encara que"
     ],
-    "answer": 1,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
+    "answer": 0,
+    "explanation": "«tanmateix» contraposa dues idees. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15951,7 +15922,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "finalitat",
+    "exerciseType": "contrast",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15960,14 +15931,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«Ha rebut el permís municipal; ___, el restaurant obrirà una terrassa.»",
+    "prompt": "«Aquest autobús para a tot arreu; ___, l'exprés només fa dues parades.»",
     "options": [
       "perquè",
-      "per tant",
-      "si"
+      "en canvi"
     ],
     "answer": 1,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
+    "explanation": "«en canvi» contraposa dues idees. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15975,7 +15945,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "conseqüència",
+    "exerciseType": "contrast",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -15984,14 +15954,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La botiga ofereix repartiment ___ molts clients ho han demanat.»",
+    "prompt": "«Sortirem ___ faci fred.»",
     "options": [
-      "a més",
-      "per tant",
-      "perquè"
+      "encara que",
+      "per tant"
     ],
-    "answer": 2,
-    "explanation": "El connector perquè introdueix el motiu: molts clients ho han demanat.",
+    "answer": 0,
+    "explanation": "«encara que» presenta un obstacle que no impedeix l'acció principal. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -15999,7 +15968,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "causa",
+    "exerciseType": "concessió",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16008,14 +15977,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La botiga ofereix repartiment ___ el servei té un cost addicional.»",
+    "prompt": "«Ha vingut a treballar ___ està refredat.»",
     "options": [
-      "per tant",
-      "a més",
-      "tot i que"
+      "tot i que",
+      "a més"
     ],
-    "answer": 2,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "answer": 0,
+    "explanation": "«tot i que» presenta un obstacle que no impedeix l'acció principal. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16023,7 +15991,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
+    "exerciseType": "concessió",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16032,14 +16000,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La botiga ofereix repartiment ___ la compra supera els trenta euros.»",
+    "prompt": "«___ plovia, van continuar el partit.»",
     "options": [
-      "en canvi",
-      "tanmateix",
-      "si"
+      "Per això",
+      "Malgrat que"
     ],
-    "answer": 2,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
+    "answer": 1,
+    "explanation": "«Malgrat que» presenta un obstacle que no impedeix l'acció principal. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16047,7 +16014,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "condició",
+    "exerciseType": "concessió",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16056,14 +16023,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La botiga ofereix repartiment ___ les persones grans no hagin de carregar pes.»",
+    "prompt": "«El taller es farà ___ només s'hi han inscrit cinc persones.»",
     "options": [
-      "a més",
-      "per tant",
-      "per tal que"
+      "tot i que",
+      "tanmateix"
     ],
-    "answer": 2,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
+    "answer": 0,
+    "explanation": "«tot i que» presenta un obstacle que no impedeix l'acció principal. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16071,7 +16037,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "finalitat",
+    "exerciseType": "concessió",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16080,14 +16046,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«Molts clients ho han demanat; ___, la botiga ofereix repartiment.»",
+    "prompt": "«T'ajudaré ___ no m'ho demanis.»",
     "options": [
       "per tant",
-      "perquè",
-      "si"
+      "encara que"
     ],
-    "answer": 0,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
+    "answer": 1,
+    "explanation": "«encara que» presenta un obstacle que no impedeix l'acció principal. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16095,7 +16060,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "conseqüència",
+    "exerciseType": "concessió",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16104,14 +16069,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«L'escola organitza un intercanvi ___ vol fomentar l'aprenentatge de llengües.»",
+    "prompt": "«___ la motxilla pesa molt, se l'endú a peu.»",
     "options": [
-      "per tant",
-      "a més",
-      "perquè"
+      "Així doncs",
+      "Malgrat que"
     ],
-    "answer": 2,
-    "explanation": "El connector perquè introdueix el motiu: vol fomentar l'aprenentatge de llengües.",
+    "answer": 1,
+    "explanation": "«Malgrat que» presenta un obstacle que no impedeix l'acció principal. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16119,7 +16083,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "causa",
+    "exerciseType": "concessió",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16128,14 +16092,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«L'escola organitza un intercanvi ___ el calendari és ajustat.»",
+    "prompt": "«La biblioteca amplia l'horari ___ té poc personal.»",
     "options": [
-      "per tant",
       "tot i que",
-      "a més"
+      "en canvi"
     ],
-    "answer": 1,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "answer": 0,
+    "explanation": "«tot i que» presenta un obstacle que no impedeix l'acció principal. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16143,7 +16106,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
+    "exerciseType": "concessió",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16152,14 +16115,82 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«L'escola organitza un intercanvi ___ les famílies hi estan d'acord.»",
+    "prompt": "«Ho intentaré ___ sigui difícil.»",
     "options": [
-      "en canvi",
-      "si",
-      "tanmateix"
+      "a més",
+      "encara que"
     ],
     "answer": 1,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
+    "explanation": "«encara que» presenta un obstacle que no impedeix l'acció principal. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
+    },
+    "reviewedAt": "2026-10-16",
+    "reviewedBy": "Codex; revisió contextual i validació de coherència",
+    "examSkill": "gramàtica en context",
+    "exerciseType": "concessió",
+    "origin": "b2-independent-2026-10",
+    "difficulty": "B2"
+  },
+  {
+    "id": "b2-propi-0679",
+    "level": "B2",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "«___ no tenia experiència, va aconseguir la feina.»",
+    "options": [
+      "Malgrat que",
+      "Per tant"
+    ],
+    "answer": 0,
+    "explanation": "«Malgrat que» presenta un obstacle que no impedeix l'acció principal. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
+    },
+    "reviewedAt": "2026-10-16",
+    "reviewedBy": "Codex; revisió contextual i validació de coherència",
+    "examSkill": "gramàtica en context",
+    "exerciseType": "concessió",
+    "origin": "b2-independent-2026-10",
+    "difficulty": "B2"
+  },
+  {
+    "id": "b2-propi-0680",
+    "level": "B2",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "«El barri celebrarà la festa ___ la previsió anuncia pluja.»",
+    "options": [
+      "tot i que",
+      "tanmateix"
+    ],
+    "answer": 0,
+    "explanation": "«tot i que» presenta un obstacle que no impedeix l'acció principal. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
+    },
+    "reviewedAt": "2026-10-16",
+    "reviewedBy": "Codex; revisió contextual i validació de coherència",
+    "examSkill": "gramàtica en context",
+    "exerciseType": "concessió",
+    "origin": "b2-independent-2026-10",
+    "difficulty": "B2"
+  },
+  {
+    "id": "b2-propi-0681",
+    "level": "B2",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "«___ demà plou, ajornarem l'excursió.»",
+    "options": [
+      "Per tant",
+      "Si"
+    ],
+    "answer": 1,
+    "explanation": "«Si» introdueix una condició que cal complir. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16172,90 +16203,17 @@
     "difficulty": "B2"
   },
   {
-    "id": "b2-propi-0679",
-    "level": "B2",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "«L'escola organitza un intercanvi ___ els alumnes practiquin amb altres joves.»",
-    "options": [
-      "a més",
-      "per tal que",
-      "per tant"
-    ],
-    "answer": 1,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
-    },
-    "reviewedAt": "2026-10-16",
-    "reviewedBy": "Codex; revisió contextual i validació de coherència",
-    "examSkill": "gramàtica en context",
-    "exerciseType": "finalitat",
-    "origin": "b2-independent-2026-10",
-    "difficulty": "B2"
-  },
-  {
-    "id": "b2-propi-0680",
-    "level": "B2",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "«Vol fomentar l'aprenentatge de llengües; ___, l'escola organitza un intercanvi.»",
-    "options": [
-      "perquè",
-      "si",
-      "per tant"
-    ],
-    "answer": 2,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
-    },
-    "reviewedAt": "2026-10-16",
-    "reviewedBy": "Codex; revisió contextual i validació de coherència",
-    "examSkill": "gramàtica en context",
-    "exerciseType": "conseqüència",
-    "origin": "b2-independent-2026-10",
-    "difficulty": "B2"
-  },
-  {
-    "id": "b2-propi-0681",
-    "level": "B2",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "«La cooperativa compra un vehicle ___ necessita transportar la collita.»",
-    "options": [
-      "perquè",
-      "a més",
-      "per tant"
-    ],
-    "answer": 0,
-    "explanation": "El connector perquè introdueix el motiu: necessita transportar la collita.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
-    },
-    "reviewedAt": "2026-10-16",
-    "reviewedBy": "Codex; revisió contextual i validació de coherència",
-    "examSkill": "gramàtica en context",
-    "exerciseType": "causa",
-    "origin": "b2-independent-2026-10",
-    "difficulty": "B2"
-  },
-  {
     "id": "b2-propi-0682",
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La cooperativa compra un vehicle ___ la inversió és important.»",
+    "prompt": "«Pots endur-te el llibre ___ me'l tornis dilluns.»",
     "options": [
-      "per tant",
-      "tot i que",
-      "a més"
+      "sempre que",
+      "per tant"
     ],
-    "answer": 1,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "answer": 0,
+    "explanation": "«sempre que» introdueix una condició que cal complir. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16263,7 +16221,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
+    "exerciseType": "condició",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16272,14 +16230,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La cooperativa compra un vehicle ___ obté el crèdit.»",
+    "prompt": "«Et deixaran entrar ___ presentes l'entrada; sense entrada no s'hi pot accedir.»",
     "options": [
-      "si",
-      "en canvi",
-      "tanmateix"
+      "encara que",
+      "només si"
     ],
-    "answer": 0,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
+    "answer": 1,
+    "explanation": "«només si» introdueix una condició que cal complir. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16296,14 +16253,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La cooperativa compra un vehicle ___ els productes arribin frescos al mercat.»",
+    "prompt": "«___ tens dubtes, pregunta-m'ho.»",
     "options": [
-      "per tal que",
-      "a més",
-      "per tant"
+      "A més",
+      "Si"
     ],
-    "answer": 0,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
+    "answer": 1,
+    "explanation": "«Si» introdueix una condició que cal complir. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16311,7 +16267,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "finalitat",
+    "exerciseType": "condició",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16320,14 +16276,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«Necessita transportar la collita; ___, la cooperativa comprarà un vehicle.»",
+    "prompt": "«Pots utilitzar la sala ___ la deixis neta després.»",
     "options": [
-      "perquè",
-      "per tant",
-      "si"
+      "sempre que",
+      "en canvi"
     ],
-    "answer": 1,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
+    "answer": 0,
+    "explanation": "«sempre que» introdueix una condició que cal complir. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16335,7 +16290,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "conseqüència",
+    "exerciseType": "condició",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16344,14 +16299,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El museu renovarà les sales ___ les instal·lacions han quedat antigues.»",
+    "prompt": "«El descompte s'aplica ___ compres dues unitats; amb una no n'hi ha.»",
     "options": [
-      "per tant",
-      "perquè",
-      "a més"
+      "tot i que",
+      "només si"
     ],
     "answer": 1,
-    "explanation": "El connector perquè introdueix el motiu: les instal·lacions han quedat antigues.",
+    "explanation": "«només si» introdueix una condició que cal complir. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16359,7 +16313,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "causa",
+    "exerciseType": "condició",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16368,14 +16322,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El museu renovarà les sales ___ les obres duraran mesos.»",
+    "prompt": "«___ no trobes les claus, truca'm.»",
     "options": [
-      "per tant",
-      "a més",
-      "tot i que"
+      "Si",
+      "Tanmateix"
     ],
-    "answer": 2,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "answer": 0,
+    "explanation": "«Si» introdueix una condició que cal complir. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16383,7 +16336,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
+    "exerciseType": "condició",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16392,14 +16345,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El museu renovarà les sales ___ rep la subvenció.»",
+    "prompt": "«T'acompanyaré ___ puguem tornar abans de les vuit.»",
     "options": [
-      "si",
-      "en canvi",
-      "tanmateix"
+      "sempre que",
+      "per això"
     ],
     "answer": 0,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
+    "explanation": "«sempre que» introdueix una condició que cal complir. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16416,110 +16368,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El museu renovarà les sales ___ els visitants entenguin millor l'exposició.»",
+    "prompt": "«El llum s'encén ___ detecta moviment; sense moviment queda apagat.»",
     "options": [
-      "per tal que",
-      "a més",
-      "per tant"
-    ],
-    "answer": 0,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
-    },
-    "reviewedAt": "2026-10-16",
-    "reviewedBy": "Codex; revisió contextual i validació de coherència",
-    "examSkill": "gramàtica en context",
-    "exerciseType": "finalitat",
-    "origin": "b2-independent-2026-10",
-    "difficulty": "B2"
-  },
-  {
-    "id": "b2-propi-0690",
-    "level": "B2",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "«Les instal·lacions han quedat antigues; ___, el museu renovarà les sales.»",
-    "options": [
-      "per tant",
-      "perquè",
-      "si"
-    ],
-    "answer": 0,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
-    },
-    "reviewedAt": "2026-10-16",
-    "reviewedBy": "Codex; revisió contextual i validació de coherència",
-    "examSkill": "gramàtica en context",
-    "exerciseType": "conseqüència",
-    "origin": "b2-independent-2026-10",
-    "difficulty": "B2"
-  },
-  {
-    "id": "b2-propi-0691",
-    "level": "B2",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "«L'empresa ofereix formació ___ ha canviat el programa informàtic.»",
-    "options": [
-      "a més",
-      "perquè",
-      "per tant"
+      "encara que",
+      "només si"
     ],
     "answer": 1,
-    "explanation": "El connector perquè introdueix el motiu: ha canviat el programa informàtic.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
-    },
-    "reviewedAt": "2026-10-16",
-    "reviewedBy": "Codex; revisió contextual i validació de coherència",
-    "examSkill": "gramàtica en context",
-    "exerciseType": "causa",
-    "origin": "b2-independent-2026-10",
-    "difficulty": "B2"
-  },
-  {
-    "id": "b2-propi-0692",
-    "level": "B2",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "«L'empresa ofereix formació ___ no pot aturar l'activitat.»",
-    "options": [
-      "tot i que",
-      "per tant",
-      "a més"
-    ],
-    "answer": 0,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
-    "source": {
-      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
-      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
-    },
-    "reviewedAt": "2026-10-16",
-    "reviewedBy": "Codex; revisió contextual i validació de coherència",
-    "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
-    "origin": "b2-independent-2026-10",
-    "difficulty": "B2"
-  },
-  {
-    "id": "b2-propi-0693",
-    "level": "B2",
-    "topic": "connectors",
-    "status": "published",
-    "prompt": "«L'empresa ofereix formació ___ els horaris ho permeten.»",
-    "options": [
-      "en canvi",
-      "si",
-      "tanmateix"
-    ],
-    "answer": 1,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
+    "explanation": "«només si» introdueix una condició que cal complir. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16532,18 +16387,109 @@
     "difficulty": "B2"
   },
   {
+    "id": "b2-propi-0690",
+    "level": "B2",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "«___ vols, podem repassar l'exercici junts.»",
+    "options": [
+      "Si",
+      "Per tant"
+    ],
+    "answer": 0,
+    "explanation": "«Si» introdueix una condició que cal complir. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
+    },
+    "reviewedAt": "2026-10-16",
+    "reviewedBy": "Codex; revisió contextual i validació de coherència",
+    "examSkill": "gramàtica en context",
+    "exerciseType": "condició",
+    "origin": "b2-independent-2026-10",
+    "difficulty": "B2"
+  },
+  {
+    "id": "b2-propi-0691",
+    "level": "B2",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "«Parla més fort ___ tothom et pugui sentir.»",
+    "options": [
+      "per tant",
+      "per tal que"
+    ],
+    "answer": 1,
+    "explanation": "«per tal que» introdueix l'objectiu de l'acció. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
+    },
+    "reviewedAt": "2026-10-16",
+    "reviewedBy": "Codex; revisió contextual i validació de coherència",
+    "examSkill": "gramàtica en context",
+    "exerciseType": "finalitat",
+    "origin": "b2-independent-2026-10",
+    "difficulty": "B2"
+  },
+  {
+    "id": "b2-propi-0692",
+    "level": "B2",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "«T'envio el plànol ___ trobis l'edifici.»",
+    "options": [
+      "per tant",
+      "perquè"
+    ],
+    "answer": 1,
+    "explanation": "«perquè» introdueix l'objectiu de l'acció. Aquí expressa per a què es fa l'acció.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
+    },
+    "reviewedAt": "2026-10-16",
+    "reviewedBy": "Codex; revisió contextual i validació de coherència",
+    "examSkill": "gramàtica en context",
+    "exerciseType": "finalitat",
+    "origin": "b2-independent-2026-10",
+    "difficulty": "B2"
+  },
+  {
+    "id": "b2-propi-0693",
+    "level": "B2",
+    "topic": "connectors",
+    "status": "published",
+    "prompt": "«Han instal·lat una rampa ___ tothom pugui accedir al local.»",
+    "options": [
+      "a fi que",
+      "a més"
+    ],
+    "answer": 0,
+    "explanation": "«a fi que» introdueix l'objectiu de l'acció. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
+    "source": {
+      "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
+      "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
+    },
+    "reviewedAt": "2026-10-16",
+    "reviewedBy": "Codex; revisió contextual i validació de coherència",
+    "examSkill": "gramàtica en context",
+    "exerciseType": "finalitat",
+    "origin": "b2-independent-2026-10",
+    "difficulty": "B2"
+  },
+  {
     "id": "b2-propi-0694",
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«L'empresa ofereix formació ___ el personal aprengui a fer-lo servir.»",
+    "prompt": "«Deso una còpia del document ___ no es perdi.»",
     "options": [
-      "per tal que",
-      "a més",
-      "per tant"
+      "en canvi",
+      "per tal que"
     ],
-    "answer": 0,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
+    "answer": 1,
+    "explanation": "«per tal que» introdueix l'objectiu de l'acció. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16560,14 +16506,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«Ha canviat el programa informàtic; ___, l'empresa oferirà formació.»",
+    "prompt": "«Tanco la porta ___ el gat no s'escapi.»",
     "options": [
-      "perquè",
-      "per tant",
-      "si"
+      "per això",
+      "perquè"
     ],
     "answer": 1,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
+    "explanation": "«perquè» introdueix l'objectiu de l'acció. Aquí expressa per a què es fa l'acció.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16575,7 +16520,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "conseqüència",
+    "exerciseType": "finalitat",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16584,14 +16529,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El centre mèdic obre més consultes ___ ha crescut la població.»",
+    "prompt": "«Hem preparat un resum ___ pugueu repassar el tema.»",
     "options": [
-      "a més",
-      "per tant",
-      "perquè"
+      "a fi que",
+      "tanmateix"
     ],
-    "answer": 2,
-    "explanation": "El connector perquè introdueix el motiu: ha crescut la població.",
+    "answer": 0,
+    "explanation": "«a fi que» introdueix l'objectiu de l'acció. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16599,7 +16543,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "causa",
+    "exerciseType": "finalitat",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16608,14 +16552,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El centre mèdic obre més consultes ___ falten professionals.»",
+    "prompt": "«Posa't al davant ___ et puguem veure.»",
     "options": [
-      "tot i que",
       "per tant",
-      "a més"
+      "per tal que"
     ],
-    "answer": 0,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "answer": 1,
+    "explanation": "«per tal que» introdueix l'objectiu de l'acció. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16623,7 +16566,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
+    "exerciseType": "finalitat",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16632,14 +16575,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El centre mèdic obre més consultes ___ es cobreixen les places.»",
+    "prompt": "«Et deixo una nota ___ no t'oblidis de la cita.»",
     "options": [
-      "si",
-      "en canvi",
-      "tanmateix"
+      "perquè",
+      "a més"
     ],
     "answer": 0,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
+    "explanation": "«perquè» introdueix l'objectiu de l'acció. Aquí expressa per a què es fa l'acció.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16647,7 +16589,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "condició",
+    "exerciseType": "finalitat",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16656,14 +16598,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El centre mèdic obre més consultes ___ les visites es puguin programar abans.»",
+    "prompt": "«L'ajuntament planta arbres ___ els vianants trobin més ombra.»",
     "options": [
-      "a més",
-      "per tant",
-      "per tal que"
+      "a fi que",
+      "en canvi"
     ],
-    "answer": 2,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
+    "answer": 0,
+    "explanation": "«a fi que» introdueix l'objectiu de l'acció. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16680,14 +16621,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«Ha crescut la població; ___, el centre mèdic obre més consultes.»",
+    "prompt": "«L'empresa oferirà formació ___ el personal aprengui a utilitzar el programa.»",
     "options": [
-      "perquè",
       "per tant",
-      "si"
+      "per tal que"
     ],
     "answer": 1,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
+    "explanation": "«per tal que» introdueix l'objectiu de l'acció. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16695,7 +16635,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "conseqüència",
+    "exerciseType": "finalitat",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16704,14 +16644,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El club canviarà els vestidors ___ hi ha problemes d'humitat.»",
+    "prompt": "«La quota inclou la piscina. ___, dona accés al gimnàs sense cap suplement.»",
     "options": [
-      "a més",
-      "per tant",
-      "perquè"
+      "A més",
+      "Perquè"
     ],
-    "answer": 2,
-    "explanation": "El connector perquè introdueix el motiu: hi ha problemes d'humitat.",
+    "answer": 0,
+    "explanation": "«A més» afegeix informació. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16719,7 +16658,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "causa",
+    "exerciseType": "addició",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16728,14 +16667,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El club canviarà els vestidors ___ el pressupost és limitat.»",
+    "prompt": "«La Marta vindrà al sopar i en Joan ___ vindrà.»",
     "options": [
-      "tot i que",
       "per tant",
-      "a més"
+      "també"
     ],
-    "answer": 0,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "answer": 1,
+    "explanation": "«també» afegeix informació. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16743,7 +16681,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
+    "exerciseType": "addició",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16752,14 +16690,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El club canviarà els vestidors ___ aconsegueix finançament.»",
+    "prompt": "«Hi havia gent de totes les edats: ___ hi havia un nadó.»",
     "options": [
-      "si",
-      "en canvi",
-      "tanmateix"
+      "malgrat",
+      "fins i tot"
     ],
-    "answer": 0,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
+    "answer": 1,
+    "explanation": "«fins i tot» afegeix informació. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16767,7 +16704,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "condició",
+    "exerciseType": "addició",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16776,14 +16713,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El club canviarà els vestidors ___ els esportistes tinguin un espai adequat.»",
+    "prompt": "«El pis té ascensor. ___, disposa d'una plaça d'aparcament inclosa en el preu.»",
     "options": [
-      "a més",
-      "per tant",
-      "per tal que"
+      "A més",
+      "Si"
     ],
-    "answer": 2,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
+    "answer": 0,
+    "explanation": "«A més» afegeix informació. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16791,7 +16727,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "finalitat",
+    "exerciseType": "addició",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16800,14 +16736,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«Hi ha problemes d'humitat; ___, el club canviarà els vestidors.»",
+    "prompt": "«Jo estudio català i la meva germana ___ n'estudia.»",
     "options": [
-      "per tant",
-      "perquè",
-      "si"
+      "tanmateix",
+      "també"
     ],
-    "answer": 0,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
+    "answer": 1,
+    "explanation": "«també» afegeix informació. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16815,7 +16750,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "conseqüència",
+    "exerciseType": "addició",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16824,14 +16759,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«L'ajuntament planta més arbres ___ vol reduir la calor als carrers.»",
+    "prompt": "«Tothom va ajudar a recollir, ___ els convidats.»",
     "options": [
-      "perquè",
-      "per tant",
-      "a més"
+      "fins i tot",
+      "perquè"
     ],
     "answer": 0,
-    "explanation": "El connector perquè introdueix el motiu: vol reduir la calor als carrers.",
+    "explanation": "«fins i tot» afegeix informació. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16839,7 +16773,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "causa",
+    "exerciseType": "addició",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16848,14 +16782,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«L'ajuntament planta més arbres ___ caldrà regar-los sovint.»",
+    "prompt": "«El curs ofereix classes presencials. ___, inclou tutories individuals gratuïtes.»",
     "options": [
-      "per tant",
-      "a més",
-      "tot i que"
+      "A més",
+      "Ja que"
     ],
-    "answer": 2,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "answer": 0,
+    "explanation": "«A més» afegeix informació. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16863,7 +16796,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
+    "exerciseType": "addició",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16872,14 +16805,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«L'ajuntament planta més arbres ___ les arrels tenen prou espai.»",
+    "prompt": "«Hem visitat el museu i ___ hem passejat pel centre.»",
     "options": [
-      "si",
-      "en canvi",
-      "tanmateix"
+      "per tant",
+      "també"
     ],
-    "answer": 0,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
+    "answer": 1,
+    "explanation": "«també» afegeix informació. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16887,7 +16819,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "condició",
+    "exerciseType": "addició",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16896,14 +16828,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«L'ajuntament planta més arbres ___ els vianants trobin més ombra.»",
+    "prompt": "«Feia tant de fred que ___ l'aigua de la font s'havia glaçat.»",
     "options": [
-      "per tal que",
-      "a més",
-      "per tant"
+      "fins i tot",
+      "encara que"
     ],
     "answer": 0,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
+    "explanation": "«fins i tot» afegeix informació. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16911,7 +16842,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "finalitat",
+    "exerciseType": "addició",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16920,14 +16851,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«Vol reduir la calor als carrers; ___, l'ajuntament planta més arbres.»",
+    "prompt": "«El portàtil és lleuger. ___, la bateria dura dotze hores.»",
     "options": [
-      "per tant",
-      "perquè",
-      "si"
+      "Perquè",
+      "A més"
     ],
-    "answer": 0,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
+    "answer": 1,
+    "explanation": "«A més» afegeix informació. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16935,7 +16865,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "conseqüència",
+    "exerciseType": "addició",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16944,14 +16874,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La residència prepara activitats ___ les persones usuàries les han sol·licitat.»",
+    "prompt": "«Truca'm ___ arribis a l'estació.»",
     "options": [
-      "a més",
       "per tant",
-      "perquè"
+      "quan"
     ],
-    "answer": 2,
-    "explanation": "El connector perquè introdueix el motiu: les persones usuàries les han sol·licitat.",
+    "answer": 1,
+    "explanation": "«quan» situa les accions en el temps. L'altra opció no encaixa amb l'estructura o la seqüència temporal de la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16959,7 +16888,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "causa",
+    "exerciseType": "temps",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16968,14 +16897,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La residència prepara activitats ___ hi ha pocs voluntaris.»",
+    "prompt": "«Jo prepararé el sopar ___ tu pares taula.»",
     "options": [
-      "per tant",
-      "a més",
-      "tot i que"
+      "mentre",
+      "a més"
     ],
-    "answer": 2,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "answer": 0,
+    "explanation": "«mentre» situa les accions en el temps. L'altra opció no encaixa amb l'estructura o la seqüència temporal de la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -16983,7 +16911,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
+    "exerciseType": "temps",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -16992,14 +16920,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La residència prepara activitats ___ es confirma la participació.»",
+    "prompt": "«Renta't les mans ___ de dinar.»",
     "options": [
-      "en canvi",
-      "tanmateix",
-      "si"
+      "mentre",
+      "abans"
     ],
-    "answer": 2,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
+    "answer": 1,
+    "explanation": "«abans» situa les accions en el temps. L'altra opció no encaixa amb l'estructura o la seqüència temporal de la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17007,7 +16934,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "condició",
+    "exerciseType": "temps",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17016,14 +16943,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La residència prepara activitats ___ els residents mantinguin una vida activa.»",
+    "prompt": "«Tanca la finestra ___ que comenci a ploure.»",
     "options": [
-      "a més",
-      "per tal que",
-      "per tant"
+      "abans",
+      "després de"
     ],
-    "answer": 1,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
+    "answer": 0,
+    "explanation": "«abans» situa les accions en el temps. L'altra opció no encaixa amb l'estructura o la seqüència temporal de la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17031,7 +16957,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "finalitat",
+    "exerciseType": "temps",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17040,14 +16966,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«Les persones usuàries les han sol·licitat; ___, la residència prepara activitats.»",
+    "prompt": "«___ de la reunió, anirem a fer un cafè.»",
     "options": [
-      "perquè",
-      "per tant",
-      "si"
+      "Després",
+      "Mentre"
     ],
-    "answer": 1,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
+    "answer": 0,
+    "explanation": "«Després» situa les accions en el temps. L'altra opció no encaixa amb l'estructura o la seqüència temporal de la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17055,7 +16980,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "conseqüència",
+    "exerciseType": "temps",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17064,14 +16989,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La universitat ofereix tutories ___ l'alumnat necessita orientació.»",
+    "prompt": "«No havia tornat al poble ___ que era petit.»",
     "options": [
-      "per tant",
-      "a més",
-      "perquè"
+      "mentre",
+      "des"
     ],
-    "answer": 2,
-    "explanation": "El connector perquè introdueix el motiu: l'alumnat necessita orientació.",
+    "answer": 1,
+    "explanation": "«des» situa les accions en el temps. L'altra opció no encaixa amb l'estructura o la seqüència temporal de la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17079,7 +17003,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "causa",
+    "exerciseType": "temps",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17088,14 +17012,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La universitat ofereix tutories ___ disposa de pocs professors.»",
+    "prompt": "«___ vaig entrar a casa, va sonar el telèfon: no havia ni deixat les claus.»",
     "options": [
-      "per tant",
-      "tot i que",
-      "a més"
+      "Tan bon punt",
+      "Fins que"
     ],
-    "answer": 1,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "answer": 0,
+    "explanation": "«Tan bon punt» situa les accions en el temps. L'altra opció no encaixa amb l'estructura o la seqüència temporal de la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17103,7 +17026,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
+    "exerciseType": "temps",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17112,14 +17035,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La universitat ofereix tutories ___ es reserva hora.»",
+    "prompt": "«T'esperaré aquí ___ que acabis.»",
     "options": [
-      "si",
-      "en canvi",
-      "tanmateix"
+      "fins",
+      "després de"
     ],
     "answer": 0,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
+    "explanation": "«fins» situa les accions en el temps. L'altra opció no encaixa amb l'estructura o la seqüència temporal de la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17127,7 +17049,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "condició",
+    "exerciseType": "temps",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17136,14 +17058,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La universitat ofereix tutories ___ els estudiants resolguin els dubtes.»",
+    "prompt": "«___ escoltava la ràdio, plegava la roba.»",
     "options": [
-      "a més",
-      "per tal que",
-      "per tant"
+      "A més",
+      "Mentre"
     ],
     "answer": 1,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
+    "explanation": "«Mentre» situa les accions en el temps. L'altra opció no encaixa amb l'estructura o la seqüència temporal de la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17151,7 +17072,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "finalitat",
+    "exerciseType": "temps",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17160,14 +17081,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«L'alumnat necessita orientació; ___, la universitat ofereix tutories.»",
+    "prompt": "«Envia'm el document ___ hagis acabat de revisar-lo.»",
     "options": [
-      "perquè",
-      "per tant",
-      "si"
+      "quan",
+      "per tant"
     ],
-    "answer": 1,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
+    "answer": 0,
+    "explanation": "«quan» situa les accions en el temps. L'altra opció no encaixa amb l'estructura o la seqüència temporal de la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17175,7 +17095,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "conseqüència",
+    "exerciseType": "temps",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17184,14 +17104,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El barri celebrarà una festa ___ l'associació compleix vint anys.»",
+    "prompt": "«Segueix aquest ordre: ___, encén l'ordinador; després, obre el programa.»",
     "options": [
-      "perquè",
-      "a més",
-      "per tant"
+      "finalment",
+      "primer"
     ],
-    "answer": 0,
-    "explanation": "El connector perquè introdueix el motiu: l'associació compleix vint anys.",
+    "answer": 1,
+    "explanation": "«primer» indica la posició d'una acció dins d'una seqüència. Cal respectar l'ordre que descriu la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17199,7 +17118,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "causa",
+    "exerciseType": "ordre",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17208,14 +17127,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El barri celebrarà una festa ___ la previsió anuncia pluja.»",
+    "prompt": "«Primer renta les verdures; ___, talla-les a trossos.»",
     "options": [
-      "per tant",
-      "tot i que",
-      "a més"
+      "abans",
+      "després"
     ],
     "answer": 1,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "explanation": "«després» indica la posició d'una acció dins d'una seqüència. Cal respectar l'ordre que descriu la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17223,7 +17141,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
+    "exerciseType": "ordre",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17232,14 +17150,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El barri celebrarà una festa ___ s'aconsegueixen els permisos.»",
+    "prompt": "«Vam visitar el mercat, vam dinar i, ___, vam tornar a casa.»",
     "options": [
-      "en canvi",
-      "tanmateix",
-      "si"
+      "finalment",
+      "primer"
     ],
-    "answer": 2,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
+    "answer": 0,
+    "explanation": "«finalment» indica la posició d'una acció dins d'una seqüència. Cal respectar l'ordre que descriu la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17247,7 +17164,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "condició",
+    "exerciseType": "ordre",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17256,14 +17173,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El barri celebrarà una festa ___ els veïns es coneguin millor.»",
+    "prompt": "«El correu indica aquests passos: primer, omplir el formulari; ___, adjuntar el DNI; finalment, enviar-ho tot.»",
     "options": [
-      "a més",
-      "per tant",
-      "per tal que"
+      "en primer lloc",
+      "a continuació"
     ],
-    "answer": 2,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
+    "answer": 1,
+    "explanation": "«a continuació» indica la posició d'una acció dins d'una seqüència. Cal respectar l'ordre que descriu la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17271,7 +17187,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "finalitat",
+    "exerciseType": "ordre",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17280,14 +17196,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«L'associació compleix vint anys; ___, el barri celebrarà una festa.»",
+    "prompt": "«___, cal identificar el problema; en segon lloc, buscar-hi una solució.»",
     "options": [
-      "perquè",
-      "per tant",
-      "si"
+      "En primer lloc",
+      "Finalment"
     ],
-    "answer": 1,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
+    "answer": 0,
+    "explanation": "«En primer lloc» indica la posició d'una acció dins d'una seqüència. Cal respectar l'ordre que descriu la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17295,7 +17210,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "conseqüència",
+    "exerciseType": "ordre",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17304,14 +17219,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La piscina allargarà la temporada ___ les temperatures continuen sent altes.»",
+    "prompt": "«Ja hem barrejat i pastat els ingredients. ___, posem la massa al forn.»",
     "options": [
-      "a més",
-      "perquè",
-      "per tant"
+      "Tot seguit",
+      "Abans"
     ],
-    "answer": 1,
-    "explanation": "El connector perquè introdueix el motiu: les temperatures continuen sent altes.",
+    "answer": 0,
+    "explanation": "«Tot seguit» indica la posició d'una acció dins d'una seqüència. Cal respectar l'ordre que descriu la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17319,7 +17233,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "causa",
+    "exerciseType": "ordre",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17328,14 +17242,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La piscina allargarà la temporada ___ les despeses augmentaran.»",
+    "prompt": "«Després de tots aquests preparatius, ___ va començar la cerimònia.»",
     "options": [
-      "per tant",
-      "a més",
-      "tot i que"
+      "en primer lloc",
+      "finalment"
     ],
-    "answer": 2,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "answer": 1,
+    "explanation": "«finalment» indica la posició d'una acció dins d'una seqüència. Cal respectar l'ordre que descriu la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17343,7 +17256,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
+    "exerciseType": "ordre",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17352,14 +17265,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La piscina allargarà la temporada ___ es pot garantir el manteniment.»",
+    "prompt": "«Primer selecciona el fitxer i, ___, prem el botó «Envia».»",
     "options": [
-      "en canvi",
-      "tanmateix",
-      "si"
+      "després",
+      "abans"
     ],
-    "answer": 2,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
+    "answer": 0,
+    "explanation": "«després» indica la posició d'una acció dins d'una seqüència. Cal respectar l'ordre que descriu la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17367,7 +17279,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "condició",
+    "exerciseType": "ordre",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17376,14 +17288,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La piscina allargarà la temporada ___ els usuaris aprofitin les instal·lacions.»",
+    "prompt": "«Per començar, llegirem el text; ___, en comentarem les idees.»",
     "options": [
-      "a més",
-      "per tant",
-      "per tal que"
+      "en primer lloc",
+      "a continuació"
     ],
-    "answer": 2,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
+    "answer": 1,
+    "explanation": "«a continuació» indica la posició d'una acció dins d'una seqüència. Cal respectar l'ordre que descriu la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17391,7 +17302,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "finalitat",
+    "exerciseType": "ordre",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17400,14 +17311,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«Les temperatures continuen sent altes; ___, la piscina allargarà la temporada.»",
+    "prompt": "«En primer lloc explicarem les normes i, ___, començarem el joc.»",
     "options": [
-      "per tant",
-      "perquè",
-      "si"
+      "abans",
+      "tot seguit"
     ],
-    "answer": 0,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
+    "answer": 1,
+    "explanation": "«tot seguit» indica la posició d'una acció dins d'una seqüència. Cal respectar l'ordre que descriu la frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17415,7 +17325,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "conseqüència",
+    "exerciseType": "ordre",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17424,14 +17334,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El casal prepara un curs de cuina ___ moltes persones volen aprendre receptes noves.»",
+    "prompt": "«El tràmit és gratuït, ___, no has de pagar res.»",
     "options": [
-      "a més",
-      "perquè",
-      "per tant"
+      "és a dir",
+      "perquè"
     ],
-    "answer": 1,
-    "explanation": "El connector perquè introdueix el motiu: moltes persones volen aprendre receptes noves.",
+    "answer": 0,
+    "explanation": "«és a dir» aclareix una idea o n'introdueix un exemple. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17439,7 +17348,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "causa",
+    "exerciseType": "explicació i exemplificació",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17448,14 +17357,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El casal prepara un curs de cuina ___ la cuina és petita.»",
+    "prompt": "«Hi ha fruites riques en vitamina C, ___ les taronges i els kiwis.»",
     "options": [
       "per tant",
-      "a més",
-      "tot i que"
+      "com ara"
     ],
-    "answer": 2,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "answer": 1,
+    "explanation": "«com ara» aclareix una idea o n'introdueix un exemple. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17463,7 +17371,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
+    "exerciseType": "explicació i exemplificació",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17472,14 +17380,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El casal prepara un curs de cuina ___ es forma un grup suficient.»",
+    "prompt": "«Pots venir qualsevol dia laborable; ___, dimarts al matí.»",
     "options": [
-      "en canvi",
-      "si",
-      "tanmateix"
+      "per exemple",
+      "perquè"
     ],
-    "answer": 1,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
+    "answer": 0,
+    "explanation": "«per exemple» aclareix una idea o n'introdueix un exemple. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17487,7 +17394,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "condició",
+    "exerciseType": "explicació i exemplificació",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17496,14 +17403,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El casal prepara un curs de cuina ___ els participants guanyin autonomia.»",
+    "prompt": "«Cal ser major d'edat, ___, tenir divuit anys o més.»",
     "options": [
-      "a més",
-      "per tant",
-      "per tal que"
+      "és a dir",
+      "si"
     ],
-    "answer": 2,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
+    "answer": 0,
+    "explanation": "«és a dir» aclareix una idea o n'introdueix un exemple. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17511,7 +17417,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "finalitat",
+    "exerciseType": "explicació i exemplificació",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17520,14 +17426,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«Moltes persones volen aprendre receptes noves; ___, el casal prepara un curs de cuina.»",
+    "prompt": "«Necessitem material d'escriptura, ___ llapis i bolígrafs.»",
     "options": [
-      "perquè",
-      "si",
-      "per tant"
+      "tanmateix",
+      "com ara"
     ],
-    "answer": 2,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
+    "answer": 1,
+    "explanation": "«com ara» aclareix una idea o n'introdueix un exemple. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17535,7 +17440,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "conseqüència",
+    "exerciseType": "explicació i exemplificació",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17544,14 +17449,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El teatre programarà una altra funció ___ s'han venut totes les entrades.»",
+    "prompt": "«Alguns animals hivernen; ___, la marmota passa l'hivern en aquest estat.»",
     "options": [
-      "a més",
-      "perquè",
-      "per tant"
+      "per exemple",
+      "tot i que"
     ],
-    "answer": 1,
-    "explanation": "El connector perquè introdueix el motiu: s'han venut totes les entrades.",
+    "answer": 0,
+    "explanation": "«per exemple» aclareix una idea o n'introdueix un exemple. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17559,7 +17463,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "causa",
+    "exerciseType": "explicació i exemplificació",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17568,14 +17472,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El teatre programarà una altra funció ___ la companyia té altres compromisos.»",
+    "prompt": "«La reunió serà telemàtica, ___, ens hi connectarem per internet.»",
     "options": [
-      "per tant",
-      "tot i que",
-      "a més"
+      "perquè",
+      "és a dir"
     ],
     "answer": 1,
-    "explanation": "«Tot i que» introdueix un fet que podria ser un obstacle, però no impedeix l'acció principal. «Per tant» i «a més» no poden unir aquestes dues parts tal com està escrita la frase.",
+    "explanation": "«és a dir» aclareix una idea o n'introdueix un exemple. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17583,7 +17486,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "contrast",
+    "exerciseType": "explicació i exemplificació",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17592,14 +17495,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El teatre programarà una altra funció ___ els actors estan disponibles.»",
+    "prompt": "«Hi ha diverses opcions de transport, ___ el tren i l'autobús.»",
     "options": [
-      "en canvi",
-      "si",
-      "tanmateix"
+      "per tant",
+      "com ara"
     ],
     "answer": 1,
-    "explanation": "«Si» introdueix la condició necessària per fer l'acció. «En canvi» i «tanmateix» expressen contrast i no encaixen en aquest buit amb aquesta puntuació.",
+    "explanation": "«com ara» aclareix una idea o n'introdueix un exemple. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17607,7 +17509,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "condició",
+    "exerciseType": "explicació i exemplificació",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17616,14 +17518,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«El teatre programarà una altra funció ___ més espectadors puguin veure l'obra.»",
+    "prompt": "«Pots fer exercici sense anar al gimnàs; ___, pots caminar cada dia.»",
     "options": [
-      "a més",
-      "per tant",
-      "per tal que"
+      "per exemple",
+      "encara que"
     ],
-    "answer": 2,
-    "explanation": "«Per tal que» introdueix l'objectiu de l'acció i va seguit d'un verb en subjuntiu. «A més» i «per tant» no poden introduir aquesta oració subordinada.",
+    "answer": 0,
+    "explanation": "«per exemple» aclareix una idea o n'introdueix un exemple. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17631,7 +17532,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "finalitat",
+    "exerciseType": "explicació i exemplificació",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
@@ -17640,14 +17541,13 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«S'han venut totes les entrades; ___, el teatre programarà una altra funció.»",
+    "prompt": "«El pagament és mensual, ___, es fa un cop cada mes.»",
     "options": [
-      "per tant",
-      "perquè",
-      "si"
+      "si",
+      "és a dir"
     ],
-    "answer": 0,
-    "explanation": "«Per tant» presenta la segona acció com a conseqüència de la primera. «Perquè» i «si» no encaixen entre el punt i coma i la coma d'aquesta frase.",
+    "answer": 1,
+    "explanation": "«és a dir» aclareix una idea o n'introdueix un exemple. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
@@ -17655,7 +17555,7 @@
     "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
-    "exerciseType": "conseqüència",
+    "exerciseType": "explicació i exemplificació",
     "origin": "b2-independent-2026-10",
     "difficulty": "B2"
   },
