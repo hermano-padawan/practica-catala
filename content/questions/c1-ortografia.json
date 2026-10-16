@@ -1384,19 +1384,19 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «El gos es va ___ a l'ombra.»",
+    "prompt": "Completa amb la forma correcta: «El gos va ___ a l'ombra».",
     "options": [
       "geure",
       "jèure",
       "jeure"
     ],
     "answer": 2,
-    "explanation": "Jeure és una excepció que s'escriu amb j davant de e.",
+    "explanation": "Jeure vol dir estar estirat. Tot i que davant de e normalment escrivim g per representar aquest so, jeure és una excepció i s'escriu amb j. No diem «es va jeure», sinó «va jeure».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/26/12-la-g-i-la-j",
       "locator": "Regles de g/j i excepcions de Suficiència"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
