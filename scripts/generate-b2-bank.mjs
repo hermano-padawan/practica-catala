@@ -652,6 +652,23 @@ for(const q of bank){
 }
 
 
+
+// Barreja les posicions dels pronoms sense vincular A/B/C al gènere o al nombre.
+{
+ const pronounItems=bank.filter(q=>q.topic==="pronoms");
+ let shuffleState=2026101619;
+ const random=()=>{shuffleState=(Math.imul(shuffleState,1664525)+1013904223)>>>0;return shuffleState/4294967296;};
+ const positions=pronounItems.map((_,i)=>i%3);
+ for(let i=positions.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[positions[i],positions[j]]=[positions[j],positions[i]];}
+ pronounItems.forEach((q,i)=>{
+ const correct=q.options[q.answer];
+ const wrong=q.options.filter((_,j)=>j!==q.answer);
+ if(random()<0.5)wrong.reverse();
+ wrong.splice(positions[i],0,correct);
+ q.options=wrong;q.answer=positions[i];
+ });
+}
+
 if(bank.length!==1000)throw Error("Expected 1000 questions, got "+bank.length);
 await writeFile(new URL("b2.json",root),JSON.stringify(bank,null,2)+"\n");
 console.log(JSON.stringify({count:bank.length,topics:bank.reduce((a,q)=>(a[q.topic]=(a[q.topic]||0)+1,a),{})},null,2));

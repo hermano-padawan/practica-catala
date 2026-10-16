@@ -9366,11 +9366,11 @@
     "status": "published",
     "prompt": "Evita repetir «el rebut»: «La recepcionista revisa el rebut».",
     "options": [
+      "La recepcionista els revisa.",
       "La recepcionista el revisa.",
-      "La recepcionista la revisa.",
-      "La recepcionista els revisa."
+      "La recepcionista la revisa."
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "«el rebut» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9390,11 +9390,11 @@
     "status": "published",
     "prompt": "Evita repetir «la reserva»: «La recepcionista revisa la reserva».",
     "options": [
-      "La recepcionista el revisa.",
       "La recepcionista la revisa.",
-      "La recepcionista els revisa."
+      "La recepcionista els revisa.",
+      "La recepcionista el revisa."
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "«la reserva» és femení singular. El substituïm pel pronom feble «la».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9438,11 +9438,11 @@
     "status": "published",
     "prompt": "Evita repetir «el paquet»: «El dependent prepara el paquet».",
     "options": [
-      "El dependent el prepara.",
       "El dependent la prepara.",
-      "El dependent els prepara."
+      "El dependent els prepara.",
+      "El dependent el prepara."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "«el paquet» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9462,9 +9462,9 @@
     "status": "published",
     "prompt": "Evita repetir «la comanda»: «El dependent prepara la comanda».",
     "options": [
-      "El dependent el prepara.",
+      "El dependent els prepara.",
       "El dependent la prepara.",
-      "El dependent els prepara."
+      "El dependent el prepara."
     ],
     "answer": 1,
     "explanation": "«la comanda» és femení singular. El substituïm pel pronom feble «la».",
@@ -9486,11 +9486,11 @@
     "status": "published",
     "prompt": "Evita repetir «les comandes»: «El dependent prepara les comandes».",
     "options": [
-      "El dependent el prepara.",
+      "El dependent les prepara.",
       "El dependent la prepara.",
-      "El dependent les prepara."
+      "El dependent el prepara."
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "«les comandes» és femení plural. El substituïm pel pronom feble «les».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9534,11 +9534,11 @@
     "status": "published",
     "prompt": "Evita repetir «la fotografia»: «La guia mostra la fotografia».",
     "options": [
-      "La guia el mostra.",
       "La guia la mostra.",
+      "La guia el mostra.",
       "La guia els mostra."
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "«la fotografia» és femení singular. El substituïm pel pronom feble «la».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9582,11 +9582,11 @@
     "status": "published",
     "prompt": "Evita repetir «el cable»: «El tècnic comprova el cable».",
     "options": [
+      "El tècnic els comprova.",
       "El tècnic el comprova.",
-      "El tècnic la comprova.",
-      "El tècnic els comprova."
+      "El tècnic la comprova."
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "«el cable» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9607,10 +9607,10 @@
     "prompt": "Evita repetir «la connexió»: «El tècnic comprova la connexió».",
     "options": [
       "El tècnic el comprova.",
-      "El tècnic la comprova.",
-      "El tècnic els comprova."
+      "El tècnic els comprova.",
+      "El tècnic la comprova."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "«la connexió» és femení singular. El substituïm pel pronom feble «la».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9630,11 +9630,11 @@
     "status": "published",
     "prompt": "Evita repetir «les connexions»: «El tècnic comprova les connexions».",
     "options": [
+      "El tècnic les comprova.",
       "El tècnic el comprova.",
-      "El tècnic la comprova.",
-      "El tècnic les comprova."
+      "El tècnic la comprova."
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "«les connexions» és femení plural. El substituïm pel pronom feble «les».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9655,8 +9655,8 @@
     "prompt": "Evita repetir «el ganivet»: «La cuinera renta el ganivet».",
     "options": [
       "La cuinera el renta.",
-      "La cuinera la renta.",
-      "La cuinera els renta."
+      "La cuinera els renta.",
+      "La cuinera la renta."
     ],
     "answer": 0,
     "explanation": "«el ganivet» és masculí singular. El substituïm pel pronom feble «el».",
@@ -9702,11 +9702,11 @@
     "status": "published",
     "prompt": "Evita repetir «els ganivets»: «La cuinera renta els ganivets».",
     "options": [
+      "La cuinera els renta.",
       "La cuinera el renta.",
-      "La cuinera la renta.",
-      "La cuinera els renta."
+      "La cuinera la renta."
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "«els ganivets» és masculí plural. El substituïm pel pronom feble «els».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9726,11 +9726,11 @@
     "status": "published",
     "prompt": "Evita repetir «el vidre»: «El conserge neteja el vidre».",
     "options": [
+      "El conserge els neteja.",
       "El conserge el neteja.",
-      "El conserge la neteja.",
-      "El conserge els neteja."
+      "El conserge la neteja."
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "«el vidre» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9751,10 +9751,10 @@
     "prompt": "Evita repetir «la porta»: «El conserge neteja la porta».",
     "options": [
       "El conserge el neteja.",
-      "El conserge la neteja.",
-      "El conserge els neteja."
+      "El conserge els neteja.",
+      "El conserge la neteja."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "«la porta» és femení singular. El substituïm pel pronom feble «la».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9775,10 +9775,10 @@
     "prompt": "Evita repetir «les portes»: «El conserge neteja les portes».",
     "options": [
       "El conserge el neteja.",
-      "El conserge la neteja.",
-      "El conserge les neteja."
+      "El conserge les neteja.",
+      "El conserge la neteja."
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "«les portes» és femení plural. El substituïm pel pronom feble «les».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9799,8 +9799,8 @@
     "prompt": "Evita repetir «el roser»: «La jardinera rega el roser».",
     "options": [
       "La jardinera el rega.",
-      "La jardinera la rega.",
-      "La jardinera els rega."
+      "La jardinera els rega.",
+      "La jardinera la rega."
     ],
     "answer": 0,
     "explanation": "«el roser» és masculí singular. El substituïm pel pronom feble «el».",
@@ -9822,11 +9822,11 @@
     "status": "published",
     "prompt": "Evita repetir «la planta»: «La jardinera rega la planta».",
     "options": [
-      "La jardinera el rega.",
       "La jardinera la rega.",
+      "La jardinera el rega.",
       "La jardinera els rega."
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "«la planta» és femení singular. El substituïm pel pronom feble «la».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9846,11 +9846,11 @@
     "status": "published",
     "prompt": "Evita repetir «els rosers»: «La jardinera rega els rosers».",
     "options": [
+      "La jardinera els rega.",
       "La jardinera el rega.",
-      "La jardinera la rega.",
-      "La jardinera els rega."
+      "La jardinera la rega."
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "«els rosers» és masculí plural. El substituïm pel pronom feble «els».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9870,11 +9870,11 @@
     "status": "published",
     "prompt": "Evita repetir «el pressupost»: «El client demana el pressupost».",
     "options": [
-      "El client el demana.",
+      "El client els demana.",
       "El client la demana.",
-      "El client els demana."
+      "El client el demana."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "«el pressupost» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9894,11 +9894,11 @@
     "status": "published",
     "prompt": "Evita repetir «la factura»: «El client demana la factura».",
     "options": [
-      "El client el demana.",
       "El client la demana.",
+      "El client el demana.",
       "El client els demana."
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "«la factura» és femení singular. El substituïm pel pronom feble «la».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9918,11 +9918,11 @@
     "status": "published",
     "prompt": "Evita repetir «les factures»: «El client demana les factures».",
     "options": [
-      "El client el demana.",
+      "El client les demana.",
       "El client la demana.",
-      "El client les demana."
+      "El client el demana."
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "«les factures» és femení plural. El substituïm pel pronom feble «les».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9942,11 +9942,11 @@
     "status": "published",
     "prompt": "Evita repetir «el tiquet»: «La veïna guarda el tiquet».",
     "options": [
-      "La veïna el guarda.",
       "La veïna la guarda.",
-      "La veïna els guarda."
+      "La veïna els guarda.",
+      "La veïna el guarda."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "«el tiquet» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9967,10 +9967,10 @@
     "prompt": "Evita repetir «la garantia»: «La veïna guarda la garantia».",
     "options": [
       "La veïna el guarda.",
-      "La veïna la guarda.",
-      "La veïna els guarda."
+      "La veïna els guarda.",
+      "La veïna la guarda."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "«la garantia» és femení singular. El substituïm pel pronom feble «la».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -9991,10 +9991,10 @@
     "prompt": "Evita repetir «els tiquets»: «La veïna guarda els tiquets».",
     "options": [
       "La veïna el guarda.",
-      "La veïna la guarda.",
-      "La veïna els guarda."
+      "La veïna els guarda.",
+      "La veïna la guarda."
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "«els tiquets» és masculí plural. El substituïm pel pronom feble «els».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10038,11 +10038,11 @@
     "status": "published",
     "prompt": "Evita repetir «la ruta»: «El turista consulta la ruta».",
     "options": [
-      "El turista el consulta.",
       "El turista la consulta.",
+      "El turista el consulta.",
       "El turista els consulta."
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "«la ruta» és femení singular. El substituïm pel pronom feble «la».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10062,11 +10062,11 @@
     "status": "published",
     "prompt": "Evita repetir «les rutes»: «El turista consulta les rutes».",
     "options": [
-      "El turista el consulta.",
       "El turista la consulta.",
-      "El turista les consulta."
+      "El turista les consulta.",
+      "El turista el consulta."
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "«les rutes» és femení plural. El substituïm pel pronom feble «les».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10086,11 +10086,11 @@
     "status": "published",
     "prompt": "Evita repetir «el text»: «La professora corregeix el text».",
     "options": [
-      "La professora el corregeix.",
+      "La professora els corregeix.",
       "La professora la corregeix.",
-      "La professora els corregeix."
+      "La professora el corregeix."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "«el text» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10110,11 +10110,11 @@
     "status": "published",
     "prompt": "Evita repetir «la redacció»: «La professora corregeix la redacció».",
     "options": [
-      "La professora el corregeix.",
       "La professora la corregeix.",
-      "La professora els corregeix."
+      "La professora els corregeix.",
+      "La professora el corregeix."
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "«la redacció» és femení singular. El substituïm pel pronom feble «la».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10134,11 +10134,11 @@
     "status": "published",
     "prompt": "Evita repetir «els textos»: «La professora corregeix els textos».",
     "options": [
-      "La professora el corregeix.",
+      "La professora els corregeix.",
       "La professora la corregeix.",
-      "La professora els corregeix."
+      "La professora el corregeix."
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "«els textos» és masculí plural. El substituïm pel pronom feble «els».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10159,8 +10159,8 @@
     "prompt": "Evita repetir «el marc»: «El pintor pinta el marc».",
     "options": [
       "El pintor el pinta.",
-      "El pintor la pinta.",
-      "El pintor els pinta."
+      "El pintor els pinta.",
+      "El pintor la pinta."
     ],
     "answer": 0,
     "explanation": "«el marc» és masculí singular. El substituïm pel pronom feble «el».",
@@ -10182,11 +10182,11 @@
     "status": "published",
     "prompt": "Evita repetir «la cadira»: «El pintor pinta la cadira».",
     "options": [
-      "El pintor el pinta.",
       "El pintor la pinta.",
+      "El pintor el pinta.",
       "El pintor els pinta."
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "«la cadira» és femení singular. El substituïm pel pronom feble «la».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10207,10 +10207,10 @@
     "prompt": "Evita repetir «les cadires»: «El pintor pinta les cadires».",
     "options": [
       "El pintor el pinta.",
-      "El pintor la pinta.",
-      "El pintor les pinta."
+      "El pintor les pinta.",
+      "El pintor la pinta."
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "«les cadires» és femení plural. El substituïm pel pronom feble «les».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10254,9 +10254,9 @@
     "status": "published",
     "prompt": "Evita repetir «la roda»: «La mecànica canvia la roda».",
     "options": [
-      "La mecànica el canvia.",
+      "La mecànica els canvia.",
       "La mecànica la canvia.",
-      "La mecànica els canvia."
+      "La mecànica el canvia."
     ],
     "answer": 1,
     "explanation": "«la roda» és femení singular. El substituïm pel pronom feble «la».",
@@ -10278,11 +10278,11 @@
     "status": "published",
     "prompt": "Evita repetir «els pneumàtics»: «La mecànica canvia els pneumàtics».",
     "options": [
+      "La mecànica els canvia.",
       "La mecànica el canvia.",
-      "La mecànica la canvia.",
-      "La mecànica els canvia."
+      "La mecànica la canvia."
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "«els pneumàtics» és masculí plural. El substituïm pel pronom feble «els».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10302,11 +10302,11 @@
     "status": "published",
     "prompt": "Evita repetir «el sobre»: «El repartidor porta el sobre».",
     "options": [
-      "El repartidor el porta.",
       "El repartidor la porta.",
-      "El repartidor els porta."
+      "El repartidor els porta.",
+      "El repartidor el porta."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "«el sobre» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10350,8 +10350,8 @@
     "status": "published",
     "prompt": "Evita repetir «les capses»: «El repartidor porta les capses».",
     "options": [
-      "El repartidor el porta.",
       "El repartidor la porta.",
+      "El repartidor el porta.",
       "El repartidor les porta."
     ],
     "answer": 2,
@@ -10374,11 +10374,11 @@
     "status": "published",
     "prompt": "Evita repetir «el certificat»: «La metgessa signa el certificat».",
     "options": [
-      "La metgessa el signa.",
+      "La metgessa els signa.",
       "La metgessa la signa.",
-      "La metgessa els signa."
+      "La metgessa el signa."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "«el certificat» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10398,11 +10398,11 @@
     "status": "published",
     "prompt": "Evita repetir «la recepta»: «La metgessa signa la recepta».",
     "options": [
+      "La metgessa els signa.",
       "La metgessa el signa.",
-      "La metgessa la signa.",
-      "La metgessa els signa."
+      "La metgessa la signa."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "«la recepta» és femení singular. El substituïm pel pronom feble «la».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10422,11 +10422,11 @@
     "status": "published",
     "prompt": "Evita repetir «els certificats»: «La metgessa signa els certificats».",
     "options": [
+      "La metgessa els signa.",
       "La metgessa el signa.",
-      "La metgessa la signa.",
-      "La metgessa els signa."
+      "La metgessa la signa."
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "«els certificats» és masculí plural. El substituïm pel pronom feble «els».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10446,11 +10446,11 @@
     "status": "published",
     "prompt": "Evita repetir «el llibre»: «El bibliotecari busca el llibre».",
     "options": [
-      "El bibliotecari el busca.",
+      "El bibliotecari els busca.",
       "El bibliotecari la busca.",
-      "El bibliotecari els busca."
+      "El bibliotecari el busca."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "«el llibre» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10470,9 +10470,9 @@
     "status": "published",
     "prompt": "Evita repetir «la revista»: «El bibliotecari busca la revista».",
     "options": [
-      "El bibliotecari el busca.",
+      "El bibliotecari els busca.",
       "El bibliotecari la busca.",
-      "El bibliotecari els busca."
+      "El bibliotecari el busca."
     ],
     "answer": 1,
     "explanation": "«la revista» és femení singular. El substituïm pel pronom feble «la».",
@@ -10543,10 +10543,10 @@
     "prompt": "Evita repetir «l'imatge»: «La fotògrafa tria l'imatge».",
     "options": [
       "La fotògrafa el tria.",
-      "La fotògrafa la tria.",
-      "La fotògrafa els tria."
+      "La fotògrafa els tria.",
+      "La fotògrafa la tria."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "«l'imatge» és femení singular. El substituïm pel pronom feble «la».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10566,8 +10566,8 @@
     "status": "published",
     "prompt": "Evita repetir «els retrats»: «La fotògrafa tria els retrats».",
     "options": [
-      "La fotògrafa el tria.",
       "La fotògrafa la tria.",
+      "La fotògrafa el tria.",
       "La fotògrafa els tria."
     ],
     "answer": 2,
@@ -10590,11 +10590,11 @@
     "status": "published",
     "prompt": "Evita repetir «el tovalló»: «El nedador recull el tovalló».",
     "options": [
-      "El nedador el recull.",
+      "El nedador els recull.",
       "El nedador la recull.",
-      "El nedador els recull."
+      "El nedador el recull."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "«el tovalló» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10614,11 +10614,11 @@
     "status": "published",
     "prompt": "Evita repetir «la tovallola»: «El nedador recull la tovallola».",
     "options": [
-      "El nedador el recull.",
       "El nedador la recull.",
-      "El nedador els recull."
+      "El nedador els recull.",
+      "El nedador el recull."
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "«la tovallola» és femení singular. El substituïm pel pronom feble «la».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10638,11 +10638,11 @@
     "status": "published",
     "prompt": "Evita repetir «les tovalloles»: «El nedador recull les tovalloles».",
     "options": [
-      "El nedador el recull.",
       "El nedador la recull.",
-      "El nedador les recull."
+      "El nedador les recull.",
+      "El nedador el recull."
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "«les tovalloles» és femení plural. El substituïm pel pronom feble «les».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10662,11 +10662,11 @@
     "status": "published",
     "prompt": "Evita repetir «el pantaló»: «La modista planxa el pantaló».",
     "options": [
-      "La modista el planxa.",
+      "La modista els planxa.",
       "La modista la planxa.",
-      "La modista els planxa."
+      "La modista el planxa."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "«el pantaló» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10686,9 +10686,9 @@
     "status": "published",
     "prompt": "Evita repetir «la camisa»: «La modista planxa la camisa».",
     "options": [
-      "La modista el planxa.",
+      "La modista els planxa.",
       "La modista la planxa.",
-      "La modista els planxa."
+      "La modista el planxa."
     ],
     "answer": 1,
     "explanation": "«la camisa» és femení singular. El substituïm pel pronom feble «la».",
@@ -10711,10 +10711,10 @@
     "prompt": "Evita repetir «els pantalons»: «La modista planxa els pantalons».",
     "options": [
       "La modista el planxa.",
-      "La modista la planxa.",
-      "La modista els planxa."
+      "La modista els planxa.",
+      "La modista la planxa."
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "«els pantalons» és masculí plural. El substituïm pel pronom feble «els».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10734,11 +10734,11 @@
     "status": "published",
     "prompt": "Evita repetir «el calaix»: «El fuster repara el calaix».",
     "options": [
-      "El fuster el repara.",
+      "El fuster els repara.",
       "El fuster la repara.",
-      "El fuster els repara."
+      "El fuster el repara."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "«el calaix» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10783,10 +10783,10 @@
     "prompt": "Evita repetir «les prestatgeries»: «El fuster repara les prestatgeries».",
     "options": [
       "El fuster el repara.",
-      "El fuster la repara.",
-      "El fuster les repara."
+      "El fuster les repara.",
+      "El fuster la repara."
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "«les prestatgeries» és femení plural. El substituïm pel pronom feble «les».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10806,11 +10806,11 @@
     "status": "published",
     "prompt": "Evita repetir «l'instrument»: «La dentista desinfecta l'instrument».",
     "options": [
-      "La dentista el desinfecta.",
       "La dentista la desinfecta.",
-      "La dentista els desinfecta."
+      "La dentista els desinfecta.",
+      "La dentista el desinfecta."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "«l'instrument» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10830,11 +10830,11 @@
     "status": "published",
     "prompt": "Evita repetir «la safata»: «La dentista desinfecta la safata».",
     "options": [
-      "La dentista el desinfecta.",
       "La dentista la desinfecta.",
-      "La dentista els desinfecta."
+      "La dentista els desinfecta.",
+      "La dentista el desinfecta."
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "«la safata» és femení singular. El substituïm pel pronom feble «la».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10854,8 +10854,8 @@
     "status": "published",
     "prompt": "Evita repetir «els instruments»: «La dentista desinfecta els instruments».",
     "options": [
-      "La dentista el desinfecta.",
       "La dentista la desinfecta.",
+      "La dentista el desinfecta.",
       "La dentista els desinfecta."
     ],
     "answer": 2,
@@ -10878,11 +10878,11 @@
     "status": "published",
     "prompt": "Evita repetir «el full»: «El monitor reparteix el full».",
     "options": [
-      "El monitor el reparteix.",
+      "El monitor els reparteix.",
       "El monitor la reparteix.",
-      "El monitor els reparteix."
+      "El monitor el reparteix."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "«el full» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10926,11 +10926,11 @@
     "status": "published",
     "prompt": "Evita repetir «les fitxes»: «El monitor reparteix les fitxes».",
     "options": [
-      "El monitor el reparteix.",
+      "El monitor les reparteix.",
       "El monitor la reparteix.",
-      "El monitor les reparteix."
+      "El monitor el reparteix."
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "«les fitxes» és femení plural. El substituïm pel pronom feble «les».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10950,11 +10950,11 @@
     "status": "published",
     "prompt": "Evita repetir «l'article»: «La periodista redacta l'article».",
     "options": [
+      "La periodista els redacta.",
       "La periodista el redacta.",
-      "La periodista la redacta.",
-      "La periodista els redacta."
+      "La periodista la redacta."
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "«l'article» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -10974,9 +10974,9 @@
     "status": "published",
     "prompt": "Evita repetir «la notícia»: «La periodista redacta la notícia».",
     "options": [
-      "La periodista el redacta.",
+      "La periodista els redacta.",
       "La periodista la redacta.",
-      "La periodista els redacta."
+      "La periodista el redacta."
     ],
     "answer": 1,
     "explanation": "«la notícia» és femení singular. El substituïm pel pronom feble «la».",
@@ -11022,11 +11022,11 @@
     "status": "published",
     "prompt": "Evita repetir «el permís»: «El gestor tramita el permís».",
     "options": [
-      "El gestor el tramita.",
+      "El gestor els tramita.",
       "El gestor la tramita.",
-      "El gestor els tramita."
+      "El gestor el tramita."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "«el permís» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11094,11 +11094,11 @@
     "status": "published",
     "prompt": "Evita repetir «l'aliment»: «La voluntària classifica l'aliment».",
     "options": [
+      "La voluntària els classifica.",
       "La voluntària el classifica.",
-      "La voluntària la classifica.",
-      "La voluntària els classifica."
+      "La voluntària la classifica."
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "«l'aliment» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11118,11 +11118,11 @@
     "status": "published",
     "prompt": "Evita repetir «la joguina»: «La voluntària classifica la joguina».",
     "options": [
-      "La voluntària el classifica.",
       "La voluntària la classifica.",
+      "La voluntària el classifica.",
       "La voluntària els classifica."
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "«la joguina» és femení singular. El substituïm pel pronom feble «la».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11167,8 +11167,8 @@
     "prompt": "Evita repetir «el portal»: «El porter tanca el portal».",
     "options": [
       "El porter el tanca.",
-      "El porter la tanca.",
-      "El porter els tanca."
+      "El porter els tanca.",
+      "El porter la tanca."
     ],
     "answer": 0,
     "explanation": "«el portal» és masculí singular. El substituïm pel pronom feble «el».",
@@ -11190,9 +11190,9 @@
     "status": "published",
     "prompt": "Evita repetir «la bústia»: «El porter tanca la bústia».",
     "options": [
-      "El porter el tanca.",
+      "El porter els tanca.",
       "El porter la tanca.",
-      "El porter els tanca."
+      "El porter el tanca."
     ],
     "answer": 1,
     "explanation": "«la bústia» és femení singular. El substituïm pel pronom feble «la».",
@@ -11215,10 +11215,10 @@
     "prompt": "Evita repetir «les bústies»: «El porter tanca les bústies».",
     "options": [
       "El porter el tanca.",
-      "El porter la tanca.",
-      "El porter les tanca."
+      "El porter les tanca.",
+      "El porter la tanca."
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "«les bústies» és femení plural. El substituïm pel pronom feble «les».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11239,8 +11239,8 @@
     "prompt": "Evita repetir «l'abric»: «La mare penja l'abric».",
     "options": [
       "La mare el penja.",
-      "La mare la penja.",
-      "La mare els penja."
+      "La mare els penja.",
+      "La mare la penja."
     ],
     "answer": 0,
     "explanation": "«l'abric» és masculí singular. El substituïm pel pronom feble «el».",
@@ -11262,9 +11262,9 @@
     "status": "published",
     "prompt": "Evita repetir «la jaqueta»: «La mare penja la jaqueta».",
     "options": [
-      "La mare el penja.",
+      "La mare els penja.",
       "La mare la penja.",
-      "La mare els penja."
+      "La mare el penja."
     ],
     "answer": 1,
     "explanation": "«la jaqueta» és femení singular. El substituïm pel pronom feble «la».",
@@ -11310,11 +11310,11 @@
     "status": "published",
     "prompt": "Evita repetir «el violí»: «El músic transporta el violí».",
     "options": [
-      "El músic el transporta.",
       "El músic la transporta.",
+      "El músic el transporta.",
       "El músic els transporta."
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "«el violí» és masculí singular. El substituïm pel pronom feble «el».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11358,11 +11358,11 @@
     "status": "published",
     "prompt": "Evita repetir «les guitarres»: «El músic transporta les guitarres».",
     "options": [
+      "El músic les transporta.",
       "El músic el transporta.",
-      "El músic la transporta.",
-      "El músic les transporta."
+      "El músic la transporta."
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "«les guitarres» és femení plural. El substituïm pel pronom feble «les».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11383,8 +11383,8 @@
     "prompt": "Evita repetir «el contracte»: «La secretària arxiva el contracte».",
     "options": [
       "La secretària l'arxiva.",
-      "La secretària els arxiva.",
-      "La secretària les arxiva."
+      "La secretària les arxiva.",
+      "La secretària els arxiva."
     ],
     "answer": 0,
     "explanation": "«el contracte» és masculí singular. El substituïm pel pronom feble «el», que davant del verb queda l'.",
@@ -11407,10 +11407,10 @@
     "prompt": "Evita repetir «la carta»: «La secretària arxiva la carta».",
     "options": [
       "La secretària els arxiva.",
-      "La secretària l'arxiva.",
-      "La secretària les arxiva."
+      "La secretària les arxiva.",
+      "La secretària l'arxiva."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "«la carta» és femení singular. El substituïm pel pronom feble «la», que davant del verb queda l'.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11430,11 +11430,11 @@
     "status": "published",
     "prompt": "Evita repetir «els contractes»: «La secretària arxiva els contractes».",
     "options": [
-      "La secretària l'arxiva.",
       "La secretària les arxiva.",
-      "La secretària els arxiva."
+      "La secretària els arxiva.",
+      "La secretària l'arxiva."
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "«els contractes» és masculí plural. El substituïm pel pronom feble «els».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11454,11 +11454,11 @@
     "status": "published",
     "prompt": "Evita repetir «el prestatge»: «El muntador instal·la el prestatge».",
     "options": [
-      "El muntador l'instal·la.",
       "El muntador els instal·la.",
-      "El muntador les instal·la."
+      "El muntador les instal·la.",
+      "El muntador l'instal·la."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "«el prestatge» és masculí singular. El substituïm pel pronom feble «el», que davant del verb queda l'.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11478,9 +11478,9 @@
     "status": "published",
     "prompt": "Evita repetir «la pantalla»: «El muntador instal·la la pantalla».",
     "options": [
-      "El muntador els instal·la.",
+      "El muntador les instal·la.",
       "El muntador l'instal·la.",
-      "El muntador les instal·la."
+      "El muntador els instal·la."
     ],
     "answer": 1,
     "explanation": "«la pantalla» és femení singular. El substituïm pel pronom feble «la», que davant del verb queda l'.",
@@ -11502,11 +11502,11 @@
     "status": "published",
     "prompt": "Evita repetir «les pantalles»: «El muntador instal·la les pantalles».",
     "options": [
+      "El muntador les instal·la.",
       "El muntador l'instal·la.",
-      "El muntador els instal·la.",
-      "El muntador les instal·la."
+      "El muntador els instal·la."
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "«les pantalles» és femení plural. El substituïm pel pronom feble «les».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11526,11 +11526,11 @@
     "status": "published",
     "prompt": "Evita repetir «a la coordinadora»: «La recepcionista envia una resposta a la coordinadora».",
     "options": [
-      "La recepcionista li envia una resposta.",
+      "La recepcionista la envia una resposta.",
       "La recepcionista els envia una resposta.",
-      "La recepcionista la envia una resposta."
+      "La recepcionista li envia una resposta."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "El destinatari és «la coordinadora». El substituïm pel pronom feble li, perquè parlem d'una sola persona.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11550,9 +11550,9 @@
     "status": "published",
     "prompt": "Evita repetir «als monitors»: «El dependent envia una resposta als monitors».",
     "options": [
-      "El dependent li envia una resposta.",
+      "El dependent les envia una resposta.",
       "El dependent els envia una resposta.",
-      "El dependent les envia una resposta."
+      "El dependent li envia una resposta."
     ],
     "answer": 1,
     "explanation": "El destinatari és «els monitors». El substituïm pel pronom feble els, perquè parlem de diverses persones.",
@@ -11575,10 +11575,10 @@
     "prompt": "Evita repetir «a la família»: «La guia envia una resposta a la família».",
     "options": [
       "La guia els envia una resposta.",
-      "La guia la envia una resposta.",
-      "La guia li envia una resposta."
+      "La guia li envia una resposta.",
+      "La guia la envia una resposta."
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "El destinatari és «la família». El substituïm pel pronom feble li, perquè parlem d'una sola persona.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11598,11 +11598,11 @@
     "status": "published",
     "prompt": "Evita repetir «a les delegades»: «El tècnic envia una resposta a les delegades».",
     "options": [
-      "El tècnic els envia una resposta.",
+      "El tècnic les envia una resposta.",
       "El tècnic li envia una resposta.",
-      "El tècnic les envia una resposta."
+      "El tècnic els envia una resposta."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "El destinatari és «les delegades». El substituïm pel pronom feble els, perquè parlem de diverses persones.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11622,11 +11622,11 @@
     "status": "published",
     "prompt": "Evita repetir «al proveïdor»: «La cuinera envia una resposta al proveïdor».",
     "options": [
-      "La cuinera els envia una resposta.",
       "La cuinera li envia una resposta.",
+      "La cuinera els envia una resposta.",
       "La cuinera la envia una resposta."
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "El destinatari és «el proveïdor». El substituïm pel pronom feble li, perquè parlem d'una sola persona.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11646,11 +11646,11 @@
     "status": "published",
     "prompt": "Evita repetir «a les clientes»: «El conserge envia una resposta a les clientes».",
     "options": [
-      "El conserge li envia una resposta.",
+      "El conserge els envia una resposta.",
       "El conserge les envia una resposta.",
-      "El conserge els envia una resposta."
+      "El conserge li envia una resposta."
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "El destinatari és «les clientes». El substituïm pel pronom feble els, perquè parlem de diverses persones.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11694,11 +11694,11 @@
     "status": "published",
     "prompt": "Evita repetir «als alumnes»: «El client envia una resposta als alumnes».",
     "options": [
-      "El client li envia una resposta.",
       "El client els envia una resposta.",
+      "El client li envia una resposta.",
       "El client les envia una resposta."
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "El destinatari és «els alumnes». El substituïm pel pronom feble els, perquè parlem de diverses persones.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11790,11 +11790,11 @@
     "status": "published",
     "prompt": "Evita repetir «als tècnics»: «El pintor envia una resposta als tècnics».",
     "options": [
+      "El pintor els envia una resposta.",
       "El pintor li envia una resposta.",
-      "El pintor les envia una resposta.",
-      "El pintor els envia una resposta."
+      "El pintor les envia una resposta."
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "El destinatari és «els tècnics». El substituïm pel pronom feble els, perquè parlem de diverses persones.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11814,11 +11814,11 @@
     "status": "published",
     "prompt": "Evita repetir «a la veïna»: «La mecànica envia una resposta a la veïna».",
     "options": [
+      "La mecànica la envia una resposta.",
       "La mecànica li envia una resposta.",
-      "La mecànica els envia una resposta.",
-      "La mecànica la envia una resposta."
+      "La mecànica els envia una resposta."
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "El destinatari és «la veïna». El substituïm pel pronom feble li, perquè parlem d'una sola persona.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11838,11 +11838,11 @@
     "status": "published",
     "prompt": "Evita repetir «a les professores»: «El repartidor envia una resposta a les professores».",
     "options": [
-      "El repartidor li envia una resposta.",
       "El repartidor els envia una resposta.",
-      "El repartidor les envia una resposta."
+      "El repartidor les envia una resposta.",
+      "El repartidor li envia una resposta."
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "El destinatari és «les professores». El substituïm pel pronom feble els, perquè parlem de diverses persones.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11862,11 +11862,11 @@
     "status": "published",
     "prompt": "Evita repetir «al gestor»: «La metgessa envia una resposta al gestor».",
     "options": [
-      "La metgessa els envia una resposta.",
       "La metgessa la envia una resposta.",
-      "La metgessa li envia una resposta."
+      "La metgessa li envia una resposta.",
+      "La metgessa els envia una resposta."
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "El destinatari és «el gestor». El substituïm pel pronom feble li, perquè parlem d'una sola persona.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11911,10 +11911,10 @@
     "prompt": "Evita repetir «a la propietària»: «La fotògrafa envia una resposta a la propietària».",
     "options": [
       "La fotògrafa els envia una resposta.",
-      "La fotògrafa li envia una resposta.",
-      "La fotògrafa la envia una resposta."
+      "La fotògrafa la envia una resposta.",
+      "La fotògrafa li envia una resposta."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "El destinatari és «la propietària». El substituïm pel pronom feble li, perquè parlem d'una sola persona.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11935,10 +11935,10 @@
     "prompt": "Evita repetir «a les voluntàries»: «El nedador envia una resposta a les voluntàries».",
     "options": [
       "El nedador li envia una resposta.",
-      "El nedador les envia una resposta.",
-      "El nedador els envia una resposta."
+      "El nedador els envia una resposta.",
+      "El nedador les envia una resposta."
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "El destinatari és «les voluntàries». El substituïm pel pronom feble els, perquè parlem de diverses persones.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -11958,11 +11958,11 @@
     "status": "published",
     "prompt": "Evita repetir «al periodista»: «La modista envia una resposta al periodista».",
     "options": [
-      "La modista li envia una resposta.",
       "La modista els envia una resposta.",
-      "La modista la envia una resposta."
+      "La modista la envia una resposta.",
+      "La modista li envia una resposta."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "El destinatari és «el periodista». El substituïm pel pronom feble li, perquè parlem d'una sola persona.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12006,11 +12006,11 @@
     "status": "published",
     "prompt": "Evita repetir «a la directora»: «La dentista envia una resposta a la directora».",
     "options": [
-      "La dentista els envia una resposta.",
       "La dentista la envia una resposta.",
-      "La dentista li envia una resposta."
+      "La dentista li envia una resposta.",
+      "La dentista els envia una resposta."
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "El destinatari és «la directora». El substituïm pel pronom feble li, perquè parlem d'una sola persona.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12030,11 +12030,11 @@
     "status": "published",
     "prompt": "Evita repetir «a les sòcies»: «El monitor envia una resposta a les sòcies».",
     "options": [
-      "El monitor els envia una resposta.",
       "El monitor li envia una resposta.",
-      "El monitor les envia una resposta."
+      "El monitor les envia una resposta.",
+      "El monitor els envia una resposta."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "El destinatari és «les sòcies». El substituïm pel pronom feble els, perquè parlem de diverses persones.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12055,10 +12055,10 @@
     "prompt": "Evita repetir «al missatger»: «La periodista envia una resposta al missatger».",
     "options": [
       "La periodista els envia una resposta.",
-      "La periodista li envia una resposta.",
-      "La periodista la envia una resposta."
+      "La periodista la envia una resposta.",
+      "La periodista li envia una resposta."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "El destinatari és «el missatger». El substituïm pel pronom feble li, perquè parlem d'una sola persona.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12079,10 +12079,10 @@
     "prompt": "Evita repetir «als familiars»: «El gestor envia una resposta als familiars».",
     "options": [
       "El gestor li envia una resposta.",
-      "El gestor les envia una resposta.",
-      "El gestor els envia una resposta."
+      "El gestor els envia una resposta.",
+      "El gestor les envia una resposta."
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "El destinatari és «els familiars». El substituïm pel pronom feble els, perquè parlem de diverses persones.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12102,11 +12102,11 @@
     "status": "published",
     "prompt": "Evita repetir «a la secretària»: «La voluntària envia una resposta a la secretària».",
     "options": [
-      "La voluntària li envia una resposta.",
+      "La voluntària la envia una resposta.",
       "La voluntària els envia una resposta.",
-      "La voluntària la envia una resposta."
+      "La voluntària li envia una resposta."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "El destinatari és «la secretària». El substituïm pel pronom feble li, perquè parlem d'una sola persona.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12126,11 +12126,11 @@
     "status": "published",
     "prompt": "Evita repetir «a les convidades»: «El porter envia una resposta a les convidades».",
     "options": [
-      "El porter li envia una resposta.",
       "El porter els envia una resposta.",
+      "El porter li envia una resposta.",
       "El porter les envia una resposta."
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "El destinatari és «les convidades». El substituïm pel pronom feble els, perquè parlem de diverses persones.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12150,11 +12150,11 @@
     "status": "published",
     "prompt": "Evita repetir «al responsable»: «La mare envia una resposta al responsable».",
     "options": [
-      "La mare els envia una resposta.",
+      "La mare li envia una resposta.",
       "La mare la envia una resposta.",
-      "La mare li envia una resposta."
+      "La mare els envia una resposta."
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "El destinatari és «el responsable». El substituïm pel pronom feble li, perquè parlem d'una sola persona.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12174,11 +12174,11 @@
     "status": "published",
     "prompt": "Evita repetir «als participants»: «El músic envia una resposta als participants».",
     "options": [
-      "El músic els envia una resposta.",
       "El músic li envia una resposta.",
-      "El músic les envia una resposta."
+      "El músic les envia una resposta.",
+      "El músic els envia una resposta."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "El destinatari és «els participants». El substituïm pel pronom feble els, perquè parlem de diverses persones.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12198,9 +12198,9 @@
     "status": "published",
     "prompt": "Evita repetir «a la tutora»: «La secretària envia una resposta a la tutora».",
     "options": [
-      "La secretària els envia una resposta.",
+      "La secretària la envia una resposta.",
       "La secretària li envia una resposta.",
-      "La secretària la envia una resposta."
+      "La secretària els envia una resposta."
     ],
     "answer": 1,
     "explanation": "El destinatari és «la tutora». El substituïm pel pronom feble li, perquè parlem d'una sola persona.",
@@ -12222,11 +12222,11 @@
     "status": "published",
     "prompt": "Evita repetir «a les companyes»: «El muntador envia una resposta a les companyes».",
     "options": [
-      "El muntador li envia una resposta.",
+      "El muntador els envia una resposta.",
       "El muntador les envia una resposta.",
-      "El muntador els envia una resposta."
+      "El muntador li envia una resposta."
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "El destinatari és «les companyes». El substituïm pel pronom feble els, perquè parlem de diverses persones.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12247,8 +12247,8 @@
     "prompt": "Completa: «Quina quantitat de coixins compro? ___ compro dos.»",
     "options": [
       "En",
-      "Hi",
-      "Ho"
+      "Ho",
+      "Hi"
     ],
     "answer": 0,
     "explanation": "El pronom feble en substitueix «coixins». Conservem «dos» perquè indica la quantitat.",
@@ -12270,11 +12270,11 @@
     "status": "published",
     "prompt": "Completa: «Quina quantitat de entrades reservo? ___ reservo quatre.»",
     "options": [
-      "Hi",
       "En",
-      "Ho"
+      "Ho",
+      "Hi"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "El pronom feble en substitueix «entrades». Conservem «quatre» perquè indica la quantitat.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12294,11 +12294,11 @@
     "status": "published",
     "prompt": "Completa: «Quina quantitat de galetes preparo? ___ preparo dotze.»",
     "options": [
+      "En",
       "Hi",
-      "Ho",
-      "En"
+      "Ho"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "El pronom feble en substitueix «galetes». Conservem «dotze» perquè indica la quantitat.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12318,11 +12318,11 @@
     "status": "published",
     "prompt": "Completa: «Quina quantitat de retoladors necessito? ___ necessito cinc.»",
     "options": [
-      "En",
       "Hi",
-      "Ho"
+      "Ho",
+      "En"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "El pronom feble en substitueix «retoladors». Conservem «cinc» perquè indica la quantitat.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12367,10 +12367,10 @@
     "prompt": "Completa: «Quina quantitat de fotocòpies demano? ___ demano sis.»",
     "options": [
       "Hi",
-      "Ho",
-      "En"
+      "En",
+      "Ho"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "El pronom feble en substitueix «fotocòpies». Conservem «sis» perquè indica la quantitat.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12390,11 +12390,11 @@
     "status": "published",
     "prompt": "Completa: «Quina quantitat de ampolles guardo? ___ guardo dues.»",
     "options": [
-      "En",
+      "Ho",
       "Hi",
-      "Ho"
+      "En"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "El pronom feble en substitueix «ampolles». Conservem «dues» perquè indica la quantitat.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12415,10 +12415,10 @@
     "prompt": "Completa: «Quina quantitat de bitllets venc? ___ venc deu.»",
     "options": [
       "Hi",
-      "En",
-      "Ho"
+      "Ho",
+      "En"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "El pronom feble en substitueix «bitllets». Conservem «deu» perquè indica la quantitat.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12438,11 +12438,11 @@
     "status": "published",
     "prompt": "Completa: «Quina quantitat de cadires reparo? ___ reparo vuit.»",
     "options": [
-      "Hi",
       "Ho",
-      "En"
+      "En",
+      "Hi"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "El pronom feble en substitueix «cadires». Conservem «vuit» perquè indica la quantitat.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12462,11 +12462,11 @@
     "status": "published",
     "prompt": "Completa: «Quina quantitat de tasses rento? ___ rento set.»",
     "options": [
+      "Ho",
       "En",
-      "Hi",
-      "Ho"
+      "Hi"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "El pronom feble en substitueix «tasses». Conservem «set» perquè indica la quantitat.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12486,9 +12486,9 @@
     "status": "published",
     "prompt": "Evita repetir el lloc «al laboratori»: «La Berta treballa al laboratori».",
     "options": [
-      "La Berta en treballa.",
+      "La Berta ho treballa.",
       "La Berta hi treballa.",
-      "La Berta ho treballa."
+      "La Berta en treballa."
     ],
     "answer": 1,
     "explanation": "El pronom feble hi ens permet parlar d'aquest lloc sense repetir-ne el nom: al laboratori.",
@@ -12511,10 +12511,10 @@
     "prompt": "Evita repetir el lloc «a la cantina»: «En Karim dina a la cantina».",
     "options": [
       "En Karim en dina.",
-      "En Karim ho dina.",
-      "En Karim hi dina."
+      "En Karim hi dina.",
+      "En Karim ho dina."
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "El pronom feble hi ens permet parlar d'aquest lloc sense repetir-ne el nom: a la cantina.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12534,11 +12534,11 @@
     "status": "published",
     "prompt": "Evita repetir el lloc «al local de música»: «La Paula assaja al local de música».",
     "options": [
-      "La Paula hi assaja.",
+      "La Paula ho assaja.",
       "La Paula en assaja.",
-      "La Paula ho assaja."
+      "La Paula hi assaja."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "El pronom feble hi ens permet parlar d'aquest lloc sense repetir-ne el nom: al local de música.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12582,11 +12582,11 @@
     "status": "published",
     "prompt": "Evita repetir el lloc «a la masia»: «La Sílvia viu a la masia».",
     "options": [
-      "La Sílvia en viu.",
       "La Sílvia ho viu.",
-      "La Sílvia hi viu."
+      "La Sílvia hi viu.",
+      "La Sílvia en viu."
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "El pronom feble hi ens permet parlar d'aquest lloc sense repetir-ne el nom: a la masia.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12606,11 +12606,11 @@
     "status": "published",
     "prompt": "Evita repetir el lloc «a la residència»: «En Biel estudia a la residència».",
     "options": [
-      "En Biel hi estudia.",
+      "En Biel ho estudia.",
       "En Biel en estudia.",
-      "En Biel ho estudia."
+      "En Biel hi estudia."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "El pronom feble hi ens permet parlar d'aquest lloc sense repetir-ne el nom: a la residència.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12630,11 +12630,11 @@
     "status": "published",
     "prompt": "Evita repetir el lloc «al jardí botànic»: «La Nora descansa al jardí botànic».",
     "options": [
-      "La Nora en descansa.",
       "La Nora hi descansa.",
-      "La Nora ho descansa."
+      "La Nora ho descansa.",
+      "La Nora en descansa."
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "El pronom feble hi ens permet parlar d'aquest lloc sense repetir-ne el nom: al jardí botànic.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12654,8 +12654,8 @@
     "status": "published",
     "prompt": "Evita repetir el lloc «al poliesportiu»: «En Roc entrena al poliesportiu».",
     "options": [
-      "En Roc en entrena.",
       "En Roc ho entrena.",
+      "En Roc en entrena.",
       "En Roc hi entrena."
     ],
     "answer": 2,
@@ -12679,8 +12679,8 @@
     "prompt": "Evita repetir el lloc «pel passeig marítim»: «La Joana passeja pel passeig marítim».",
     "options": [
       "La Joana hi passeja.",
-      "La Joana en passeja.",
-      "La Joana ho passeja."
+      "La Joana ho passeja.",
+      "La Joana en passeja."
     ],
     "answer": 0,
     "explanation": "El pronom feble hi ens permet parlar d'aquest lloc sense repetir-ne el nom: pel passeig marítim.",
@@ -12702,11 +12702,11 @@
     "status": "published",
     "prompt": "Evita repetir el lloc «a la parada del tramvia»: «En Nil espera a la parada del tramvia».",
     "options": [
+      "En Nil ho espera.",
       "En Nil en espera.",
-      "En Nil hi espera.",
-      "En Nil ho espera."
+      "En Nil hi espera."
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "El pronom feble hi ens permet parlar d'aquest lloc sense repetir-ne el nom: a la parada del tramvia.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12726,11 +12726,11 @@
     "status": "published",
     "prompt": "Substitueix «això»: «El responsable confirma això».",
     "options": [
-      "El responsable hi confirma.",
       "El responsable en confirma.",
-      "El responsable ho confirma."
+      "El responsable ho confirma.",
+      "El responsable hi confirma."
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "El pronom feble ho substitueix «això». Així evitem repetir la mateixa idea.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12751,8 +12751,8 @@
     "prompt": "Substitueix «això»: «La directora comunica això».",
     "options": [
       "La directora ho comunica.",
-      "La directora hi comunica.",
-      "La directora en comunica."
+      "La directora en comunica.",
+      "La directora hi comunica."
     ],
     "answer": 0,
     "explanation": "El pronom feble ho substitueix «això». Així evitem repetir la mateixa idea.",
@@ -12823,8 +12823,8 @@
     "prompt": "Substitueix «això»: «El públic celebra això».",
     "options": [
       "El públic ho celebra.",
-      "El públic hi celebra.",
-      "El públic en celebra."
+      "El públic en celebra.",
+      "El públic hi celebra."
     ],
     "answer": 0,
     "explanation": "El pronom feble ho substitueix «això». Així evitem repetir la mateixa idea.",
@@ -12870,8 +12870,8 @@
     "status": "published",
     "prompt": "Substitueix «això»: «El candidat promet això».",
     "options": [
-      "El candidat hi promet.",
       "El candidat en promet.",
+      "El candidat hi promet.",
       "El candidat ho promet."
     ],
     "answer": 2,
@@ -12894,11 +12894,11 @@
     "status": "published",
     "prompt": "Substitueix «això»: «La coordinadora reconeix això».",
     "options": [
-      "La coordinadora ho reconeix.",
       "La coordinadora hi reconeix.",
-      "La coordinadora en reconeix."
+      "La coordinadora en reconeix.",
+      "La coordinadora ho reconeix."
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "El pronom feble ho substitueix «això». Així evitem repetir la mateixa idea.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
@@ -12918,11 +12918,11 @@
     "status": "published",
     "prompt": "Substitueix «això»: «El periodista pregunta això».",
     "options": [
-      "El periodista hi pregunta.",
       "El periodista ho pregunta.",
-      "El periodista en pregunta."
+      "El periodista en pregunta.",
+      "El periodista hi pregunta."
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "El pronom feble ho substitueix «això». Així evitem repetir la mateixa idea.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/66/37-els-pronoms-febles",
