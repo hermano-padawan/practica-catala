@@ -816,19 +816,19 @@
     "level": "B2",
     "topic": "accentuacio",
     "status": "published",
-    "prompt": "Escull el derivat correcte de continu.",
+    "prompt": "Completa: «Cal donar ___ al projecte perquè no s'aturi».",
     "options": [
       "continuitat",
       "continüitat",
       "continuïtat"
     ],
     "answer": 2,
-    "explanation": "El derivat amb el sufix -itat és continuïtat i porta dièresi.",
+    "explanation": "Continuïtat vol dir que una cosa segueix sense aturar-se. Diem con-ti-nu-ï-tat: la u i la i van en síl·labes diferents. Per indicar-ho, posem els dos puntets damunt la i: continuïtat.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/12/19-la-dieresi",
       "locator": "Derivats amb -itat i -itzar, línies 149-163"
     },
-    "reviewedAt": "2026-09-24",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-ort-020",
     "exerciseType": "ortografia contextual",
