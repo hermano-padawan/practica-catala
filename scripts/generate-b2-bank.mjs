@@ -470,7 +470,7 @@ const spellingGroups=[
 ["jaqueta","gaqueta","Penja la ___ al penjador de l'entrada."],
 ["joguina","goguina","A la botiga li han regalat una ___ de fusta."],
 ["justícia","gustícia","L'associació defensa la igualtat i la ___."],
-["jove","gove","El voluntari més ___ encara estudia."]
+["jove","jova","El voluntari més ___ encara estudia."]
 ]],
 ["r/rr","En aquest context escrivim «{word}». Compara el so d'una sola r amb el de rr entre vocals.",[
 ["carro","caro","El pagès transporta eines en un ___."],
