@@ -751,6 +751,8 @@ bank.find(q => q.id === "b2-propi-0722").prompt = "PER EXPRESSAR CONTRAST.";
 
 bank.find(q => q.id === "b2-propi-0686").prompt = "PER EXPRESSAR UN MOTIU";
 
+bank.find(q => q.id === "b2-propi-0946").prompt = "COMPRENSIÓ LECTORA: «La sala d'estudi tanca per obres, però el préstec continua. Per estudiar, podeu anar al casal.» Quina frase resumeix millor l'avís?";
+
 // Posicions equilibrades i barrejades en tot B2, independents del tipus d'exercici.
 {
  let positionState=2026101628;
