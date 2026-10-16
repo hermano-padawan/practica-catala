@@ -5764,7 +5764,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «nou» que concorda amb el nom: «una sala ___».",
+    "prompt": "Una sala ___.",
     "options": [
       "nou",
       "nous",
@@ -5788,7 +5788,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «blanc» que concorda amb el nom: «una tovallola ___».",
+    "prompt": "Una tovallola ___.",
     "options": [
       "blanc",
       "blanca",
@@ -5812,7 +5812,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «llarg» que concorda amb el nom: «una caminada ___».",
+    "prompt": "Una caminada ___.",
     "options": [
       "llarg",
       "llargs",
@@ -5836,7 +5836,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «ample» que concorda amb el nom: «una entrada ___».",
+    "prompt": "Una entrada ___.",
     "options": [
       "amples",
       "ampla",
@@ -5860,7 +5860,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «estret» que concorda amb el nom: «una vorera ___».",
+    "prompt": "Una vorera ___.",
     "options": [
       "estreta",
       "estrets",
@@ -5884,7 +5884,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «net» que concorda amb el nom: «una cuina ___».",
+    "prompt": "Una cuina ___.",
     "options": [
       "nets",
       "net",
@@ -5908,7 +5908,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «brut» que concorda amb el nom: «una sabata ___».",
+    "prompt": "Una sabata ___.",
     "options": [
       "bruts",
       "bruta",
@@ -5932,7 +5932,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «petit» que concorda amb el nom: «una motxilla ___».",
+    "prompt": "Una motxilla ___.",
     "options": [
       "petit",
       "petita",
@@ -5956,7 +5956,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «alt» que concorda amb el nom: «una torre ___».",
+    "prompt": "Una torre ___.",
     "options": [
       "alts",
       "alta",
@@ -5980,7 +5980,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «baix» que concorda amb el nom: «una taula ___».",
+    "prompt": "Una taula ___.",
     "options": [
       "baixa",
       "baixos",
@@ -6004,7 +6004,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «vermell» que concorda amb el nom: «una carpeta ___».",
+    "prompt": "Una carpeta ___.",
     "options": [
       "vermell",
       "vermella",
@@ -6028,7 +6028,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «groc» que concorda amb el nom: «una flor ___».",
+    "prompt": "Una flor ___.",
     "options": [
       "groga",
       "groc",
@@ -6052,7 +6052,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «verd» que concorda amb el nom: «una fulla ___».",
+    "prompt": "Una fulla ___.",
     "options": [
       "verd",
       "verda",
@@ -6076,7 +6076,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «sec» que concorda amb el nom: «una branca ___».",
+    "prompt": "Una branca ___.",
     "options": [
       "sec",
       "seca",
@@ -6100,7 +6100,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «fresc» que concorda amb el nom: «una beguda ___».",
+    "prompt": "Una beguda ___.",
     "options": [
       "frescos",
       "fresca",
@@ -6124,7 +6124,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «dur» que concorda amb el nom: «una superfície ___».",
+    "prompt": "Una superfície ___.",
     "options": [
       "dur",
       "dura",
@@ -6148,7 +6148,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «tou» que concorda amb el nom: «una manta ___».",
+    "prompt": "Una manta ___.",
     "options": [
       "tova",
       "tous",
@@ -6172,7 +6172,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «clar» que concorda amb el nom: «una explicació ___».",
+    "prompt": "Una explicació ___.",
     "options": [
       "clara",
       "clar",
@@ -6196,7 +6196,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «fosc» que concorda amb el nom: «una habitació ___».",
+    "prompt": "Una habitació ___.",
     "options": [
       "foscos",
       "fosca",
@@ -6220,7 +6220,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «ple» que concorda amb el nom: «una capsa ___».",
+    "prompt": "Una capsa ___.",
     "options": [
       "plena",
       "ple",
@@ -6244,7 +6244,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «buit» que concorda amb el nom: «una ampolla ___».",
+    "prompt": "Una ampolla ___.",
     "options": [
       "buits",
       "buit",
@@ -6268,7 +6268,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «tranquil» que concorda amb el nom: «una plaça ___».",
+    "prompt": "Una plaça ___.",
     "options": [
       "tranquil·la",
       "tranquils",
@@ -6292,7 +6292,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «còmode» que concorda amb el nom: «una cadira ___».",
+    "prompt": "Una cadira ___.",
     "options": [
       "còmoda",
       "còmodes",
@@ -6316,7 +6316,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «econòmic» que concorda amb el nom: «una excursió ___».",
+    "prompt": "Una excursió ___.",
     "options": [
       "econòmics",
       "econòmica",
@@ -6340,7 +6340,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «car» que concorda amb el nom: «una reparació ___».",
+    "prompt": "Una reparació ___.",
     "options": [
       "cara",
       "cars",
@@ -6364,7 +6364,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «bonic» que concorda amb el nom: «una fotografia ___».",
+    "prompt": "Una fotografia ___.",
     "options": [
       "bonics",
       "bonica",
@@ -6388,7 +6388,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «antic» que concorda amb el nom: «una moneda ___».",
+    "prompt": "Una moneda ___.",
     "options": [
       "antics",
       "antiga",
@@ -6412,7 +6412,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «modern» que concorda amb el nom: «una instal·lació ___».",
+    "prompt": "Una instal·lació ___.",
     "options": [
       "moderns",
       "moderna",
@@ -6436,7 +6436,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «pràctic» que concorda amb el nom: «una solució ___».",
+    "prompt": "Una solució ___.",
     "options": [
       "pràctica",
       "pràctic",
@@ -6460,7 +6460,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Completa amb la forma de «lluminós» que concorda amb el nom: «una aula ___».",
+    "prompt": "Una aula ___.",
     "options": [
       "lluminós",
       "lluminosos",

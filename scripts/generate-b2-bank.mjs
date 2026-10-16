@@ -117,7 +117,7 @@ const agreement=[
 for(const [m,f,mp,fp,,nf]of agreement){
  for(const [noun,correct,kind]of [[nf,f,"femení singular"]]){
  const wrong=[...new Set([m,f,mp,fp].filter(x=>x!==correct))].slice(0,2);
- add("lexic","Completa amb la forma de «"+m+"» que concorda amb el nom: «"+noun+" ___».",correct,wrong,
+ add("lexic",noun.charAt(0).toUpperCase()+noun.slice(1)+" ___.",correct,wrong,
  "«"+noun+"» és "+kind+". L'adjectiu també ha de concordar-hi: "+noun+" "+correct+".","morfologia nominal","concordança");
  }}
 
