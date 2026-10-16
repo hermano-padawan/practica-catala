@@ -1044,18 +1044,18 @@
     "level": "B2",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Selecciona quina forma és correcta davant del nom Imma?",
+    "prompt": "Com escrivim l'article davant d'Imma?",
     "options": [
       "la Imma",
       "l'Imma"
     ],
     "answer": 1,
-    "explanation": "Imma comença per una i tònica i l'article femení s'apostrofa.",
+    "explanation": "Diem IM-ma: la i del començament sona fort, és tònica. Per això, l’article femení \"la\" s’apostrofa: l’Imma. En canvi, diem la Immaculada perquè la seva i inicial no és tònica.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions",
       "locator": "Imma i Immaculada, línies 139-140"
     },
-    "reviewedAt": "2026-09-24",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-apo-030",
     "exerciseType": "ortografia contextual",
