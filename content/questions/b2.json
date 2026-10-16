@@ -31,10 +31,10 @@
     "prompt": "La setmana vinent, tu ___ a l'estació amb prou temps.",
     "options": [
       "arribaré",
-      "arribarà",
-      "arribaràs"
+      "arribaràs",
+      "arribarà"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "El subjecte és «tu». La forma d'arribar que hi concorda en el futur és «arribaràs».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/46/13-els-verbs",
