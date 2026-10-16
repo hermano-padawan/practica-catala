@@ -1268,13 +1268,13 @@
     "level": "B2",
     "topic": "apostrofacio",
     "status": "published",
-    "prompt": "Selecciona quina forma indica correctament l'hora?",
+    "prompt": "Com escrivim aquesta hora?",
     "options": [
       "l'una de la matinada",
       "la una de la matinada"
     ],
     "answer": 1,
-    "explanation": "Quan una designa l'hora, s'escriu la una de la matinada, sense apostrofar.",
+    "explanation": "Quan diem quina hora és, escrivim \"la una\", sense apòstrof. És una excepció que hem de recordar: la una de la matinada, la una del migdia.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/14/3-l-apostrofacio-i-les-contraccions",
       "locator": "Casos especials sense apostrofació, línies 173-175"
