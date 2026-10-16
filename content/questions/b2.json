@@ -609,19 +609,19 @@
     "level": "B2",
     "topic": "accentuacio",
     "status": "published",
-    "prompt": "Selecciona quin adverbi està escrit correctament?",
+    "prompt": "Completa: «Hem de sortir ___ per arribar a temps».",
     "options": [
       "rapidament",
-      "rapidàment",
+      "rapídament",
       "ràpidament"
     ],
     "answer": 2,
-    "explanation": "Els adverbis en -ment conserven l'accent de la forma femenina de l'adjectiu: ràpida → ràpidament.",
+    "explanation": "Ràpidament ve de ràpida. Quan hi afegim -ment, conservem l'accent que ja tenia: ràpida → ràpidament. És com si la paraula s'endugués l'accent a la motxilla!",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/35/17-l-accentuacio-grafica",
       "locator": "Adverbis acabats en -ment, línies 147-153"
     },
-    "reviewedAt": "2026-09-24",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-ort-011",
     "exerciseType": "ortografia contextual",
