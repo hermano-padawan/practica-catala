@@ -426,19 +426,19 @@
     "level": "B2",
     "topic": "accentuacio",
     "status": "published",
-    "prompt": "Selecciona quina és la forma correcta?",
+    "prompt": "Completa: «He deixat el ___ damunt la taula».",
     "options": [
       "teléfon",
       "telèfon",
       "telefon"
     ],
     "answer": 1,
-    "explanation": "Telèfon és plana i no acaba en cap de les terminacions que evitarien l'accent.",
+    "explanation": "Diem te-LÈ-fon: la síl·laba del mig sona més fort. És una paraula plana acabada en -on i, per això, porta accent. En telèfon, l'accent de la e és obert: è.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/35/17-l-accentuacio-grafica",
       "locator": "Classificació dels mots, línies 73-83"
     },
-    "reviewedAt": "2026-09-24",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-ort-003",
     "exerciseType": "ortografia contextual",
