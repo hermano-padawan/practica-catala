@@ -22264,7 +22264,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una biblioteca: «La biblioteca del districte tancarà la sala d'estudi durant dues setmanes per renovar la ventilació. El préstec de llibres continuarà funcionant a la planta baixa. Qui necessiti un espai per estudiar podrà utilitzar el casal, de dilluns a divendres fins a les vuit del vespre. Els llibres que vencin durant les obres es podran retornar una setmana més tard sense penalització.» Quin servei queda temporalment fora d'ús?",
+    "prompt": "Llegeix aquest avís sobre una biblioteca: «La sala d'estudi tanca dues setmanes per obres. El préstec de llibres continua obert.» Quin servei queda temporalment fora d'ús?",
     "options": [
       "El préstec de llibres",
       "La sala d'estudi",
@@ -22288,7 +22288,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una biblioteca: «La biblioteca del districte tancarà la sala d'estudi durant dues setmanes per renovar la ventilació. El préstec de llibres continuarà funcionant a la planta baixa. Qui necessiti un espai per estudiar podrà utilitzar el casal, de dilluns a divendres fins a les vuit del vespre. Els llibres que vencin durant les obres es podran retornar una setmana més tard sense penalització.» Per què es tanca la sala?",
+    "prompt": "Llegeix aquest avís sobre una biblioteca: «La sala d'estudi tanca per renovar la ventilació. La resta de serveis es manté.» Per què es tanca la sala?",
     "options": [
       "Per reduir l'horari del personal",
       "Per manca de llibres",
@@ -22312,7 +22312,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una biblioteca: «La biblioteca del districte tancarà la sala d'estudi durant dues setmanes per renovar la ventilació. El préstec de llibres continuarà funcionant a la planta baixa. Qui necessiti un espai per estudiar podrà utilitzar el casal, de dilluns a divendres fins a les vuit del vespre. Els llibres que vencin durant les obres es podran retornar una setmana més tard sense penalització.» On es podrà estudiar mentre durin les obres?",
+    "prompt": "Llegeix aquest avís sobre una biblioteca: «Mentre la biblioteca fa obres, podeu estudiar al casal. Obre de dilluns a divendres fins a les vuit.» On es podrà estudiar mentre durin les obres?",
     "options": [
       "Al casal",
       "A la planta baixa de la biblioteca",
@@ -22336,7 +22336,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una biblioteca: «La biblioteca del districte tancarà la sala d'estudi durant dues setmanes per renovar la ventilació. El préstec de llibres continuarà funcionant a la planta baixa. Qui necessiti un espai per estudiar podrà utilitzar el casal, de dilluns a divendres fins a les vuit del vespre. Els llibres que vencin durant les obres es podran retornar una setmana més tard sense penalització.» Què passa amb els préstecs que vencen durant les obres?",
+    "prompt": "Llegeix aquest avís sobre una biblioteca: «Si el vostre préstec venç durant les obres, disposeu d'una setmana addicional per retornar-lo sense penalització.» Què passa amb els préstecs que vencen durant les obres?",
     "options": [
       "S'han de retornar abans de començar les obres",
       "Es disposa d'una setmana addicional per retornar-los",
@@ -22360,7 +22360,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una biblioteca: «La biblioteca del districte tancarà la sala d'estudi durant dues setmanes per renovar la ventilació. El préstec de llibres continuarà funcionant a la planta baixa. Qui necessiti un espai per estudiar podrà utilitzar el casal, de dilluns a divendres fins a les vuit del vespre. Els llibres que vencin durant les obres es podran retornar una setmana més tard sense penalització.» El casal ofereix l'alternativa també el diumenge?",
+    "prompt": "Llegeix aquest avís sobre una biblioteca: «Durant les obres, el casal ofereix una sala d'estudi de dilluns a divendres, fins a les vuit.» El casal ofereix l'alternativa també el diumenge?",
     "options": [
       "Sí, fins a les vuit",
       "Sí, durant tot el dia",
@@ -22384,7 +22384,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una biblioteca: «La biblioteca del districte tancarà la sala d'estudi durant dues setmanes per renovar la ventilació. El préstec de llibres continuarà funcionant a la planta baixa. Qui necessiti un espai per estudiar podrà utilitzar el casal, de dilluns a divendres fins a les vuit del vespre. Els llibres que vencin durant les obres es podran retornar una setmana més tard sense penalització.» Quina frase resumeix millor l'avís?",
+    "prompt": "Llegeix aquest avís sobre una biblioteca: «La sala d'estudi tanca per obres, però el préstec continua. Per estudiar, podeu anar al casal.» Quina frase resumeix millor l'avís?",
     "options": [
       "Una part de la biblioteca tanca, però s'ofereixen alternatives",
       "La biblioteca suspèn tots els serveis sense alternativa",
@@ -22408,7 +22408,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una reparació: «La propietària ha comunicat que es repararà una canonada de l'edifici dimarts entre les nou i les dotze. Durant aquestes hores es tallarà l'aigua. Recomana guardar-ne una mica el vespre anterior. Si la reparació s'allarga, l'administrador avisarà per missatge. No cal que els residents siguin a casa, perquè els operaris treballaran en una zona comuna.» Quin subministrament s'interromprà?",
+    "prompt": "Llegeix aquest avís sobre una reparació: «Dimarts repararem una canonada. Entre les nou i les dotze no hi haurà aigua.» Quin subministrament s'interromprà?",
     "options": [
       "L'electricitat",
       "L'aigua",
@@ -22432,7 +22432,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una reparació: «La propietària ha comunicat que es repararà una canonada de l'edifici dimarts entre les nou i les dotze. Durant aquestes hores es tallarà l'aigua. Recomana guardar-ne una mica el vespre anterior. Si la reparació s'allarga, l'administrador avisarà per missatge. No cal que els residents siguin a casa, perquè els operaris treballaran en una zona comuna.» Per què recomanen guardar aigua?",
+    "prompt": "Llegeix aquest avís sobre una reparació: «Dimarts tallarem l'aigua de nou a dotze. Guardeu-ne una mica el vespre anterior per tenir-ne durant el tall.» Per què recomanen guardar aigua?",
     "options": [
       "Per ajudar els operaris a reparar la canonada",
       "Perquè el servei desapareixerà definitivament",
@@ -22456,7 +22456,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una reparació: «La propietària ha comunicat que es repararà una canonada de l'edifici dimarts entre les nou i les dotze. Durant aquestes hores es tallarà l'aigua. Recomana guardar-ne una mica el vespre anterior. Si la reparació s'allarga, l'administrador avisarà per missatge. No cal que els residents siguin a casa, perquè els operaris treballaran en una zona comuna.» Cal que els residents siguin a casa?",
+    "prompt": "Llegeix aquest avís sobre una reparació: «Els operaris repararan una canonada de la zona comuna. No cal que els residents siguin a casa.» Cal que els residents siguin a casa?",
     "options": [
       "No, els treballs es fan en una zona comuna",
       "Sí, han d'obrir la porta del pis",
@@ -22480,7 +22480,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una reparació: «La propietària ha comunicat que es repararà una canonada de l'edifici dimarts entre les nou i les dotze. Durant aquestes hores es tallarà l'aigua. Recomana guardar-ne una mica el vespre anterior. Si la reparació s'allarga, l'administrador avisarà per missatge. No cal que els residents siguin a casa, perquè els operaris treballaran en una zona comuna.» Qui avisarà si els treballs duren més del previst?",
+    "prompt": "Llegeix aquest avís sobre una reparació: «Si la reparació s'allarga, l'administrador avisarà els residents per missatge.» Qui avisarà si els treballs duren més del previst?",
     "options": [
       "Cada resident",
       "L'administrador",
@@ -22504,7 +22504,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una reparació: «La propietària ha comunicat que es repararà una canonada de l'edifici dimarts entre les nou i les dotze. Durant aquestes hores es tallarà l'aigua. Recomana guardar-ne una mica el vespre anterior. Si la reparació s'allarga, l'administrador avisarà per missatge. No cal que els residents siguin a casa, perquè els operaris treballaran en una zona comuna.» Quan convé preparar la reserva d'aigua?",
+    "prompt": "Llegeix aquest avís sobre una reparació: «Dimarts al matí tallarem l'aigua. Recomanem guardar-ne una mica el vespre de dilluns.» Quan convé preparar la reserva d'aigua?",
     "options": [
       "Quan s'acabi la reparació",
       "El dimecres al matí",
@@ -22528,7 +22528,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una reparació: «La propietària ha comunicat que es repararà una canonada de l'edifici dimarts entre les nou i les dotze. Durant aquestes hores es tallarà l'aigua. Recomana guardar-ne una mica el vespre anterior. Si la reparació s'allarga, l'administrador avisarà per missatge. No cal que els residents siguin a casa, perquè els operaris treballaran en una zona comuna.» Quina informació depèn de com avancin les obres?",
+    "prompt": "Llegeix aquest avís sobre una reparació: «El tall d'aigua està previst fins a les dotze. Si la reparació s'allarga, l'administrador ho comunicarà.» Quina informació depèn de com avancin les obres?",
     "options": [
       "Si el tall s'allargarà més enllà de les dotze",
       "Si els operaris treballaran dimarts",
@@ -22552,7 +22552,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un curs: «L'empresa ofereix un curs de fulls de càlcul per al personal d'administració. Les sessions es faran dins de l'horari laboral, però caldrà acordar amb cada responsable com es cobreix l'atenció al públic. No es demanen coneixements avançats. Les places són limitades i tindran prioritat les persones que utilitzen el programa habitualment. La inscripció no garanteix, per tant, obtenir plaça.» A qui s'adreça principalment el curs?",
+    "prompt": "Llegeix aquest avís sobre un curs: «L'empresa ofereix un curs de fulls de càlcul al personal d'administració. No cal tenir coneixements avançats.» A qui s'adreça principalment el curs?",
     "options": [
       "Només al personal informàtic",
       "Al personal d'administració",
@@ -22576,7 +22576,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un curs: «L'empresa ofereix un curs de fulls de càlcul per al personal d'administració. Les sessions es faran dins de l'horari laboral, però caldrà acordar amb cada responsable com es cobreix l'atenció al públic. No es demanen coneixements avançats. Les places són limitades i tindran prioritat les persones que utilitzen el programa habitualment. La inscripció no garanteix, per tant, obtenir plaça.» Què cal organitzar abans d'assistir-hi?",
+    "prompt": "Llegeix aquest avís sobre un curs: «El curs es fa en horari laboral. Acordeu amb el vostre responsable qui cobrirà l'atenció al públic.» Què cal organitzar abans d'assistir-hi?",
     "options": [
       "Un canvi de contracte",
       "La compra obligatòria d'un ordinador",
@@ -22600,7 +22600,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un curs: «L'empresa ofereix un curs de fulls de càlcul per al personal d'administració. Les sessions es faran dins de l'horari laboral, però caldrà acordar amb cada responsable com es cobreix l'atenció al públic. No es demanen coneixements avançats. Les places són limitades i tindran prioritat les persones que utilitzen el programa habitualment. La inscripció no garanteix, per tant, obtenir plaça.» Cal tenir un nivell avançat del programa?",
+    "prompt": "Llegeix aquest avís sobre un curs: «El curs de fulls de càlcul no requereix coneixements avançats. Les sessions seran en horari laboral.» Cal tenir un nivell avançat del programa?",
     "options": [
       "No, el text ho descarta",
       "Sí, és un requisit imprescindible",
@@ -22624,7 +22624,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un curs: «L'empresa ofereix un curs de fulls de càlcul per al personal d'administració. Les sessions es faran dins de l'horari laboral, però caldrà acordar amb cada responsable com es cobreix l'atenció al públic. No es demanen coneixements avançats. Les places són limitades i tindran prioritat les persones que utilitzen el programa habitualment. La inscripció no garanteix, per tant, obtenir plaça.» Qui té preferència per obtenir plaça?",
+    "prompt": "Llegeix aquest avís sobre un curs: «Les places són limitades. Tenen prioritat les persones que utilitzen habitualment el programa.» Qui té preferència per obtenir plaça?",
     "options": [
       "Qui fa menys temps que treballa a l'empresa",
       "Qui utilitza el programa habitualment",
@@ -22648,7 +22648,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un curs: «L'empresa ofereix un curs de fulls de càlcul per al personal d'administració. Les sessions es faran dins de l'horari laboral, però caldrà acordar amb cada responsable com es cobreix l'atenció al públic. No es demanen coneixements avançats. Les places són limitades i tindran prioritat les persones que utilitzen el programa habitualment. La inscripció no garanteix, per tant, obtenir plaça.» Apuntar-s'hi assegura poder fer el curs?",
+    "prompt": "Llegeix aquest avís sobre un curs: «El curs té places limitades i prioritza els usuaris habituals del programa. Inscriure-s'hi no garanteix obtenir plaça.» Apuntar-s'hi assegura poder fer el curs?",
     "options": [
       "Sí, qualsevol inscripció s'accepta automàticament",
       "Sí, si es paga de seguida",
@@ -22672,7 +22672,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un curs: «L'empresa ofereix un curs de fulls de càlcul per al personal d'administració. Les sessions es faran dins de l'horari laboral, però caldrà acordar amb cada responsable com es cobreix l'atenció al públic. No es demanen coneixements avançats. Les places són limitades i tindran prioritat les persones que utilitzen el programa habitualment. La inscripció no garanteix, per tant, obtenir plaça.» Quina expressió indica una conseqüència en el text?",
+    "prompt": "Llegeix aquest avís sobre un curs: «El curs té places limitades; per tant, inscriure-s'hi no garanteix obtenir plaça.» Quina expressió indica una conseqüència en el text?",
     "options": [
       "per tant",
       "però",
@@ -22696,7 +22696,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un servei de repartiment: «El mercat municipal iniciarà una prova de repartiment a domicili durant tres mesos. El servei serà gratuït per a compres superiors a quaranta euros i tindrà un petit cost per a la resta. Les comandes s'hauran de fer abans de les dotze per rebre-les aquella mateixa tarda. Acabada la prova, els paradistes valoraran si el nombre de demandes permet mantenir el servei.» El servei s'ofereix inicialment de manera definitiva?",
+    "prompt": "Llegeix aquest avís sobre un servei de repartiment: «El mercat provarà el repartiment a domicili durant tres mesos. Després decidirà si el manté.» El servei s'ofereix inicialment de manera definitiva?",
     "options": [
       "Sí, ja s'ha decidit mantenir-lo sempre",
       "No, primer es farà una prova de tres mesos",
@@ -22720,7 +22720,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un servei de repartiment: «El mercat municipal iniciarà una prova de repartiment a domicili durant tres mesos. El servei serà gratuït per a compres superiors a quaranta euros i tindrà un petit cost per a la resta. Les comandes s'hauran de fer abans de les dotze per rebre-les aquella mateixa tarda. Acabada la prova, els paradistes valoraran si el nombre de demandes permet mantenir el servei.» Quina compra té repartiment gratuït?",
+    "prompt": "Llegeix aquest avís sobre un servei de repartiment: «El repartiment és gratuït per a compres superiors a quaranta euros. Les altres compres paguen un suplement.» Quina compra té repartiment gratuït?",
     "options": [
       "Una compra de vint euros",
       "Qualsevol compra, sense condicions",
@@ -22744,7 +22744,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un servei de repartiment: «El mercat municipal iniciarà una prova de repartiment a domicili durant tres mesos. El servei serà gratuït per a compres superiors a quaranta euros i tindrà un petit cost per a la resta. Les comandes s'hauran de fer abans de les dotze per rebre-les aquella mateixa tarda. Acabada la prova, els paradistes valoraran si el nombre de demandes permet mantenir el servei.» Què cal fer per rebre la compra aquella tarda?",
+    "prompt": "Llegeix aquest avís sobre un servei de repartiment: «Feu la comanda abans de les dotze per rebre-la aquella mateixa tarda.» Què cal fer per rebre la compra aquella tarda?",
     "options": [
       "Fer la comanda abans de les dotze",
       "Fer-la després de les sis",
@@ -22768,7 +22768,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un servei de repartiment: «El mercat municipal iniciarà una prova de repartiment a domicili durant tres mesos. El servei serà gratuït per a compres superiors a quaranta euros i tindrà un petit cost per a la resta. Les comandes s'hauran de fer abans de les dotze per rebre-les aquella mateixa tarda. Acabada la prova, els paradistes valoraran si el nombre de demandes permet mantenir el servei.» De què dependrà que el servei continuï?",
+    "prompt": "Llegeix aquest avís sobre un servei de repartiment: «Després de tres mesos de prova, els paradistes valoraran la demanda per decidir si mantenen el repartiment.» De què dependrà que el servei continuï?",
     "options": [
       "Del temps que faci el primer dia",
       "De la valoració de la demanda que rebi",
@@ -22792,7 +22792,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un servei de repartiment: «El mercat municipal iniciarà una prova de repartiment a domicili durant tres mesos. El servei serà gratuït per a compres superiors a quaranta euros i tindrà un petit cost per a la resta. Les comandes s'hauran de fer abans de les dotze per rebre-les aquella mateixa tarda. Acabada la prova, els paradistes valoraran si el nombre de demandes permet mantenir el servei.» Què indica «per a la resta»?",
+    "prompt": "Llegeix aquest avís sobre un servei de repartiment: «El repartiment és gratuït en compres superiors a quaranta euros. Per a la resta, té un petit cost.» Què indica «per a la resta»?",
     "options": [
       "Els paradistes que tanquen a la tarda",
       "Els clients d'altres municipis",
@@ -22816,7 +22816,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un servei de repartiment: «El mercat municipal iniciarà una prova de repartiment a domicili durant tres mesos. El servei serà gratuït per a compres superiors a quaranta euros i tindrà un petit cost per a la resta. Les comandes s'hauran de fer abans de les dotze per rebre-les aquella mateixa tarda. Acabada la prova, els paradistes valoraran si el nombre de demandes permet mantenir el servei.» Quina afirmació coincideix amb el text?",
+    "prompt": "Llegeix aquest avís sobre un servei de repartiment: «El repartiment costa un petit import, excepte en compres superiors a quaranta euros, que és gratuït.» Quina afirmació coincideix amb el text?",
     "options": [
       "Algunes compres tindran un cost de repartiment",
       "Totes les comandes es lliuraran al matí",
@@ -22840,7 +22840,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una sortida: «L'associació proposa una caminada de vuit quilòmetres amb un desnivell moderat. No és una activitat tècnica, però requereix estar acostumat a caminar. Cal portar calçat adequat i aigua, perquè no hi ha fonts durant el recorregut. En cas de pluja intensa, s'ajornarà una setmana. L'organització confirmarà la sortida el vespre anterior.» És suficient pensar que no és una ruta tècnica per apuntar-s'hi sense preparació?",
+    "prompt": "Llegeix aquest avís sobre una sortida: «La caminada no és tècnica, però cal estar acostumat a caminar. Té vuit quilòmetres i un desnivell moderat.» És suficient pensar que no és una ruta tècnica per apuntar-s'hi sense preparació?",
     "options": [
       "Sí, el text diu que no exigeix cap esforç",
       "No, cal estar acostumat a caminar",
@@ -22864,7 +22864,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una sortida: «L'associació proposa una caminada de vuit quilòmetres amb un desnivell moderat. No és una activitat tècnica, però requereix estar acostumat a caminar. Cal portar calçat adequat i aigua, perquè no hi ha fonts durant el recorregut. En cas de pluja intensa, s'ajornarà una setmana. L'organització confirmarà la sortida el vespre anterior.» Per què és important portar aigua?",
+    "prompt": "Llegeix aquest avís sobre una sortida: «Porteu aigua: durant la caminada no trobareu cap font.» Per què és important portar aigua?",
     "options": [
       "Perquè l'organització la vendrà al final",
       "Per rentar el calçat abans de sortir",
@@ -22888,7 +22888,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una sortida: «L'associació proposa una caminada de vuit quilòmetres amb un desnivell moderat. No és una activitat tècnica, però requereix estar acostumat a caminar. Cal portar calçat adequat i aigua, perquè no hi ha fonts durant el recorregut. En cas de pluja intensa, s'ajornarà una setmana. L'organització confirmarà la sortida el vespre anterior.» Què passarà si plou intensament?",
+    "prompt": "Llegeix aquest avís sobre una sortida: «Si plou intensament, ajornarem la caminada una setmana. Confirmarem la sortida el vespre anterior.» Què passarà si plou intensament?",
     "options": [
       "La caminada es farà una setmana més tard",
       "La ruta s'allargarà vuit quilòmetres",
@@ -22912,7 +22912,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una sortida: «L'associació proposa una caminada de vuit quilòmetres amb un desnivell moderat. No és una activitat tècnica, però requereix estar acostumat a caminar. Cal portar calçat adequat i aigua, perquè no hi ha fonts durant el recorregut. En cas de pluja intensa, s'ajornarà una setmana. L'organització confirmarà la sortida el vespre anterior.» Quan es confirmarà la sortida?",
+    "prompt": "Llegeix aquest avís sobre una sortida: «L'organització confirmarà la caminada el vespre anterior. Si plou intensament, s'ajornarà.» Quan es confirmarà la sortida?",
     "options": [
       "Una setmana després",
       "El vespre anterior",
@@ -22936,7 +22936,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una sortida: «L'associació proposa una caminada de vuit quilòmetres amb un desnivell moderat. No és una activitat tècnica, però requereix estar acostumat a caminar. Cal portar calçat adequat i aigua, perquè no hi ha fonts durant el recorregut. En cas de pluja intensa, s'ajornarà una setmana. L'organització confirmarà la sortida el vespre anterior.» Quina distància s'ha anunciat?",
+    "prompt": "Llegeix aquest avís sobre una sortida: «La caminada té vuit quilòmetres i un desnivell moderat. Cal estar acostumat a caminar.» Quina distància s'ha anunciat?",
     "options": [
       "Vuit-cents metres",
       "Divuit quilòmetres",
@@ -22960,7 +22960,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una sortida: «L'associació proposa una caminada de vuit quilòmetres amb un desnivell moderat. No és una activitat tècnica, però requereix estar acostumat a caminar. Cal portar calçat adequat i aigua, perquè no hi ha fonts durant el recorregut. En cas de pluja intensa, s'ajornarà una setmana. L'organització confirmarà la sortida el vespre anterior.» Quin equipament s'esmenta expressament?",
+    "prompt": "Llegeix aquest avís sobre una sortida: «Per a la caminada, porteu calçat adequat i aigua. No cal material tècnic.» Quin equipament s'esmenta expressament?",
     "options": [
       "Calçat adequat i aigua",
       "Material d'escalada obligatori",
@@ -22984,7 +22984,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre el teletreball: «A partir del mes vinent, el personal podrà demanar un dia setmanal de teletreball. La mesura no s'aplicarà automàticament: caldrà autorització i garantir que el servei presencial queda cobert. Durant la jornada a distància s'haurà d'estar disponible pels canals habituals. L'empresa revisarà el funcionament del sistema al cap de sis mesos.» El teletreball s'aplica a tothom sense tràmits?",
+    "prompt": "Llegeix aquest avís sobre el teletreball: «El personal pot demanar un dia setmanal de teletreball. Cal autorització: no s'aplica automàticament.» El teletreball s'aplica a tothom sense tràmits?",
     "options": [
       "Sí, sense cap excepció",
       "No, s'ha de demanar i autoritzar",
@@ -23008,7 +23008,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre el teletreball: «A partir del mes vinent, el personal podrà demanar un dia setmanal de teletreball. La mesura no s'aplicarà automàticament: caldrà autorització i garantir que el servei presencial queda cobert. Durant la jornada a distància s'haurà d'estar disponible pels canals habituals. L'empresa revisarà el funcionament del sistema al cap de sis mesos.» Quina freqüència màxima anuncia la mesura?",
+    "prompt": "Llegeix aquest avís sobre el teletreball: «Es podrà autoritzar un màxim d'un dia de teletreball per setmana.» Quina freqüència màxima anuncia la mesura?",
     "options": [
       "Sis mesos seguits",
       "Tots els dies laborables",
@@ -23032,7 +23032,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre el teletreball: «A partir del mes vinent, el personal podrà demanar un dia setmanal de teletreball. La mesura no s'aplicarà automàticament: caldrà autorització i garantir que el servei presencial queda cobert. Durant la jornada a distància s'haurà d'estar disponible pels canals habituals. L'empresa revisarà el funcionament del sistema al cap de sis mesos.» Quina condició afecta el servei presencial?",
+    "prompt": "Llegeix aquest avís sobre el teletreball: «El teletreball s'autoritzarà sempre que l'atenció presencial quedi coberta.» Quina condició afecta el servei presencial?",
     "options": [
       "Ha de continuar quedant cobert",
       "S'ha de tancar el dia de teletreball",
@@ -23056,7 +23056,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre el teletreball: «A partir del mes vinent, el personal podrà demanar un dia setmanal de teletreball. La mesura no s'aplicarà automàticament: caldrà autorització i garantir que el servei presencial queda cobert. Durant la jornada a distància s'haurà d'estar disponible pels canals habituals. L'empresa revisarà el funcionament del sistema al cap de sis mesos.» Cal estar localitzable durant el teletreball?",
+    "prompt": "Llegeix aquest avís sobre el teletreball: «Durant el dia de teletreball, cal estar disponible pels canals habituals de l'empresa.» Cal estar localitzable durant el teletreball?",
     "options": [
       "No, és un dia de descans",
       "Sí, pels canals habituals",
@@ -23080,7 +23080,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre el teletreball: «A partir del mes vinent, el personal podrà demanar un dia setmanal de teletreball. La mesura no s'aplicarà automàticament: caldrà autorització i garantir que el servei presencial queda cobert. Durant la jornada a distància s'haurà d'estar disponible pels canals habituals. L'empresa revisarà el funcionament del sistema al cap de sis mesos.» Quan s'avaluarà el sistema?",
+    "prompt": "Llegeix aquest avís sobre el teletreball: «L'empresa revisarà el sistema de teletreball al cap de sis mesos.» Quan s'avaluarà el sistema?",
     "options": [
       "Després de sis dies",
       "Abans que es pugui demanar",
@@ -23104,7 +23104,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre el teletreball: «A partir del mes vinent, el personal podrà demanar un dia setmanal de teletreball. La mesura no s'aplicarà automàticament: caldrà autorització i garantir que el servei presencial queda cobert. Durant la jornada a distància s'haurà d'estar disponible pels canals habituals. L'empresa revisarà el funcionament del sistema al cap de sis mesos.» Quina idea resumeix la política?",
+    "prompt": "Llegeix aquest avís sobre el teletreball: «Es pot demanar teletreball amb autorització, sempre que el servei presencial quedi cobert i es mantingui la disponibilitat.» Quina idea resumeix la política?",
     "options": [
       "S'ofereix flexibilitat amb condicions de servei i disponibilitat",
       "Es concedeix un dia festiu addicional",
@@ -23128,7 +23128,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un concert: «Les entrades del concert es podran comprar per internet o a la taquilla. Les persones menors de setze anys hauran d'anar acompanyades d'una persona adulta. El recinte obrirà una hora abans de l'actuació. No es permetrà tornar a entrar un cop se n'hagi sortit, encara que es conservi l'entrada. Si l'organització cancel·la l'acte, se'n retornarà l'import.» Com es poden adquirir les entrades?",
+    "prompt": "Llegeix aquest avís sobre un concert: «Les entrades del concert es venen per internet i a la taquilla.» Com es poden adquirir les entrades?",
     "options": [
       "Només per telèfon",
       "Per internet o a taquilla",
@@ -23152,7 +23152,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un concert: «Les entrades del concert es podran comprar per internet o a la taquilla. Les persones menors de setze anys hauran d'anar acompanyades d'una persona adulta. El recinte obrirà una hora abans de l'actuació. No es permetrà tornar a entrar un cop se n'hagi sortit, encara que es conservi l'entrada. Si l'organització cancel·la l'acte, se'n retornarà l'import.» Quina condició afecta una persona de quinze anys?",
+    "prompt": "Llegeix aquest avís sobre un concert: «Els menors de setze anys han d'anar al concert amb una persona adulta.» Quina condició afecta una persona de quinze anys?",
     "options": [
       "Pot entrar sola obligatòriament",
       "No pot assistir-hi en cap cas",
@@ -23176,7 +23176,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un concert: «Les entrades del concert es podran comprar per internet o a la taquilla. Les persones menors de setze anys hauran d'anar acompanyades d'una persona adulta. El recinte obrirà una hora abans de l'actuació. No es permetrà tornar a entrar un cop se n'hagi sortit, encara que es conservi l'entrada. Si l'organització cancel·la l'acte, se'n retornarà l'import.» Quan s'obriran les portes?",
+    "prompt": "Llegeix aquest avís sobre un concert: «Les portes del recinte obriran una hora abans que comenci el concert.» Quan s'obriran les portes?",
     "options": [
       "Una hora abans de l'actuació",
       "Quan s'acabi la primera cançó",
@@ -23200,7 +23200,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un concert: «Les entrades del concert es podran comprar per internet o a la taquilla. Les persones menors de setze anys hauran d'anar acompanyades d'una persona adulta. El recinte obrirà una hora abans de l'actuació. No es permetrà tornar a entrar un cop se n'hagi sortit, encara que es conservi l'entrada. Si l'organització cancel·la l'acte, se'n retornarà l'import.» Es pot sortir i tornar a entrar amb la mateixa entrada?",
+    "prompt": "Llegeix aquest avís sobre un concert: «Un cop sortiu del recinte, no podreu tornar a entrar, encara que conserveu l'entrada.» Es pot sortir i tornar a entrar amb la mateixa entrada?",
     "options": [
       "Sí, sempre que es conservi l'entrada",
       "No, el text ho prohibeix",
@@ -23224,7 +23224,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un concert: «Les entrades del concert es podran comprar per internet o a la taquilla. Les persones menors de setze anys hauran d'anar acompanyades d'una persona adulta. El recinte obrirà una hora abans de l'actuació. No es permetrà tornar a entrar un cop se n'hagi sortit, encara que es conservi l'entrada. Si l'organització cancel·la l'acte, se'n retornarà l'import.» En quin cas s'anuncia la devolució de l'import?",
+    "prompt": "Llegeix aquest avís sobre un concert: «Si l'organització cancel·la el concert, retornarà l'import de les entrades.» En quin cas s'anuncia la devolució de l'import?",
     "options": [
       "Si l'espectador canvia d'opinió",
       "Si es decideix arribar tard",
@@ -23248,7 +23248,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un concert: «Les entrades del concert es podran comprar per internet o a la taquilla. Les persones menors de setze anys hauran d'anar acompanyades d'una persona adulta. El recinte obrirà una hora abans de l'actuació. No es permetrà tornar a entrar un cop se n'hagi sortit, encara que es conservi l'entrada. Si l'organització cancel·la l'acte, se'n retornarà l'import.» Quin paper té «encara que» en l'avís?",
+    "prompt": "Llegeix aquest avís sobre un concert: «No podreu tornar a entrar un cop sortiu, encara que conserveu l'entrada.» Quin paper té «encara que» en l'avís?",
     "options": [
       "Indica que conservar l'entrada no elimina la prohibició",
       "Presenta la causa de la cancel·lació",
@@ -23272,7 +23272,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un intercanvi: «El casal organitza un intercanvi de roba en bon estat. Cada participant podrà portar fins a cinc peces netes i rebrà un val per cadascuna. Els vals permetran endur-se altres peces, però no es podran canviar per diners. La roba que no s'intercanviï es donarà a una entitat social, sempre que qui l'ha portada hi estigui d'acord.» Quin límit s'estableix per participant?",
+    "prompt": "Llegeix aquest avís sobre un intercanvi: «Cada participant pot portar un màxim de cinc peces de roba neta i en bon estat.» Quin límit s'estableix per participant?",
     "options": [
       "Cinc bosses sense límit de peces",
       "Cinc peces",
@@ -23296,7 +23296,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un intercanvi: «El casal organitza un intercanvi de roba en bon estat. Cada participant podrà portar fins a cinc peces netes i rebrà un val per cadascuna. Els vals permetran endur-se altres peces, però no es podran canviar per diners. La roba que no s'intercanviï es donarà a una entitat social, sempre que qui l'ha portada hi estigui d'acord.» Quines condicions ha de complir la roba?",
+    "prompt": "Llegeix aquest avís sobre un intercanvi: «Per participar en l'intercanvi, la roba ha d'estar neta i en bon estat. No cal que sigui nova.» Quines condicions ha de complir la roba?",
     "options": [
       "Ser nova i amb etiqueta",
       "Ser de la mateixa talla",
@@ -23320,7 +23320,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un intercanvi: «El casal organitza un intercanvi de roba en bon estat. Cada participant podrà portar fins a cinc peces netes i rebrà un val per cadascuna. Els vals permetran endur-se altres peces, però no es podran canviar per diners. La roba que no s'intercanviï es donarà a una entitat social, sempre que qui l'ha portada hi estigui d'acord.» Què es rep a canvi de cada peça acceptada?",
+    "prompt": "Llegeix aquest avís sobre un intercanvi: «Rebreu un val per cada peça de roba acceptada. Els vals permeten escollir altres peces.» Què es rep a canvi de cada peça acceptada?",
     "options": [
       "Un val",
       "Una quantitat fixa de diners",
@@ -23344,7 +23344,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un intercanvi: «El casal organitza un intercanvi de roba en bon estat. Cada participant podrà portar fins a cinc peces netes i rebrà un val per cadascuna. Els vals permetran endur-se altres peces, però no es podran canviar per diners. La roba que no s'intercanviï es donarà a una entitat social, sempre que qui l'ha portada hi estigui d'acord.» Es poden convertir els vals en diners?",
+    "prompt": "Llegeix aquest avís sobre un intercanvi: «Els vals de l'intercanvi serveixen per endur-se roba. No es poden canviar per diners.» Es poden convertir els vals en diners?",
     "options": [
       "Sí, al final de la jornada",
       "No, només serveixen per a l'intercanvi",
@@ -23368,7 +23368,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un intercanvi: «El casal organitza un intercanvi de roba en bon estat. Cada participant podrà portar fins a cinc peces netes i rebrà un val per cadascuna. Els vals permetran endur-se altres peces, però no es podran canviar per diners. La roba que no s'intercanviï es donarà a una entitat social, sempre que qui l'ha portada hi estigui d'acord.» La roba sobrant es dona automàticament?",
+    "prompt": "Llegeix aquest avís sobre un intercanvi: «La roba sobrant es donarà a una entitat social només si qui l'ha portada hi està d'acord.» La roba sobrant es dona automàticament?",
     "options": [
       "Sí, sense consultar-ho",
       "No, s'ha de llençar tota",
@@ -23392,7 +23392,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre un intercanvi: «El casal organitza un intercanvi de roba en bon estat. Cada participant podrà portar fins a cinc peces netes i rebrà un val per cadascuna. Els vals permetran endur-se altres peces, però no es podran canviar per diners. La roba que no s'intercanviï es donarà a una entitat social, sempre que qui l'ha portada hi estigui d'acord.» Quin és l'objectiu principal de l'activitat?",
+    "prompt": "Llegeix aquest avís sobre un intercanvi: «Al casal intercanviem roba en bon estat: per cada peça rebem un val per escollir-ne una altra. No es venen peces.» Quin és l'objectiu principal de l'activitat?",
     "options": [
       "Reutilitzar roba mitjançant un intercanvi",
       "Vendre roba amb benefici econòmic",
@@ -23416,7 +23416,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una fira: «Durant la fira, l'aparcament del centre quedarà reservat als vehicles dels expositors. Els visitants podran deixar el cotxe gratuïtament al recinte esportiu, des d'on sortirà una llançadora cada quinze minuts. El servei acabarà mitja hora després del tancament de la fira. Es recomana utilitzar el transport públic sempre que sigui possible.» Qui podrà utilitzar l'aparcament del centre?",
+    "prompt": "Llegeix aquest avís sobre una fira: «L'aparcament del centre està reservat als expositors acreditats. Els visitants tenen un aparcament alternatiu.» Qui podrà utilitzar l'aparcament del centre?",
     "options": [
       "Tots els visitants",
       "Els expositors acreditats",
@@ -23440,7 +23440,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una fira: «Durant la fira, l'aparcament del centre quedarà reservat als vehicles dels expositors. Els visitants podran deixar el cotxe gratuïtament al recinte esportiu, des d'on sortirà una llançadora cada quinze minuts. El servei acabarà mitja hora després del tancament de la fira. Es recomana utilitzar el transport públic sempre que sigui possible.» On s'ofereix aparcament gratuït als visitants?",
+    "prompt": "Llegeix aquest avís sobre una fira: «Els visitants poden aparcar gratuïtament al recinte esportiu. Una llançadora els acostarà a la fira.» On s'ofereix aparcament gratuït als visitants?",
     "options": [
       "Al centre de la fira",
       "En qualsevol carrer, sense restriccions",
@@ -23464,7 +23464,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una fira: «Durant la fira, l'aparcament del centre quedarà reservat als vehicles dels expositors. Els visitants podran deixar el cotxe gratuïtament al recinte esportiu, des d'on sortirà una llançadora cada quinze minuts. El servei acabarà mitja hora després del tancament de la fira. Es recomana utilitzar el transport públic sempre que sigui possible.» Amb quina freqüència sortirà la llançadora?",
+    "prompt": "Llegeix aquest avís sobre una fira: «La llançadora entre el recinte esportiu i la fira surt cada quinze minuts.» Amb quina freqüència sortirà la llançadora?",
     "options": [
       "Cada quinze minuts",
       "Cada hora i mitja",
@@ -23488,7 +23488,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una fira: «Durant la fira, l'aparcament del centre quedarà reservat als vehicles dels expositors. Els visitants podran deixar el cotxe gratuïtament al recinte esportiu, des d'on sortirà una llançadora cada quinze minuts. El servei acabarà mitja hora després del tancament de la fira. Es recomana utilitzar el transport públic sempre que sigui possible.» Quan acabarà el servei de llançadora?",
+    "prompt": "Llegeix aquest avís sobre una fira: «La llançadora funcionarà fins mitja hora després del tancament de la fira.» Quan acabarà el servei de llançadora?",
     "options": [
       "Trenta minuts abans que obri",
       "Trenta minuts després que tanqui la fira",
@@ -23512,7 +23512,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una fira: «Durant la fira, l'aparcament del centre quedarà reservat als vehicles dels expositors. Els visitants podran deixar el cotxe gratuïtament al recinte esportiu, des d'on sortirà una llançadora cada quinze minuts. El servei acabarà mitja hora després del tancament de la fira. Es recomana utilitzar el transport públic sempre que sigui possible.» És obligatori arribar amb transport públic?",
+    "prompt": "Llegeix aquest avís sobre una fira: «Recomanem venir amb transport públic. Si veniu amb cotxe, podeu aparcar gratuïtament al recinte esportiu.» És obligatori arribar amb transport públic?",
     "options": [
       "Sí, no hi ha cap alternativa",
       "Només per als expositors",
@@ -23536,7 +23536,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una fira: «Durant la fira, l'aparcament del centre quedarà reservat als vehicles dels expositors. Els visitants podran deixar el cotxe gratuïtament al recinte esportiu, des d'on sortirà una llançadora cada quinze minuts. El servei acabarà mitja hora després del tancament de la fira. Es recomana utilitzar el transport públic sempre que sigui possible.» Quina necessitat resol la llançadora?",
+    "prompt": "Llegeix aquest avís sobre una fira: «Una llançadora connecta l'aparcament del recinte esportiu amb la fira. Surt cada quinze minuts.» Quina necessitat resol la llançadora?",
     "options": [
       "Connecta l'aparcament alternatiu amb la fira",
       "Substitueix tots els transports de la ciutat",
@@ -23560,7 +23560,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una inscripció: «Per inscriure's al taller cal omplir el formulari i esperar el missatge de confirmació. El pagament s'ha de fer només després de rebre'l. Si no s'abona la quota en tres dies, la plaça s'oferirà a la llista d'espera. Les persones que necessitin alguna adaptació poden indicar-ho al formulari perquè l'organització ho valori abans de començar.» Quin és el primer pas per inscriure's?",
+    "prompt": "Llegeix aquest avís sobre una inscripció: «Per inscriure-us, primer ompliu el formulari i espereu el missatge de confirmació. Després podreu pagar.» Quin és el primer pas per inscriure's?",
     "options": [
       "Pagar sense esperar cap resposta",
       "Omplir el formulari",
@@ -23584,7 +23584,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una inscripció: «Per inscriure's al taller cal omplir el formulari i esperar el missatge de confirmació. El pagament s'ha de fer només després de rebre'l. Si no s'abona la quota en tres dies, la plaça s'oferirà a la llista d'espera. Les persones que necessitin alguna adaptació poden indicar-ho al formulari perquè l'organització ho valori abans de començar.» Quan s'ha de pagar?",
+    "prompt": "Llegeix aquest avís sobre una inscripció: «Feu el pagament només després de rebre la confirmació de la inscripció.» Quan s'ha de pagar?",
     "options": [
       "Abans d'omplir el formulari",
       "Quan acabi tot el taller",
@@ -23608,7 +23608,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una inscripció: «Per inscriure's al taller cal omplir el formulari i esperar el missatge de confirmació. El pagament s'ha de fer només després de rebre'l. Si no s'abona la quota en tres dies, la plaça s'oferirà a la llista d'espera. Les persones que necessitin alguna adaptació poden indicar-ho al formulari perquè l'organització ho valori abans de començar.» Què passa si no es paga dins del termini?",
+    "prompt": "Llegeix aquest avís sobre una inscripció: «Si no pagueu en tres dies, oferirem la plaça a la llista d'espera.» Què passa si no es paga dins del termini?",
     "options": [
       "La plaça es pot oferir a la llista d'espera",
       "La quota es duplica automàticament",
@@ -23632,7 +23632,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una inscripció: «Per inscriure's al taller cal omplir el formulari i esperar el missatge de confirmació. El pagament s'ha de fer només després de rebre'l. Si no s'abona la quota en tres dies, la plaça s'oferirà a la llista d'espera. Les persones que necessitin alguna adaptació poden indicar-ho al formulari perquè l'organització ho valori abans de començar.» Quin termini s'anuncia per abonar la quota?",
+    "prompt": "Llegeix aquest avís sobre una inscripció: «Després de rebre la confirmació, disposeu de tres dies per pagar la quota.» Quin termini s'anuncia per abonar la quota?",
     "options": [
       "Tres setmanes",
       "Tres dies",
@@ -23656,7 +23656,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una inscripció: «Per inscriure's al taller cal omplir el formulari i esperar el missatge de confirmació. El pagament s'ha de fer només després de rebre'l. Si no s'abona la quota en tres dies, la plaça s'oferirà a la llista d'espera. Les persones que necessitin alguna adaptació poden indicar-ho al formulari perquè l'organització ho valori abans de començar.» Com es pot comunicar una necessitat d'adaptació?",
+    "prompt": "Llegeix aquest avís sobre una inscripció: «Si necessiteu alguna adaptació, indiqueu-ho al formulari perquè l'organització ho valori abans de començar.» Com es pot comunicar una necessitat d'adaptació?",
     "options": [
       "Esperant obligatòriament a l'última sessió",
       "Pagant una segona quota",
@@ -23680,7 +23680,7 @@
     "level": "B2",
     "topic": "lexic",
     "status": "published",
-    "prompt": "Llegeix aquest avís sobre una inscripció: «Per inscriure's al taller cal omplir el formulari i esperar el missatge de confirmació. El pagament s'ha de fer només després de rebre'l. Si no s'abona la quota en tres dies, la plaça s'oferirà a la llista d'espera. Les persones que necessitin alguna adaptació poden indicar-ho al formulari perquè l'organització ho valori abans de començar.» El formulari tot sol assegura definitivament la plaça?",
+    "prompt": "Llegeix aquest avís sobre una inscripció: «Omplir el formulari no assegura la plaça: cal rebre la confirmació i pagar la quota en tres dies.» El formulari tot sol assegura definitivament la plaça?",
     "options": [
       "No, també cal confirmació i pagament dins del termini",
       "Sí, encara que no s'aboni la quota",

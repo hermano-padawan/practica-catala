@@ -669,6 +669,73 @@ for(const q of bank){
  });
 }
 
+
+// Lectures breus: cada pregunta conserva només la informació necessària.
+const shortReadingTexts=[
+  "La sala d'estudi tanca dues setmanes per obres. El préstec de llibres continua obert.",
+  "La sala d'estudi tanca per renovar la ventilació. La resta de serveis es manté.",
+  "Mentre la biblioteca fa obres, podeu estudiar al casal. Obre de dilluns a divendres fins a les vuit.",
+  "Si el vostre préstec venç durant les obres, disposeu d'una setmana addicional per retornar-lo sense penalització.",
+  "Durant les obres, el casal ofereix una sala d'estudi de dilluns a divendres, fins a les vuit.",
+  "La sala d'estudi tanca per obres, però el préstec continua. Per estudiar, podeu anar al casal.",
+  "Dimarts repararem una canonada. Entre les nou i les dotze no hi haurà aigua.",
+  "Dimarts tallarem l'aigua de nou a dotze. Guardeu-ne una mica el vespre anterior per tenir-ne durant el tall.",
+  "Els operaris repararan una canonada de la zona comuna. No cal que els residents siguin a casa.",
+  "Si la reparació s'allarga, l'administrador avisarà els residents per missatge.",
+  "Dimarts al matí tallarem l'aigua. Recomanem guardar-ne una mica el vespre de dilluns.",
+  "El tall d'aigua està previst fins a les dotze. Si la reparació s'allarga, l'administrador ho comunicarà.",
+  "L'empresa ofereix un curs de fulls de càlcul al personal d'administració. No cal tenir coneixements avançats.",
+  "El curs es fa en horari laboral. Acordeu amb el vostre responsable qui cobrirà l'atenció al públic.",
+  "El curs de fulls de càlcul no requereix coneixements avançats. Les sessions seran en horari laboral.",
+  "Les places són limitades. Tenen prioritat les persones que utilitzen habitualment el programa.",
+  "El curs té places limitades i prioritza els usuaris habituals del programa. Inscriure-s'hi no garanteix obtenir plaça.",
+  "El curs té places limitades; per tant, inscriure-s'hi no garanteix obtenir plaça.",
+  "El mercat provarà el repartiment a domicili durant tres mesos. Després decidirà si el manté.",
+  "El repartiment és gratuït per a compres superiors a quaranta euros. Les altres compres paguen un suplement.",
+  "Feu la comanda abans de les dotze per rebre-la aquella mateixa tarda.",
+  "Després de tres mesos de prova, els paradistes valoraran la demanda per decidir si mantenen el repartiment.",
+  "El repartiment és gratuït en compres superiors a quaranta euros. Per a la resta, té un petit cost.",
+  "El repartiment costa un petit import, excepte en compres superiors a quaranta euros, que és gratuït.",
+  "La caminada no és tècnica, però cal estar acostumat a caminar. Té vuit quilòmetres i un desnivell moderat.",
+  "Porteu aigua: durant la caminada no trobareu cap font.",
+  "Si plou intensament, ajornarem la caminada una setmana. Confirmarem la sortida el vespre anterior.",
+  "L'organització confirmarà la caminada el vespre anterior. Si plou intensament, s'ajornarà.",
+  "La caminada té vuit quilòmetres i un desnivell moderat. Cal estar acostumat a caminar.",
+  "Per a la caminada, porteu calçat adequat i aigua. No cal material tècnic.",
+  "El personal pot demanar un dia setmanal de teletreball. Cal autorització: no s'aplica automàticament.",
+  "Es podrà autoritzar un màxim d'un dia de teletreball per setmana.",
+  "El teletreball s'autoritzarà sempre que l'atenció presencial quedi coberta.",
+  "Durant el dia de teletreball, cal estar disponible pels canals habituals de l'empresa.",
+  "L'empresa revisarà el sistema de teletreball al cap de sis mesos.",
+  "Es pot demanar teletreball amb autorització, sempre que el servei presencial quedi cobert i es mantingui la disponibilitat.",
+  "Les entrades del concert es venen per internet i a la taquilla.",
+  "Els menors de setze anys han d'anar al concert amb una persona adulta.",
+  "Les portes del recinte obriran una hora abans que comenci el concert.",
+  "Un cop sortiu del recinte, no podreu tornar a entrar, encara que conserveu l'entrada.",
+  "Si l'organització cancel·la el concert, retornarà l'import de les entrades.",
+  "No podreu tornar a entrar un cop sortiu, encara que conserveu l'entrada.",
+  "Cada participant pot portar un màxim de cinc peces de roba neta i en bon estat.",
+  "Per participar en l'intercanvi, la roba ha d'estar neta i en bon estat. No cal que sigui nova.",
+  "Rebreu un val per cada peça de roba acceptada. Els vals permeten escollir altres peces.",
+  "Els vals de l'intercanvi serveixen per endur-se roba. No es poden canviar per diners.",
+  "La roba sobrant es donarà a una entitat social només si qui l'ha portada hi està d'acord.",
+  "Al casal intercanviem roba en bon estat: per cada peça rebem un val per escollir-ne una altra. No es venen peces.",
+  "L'aparcament del centre està reservat als expositors acreditats. Els visitants tenen un aparcament alternatiu.",
+  "Els visitants poden aparcar gratuïtament al recinte esportiu. Una llançadora els acostarà a la fira.",
+  "La llançadora entre el recinte esportiu i la fira surt cada quinze minuts.",
+  "La llançadora funcionarà fins mitja hora després del tancament de la fira.",
+  "Recomanem venir amb transport públic. Si veniu amb cotxe, podeu aparcar gratuïtament al recinte esportiu.",
+  "Una llançadora connecta l'aparcament del recinte esportiu amb la fira. Surt cada quinze minuts.",
+  "Per inscriure-us, primer ompliu el formulari i espereu el missatge de confirmació. Després podreu pagar.",
+  "Feu el pagament només després de rebre la confirmació de la inscripció.",
+  "Si no pagueu en tres dies, oferirem la plaça a la llista d'espera.",
+  "Després de rebre la confirmació, disposeu de tres dies per pagar la quota.",
+  "Si necessiteu alguna adaptació, indiqueu-ho al formulari perquè l'organització ho valori abans de començar.",
+  "Omplir el formulari no assegura la plaça: cal rebre la confirmació i pagar la quota en tres dies."
+];
+let shortReadingIndex=0;
+for(const q of bank){if(q.exerciseType==="lectura-funcional"){q.prompt=q.prompt.replace(/«[^»]+»/,"«"+shortReadingTexts[shortReadingIndex++]+"»");}}
+
 if(bank.length!==1000)throw Error("Expected 1000 questions, got "+bank.length);
 await writeFile(new URL("b2.json",root),JSON.stringify(bank,null,2)+"\n");
 console.log(JSON.stringify({count:bank.length,topics:bank.reduce((a,q)=>(a[q.topic]=(a[q.topic]||0)+1,a),{})},null,2));
