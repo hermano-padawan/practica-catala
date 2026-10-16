@@ -8,15 +8,15 @@
     "options": [
       "autobús",
       "autobus",
-      "autobùs"
+      "autovús"
     ],
     "answer": 0,
-    "explanation": "Autobús és aguda acabada en -s i porta accent tancat sobre la u.",
+    "explanation": "Diem au-to-BÚS: l'última síl·laba sona més fort. Com que és una paraula aguda acabada en -ús, porta accent. La u sempre porta l'accent tancat: ú. Recorda que autobús s'escriu amb b.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/35/17-l-accentuacio-grafica",
       "locator": "Regles d'accentuació de les paraules agudes"
     },
-    "reviewedAt": "2026-09-24",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; contrast CPNL",
     "examSkill": "ortografia en context"
   },
