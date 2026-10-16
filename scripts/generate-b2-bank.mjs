@@ -516,7 +516,7 @@ const spellingGroups=[
 ["sol·licitar","solicitar","Pots ___ el certificat per internet."],
 ["excel·lent","excellent","El servei rebut ha estat ___."],
 ["intel·ligent","intelligent","Han trobat una solució ___ al problema."],
-["novel·la","novella","Està llegint una ___ d'aventures."],
+["novel·la","novela","Està llegint una ___ d'aventures."],
 ["mil·límetre","millímetre","La peça fa un ___ de gruix."],
 ["instal·lació","installació","La ___ de l'antena es farà demà."]
 ]],
