@@ -444,11 +444,11 @@
     "level": "C1",
     "topic": "ortografia",
     "status": "published",
-    "prompt": "Completa amb la forma correcta: «La protagonista està ___.»",
+    "prompt": "Completa amb la forma correcta: «La protagonista està ___ de set mesos».",
     "options": [
       "embarassada",
-      "embarazada",
-      "embarasssada"
+      "embarasada",
+      "embaraçada"
     ],
     "answer": 0,
     "explanation": "Embarassada s'escriu amb ss.",
@@ -456,7 +456,7 @@
       "url": "https://www.cpnl.cat/gramatica/15/5-les-esses-s-ss-c-c-z",
       "locator": "Regles i casos especials de s, ss, c, ç i z"
     },
-    "reviewedAt": "2026-08-17",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; doble contrast CPNL"
   },
   {
