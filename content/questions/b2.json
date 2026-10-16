@@ -678,19 +678,19 @@
     "level": "B2",
     "topic": "accentuacio",
     "status": "published",
-    "prompt": "Selecciona quina forma és normativa?",
+    "prompt": "Completa: «Primer farem els deures i ___ sortirem a jugar».",
     "options": [
       "desprès",
       "despres",
       "després"
     ],
     "answer": 2,
-    "explanation": "Després és un dels adverbis aguts que duen accent tancat sobre la e.",
+    "explanation": "Aquí després ens diu quan sortirem: primer els deures, després el joc. Aquest adverbi porta accent tancat: é. Desprès, amb è, és del verb desprendre: «S'ha desprès una pedra de la paret».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/35/17-l-accentuacio-grafica",
       "locator": "Accentuació de la e, línies 115-124"
     },
-    "reviewedAt": "2026-09-24",
+    "reviewedAt": "2026-10-16",
     "reviewedBy": "Codex; adaptació estructural contrastada amb la font CPNL",
     "derivedFrom": "c1-ort-014",
     "exerciseType": "ortografia contextual",
