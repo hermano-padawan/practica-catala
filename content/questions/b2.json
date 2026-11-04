@@ -16623,16 +16623,16 @@
     "status": "published",
     "prompt": "«L'empresa oferirà formació ___ el personal aprengui a utilitzar el programa.»",
     "options": [
-      "per tant",
-      "per tal que"
+      "perquè",
+      "per què"
     ],
-    "answer": 1,
-    "explanation": "«per tal que» introdueix l'objectiu de l'acció. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
+    "answer": 0,
+    "explanation": "Aquí «perquè» expressa la finalitat: la formació servirà perquè el personal aprengui a utilitzar el programa. «Per què» s'utilitza per preguntar el motiu, com a «Per què oferiu aquesta formació?».",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
     },
-    "reviewedAt": "2026-10-16",
+    "reviewedAt": "2026-11-04",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
     "exerciseType": "finalitat",
@@ -16920,18 +16920,18 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«Renta't les mans ___ de dinar.»",
+    "prompt": "«Encara no hem començat a dinar: ens rentem les mans ___ de seure a taula.»",
     "options": [
-      "mentre",
-      "abans"
+      "abans",
+      "després"
     ],
-    "answer": 1,
-    "explanation": "«abans» situa les accions en el temps. L'altra opció no encaixa amb l'estructura o la seqüència temporal de la frase.",
+    "answer": 0,
+    "explanation": "«Abans de» indica que ens rentem les mans primer i després seiem a taula.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
     },
-    "reviewedAt": "2026-10-16",
+    "reviewedAt": "2026-11-04",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
     "exerciseType": "temps",
