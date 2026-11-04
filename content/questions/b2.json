@@ -16736,18 +16736,18 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«Jo estudio català i la meva germana ___ n'estudia.»",
+    "prompt": "«La meva germana parla català ___ que sovint la confonen amb una parlant nadiua.»",
     "options": [
-      "malgrat",
-      "també"
+      "també",
+      "tan bé"
     ],
     "answer": 1,
-    "explanation": "«també» afegeix informació. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
+    "explanation": "«Tan bé» indica com parla català i es relaciona amb la conseqüència introduïda per «que». «També» vol dir «igualment» i afegeix informació.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
     },
-    "reviewedAt": "2026-10-16",
+    "reviewedAt": "2026-11-04",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
     "exerciseType": "addició",
