@@ -16667,18 +16667,18 @@
     "level": "B2",
     "topic": "connectors",
     "status": "published",
-    "prompt": "«La Marta vindrà al sopar i en Joan ___ vindrà.»",
+    "prompt": "«La Marta no vindrà al sopar i en Joan ha dit que ___ podrà venir.»",
     "options": [
-      "malgrat",
-      "també"
+      "també",
+      "tampoc"
     ],
     "answer": 1,
-    "explanation": "«també» afegeix informació. L'altra opció no encaixa amb l'estructura o el sentit d'aquesta frase.",
+    "explanation": "Fem servir «tampoc» per afegir una altra negació: ni la Marta ni en Joan vindran al sopar.",
     "source": {
       "url": "https://www.cpnl.cat/gramatica/73/2-lligar-les-idees-connectors-i-marcadors-textuals",
       "locator": "Textual: connectors de causa, conseqüència, contrast, condició i finalitat"
     },
-    "reviewedAt": "2026-10-16",
+    "reviewedAt": "2026-11-04",
     "reviewedBy": "Codex; revisió contextual i validació de coherència",
     "examSkill": "gramàtica en context",
     "exerciseType": "addició",
